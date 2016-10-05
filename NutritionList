@@ -1,0 +1,68 @@
+https://www.onlinelabels.com/label-generator-tools/Nutrition-Label-Generator.aspx
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm385663.htm
+
+
+{
+	"nutrotionList": {
+		"calories": 220,
+
+		"serving_size": {
+			"units": "Full/Count/Custom...",
+			"grams": 55
+		},
+		"fat": [{
+			"total": "8g",
+			"percent": 10
+		}, {
+			"saturated": "5g",
+			"percent": 5
+		}, {
+			"Trans": "0g"
+
+		}, {
+			"Polyunsaturated ": "1g",
+			"percent": 1
+		}, {
+			"Monounsaturated ": "1g",
+			"percent": 1
+		}],
+		"Cholesterol": {
+			"value": "0",
+			"percent": 0
+		},
+		"Sodium": {
+			"value": "160",
+			"percent": 7
+		},
+		"Carbohydrates": [{
+			"total": "37g",
+			"percent": 10
+		}, {
+			"Dietary Fiber": "12g",
+			"percent": 14
+		}, {
+			"Total Sugars": "10g"
+
+		}, {
+			"Added Sugars": "5g",
+			"percent": 20
+		}, {
+			"Sugar Alcohol": "1g",
+			"percent": 2
+		}],
+		"Protien": {
+			"value": "3",
+			"percent": 7
+		},
+		"Vitamins": [{
+			"name": "Vitamin D",
+			"value": "2mcg",
+			"percent": 10
+		}, {
+			"name": "Iron",
+			"value": "8mg",
+			"percent": 45
+		}]
+
+	}
+}
