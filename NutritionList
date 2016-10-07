@@ -1,10 +1,9 @@
 https://www.onlinelabels.com/label-generator-tools/Nutrition-Label-Generator.aspx
 http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm385663.htm
 
-To query use http://www.mobileserf.com/ctg/foodtogo/nutrition.php
+To query nutritio list use http://www.mobileserf.com/ctg/foodtogo/nutrition.php
 
-Below json is an example of nutrition list. 
-
+Output of the json is straight forward, but there are some assumption, please see explanation
 
 if percent value is not present donot show its value (applicable for all json)
 
@@ -18,6 +17,9 @@ Protien    : default unit is gram (g)
 
 Vitamins Array(or Extra nutrition): 
           Display all the contents, if unit is not present consider it as mg
+
+Below json is an example of nutrition list. 
+
 
 {
 	"nutrotionList": {
