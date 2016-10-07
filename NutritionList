@@ -1,6 +1,23 @@
 https://www.onlinelabels.com/label-generator-tools/Nutrition-Label-Generator.aspx
 http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm385663.htm
 
+To query use http://www.mobileserf.com/ctg/foodtogo/nutrition.php
+
+Below json is an example of nutrition list. 
+
+
+if percent value is not present donot show its value (applicable for all json)
+
+Fat array : display only the content if present , otherwise display (for e.g Polyunsaturated is not in json, then don't display)
+            default unit is gram (g), otherwise use the content of units
+Cholesterol: default unit is mg if unit json string is not present
+Sodium     : default unit is mg if unit json string is not present
+Carbohydrates array: display only the content if present (e.g display added sugar only if json is present)
+            default unit is gram (g), otherwise use the content of units
+Protien    : default unit is gram (g)
+
+Vitamins Array(or Extra nutrition): 
+          Display all the contents, if unit is not present consider it as mg
 
 {
 	"nutrotionList": {
@@ -11,56 +28,59 @@ http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformatio
 			"grams": 55
 		},
 		"fat": [{
-			"total": "8g",
-			"percent": 10
+			"value": 8,
+			"percent": 10,
+			"unit": "g"
 		}, {
-			"saturated": "5g",
+			"saturated": 5,
 			"percent": 5
 		}, {
-			"Trans": "0g"
+			"Trans": 0
 
 		}, {
-			"Polyunsaturated ": "1g",
+			"Polyunsaturated ": 1,
 			"percent": 1
 		}, {
-			"Monounsaturated ": "1g",
+			"Monounsaturated ": 1,
 			"percent": 1
 		}],
 		"Cholesterol": {
-			"value": "0",
+			"value": 0,
 			"percent": 0
 		},
 		"Sodium": {
-			"value": "160",
+			"value": 160,
 			"percent": 7
 		},
 		"Carbohydrates": [{
-			"total": "37g",
+			"value": 37,
 			"percent": 10
 		}, {
-			"Dietary Fiber": "12g",
+			"Dietary Fiber": 12,
 			"percent": 14
 		}, {
-			"Total Sugars": "10g"
+			"Total Sugars": 10
 
 		}, {
-			"Added Sugars": "5g",
+			"Added Sugars": 5,
 			"percent": 20
 		}, {
-			"Sugar Alcohol": "1g",
+			"Sugar Alcohol": 1,
 			"percent": 2
 		}],
 		"Protien": {
-			"value": "3",
+			"value": 3,
 			"percent": 7
 		},
 		"Vitamins": [{
 			"name": "Vitamin D",
-			"value": "2mcg",
+			"value": 2,
+			"unit": "mcg",
 			"percent": 10
 		}, {
 			"name": "Iron",
-			"value": "8mg",
+			"value": 8,
+			"unit": "mg",
 			"percent": 45
 		}]
 
