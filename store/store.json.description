@@ -1,0 +1,216 @@
+google analytic, track social likes
+http://www.socialmediaexaminer.com/how-to-track-tweets-facebook-likes-and-more-with-google-analytics/
+
+
+single store structure
+======================
+{
+	"1": {   /* store id" */
+		"name": "Mc Donnald",
+		"address": {
+			"street_address": "11265 Roger Bacon Dr",
+			"city": "Reston",
+			"state": "VA",
+			"zip": "20190",
+			"country": "USA",
+			"lat": 38.951130,
+			"lon": -77.334834
+		},
+		"img": {
+			"actual": "resource/store/mcdonalds.jpg", /* actual image that need to be pulled */
+			"default": "resource/store/mcdonalds.jpg"  /* default if actual is not in memory, it is normally part of binary or pulled earlier */
+		},
+
+		"phone": "7034371826",  /* optional *
+		"website": "www.mcdonalds.com",  /* optional */
+		"serves": ["breakfast", "lunch", "dinner"], /* can contains, all, coffee, breakfast, brunch, lunch, dinner, bar etc */
+		"hours": { /* open hours in 24 hours format and it is float  */
+			"M": { //monday , 
+				"start": 9.00,
+				"end": 22.30
+			},
+			"Tu": {
+				"start": 9,
+				"end": 22
+			},
+			"W": {
+				"start": 9,
+				"end": 22
+			},
+			"Th": {
+				"start": 9,
+				"end": 21
+			},
+			"F": {
+				"start": 9,
+				"end": 17
+			},
+			"Sa": {
+				"start": 9,
+				"end": 24  /* 24 means 12 AM (midnight)
+			},
+			"Su": { //sunday 
+				"start": 0,
+				"end": 0  /* start and end 0 means, it is closed */
+			}
+		},
+		"social": { /* social media to be displayed for this store */
+			"facebook": { 
+				"appid": "201748293206869" /* appid to send message */
+			},
+			"twitter": {} /* TBD */
+		},
+		"extra": {  /* extra details about store */
+			"seats": "24",
+			"wifi": true,
+			"restroom": true,
+			"power_outlet": true,
+			"glutten_free": true,
+                        ["display this", "display this too"]
+		},
+		"rating": { 
+			"value": 3.75, //total rating
+			"count": 500,  //number of starts
+			"review": 10 // total review
+		},
+		"user_specific": {
+			"liked": "yes", /* values are yes, no and none*/
+			"reviewId": 2345, /* review number id, 0 means user not reviewd */
+			"rating": 2 /* user rating, 0 means not reviewed */
+		},
+		"food_details": { /* either food_details or foodlist will be present in a store */
+			"categories": [{  
+				"category": "pizza", /* food list category */
+				"img": {
+					"actual": "resource/food/burger.jpg",
+					"default": "resource/food/burger.jpg"
+				},
+				"foodlist": [{ /* number of foodlist in this category */
+					"id": 1,
+					"img": {
+						"actual": "resource/food/burger.jpg",
+						"default": "resource/food/burger.jpg"
+					},
+					"descrition": "yummy pizza"
+				}, {
+					"id": 2,
+					"img": {
+						"actual": "resource/food/burger.jpg",
+						"default": "resource/food/burger.jpg"
+					},
+					"descrition": "yummy pizza"
+				}]
+			}, {
+				"category": "taco",
+				"img": {
+					"actual": "resource/food/burger.jpg",
+					"default": "resource/food/burger.jpg"
+				},
+				"foodlist": [{
+					"id": 1,
+					"img": {
+						"actual": "resource/food/burger.jpg",
+						"default": "resource/food/burger.jpg"
+					},
+					"descrition": "yummy pizza"
+				}, {
+					"id": 2,
+					"img": {
+						"actual": "resource/food/burger.jpg",
+						"default": "resource/food/burger.jpg"
+					},
+					"descrition": "yummy pizza"
+				}]
+			}, {
+				"category": "burger",
+				"img": {
+					"actual": "resource/food/burger.jpg",
+					"default": "resource/food/burger.jpg"
+				},
+				"foodlist": [{
+					"id": 1,
+					"img": {
+						"actual": "resource/food/burger.jpg",
+						"default": "resource/food/burger.jpg"
+					},
+					"descrition": "yummy pizza"
+				}, {
+					"id": 2,
+					"img": {
+						"actual": "resource/food/burger.jpg",
+						"default": "resource/food/burger.jpg"
+					},
+					"descrition": "yummy pizza"
+				}]
+			}]
+		},
+		"foodlist": [{ /* this will be only present in store if food_details is not present */ 
+			"id": 1,
+			"img": {
+				"actual": "resource/food/burger.jpg",
+				"default": "resource/food/burger.jpg"
+			},
+			"descrition": "yummy pizza"
+		}, {
+			"id": 2,
+			"img": {
+				"actual": "resource/food/burger.jpg",
+				"default": "resource/food/burger.jpg"
+			},
+			"descrition": "yummy pizza"
+		}]
+	}
+
+}
+
+stores list
+===========
+{
+	"stores": { /* store details */
+		"1": {  /* store id */
+
+		},
+		"2": {
+
+		},
+		"3": {
+
+		}
+                "final": "no" /* yes means this is the last list, no means further query is required, send the below trasparent data back in query */ 
+	},
+	"transparent": {  /* return as it is in the query */
+                "id": 33434,
+		"page": 10,
+		"date": 34325455656,
+		"query": {
+			"cusine": "italian",
+			"serves": "all",
+			"time": 18
+		}
+	}
+}
+
+user query - initial
+=========
+{
+                "query": {
+                        "cusine": "italian",
+                        "serves": "all",
+                        "time": 18
+                }
+}
+
+
+subsequent query - if user changes option/ send initial query
+================================================
+//returnt the transparent json fileds from the last result
+        "transparent": {  /* return as it is in the query */
+                "id": 33434,
+                "page": 10,
+                "date": 34325455656,
+                "query": {
+                        "cusine": "italian",
+                        "serves": "all",
+                        "time": 18
+                }
+        }
