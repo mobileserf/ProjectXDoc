@@ -1,0 +1,74 @@
+{
+	"food": {
+		"id": 1,
+		"name": "taco",
+		"img": "resource/food/burger.jpg",
+		"description": "tacos are crisp-fried corn tortillas filled with seasoned ground beef, cheese, lettuce, and sometimes tomato, onion, salsa, sour cream, and avocado or guacamole",
+		"rating": {
+			"value": 3.75,
+			"count": 500,
+			"review": 10
+		},
+		"flavor": {
+			"spicy": 1,
+			"adjustable": true
+		},
+		"diet_type": {
+			"default": "beef"
+		},
+		"unit": {
+			"currency": "dollar",
+			"count": {
+				"price": 1.2,
+				"minimum": 3,
+				"discounts": [{
+					"count": 10,
+					"price": 10
+				}, {
+					"count": 20,
+					"price": 18
+				}]
+			}
+		},
+		"ingredients": [{
+			"name": "beef",
+			"must": true,
+			"id": 1,
+			"quantity": 80,
+			"unit": "g"
+		}, {
+			"name": "tortillas",
+			"must": true,
+			"id": 2,
+			"quantity": 70
+		}, {
+			"name": "guacamole",
+			"must": false,
+			"id": 25,
+			"quantity": 30
+		}, {
+			"name": "cheese",
+			"must": false,
+			"id": 26,
+			"quantity": 10
+		}, {
+			"name": "tomato",
+			"must": false,
+			"id": 28,
+			"quantity": 15
+		}, {
+			"name": "salsa",
+			"must": true,
+			"id": 30,
+			"quantity": 12
+		}, {
+			"name": "onion",
+			"must": false,
+			"id": 52,
+			"quantity": 30,
+			"unit": "g"
+		}],
+		"nutrition_list": {}
+
+	}
+}

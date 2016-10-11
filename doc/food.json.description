@@ -1,0 +1,76 @@
+how to get a food item:
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": "food", "data": {"id": 1}}' http://www.mobileserf.com/ctg/foodtogo/index.php
+
+How to get an  image: curl http://www.php.test.com/img.php?file=resource/food/burger.jpg
+
+food json
+=========
+
+{
+	"food": {
+		"id": 2,
+		"name": "Burger",
+		"img": "resource/food/burger.jpg", /*e.g usage http://www.php.test.com/img.php?file=resource/food/burger.jpg */
+		"description": "Fresh crispy bun , lettuce leaves , pickles , onion and a small patty flavored with mayonnaise and ketchup — this is a classic portrait of a burger , the most common «fast» food in the United States , from which daily poisoning in hospital beds are tens of thousands of Americans",
+		"rating": {  //e.g rating display should be 3.5star (count/review)
+			"value": 3.5, //total rating for this food
+			"count": 151, //total number of rating
+			"review": 20  //totaol review for this food
+		},
+		"flavor": {         // optional field, either spicy, sweet or neutral
+			"spicy": 1, // level is 0-3
+			"sweet": 0, // level is 0-3
+			"adjustable": true // if spicy adjust if true
+		},
+		"diet_type": { // this is diet type, in future we can have alternate diet_types like vegan, fish etc 
+			"default": "chicken"
+		},
+		"unit": { // unit is either of plate, count, custom. custom need to be handled differently
+			"currency": "dollar",
+			"plate": [{
+				"name": "full",
+				"price": 5.99
+			}, {
+				"name": "half",
+				"price": 3.99
+			}],
+                	"count": {
+				"price": 1.2,
+				"minimum": 3,
+				"discounts": [{
+					"count": 10,
+					"price": 10
+				}, {
+					"count": 20,
+					"price": 18
+				}]
+			}
+		},
+		"ingredients": [{  /* list of ingredients, for display purpose use only name and must field, for calorie calculation use rest of the fields
+                                    whenever user click nutrition_list need to be recalculated based on the user option*/
+			"name": "chicken",
+			"must": true,
+			"id": 1,
+			"quantity": 120,
+			"unit": "g"
+		}, {
+			"name": "bun",
+			"must": true,
+			"id": 2,
+			"quantity": 70
+		}, {
+			"name": "onion",
+			"must": false,
+			"id": 52,
+			"quantity": 30,
+			"unit": "g"
+		}],
+		"nutrition_list": {}, /* nutrition list, for now get random nutrition id from 1-3 from nutrition rest api */
+		"user_specific": {  /* optional field */
+			"liked": 1 /* values are 0 - nonce, 1-yes, 2-no */   
+			"reviewed": true /* does this is reviewed by this user*/
+                        "reviewId": 2345, /* review id, ignore "reviewed" field , 0 for no review
+			"rating": 4  /*does any rating on this food by this user, 0 means no rating */
+		}
+	}
+}

@@ -1,0 +1,187 @@
+https://www.onlinelabels.com/label-generator-tools/Nutrition-Label-Generator.aspx
+
+
+Nutrition List
+{
+	"nutrition_list": {
+		"calories": 220,
+
+		"serving_size": {
+			"units": "Full/Count/Custom...",
+			"grams": 55
+		},
+		"fat": [{
+			"total": "8g",
+			"percent": 10
+		}, {
+			"saturated": "5g",
+			"percent": 5
+		}, {
+			"Trans": "0g"
+
+		}, {
+			"Polyunsaturated ": "1g",
+			"percent": 1
+		}, {
+			"Monounsaturated ": "1g",
+			"percent": 1
+		}],
+		"Cholesterol": {
+			"value": "0",
+			"percent": 0
+		},
+		"Sodium": {
+			"value": "160",
+			"percent": 7
+		},
+		"Carbohydrates": [{
+			"total": "37g",
+			"percent": 10
+		}, {
+			"Dietary Fiber": "12g",
+			"percent": 14
+		}, {
+			"Total Sugars": "10g"
+
+		}, {
+			"Added Sugars": "5g",
+			"percent": 20
+		}, {
+			"Sugar Alcohol": "1g",
+			"percent": 2
+		}],
+		"Protien": {
+			"value": "3",
+			"percent": 7
+		},
+		"Vitamins": [{
+			"name": "Vitamin D",
+			"value": "2mcg",
+			"percent": 10
+		}, {
+			"name": "Iron",
+			"value": "8mg",
+			"percent": 45
+		}]
+
+	}
+}
+
+FOOD
+=====
+{
+	"food": {
+		"id": 2,
+		"name": "Burger",
+		"img": "resource/food/burger.jpg",
+		"description": "Fresh crispy bun , lettuce leaves , pickles , onion and a small patty flavored with mayonnaise and ketchup — this is a classic portrait of a burger , the most common «fast» food in the United States , from which daily poisoning in hospital beds are tens of thousands of Americans",
+		"rating": {
+			"value": 3.5,
+			"count": 151,
+			"review": 20
+		},
+		"flavor": {
+			"spicy": 1,
+			"sweet": 0,
+			"adjustable": true
+		}
+
+	}
+}
+
+food:
+{
+  id: food_id
+  name : name
+  spicy level: 1
+  sweet level: 0 /*it is either spicy or sweat, but not together*/
+  description: yemmy food
+  diet_type: vegan
+  rating: 3.5
+  total_rating: 121
+  unit
+  {
+    type: count/plate/custom (like chipotley) /* one at a time, custom will be implemented later */
+    count{
+      min_count:
+      price_per_count:
+      discount:
+
+         [ {count: 5
+            price: 2
+            currency : default is dollar 
+           }, 
+          ]
+  
+    }
+    plate:
+    {
+      [{name: "full"
+      price:   
+      currency : default is dollar 
+      }]
+    }
+    ingredients:
+    [
+      {name: "",
+       must: true  
+       }
+    ]
+  }
+  calories
+  {
+  }
+  
+}
+
+user_specific:
+{
+  liked: true/false/none  # optional 
+  reviewed: yes
+  star: 4
+  
+}
+
+review
+{
+   type: food/store
+   id: //64 bit integer 
+   [{name;
+     star:3
+     comments:""
+    }
+   ]
+}
+
+FOOD :
+
+ Name
+ liked: 
+ spicy_level: 0
+ diet-type: 
+ Description
+ rating:: 3.5 (float)
+ number of starts:
+ unit
+ {
+  type: count/plate/custom (like chipotley)
+  if(count)
+  {
+    min_count:
+    price_per_count
+    discounts{count > x price drops}
+    
+  }
+  if(plate)
+  {
+    full/half
+    price
+  } 
+  ingredients: List<Incredient>
+  {
+    name:
+    prefernce: (Must, may) , over ride by user preference   
+  }
+  
+    
+ }

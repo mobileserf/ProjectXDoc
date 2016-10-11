@@ -1,0 +1,318 @@
+{
+	"stores": {
+		"1": {
+			"name": "Mc Donnald",
+			"address": {
+				"street_address": "11265 Roger Bacon Dr",
+				"city": "Reston",
+				"state": "VA",
+				"zip": "20190",
+				"country": "USA",
+				"lat": 38.951130,
+				"lon": -77.334834
+			},
+			"img": {
+				"default": "resource/store/default-store-image.jpg",
+				"actual": "resource/store/mcdonald/mcdonalds.jpg"
+			},
+
+			"phone": "7034371826",
+			"website": "www.mcdonalds.com",
+			"serves": ["breakfast", "lunch", "dinner"],
+			"hours": {
+				"M": {
+					"start": 9.00,
+					"end": 22.30
+				},
+				"Tu": {
+					"start": 9,
+					"end": 22
+				},
+				"W": {
+					"start": 9,
+					"end": 22
+				},
+				"Th": {
+					"start": 9,
+					"end": 21
+				},
+				"F": {
+					"start": 9,
+					"end": 17
+				},
+				"Sa": {
+					"start": 9,
+					"end": 24
+				},
+				"Su": {
+					"start": 0,
+					"end": 0
+				}
+			},
+			"social": {
+				"facebook": {
+					"appid": "201748293206869"
+				},
+				"twitter": {}
+			},
+			"extra": {
+				"seats": "24",
+				"wifi": true,
+				"restroom": true,
+				"power_outlet": true,
+				"glutten_free": true,
+				"others": ["breakfast", "lunch", "dinner"]
+			},
+			"rating": {
+				"value": 3.75,
+				"count": 500,
+				"review": 10
+			},
+			"user_specific": {
+				"liked": "yes",
+				"reviewId": 2345,
+				"rating": 2
+			},
+			"food_details": {
+				"categories": [{
+					"category": "burger",
+					"img": {
+						"default": "resource/food/default-food-image.jpg",
+						"actual": "resource/store/mcdonald/1.png"
+					},
+					"foodlist": [{
+						"id": 1,
+						"img": {
+							"default": "resource/food/default-food-image.jpg",
+							"actual": "resource/store/mcdonald/1.png"
+						},
+						"descrition": "yummy pizza"
+					}, {
+						"id": 2,
+						"img": {
+							"default": "resource/food/default-food-image.jpg",
+							"actual": "resource/store/mcdonald/2.png"
+						},
+						"descrition": "yummy pizza"
+					}]
+				}, {
+					"category": "chicken",
+					"img": {
+						"default": "resource/food/default-food-image.jpg",
+						"actual": "resource/store/kfc/1.png"
+					},
+					"foodlist": [{
+						"id": 200,
+						"img": {
+							"default": "resource/food/default-food-image.jpg",
+							"actual": "resource/store/eiffeltowerrestaurant/200.jpg"
+						},
+						"descrition": "yummy chicken"
+					}, {
+						"id": 201,
+						"img": {
+							"default": "resource/food/default-food-image.jpg",
+							"actual": "resource/store/eiffeltowerrestaurant/201.jpg"
+						},
+						"descrition": "yummy chicken"
+					}]
+				}, {
+					"category": "fish",
+					"img": {
+						"default": "resource/food/default-food-image.jpg",
+						"actual": "resource/store/eiffeltowerrestaurant/205.jpg"
+					},
+					"foodlist": [{
+						"id": 202,
+						"img": {
+							"default": "resource/food/default-food-image.jpg",
+							"actual": "resource/store/eiffeltowerrestaurant/202.jpg"
+						},
+						"descrition": "yummy pizza"
+					}, {
+						"id": 203,
+						"img": {
+							"default": "resource/food/default-food-image.jpg",
+							"actual": "resource/store/eiffeltowerrestaurant/203.jpg"
+						},
+						"descrition": "yummy pizza"
+					}]
+				}]
+			}
+		},
+		"2": {
+			"name": "Eiffel Tower Restaurant",
+			"address": {
+				"street_address": "22300 S Sterling Blvd",
+				"city": "Sterling",
+				"state": "VA",
+				"zip": "20164",
+				"country": "USA",
+				"lat": 38.998976,
+				"lon": -77.407038
+			},
+			"img": {
+				"default": "resource/store/default-store-image.jpg",
+				"actual": "resource/store/eiffeltowerrestaurant/eiffeltowerrestaurant.jpg"
+			},
+
+			"phone": "7034213640",
+			"website": "www.kfc.com",
+			"serves": ["breakfast", "lunch", "dinner"],
+			"hours": {
+				"M": {
+					"start": 10.00,
+					"end": 23.30
+				},
+				"Tu": {
+					"start": 10.00,
+					"end": 23.30
+				},
+				"W": {
+					"start": 10.00,
+					"end": 23.30
+				},
+				"Th": {
+					"start": 10.00,
+					"end": 23.30
+				},
+				"F": {
+					"start": 10.00,
+					"end": 23.30
+				},
+				"Sa": {
+					"start": 10.00,
+					"end": 23.30
+				},
+				"Su": {
+					"start": 10.00,
+					"end": 23.30
+				}
+			},
+			"social": {
+				"facebook": {
+					"appid": "201748293406869"
+				},
+				"twitter": {}
+			},
+			"extra": {
+				"seats": "32",
+				"wifi": true,
+				"restroom": true,
+				"glutten_free": true,
+				"others": ["brunch", "lunch", "dinner"]
+			},
+			"rating": {
+				"value": 3.75,
+				"count": 400,
+				"review": 40
+			},
+			"user_specific": {
+				"liked": "none",
+				"reviewId": 2348,
+				"rating": 3
+			},
+			"foodlist": [{
+				"id": 200,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/200.jpg"
+				},
+				"descrition": "yummy pizza 1"
+			}, {
+				"id": 201,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/201.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 202,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/202.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 203,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/203.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 204,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/204.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 205,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/205.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 206,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/206.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 207,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/207.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 208,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/208.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 209,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/209.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 210,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/210.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 211,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/211.jpg"
+				},
+				"descrition": "yummy pizza"
+			}, {
+				"id": 212,
+				"img": {
+					"default": "resource/food/default-food-image.jpg",
+					"actual": "resource/store/eiffeltowerrestaurant/212.jpg"
+				},
+				"descrition": "yummy pizza 2"
+			}]
+		}
+	},
+	"final": "yes",
+	"transparent": {
+		"id": 33434,
+		"page": 10,
+		"location": {
+			"lat": 38.851130,
+			"lon": -77.344834
+		}
+	}
+}

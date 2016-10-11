@@ -1,0 +1,51 @@
+{
+	"food": {
+		"id": 2,
+		"name": "Burger",
+		"img": "resource/food/burger.jpg",
+		"description": "Fresh crispy bun , lettuce leaves , pickles , onion and a small patty flavored with mayonnaise and ketchup — this is a classic portrait of a burger , the most common «fast» food in the United States , from which daily poisoning in hospital beds are tens of thousands of Americans",
+		"rating": {
+			"value": 3.5,
+			"count": 151,
+			"review": 20
+		},
+		"flavor": {
+			"spicy": 1,
+			"sweet": 0,
+			"adjustable": true
+		},
+		"diet_type": {
+			"default": "chicken"
+		},
+		"unit": {
+			"currency": "dollar",
+			"plate": [{
+				"name": "full",
+				"price": 5.99
+			}, {
+				"name": "half",
+				"price": 3.99
+			}]
+		},
+		"ingredients": [{
+			"name": "chicken",
+			"must": true,
+			"id": 1,
+			"quantity": 120,
+			"unit": "g"
+		}, {
+			"name": "bun",
+			"must": true,
+			"id": 2,
+			"quantity": 70
+		}, {
+			"name": "onion",
+			"must": false,
+			"id": 52,
+			"quantity": 30,
+			"unit": "g"
+		}],
+		"nutrition_list": {}
+
+	}
+}
