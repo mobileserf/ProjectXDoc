@@ -1,0 +1,176 @@
+Get reviews for store or food
+=============================
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "reviews","id": 6},
+           "data": {  "request_id": 12345,  /* repeats this value in same request, same request is identified by type & item_id */
+           "get": {
+                        "userId": 12345,
+                        "last_date": 34325455656, /* last time a message send */
+                        "location": { /* last location */
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        },
+                        "type": "food",
+                        "item_id": 203,
+                        "transparent": /* copy from answer, optional for first request, request is identified based on type & item_id */
+                        {
+                           "next_id": 0, /* next_id from last answer, 0 if first time query, donot query if answer contains final=yes, else query when user reaches end of list"  
+                           "first_id": 0 /* first id for this review */
+                        }
+                        "max_count": 10 /* response per query, default is 10 */
+
+                }
+} }' http://www.mobileserf.com/ctg/foodtogo/get.php
+
+i.e
+===
+{
+	"cmd": {
+		"name": "reviews",
+		"id": 6
+	},
+	"data": {
+		"request_id": 12345,
+		"get": {
+			"userId": 12345,
+			"last_date": 34325455656,
+			"location": {
+				"lat": 38.851140,
+				"lon": -77.344814
+			},
+			"type": "food",
+			"item_id": 203,
+		        "transparent": {
+			    "first_id": 0,
+			    "next_id": 5
+		        },
+			"max_count": 10
+
+		}
+	}
+} 
+ 
+
+//answer is like below, unless it is specified every firld in below answer is must */
+{
+        "request_id": 12345,
+	"reviews": {
+		"type": "food",
+		"item_id": 203,
+		"final": "yes", /* optional, default is yes */
+		"transparent": { /* must and copy in next request for same item_id and type*/ 
+			"first_id": 0,
+			"next_id": 5
+		},
+		"rating": { /* optional and only present in the first request */
+			"count": 400, 
+			"value": 3.5,
+			"history": [{ //optional , this is for graph */
+				"date": 1476213752,
+				"start": [3, 0, 5, 4, 3]
+			}, {
+				"date": 1476223752,
+				"start": [1, 0, 2, 4, 1]
+			}]
+		},
+		"review": [{ /* optional field */
+			"id": 1,
+			"rating": 4,
+			"subject": "yummy food", //optional
+			"description": "long description about this review", /* optional */
+			"date": 12345565,
+			"usefull": { //optional
+				"yes": 10,
+				"no": 1
+			},
+			"parent_review_id": 0 //optional, this points to the parent of the review, i.e this review need to come under parent review */
+		}, {
+			"id": 2,
+			"subject": "I agree",
+			"description": "will come back again, this is a long description about this review",
+			"date": 12345567,
+			"parent_review_id": 1
+		}, {
+			"id": 3,
+			"rating": 1,
+			"subject": "bad ",
+			"description": "I hate this food, it is too spicy and over cooked. long description about this review",
+			"date": 12345555,
+			"usefull": {
+				"no": 1
+			},
+			"parent_review_id": 0
+		}]
+
+	}
+}
+================================================================================================
+Write a review- This is used for writing a review or writing a review about a review
+
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "review","id": 4},
+           "data": {  "request_id": 12345,  /* to identify response */
+               "post": 
+                {
+			"userId": 12345,
+			"last_date": 34325455656, /* last time a message send */
+			"location": { /* current location */
+				"lat": 38.851140,
+				"lon": -77.344814
+			},
+                        "type": "food",
+                        "item_id": 203,
+			"rating": 5, /* star level */
+                        "subject": "Very good food",
+			"comment": "Hello. Please give our thanks to the Manager(s) and others for the wonderful room and bottle of sparkling wine for our Anniversary stay."
+                        "parent_review_id": 123 /* optional,  only present if it is a review about previous review */
+
+		}
+} }' http://www.mobileserf.com/ctg/foodtogo/post.php
+
+answer => 
+
+{
+        "request_id": 12345,
+	"review": {
+            "result": "success", //values are success or failure 
+            "id": 23443, /* only if success */
+            "reason": "Server Error", //only if an error
+            "retry": false  //only f error
+        }
+}
+
+================================================================================================
+like a review/food/store - 
+
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "like","id": 5},
+           "data": {  "request_id": 12345,  /* to identify response */
+               "post": 
+                {
+			"userId": 12345,
+			"last_date": 34325455656, /* last time a message send */
+			"location": { /* location*/
+				"lat": 38.851140,
+				"lon": -77.344814
+			},
+                        "type": "food", /* values can be food, store */
+                        "item_id": 203, /* type id */ 
+                        
+                        "sub_type": { /optional, surrent sub_type is review , i.e if user like a review then sub_type is review, but if user like food, then no subtype
+                           "name": "review". ?* subtyps , currently we have only subtypes */
+                           "id": 54321 
+                        },
+			"like": yes /* this is either yes or no */
+
+		}
+} }' http://www.mobileserf.com/ctg/foodtogo/post.php
+
+answer => 
+
+{
+        "request_id": 12345,
+	"like": {
+            "result": "success", //values are success or failure 
+            "id": 23443, /* only if success */
+            "reason": "Server Error", //only if an error
+            "retry": false  //only f error
+        }
+}

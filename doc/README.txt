@@ -94,7 +94,7 @@ write a review about a review
 
 like/useful a review
 ==============
-curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "review_useful","id": 5}, "data": {  "post": 
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "review_like","id": 5}, "data": {  "post": 
                 {
 			"userId": 12345,
 			"last_date": 34325455656, /* last time a message send */
