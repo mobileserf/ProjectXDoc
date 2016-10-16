@@ -1,0 +1,18 @@
+LOYALTY
+=======
+//add loyalty point for the food or price
+//display loyalty food items 
+ loyalty point disclaimer
+ loyalty for food - buy 5 next on us  
+
+Add STORE Disclaimer 
+==================
+[{heading, description } ], contactus
+Table booking
+
+
+checkout
+=======
+add deal/coupon/gift card
+
+//add barcode generator to app (zXing) if size is small

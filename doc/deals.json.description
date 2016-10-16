@@ -1,0 +1,316 @@
+sample deal/coupon image - http://www.mobileserf.com/ctg/foodtogo/resource/deals/sample.jpg
+
+Coupon view contains following tabs, only display if the result of below query contains those values
+  coupons loyalty deals
+
+//Get deal/coupons/loyalty program using
+====================================
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "deals","id": 1},
+           "data": {  "request_id": 12345,  /* repeats this value in same request, same request is identified by type & item_id */
+           "get": {
+                        "test": false, / This field is set when test mode is enabled */
+                        "userId": 12345,
+                        "last_date": 34325455656, /* last time a message send */
+                        "location": { /* last location */
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        },
+                        "type": "store", /* this will always store */
+                        "item_id": 203
+
+                }
+} }' http://www.mobileserf.com/ctg/foodtogo/get.php
+
+JSON OUTPUT
+==========
+
+//delas output
+
+{
+  "request_id": 12345, /* display only if request match with response id */
+  "deals": {
+    "test": false, / This field is set when test mode is enabled */
+    "userId": 12345,
+    "last_date": "12345667", /* date returned by server */
+    "location": {   /* ignore it */
+      "lat": 38.85114,
+      "lon": -77.344814
+    },
+    "store_id": 23,
+    "deal": [       /* optional array of deals */
+      {
+        "id": 1,
+	"food_id": 200  /* optional, must if it is food specific, point to food id */
+        "description": "half of...", /* MUST */
+        "restrictions": "you can only apply this once", /* MUST */ 
+        "img": "resource/food/burger.jpg", //optional
+        "start": 12345, /* optional start date, must if in future */
+        "end": 42345,   /* optional, must if an end date */
+        "is_popular": true, /* optional, only for deals 
+        "use_with_other_deal": false, /* optional default is false, if it is true and other is false either one can apply , if both true then apply. include coupon also part of it*/
+        "quantity": 2,   /* optional,  display "LIMIT 2 per user", 0 means unlimited. > 0 means remaining in user_specific->deal must be present if user used this deal* /
+        "bar_code": {  /* optional */
+         	"img": "resource/barcode/barcode.gif" /* optional */
+       	}, 
+        "condition": {
+          "id": 1, /* id to identify condition, please see CONDITIONS session in thi doc
+          "amount": {
+            "min": 0,
+            "off": 0
+          }
+        }
+      },
+      {
+        "id": 1,
+        "description": "30 % off...",
+        "restrictions": "you can only apply this once",
+	"points": 0, / * optinal , no points if used this coupon */
+        "img": "resource/food/burger.jpg",
+        "start": 12345,
+        "end": 42345,
+        "condition": {
+          "id": 2,
+          "percent": {
+            "min_amount": 0,
+            "max_amount": 200,
+            "off": 0
+          }
+        }
+      }
+    ],
+    "user_specific": {
+      "deal": [ /* optional , deal if this deal is displayed in above deal array 
+        {
+          "id": 1,   /* if this id is not present in this array and quantity is present ( > 0), then user is not used this deal at all */ 
+          "remaining": 1 
+        }
+      ],
+      "coupons": [ /* optional, coupons send to this user , it is not available for all */
+        {
+          "id": 1,
+          "description": "Buy 1 next 50% off",
+          "restrictions": "you can only apply this once",
+          "img": "resource/food/burger.jpg", /* optional */
+          "end": 42345,  /* optional */
+	  "points": 0, / * optinal , no points if used this coupon */	
+          "use_with_other_deal": false /* optional default is false, only can apply if all other deal/coups selected has yes to this field */
+          "quantity": 2,   /* optional,  display "LIMIT 2 per user", 0 means unlimited. > 0 means remaining must be present  if user ever used this deal* /
+          "remaining": 1, /* optional, means full quanity is available
+          "bar_code": {  /* optional */
+          	"img": "resource/barcode/barcode.gif" /* optional */
+          },
+          "condition": {
+            "id": 3,
+            "off": {
+              "quantity": "1",
+              "next": {
+                "quantity": "1",
+                "percent": "50"
+              }
+            }
+          }
+        }
+      ],
+      "loyalty": [
+        {
+          "id": 1,
+          "current_points": 750,
+          "use_with_other_deal": false
+        },
+        {
+          /* all fields are same as deals */
+          "id": 1, 
+          "food_id": 201,
+          "description": "Buy 5, next one is on us",
+          "restrictions": "you can only apply this once",
+          "img": "resource/food/bu rger.jpg",
+          "end": 42345,
+          "points": 0,
+          "use_with_other_deal": false,
+          "quantity": 6,
+          "remaining": 1,
+          "condition": {
+            "id": 5,
+            "remaining": {
+              "value": 1,
+              "percent_off": "100"
+            }
+          },
+          "bar_code": {
+            "img": "resource/barcode/barcode.gif"
+          }
+        }
+       ]
+    }
+  }
+}
+
+NOTE: if deal/coupon or loyalty doesn't contain image use food image if food-id present, else use store image
+
+Sample Generator = Generate json using http://www.objgen.com/json?demo=true 
+===============
+
+request_id number = 12345
+deals
+  test bool = false
+  userId number = 12345
+  last_date = 12345667
+  location
+    lat number = 38.851140
+    lon number = -77.344814
+  store_id number = 23
+  deal [0]   
+    id number = 1
+    food_id number = 200
+    description = $10 OFF $30 or more purchase ...
+    restrictions = you can only apply this once
+    img  = resource/food/burger.jpg
+    start number = 12345
+    end number = 42345
+    is_popular b = true
+    use_with_other_deal b = false
+    quantity number = 2
+    bar_code
+      img=resource/barcode/barcode.gif
+    condition
+      id number = 1
+      amount
+        min number 30
+        off number 10
+  deal [1]   
+    id number = 1
+    description = 30 % off...
+    restrictions = you can only apply this once
+    img  = resource/food/burger.jpg
+    start number = 12345
+    end number = 42345
+    condition
+      id number = 2
+      percent
+        min_amount number = 0
+        max_amount number = 200
+        off number 30
+  user_specific 
+    deal [0]
+      id number = 1
+      remaining number = 1
+    coupons [0]   
+      id number = 1
+      description = Buy 1 next 50% off
+      restrictions = you can only apply this once
+      img  = resource/food/burger.jpg
+      end number = 42345
+      points  number = 0
+      use_with_other_deal b = false
+      quantity number = 3
+      remaining number = 1
+      bar_code
+        img=resource/barcode/barcode.gif
+      condition
+        id number = 3
+        off
+          quantity = 1
+          next 
+            quantity = 1
+             percent = 50
+    loyalty[0]
+      id number = 1
+      current_points number = 750
+      use_with_other_deal b = false
+    loyalty[1]
+      id number = 3
+      food_id number = 201
+      description = Buy 5, next one is on us 
+      restrictions = you can only apply this once
+      img  = resource/food/bu rger.jpg
+      end number = 42345
+      points  number = 0
+      use_with_other_deal b = false
+      quantity number = 6
+      remaining number = 1
+      condition
+        id number = 5
+        remaining
+           value number = 1
+           percent_off = 100 
+            
+      bar_code
+        img=resource/barcode/barcode.gif
+
+//CONDITIONS = Conditions
+==========================
+
+1) condition = $10 OFF $30 or more purchase
+      id number = 1
+      amount
+        min number 30
+        off number 10
+    
+2) condition = 30 % OFF entire item. maximum purchase amount $200 . minimum $0 (donot display those fileds that is optional below and is not present)
+      id number = 2
+      percent
+        min_amount number = 0     /* optional */
+        max_amount number = 200   /* optional */
+        off number 30
+
+3)  condition = Buy 5, 50% OFF for next 2. minimum purchase should be 100 
+        id number = 3
+        off
+          quantity = 5.
+          min_amount = 100 /* optional */
+          next 
+            quantity = 2
+              percent = 50
+
+4)  condition = Buy 2, $10 OFF for next 2. minimum purchase should be 100 
+        id number = 4
+        off
+          quantity = 3
+          min_amount = 100 /* optional */
+          next 
+            quantity = 2
+              amount  = 10
+
+//Below conditions are mainly used in loyalty 
+
+5)  condition
+        id number = 5
+        remaining
+           value number = 1 /* if this value <= the value of coupon/loyality remaining field, then apply the percent */
+           percent_off = 100  /* precent off
+
+    e.g for 5 ,  
+          if(remaining = 1 && condition.remaining.value == 1)  && percent = 100, then display FREE
+          if(remaining = 1 && condition.remaining.value == 1)  && percent = 50, then display 50% OFF
+          if(remaining = 4 && condition.remaining.value == 1)  && percent = 100 then display 4th one is on us, 3 to go
+          if(remaining = 4 && condition.remaining.value == 1)  && percent = 50 then display 4th one is 50% OFF, 3 to go
+        
+
+6)  condition
+        id number = 6
+        remaining
+           value number = 1 /* if this value <= the value of coupon/loyality remaining field, then apply the percent */
+           amount_off = 2  /* amount off
+
+    e.g for 5 ,  
+          if(remaining = 1 && condition.remaining.value == 1)  && amount = 2, then display $2 OFF your next purchase
+          if(remaining = 4 && condition.remaining.value == 1)  && amount = 2, then display $2 OFF your 4th purchase, 3 to go. 
+
+
+Local Test
+==========
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "deals","id": 1},
+           "data": {  "request_id": 12345,  
+           "get": {
+                        "test": false,
+                        "userId": 12345,
+                        "last_date": 34325455656,
+                        "location": {
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        },
+                        "type": "store",
+                        "item_id": 203
+
+                }
+} }' http://www.php.test.com/get.php
