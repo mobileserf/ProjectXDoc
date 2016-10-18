@@ -1,0 +1,288 @@
+//Get deal/coupons/loyalty program using
+====================================
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "giftcards","id": 50},
+           "data": {  "request_id": 12345,  /* repeats this value in same request, same request is identified by type & item_id */
+           "get": {
+                        "test": false, / This field is set when test mode is enabled */
+                        "userId": 12345,
+                        "last_date": 34325455656, /* last time a message send */
+                        "location": { /* last location */
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        },
+                        "type": "store", /* this will always store */
+                        "item_id": 2 /* store Id */
+
+                }
+} }' http://www.mobileserf.com/ctg/foodtogo/get.php
+
+
+JSON OUTPUT
+==========
+
+//gift card query result
+
+{
+  "request_id": 12345, /* display only if request match with response id */
+  "giftcards": {
+    "test": false, / This field is set when test mode is enabled */
+    "userId": 12345,
+    "last_date": "12345667", /* date returned by server */
+    "location": {   /* ignore it */
+      "lat": 38.85114,
+      "lon": -77.344814
+    },
+  "giftcard": {
+    "existing": [
+      {
+        "id": 1,
+        "type": "app",
+        "type_id": 1,
+        "template_id": 1,
+        "img": "resource/giftcard/togo.jpeg",
+        "logo": "resource/giftcard/visa_logo_t.gif",
+        "expires": 1476841447,
+        "name": "Omar Mohamaed",
+        "value": 50,
+        "remainig": 10.99,
+        "card_id": 1111222233334444,
+        "sender": {
+          "type": "app",
+          "type_id": 1,
+          "name": "foodtogo"
+        }
+      },
+      {
+        "id": 1,
+        "type": "store",
+        "type_id": 1,
+        "template_id": 1,
+        "img": "resource/giftcard/togo.jpeg",
+        "logo": "resource/giftcard/visa_logo_w.png",
+        "expires": 1476841447,
+        "name": "Omar Mohamaed",
+        "value": 50,
+        "remainig": 0.99,
+        "sender": {
+          "type": "store",
+          "type_id": 1,
+          "name": "mc donald"
+        }
+      },
+      {
+        "id": 1,
+        "type": "store",
+        "type_id": 1,
+        "template_id": 2,
+        "img": "resource/giftcard/chillies.png",
+        "value": 150,
+        "remainig": 101,
+        "sender": {
+          "type": "user",
+          "type_id": 1,
+          "name": "sitara"
+        }
+      }
+    ],
+    "send": [
+      {
+        "id": 1,
+        "type": "app",
+        "type_id": 1,
+        "template_id": 1,
+        "img": "resource/giftcard/togo.jpeg",
+        "logo": "resource/giftcard/visa_logo_t.gif",
+        "expires": 1476841447,
+        "name": "Omar Mohamaed",
+        "value": 50,
+        "card_id": 1111222233334444,
+        "receiver": {
+          "type": "user",
+          "type_id": 1,
+          "name": "sitara"
+        }
+      }
+    ],
+    "create": [
+      {
+        "type": "app",
+        "type_id": 0,
+        "template": [
+          "1",
+          "2"
+        ],
+        "img": {
+          "src": "resource/giftcard/togo.jpeg",
+          "replace": "true"
+        },
+        "logo": {
+          "src": "resource/giftcard/visa_logo_t.gif",
+          "replace": "true"
+        },
+        "max_value": 200,
+        "min_value": 10,
+        "valid_until": 200
+      },
+      {
+        "type": "store",
+        "type_id": 1,
+        "template": [
+          "1",
+          "2"
+        ],
+        "img": {
+          "src": "resource/giftcard/togo.jpeg",
+          "replace": "true"
+        },
+        "logo": {
+          "src": "resource/giftcard/visa_logo_t.gif",
+          "replace": "false"
+        },
+        "max_value": 200,
+        "min_value": 10
+      }
+    ]
+   } 
+  }
+}
+
+Json Editor - http://www.objgen.com/json
+
+giftcard 
+  existing [0]
+    id number = 1 
+    type = app
+    type_id number = 1
+    template_id number = 1
+    img = resource/giftcard/togo.jpeg
+    logo = resource/giftcard/visa_logo_t.gif
+    expires number = 1476841447
+    name = Omar Mohamaed
+    value number = 50
+    remainig number = 10.99
+    card_id number = 1111222233334444
+    sender
+      type = app
+      type_id number = 1
+      name = foodtogo  
+
+  existing [1]
+    id number = 1 
+    type = store
+    type_id number = 1
+    template_id number = 1
+    img = resource/giftcard/togo.jpeg
+    logo = resource/giftcard/visa_logo_w.png
+    expires number = 1476841447
+    name = Omar Mohamaed
+    value number = 50
+    remainig number = 0.99    
+    sender
+      type = store
+      type_id number = 1
+      name = mc donald
+
+  existing [2]
+    id number = 1 
+    type = store
+    type_id number = 1
+    template_id number = 2
+    img = resource/giftcard/chillies.png
+    value number = 150
+    remainig number = 101
+    sender
+      type = user
+      type_id number = 1
+      name = sitara
+
+  send [0]
+    id number = 1 
+    type = app
+    type_id number = 1
+    template_id number = 1
+    img = resource/giftcard/togo.jpeg
+    logo = resource/giftcard/visa_logo_t.gif
+    expires number = 1476841447
+    name = Omar Mohamaed
+    value number = 50
+    card_id number = 1111222233334444
+    receiver
+      type = user
+      type_id number = 1
+      name = sitara
+
+  create [0]
+    type = app
+    type_id number = 0
+    template [] s = 1, 2
+    img
+       src = resource/giftcard/togo.jpeg
+       replace = true 
+    logo 
+      src = resource/giftcard/visa_logo_t.gif
+      replace = true
+    max_value number = 200
+    min_value number = 10
+    valid_until number = 200
+ 
+
+  create [1]
+    type = store
+    type_id number = 1
+    template [] s = 1, 2
+    img
+       src = resource/giftcard/togo.jpeg
+       replace = true 
+    logo 
+      src = resource/giftcard/visa_logo_t.gif
+      replace = false
+    max_value number = 200
+    min_value number = 10
+ 
+
+curl -v -F data='{"cmd": {"name": "giftcards_create","id": 50},
+           "data": {  "request_id": 12345,  /* repeats this value in same request, same request is identified by type & item_id */
+           "upload": {
+                        "test": false, / This field is set when test mode is enabled */
+                        "userId": 12345,
+                        "last_date": 34325455656, /* last time a message send */
+                        "location": { /* last location */
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        },
+  			"gift": {
+			    "type": "app",
+			    "type_id": 1,
+			    "template_id": 1,
+			    "default_img": false,
+			    "default_logo": "true",
+			    "name": "Omar Mohamaed",
+			    "value": 50,
+			    "sender": {
+			      "type": "user",
+			      "type_id": 1,
+			      "name": "sitara"
+			    }
+  			}
+
+                }
+
+} }'  -F image=@fish.png  -F logo=@taco.jpg  http://www.mobileserf.com/ctg/foodtogo/upload.php
+//} }'  -F image=@fish.png -F logo=@taco.jpg http://www.php.test.com/upload.php
+
+
+
+json generator
+====
+gift
+  type = app
+  type_id number = 1
+  template_id number = 1
+  default_img bool = false
+  default_logo = true
+  name = Omar Mohamaed
+  value number = 50
+  sender
+    type = user
+    type_id number = 1
+    name = sitara

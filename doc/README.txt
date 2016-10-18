@@ -128,3 +128,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "reviews",
 ====
 curl http://www.php.test.com/img.php?file=resource/food/burger.jpg
 img.php?file=resource/food/burger.jpg
+
+PHP POST
+========
+curl -v -F key1='{"dir": "food", "from": "nutrition_list", "to": "nutrition_list"}' -F image=@fish.png http://www.php.test.com/upload.php
