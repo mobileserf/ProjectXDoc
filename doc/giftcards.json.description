@@ -167,7 +167,7 @@ giftcard
       name = foodtogo  
 
   existing [1]
-    id number = 1 
+    id number = 2 
     type = store
     type_id number = 1
     template_id number = 1
@@ -183,7 +183,7 @@ giftcard
       name = mc donald
 
   existing [2]
-    id number = 1 
+    id number = 3 
     type = store
     type_id number = 1
     template_id number = 2

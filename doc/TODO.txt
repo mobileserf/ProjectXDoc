@@ -13,6 +13,4 @@ Table booking
 
 checkout
 =======
-add deal/coupon/gift card
-
-//add barcode generator to app (zXing) if size is small
+--failed state need to be implemented

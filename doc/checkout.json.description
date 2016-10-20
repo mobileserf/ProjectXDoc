@@ -1,0 +1,166 @@
+checkout - Send the food information to store.
+====================================
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "checkout","id": 15},
+           "data": {  "request_id": 12345,  /* repeats this value in same request, same request is identified by type & item_id */
+           "get": {
+			"test": false,
+			"userId": 12345,
+			"last_date": 34325455656,
+			"location": {
+				"lat": 38.851140,
+				"lon": -77.344814
+			},
+			"checkout": {
+				"payment_id": 1, /* if you have more than one payment in the system, if no payament add payment. acessing to payement should be secured */
+				"total_price": 25.4, /*total price calculated  after applying deals and exclude gift cards- this may reject by server */
+				"applied_coupons": { //all the coupon id's applied */
+					"deal_id": [1],  //optional
+					"coupon_id": [0], //optional
+					"loyalty_id": [4] //optional
+				},
+				"gift_cards": [{ /* optional */
+					"id": 1,  //gift card id
+					"amount": 10 //gift card amount
+				}],
+				"service_type": "delivery", //optinas are delivery, pickup and dinein
+				"service_details": { //optional. must for delivery  
+					"address": {  //optional. must for delivery 
+						"street": "11265 Roger Bacon Dr",
+						"city": "Reston",
+						"state": "VA",
+						"pin": "20190"
+					},
+                                        "time": 34325455656, /*optional. must for delivery or pickup */
+				},
+				"phone_no": "4443331234", //optional . must for delivery/pickup
+				"email": "test@foodtogo.com", //optional
+				"notes": "No penut", //optional.  note for this service
+				"store": [{ /* can order from multiple stores, so it is array */
+					"id": 1, //store id
+					"foods": [{ //food details
+						"id": 1,  //food id
+						"flavor": { //optional, only populate if user changes his flavour details from food
+							"spicy": 1
+						},
+						"unit": { //unit from food
+							"plate": [{
+								"name": "full",
+								"quantity": "1" //number of quantity 
+							}, {
+								"name": "half",
+								"quantity": "2"
+							}]
+						},
+						"ingredients": { //incredients id
+							"add": [1, 2, 3], /*optional.  add this incredients*/
+							"del": [4] /* optional - must present if any item in the incredients is unchecked, including allergy & toavoid */
+						},
+						"notes": "No penut" //not to this food
+					}]
+				}, {
+					"id": "2", //another store
+					"foods": [{
+						"id": 201,
+						"unit": {
+							"count": 12
+						},
+						"ingredients": {
+							"del": [4]
+						},
+						"notes": "gluten free"
+					}, {
+						"id": 201, //same as above food , but count is changed and incredients are changed
+						"unit": {
+							"count": 10
+						},
+						"ingredients": {
+							"add": [1, 2]
+						}
+					}]
+				}]
+			}
+		}
+} }' http://www.mobileserf.com/ctg/foodtogo/get.php
+
+JSON OUTPUT
+==========
+
+//delas output
+
+{
+	"request_id": 12345,
+	"checkout": {
+		"test": false,
+		"userId": 12345,
+		"last_date": 34325455656,
+		"location": {
+			"lat": 38.85114,
+			"lon": -77.344814
+		},
+		"status": "success", //success or failed - will implement failed later
+		"details": {
+		  "message" "payment went successful"
+		 }
+	}
+}
+
+
+
+Sample Generator = Generate json using http://www.objgen.com/json?demo=true 
+===============
+checkout
+  payment_id number = 1
+  total_price number = 25.40
+  applied_coupons 
+    deal_id [] n = 1 
+    coupon_id [] n = 0
+    loyalty_id [] n = 4
+  gift_cards[0]
+    id number = 1
+    amount number = 10.0	
+  service_type = delivery
+  service_details 
+    address
+      street = 11265 Roger Bacon Dr
+      city = Reston 
+      state = VA
+      pin = 20190
+  phone_no = 4443331234
+  email = test@foodtogo.com
+
+  notes =  No penut
+
+  store [0] 
+    id number = 1
+    foods [0]
+      id number  = 1
+      flavor
+        spicy number = 1
+      unit
+        plate [0]
+          name = full
+          quantity = 1
+        plate [1]
+          name = half
+          quantity = 2
+      ingredients
+        add [] n = 1,2,3
+        del [] n = 4
+      notes = No penut
+
+  store [1] 
+    id = 2
+    foods [0]
+      id number  = 201
+      unit
+        count number = 12
+      ingredients
+        del [] n = 4
+      notes =  gluten free
+    foods [1]
+      id number  = 201
+      unit
+        count number = 10
+      ingredients
+        add [] n = 1,2
+
