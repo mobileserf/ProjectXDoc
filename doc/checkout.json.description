@@ -30,7 +30,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "checkout"
 						"state": "VA",
 						"pin": "20190"
 					},
-                                        "time": 34325455656, /*optional. must for delivery or pickup */
+                                        "time": 34325455656 /*optional. must for delivery or pickup */
 				},
 				"phone_no": "4443331234", //optional . must for delivery/pickup
 				"email": "test@foodtogo.com", //optional

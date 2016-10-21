@@ -1,7 +1,7 @@
 checkout - Send the food information to store.
 ====================================
 curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "checkout","id": 15},
-           "data": {  "request_id": 12345,  /* repeats this value in same request, same request is identified by type & item_id */
+           "data": {  "request_id": 12345, 
            "get": {
 			"test": false,
 			"userId": 12345,
@@ -11,54 +11,55 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "checkout"
 				"lon": -77.344814
 			},
 			"checkout": {
-				"payment_id": 1, /* if you have more than one payment in the system, if no payament add payment. acessing to payement should be secured */
-				"total_price": 25.4, /*total price calculated  after applying deals and exclude gift cards- this may reject by server */
-				"applied_coupons": { //all the coupon id's applied */
-					"deal_id": [1],  //optional
-					"coupon_id": [0], //optional
-					"loyalty_id": [4] //optional
+				"payment_id": 1,
+				"total_price": 25.4,
+				"applied_coupons": { 
+					"deal_id": [1],
+					"coupon_id": [0], 
+					"loyalty_id": [4] 
 				},
-				"gift_cards": [{ /* optional */
-					"id": 1,  //gift card id
-					"amount": 10 //gift card amount
+				"gift_cards": [{
+					"id": 1,  
+					"amount": 10 
 				}],
-				"service_type": "delivery", //optinas are delivery, pickup and dinein
-				"service_details": { //optional. must for delivery  
-					"address": {  //optional. must for delivery 
+				"service_type": "delivery", 
+				"service_details": { 
+					"address": {  
 						"street": "11265 Roger Bacon Dr",
 						"city": "Reston",
 						"state": "VA",
 						"pin": "20190"
 					},
-                                        "time": 34325455656, /*optional. must for delivery or pickup */
+                                        "time": 34325455656 
 				},
-				"phone_no": "4443331234", //optional . must for delivery/pickup
-				"email": "test@foodtogo.com", //optional
-				"notes": "No penut", //optional.  note for this service
-				"store": [{ /* can order from multiple stores, so it is array */
-					"id": 1, //store id
-					"foods": [{ //food details
-						"id": 1,  //food id
-						"flavor": { //optional, only populate if user changes his flavour details from food
+				"phone_no": "4443331234",
+				"email": "test@foodtogo.com",
+				"notes": "No penut",
+				"store": [{ 
+					"id": 1, 
+					"foods": [{ 
+						"id": 1,  
+						"flavor": { 
 							"spicy": 1
 						},
-						"unit": { //unit from food
+						"unit": { 
+
 							"plate": [{
 								"name": "full",
-								"quantity": "1" //number of quantity 
+								"quantity": "1"
 							}, {
 								"name": "half",
 								"quantity": "2"
 							}]
 						},
-						"ingredients": { //incredients id
-							"add": [1, 2, 3], /*optional.  add this incredients*/
-							"del": [4] /* optional - must present if any item in the incredients is unchecked, including allergy & toavoid */
+						"ingredients": { 
+							"add": [1, 2, 3],
+							"del": [4] 
 						},
-						"notes": "No penut" //not to this food
+						"notes": "No penut" 
 					}]
 				}, {
-					"id": "2", //another store
+					"id": "2", 
 					"foods": [{
 						"id": 201,
 						"unit": {
@@ -69,7 +70,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "checkout"
 						},
 						"notes": "gluten free"
 					}, {
-						"id": 201, //same as above food , but count is changed and incredients are changed
+						"id": 201, 
 						"unit": {
 							"count": 10
 						},
