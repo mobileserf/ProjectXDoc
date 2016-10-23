@@ -240,49 +240,139 @@ giftcard
     min_value number = 10
  
 
-curl -v -F data='{"cmd": {"name": "giftcards_create","id": 50},
-           "data": {  "request_id": 12345,  /* repeats this value in same request, same request is identified by type & item_id */
+GIFT CARD Create - 
+====== 
+curl -v -F data='{"cmd": {"name": "giftcard_create","id": 51},
+           "data": {  "request_id": 12345,  
            "upload": {
-                        "test": false, / This field is set when test mode is enabled */
+                        "test": false, 
                         "userId": 12345,
-                        "last_date": 34325455656, /* last time a message send */
-                        "location": { /* last location */
+                        "last_date": 34325455656, 
+                        "location": { 
                                 "lat": 38.851140,
                                 "lon": -77.344814
                         },
+
   			"gift": {
 			    "type": "app",
 			    "type_id": 1,
 			    "template_id": 1,
-			    "default_img": false,
-			    "default_logo": "true",
-			    "name": "Omar Mohamaed",
-			    "value": 50,
+			    "card": {
+			      "default_img": false,
+			      "default_logo": "true",
+			      "value": 50,
+			      "message": "happy birthday dear...  with love ST",
+			      "date_to_send:345436456": {}
+			    },
+			    "recipient": {
+			      "name": "Omar Mohamaed",
+			      "method_type": "SMS",
+			      "method_id": "2",
+			      "method_value": {
+			        "phone": "+1-1234567890"
+			      }
+			    },
 			    "sender": {
 			      "type": "user",
 			      "type_id": 1,
-			      "name": "sitara"
+			      "type_value": {
+			        "name": "sitara",
+			        "userId": "12345"
+			      }
+			    },
+			    "payment": {
+			      "payment_type": 1,
+			      "payment_value": {
+			        "transactionId": "23143452545rdr"
+			      }
 			    }
-  			}
+			  }
 
                 }
 
-} }'  -F image=@fish.png  -F logo=@taco.jpg  http://www.mobileserf.com/ctg/foodtogo/upload.php
-//} }'  -F image=@fish.png -F logo=@taco.jpg http://www.php.test.com/upload.php
+} }'  -F image=@fish.png -F logo=@taco.jpg http://www.php.test.com/giftcard.php
+//} }'  -F image=@fish.png  -F logo=@taco.jpg  http://www.mobileserf.com/ctg/foodtogo/giftcard.php
 
 
+RESULT
+======
+{
+	"request_id": 12345,
+	"giftcard_create": {
+		"test": false,
+		"userId": 12345,
+		"last_date": "12345667",
+		"location": {
+			"lat": 38.85114,
+			"lon": -77.344814
+		},
+		"result": true,
+		"result_value": {
+			"message": "success"
+		},
+		"send": {
+			"id": 24143,
+			"type": "app",
+			"type_id": 1,
+			"template_id": 1,
+			"img": "resource/giftcard/togo.jpeg",
+			"logo": "resource/giftcard/visa_logo_t.gif",
+			"expires": 1476841447,
+			"name": "Omar Mohamaed",
+			"value": 50,
+			"card_id": 1111222233334444,
+			"receiver": {
+				"type": "user",
+				"type_id": 1,
+				"name": "sitara"
+			}
 
+		}
+	}
+}
+
+ 
 json generator
 ====
+
 gift
   type = app
   type_id number = 1
   template_id number = 1
-  default_img bool = false
-  default_logo = true
-  name = Omar Mohamaed
-  value number = 50
+  card 
+    default_img bool = false
+    default_logo = true
+    value number = 50
+    message = "happy birthday dear...  with love ST"
+    date_to_send: 345436456    
+  recipient
+    name = Omar Mohamaed
+    method_type = SMS
+    method_value
+      phone = +1-1234567890
+    method_type = mail
+    method_id = 1
+    method_value
+      //address
+        //street = 11265 Roger Bacon Dr
+        //city = Reston  
+        //state = VA
+        //zip = 20190
+        //country = USA
+    method_type = email
+      method_value
+        email = omar@gmail.com
+    method_type = user
+      method_value
+        userId n = 1234456
   sender
     type = user
     type_id number = 1
-    name = sitara
+    type_value
+      name = sitara
+      userId = 12345
+  payment
+    payment_type number = 1
+    payment_value
+      transactionId = 23143452545rdr
+
