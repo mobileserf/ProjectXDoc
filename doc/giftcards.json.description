@@ -10,7 +10,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "giftcards
                                 "lat": 38.851140,
                                 "lon": -77.344814
                         },
-                        "type": "store", /* this will always store */
+                        "type": "store", /* this will store/app - store means get gift card based on store otherwise app */
                         "item_id": 2 /* store Id */
 
                 }
@@ -33,27 +33,28 @@ JSON OUTPUT
       "lon": -77.344814
     },
   "giftcard": {
-    "existing": [
+    "existing": [ //existing gift card to use, all values commented with " DISPLAY in gift card" need to shown in card. other information need to contained in detailed view in behind the card 
       {
         "id": 1,
-        "type": "app",
-        "type_id": 1,
-        "template_id": 1,
-        "img": "resource/giftcard/togo.jpeg",
-        "logo": "resource/giftcard/visa_logo_t.gif",
-        "expires": 1476841447,
-        "name": "Omar Mohamaed",
-        "value": 50,
-        "remainig": 10.99,
-        "card_id": 1111222233334444,
-        "sender": {
-          "type": "app",
-          "type_id": 1,
-          "name": "foodtogo"
+        "type": "app", //gift card type - values are app or store  
+        "type_id": 1,  // id of type store id  
+        "template_id": 1, //display template id
+        "img": "resource/giftcard/togo.jpeg",  //optional background image - DISPLAY in gift card . use store image
+        "logo": "resource/giftcard/visa_logo_t.gif", //optional -  DISPLAY in gift card, see visa example http://www.mobileserf.com/ctg/foodtogo/resource/giftcard/basic.png 
+        "expires": 1476841447, - // optional expiry time - valid through .  DISPLAY in gift card
+        "name": "Omar Mohamaed", //name to be displayed .  DISPLAY in gift card
+        "value": 50,     //actual amout
+        "remainig": 10.99, //remaining amount , this is must and display in card.  DISPLAY in gift card
+        "card_id": 1111222233334444, //optional , it is like visa card number .  DISPLAY in gift card
+        "message": "happy birthday dear...  with love ST", //optional-  message
+        "sender": {  //sender information
+          "type": "app", //values are app , store, user (app- sponsered by app, store= send by store, user - send by user   
+          "type_id": 1,  //type id , in this case it is app id 
+          "name": "foodtogo" //name
         }
       },
       {
-        "id": 1,
+        "id": 2,
         "type": "store",
         "type_id": 1,
         "template_id": 1,
@@ -70,7 +71,7 @@ JSON OUTPUT
         }
       },
       {
-        "id": 1,
+        "id": 3,
         "type": "store",
         "type_id": 1,
         "template_id": 2,
@@ -84,7 +85,7 @@ JSON OUTPUT
         }
       }
     ],
-    "send": [
+    "send": [ //this gift cards are send by me
       {
         "id": 1,
         "type": "app",
@@ -103,34 +104,34 @@ JSON OUTPUT
         }
       }
     ],
-    "create": [
+    "create": [ // this is used for creating a gift card
       {
-        "type": "app",
-        "type_id": 0,
-        "template": [
+        "type": "app", //this is app or store, if the gift card is app then this can use to any store, but it is a store then it can use only in this store
+        "type_id": 0, //id of the above type
+        "template": [ //display templates . for now 1 & 2 are same
           "1",
           "2"
         ],
-        "img": {
+        "img": { //optional - default image , if no image use image based on above type - app means default foodtogo image store means store image
           "src": "resource/giftcard/togo.jpeg",
-          "replace": "true"
+          "replace": "true" //can user overwrite this image 
         },
-        "logo": {
+        "logo": { //optional . default logo
           "src": "resource/giftcard/visa_logo_t.gif",
           "replace": "true"
         },
-        "max_value": 200,
-        "min_value": 10,
-        "valid_until": 200
+        "max_value": 200, //optional. maximum value
+        "min_value": 10,  //optional minimum value
+        "valid_until": 200 //optional. maximum validity allowed for this card , warn the user that it will expire after his many days . i.e show expiry date in card
       },
       {
-        "type": "store",
-        "type_id": 1,
+        "type": "store", //this is store 
+        "type_id": 1,  //store id
         "template": [
           "1",
           "2"
         ],
-        "img": {
+        "img": { // store logo if img is not found 
           "src": "resource/giftcard/togo.jpeg",
           "replace": "true"
         },
@@ -254,35 +255,35 @@ curl -v -F data='{"cmd": {"name": "giftcard_create","id": 51},
                         },
 
   			"gift": {
-			    "type": "app",
-			    "type_id": 1,
-			    "template_id": 1,
+			    "type": "app", //app or store, from create template above
+			    "type_id": 1, //app id or store id- app means it is default to app
+			    "template_id": 1, //display template used for this card 
 			    "card": {
-			      "default_img": false,
-			      "default_logo": "true",
-			      "value": 50,
-			      "message": "happy birthday dear...  with love ST",
-			      "date_to_send:345436456": {}
+			      "default_img": false, //optional, must be present if the default image is changed
+			      "default_logo": "true", // optional, must be present if logo changes
+			      "value": 50,  // gift card value
+			      "message": "happy birthday dear...  with love ST", //message
+			      "date_to_send":345436456 //when to send this card
 			    },
-			    "recipient": {
+			    "recipient": { //reciient details
 			      "name": "Omar Mohamaed",
-			      "method_type": "SMS",
-			      "method_id": "2",
-			      "method_value": {
+			      "method_type": "SMS", //how to recieve initial gift card- types are SMS, email, app users, mail. see RECEIVER TYPE for more info
+			      "method_id": "2", //method type Id (app - 1, sms -2 , email-3, mail -4)
+			      "method_value": { //method value - see RECEIVER TYPE
 			        "phone": "+1-1234567890"
 			      }
 			    },
-			    "sender": {
+			    "sender": { //sender details
 			      "type": "user",
 			      "type_id": 1,
 			      "type_value": {
 			        "name": "sitara",
-			        "userId": "12345"
+			        "userId": "12345" 
 			      }
 			    },
-			    "payment": {
-			      "payment_type": 1,
-			      "payment_value": {
+			    "payment": { //payment method - see developers.braintreepayments.com
+			      "payment_type": 1, //payment type 
+			      "payment_value": { //payment type details
 			        "transactionId": "23143452545rdr"
 			      }
 			    }
@@ -290,11 +291,15 @@ curl -v -F data='{"cmd": {"name": "giftcard_create","id": 51},
 
                 }
 
-} }'  -F image=@fish.png -F logo=@taco.jpg http://www.php.test.com/giftcard.php
-//} }'  -F image=@fish.png  -F logo=@taco.jpg  http://www.mobileserf.com/ctg/foodtogo/giftcard.php
+} }'  -F image=@fish.png  -F logo=@taco.jpg  http://www.mobileserf.com/ctg/foodtogo/giftcard.php
+
+//} }'  -F image=@fish.png -F logo=@taco.jpg http://www.php.test.com/giftcard.php
+
+ above curl command  uploads 2 images , one is background and another is log. if default_img == false then -F image= is must . if default_logo is false then -F logo= is must.
 
 
-RESULT
+
+RESULT - same as gift card pull , except result
 ======
 {
 	"request_id": 12345,
@@ -306,11 +311,11 @@ RESULT
 			"lat": 38.85114,
 			"lon": -77.344814
 		},
-		"result": true,
+		"result": true, //true - success, false - failure
 		"result_value": {
-			"message": "success"
+			"message": "success" //result reason . for failure, display this info right now, but need to improve this
 		},
-		"send": {
+		"send": { //same as giftcard send - no change
 			"id": 24143,
 			"type": "app",
 			"type_id": 1,
@@ -331,6 +336,30 @@ RESULT
 	}
 }
 
+RECEIVER TYPE
+============
+method_id   - can be app user - 1, sms -2 , email-3, mail -4
+method_type -  human readble form USER, SMS, EMAIL, or mail
+
+method_value is depend upon method_type
+1. USER   - this is like whats app, if both user as using this app send using that users user id.
+   userId = 23456
+2. sms - this is for sending SMS using ,by looking phone book
+      phone = +1-1234567890
+
+1&2  need to implement like whats app by looking contact list. if user in your phone book is using the app, then use 1 , otherwise use 2.
+      when app loading, we need to send and recieve some meesage to accomplish this -TBD.
+3. email - use email to send
+        email = omar@gmail.com
+4. mail - send by mail
+
+ "address": {
+    "street": "11265 Roger Bacon Dr",
+    "city": "Reston",
+    "state": "VA",
+    "zip": "20190",
+    "country": "USA"
+  }
  
 json generator
 ====
