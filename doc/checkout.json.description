@@ -164,3 +164,89 @@ checkout
       ingredients
         add [] n = 1,2
 
+
+Checkout Logic
+==============
+
+FoodDisplay( FoodItem, std::list<OrderDetailsOfThisFood> orders, int activeOrderPos)
+/* FoodItem - food details got from website
+   std::list<OrderDetailsOfThisFood> -  List of orders for this food, in this list. OrderDetailsOfThisFood list should not contains same item, see assighnment operator below 
+   activeOrderPos - current order pos in the std::list<OrderDetailsOfThisFood>. if we go to food screen from default location activeOrderPos = sizeof(orders) - 1, i.e last item
+    if we go from checkout - position of the one clicked */ 
+{
+
+  if(orders.size())
+   { 
+      change Fooditem object by looking into orders[activeOrderPos]
+      foreach orders[activeOrderPos].ingredients.add enable checkbox in Fooditem
+      foreach orders[activeOrderPos].ingredients.del disable checkbox in Fooditem
+   }
+  OrderDetailsOfThisFood activeEdit = orders[activeOrderPos] //make a copy not the reference
+
+}
+
+OnUnitChange( FoodItem, std::list<OrderDetailsOfThisFood> orders, int activeOrderPos, OrderDetailsOfThisFood activeEdit)
+/* this is called when there is a unit change and user go back from food or add + button, active edit */
+{
+
+  if(orders.empty ()) return
+ 
+     display dialog button if orders[activeOrderPos].unit.plate.quantity > 1 && activeEdit != orders[activeOrderPos]  
+       "Unit is changed, Do you want to apply this change for all activeEdit.unit.plate.quantity" 
+         YES- orders[activeOrderPos] = activeEdit;
+         NO -  orders[activeOrderPos].unit.plate.quantity -= 1. orders.append(activeEdit)
+         Cancel - stay on same screen
+}
+
+OnIngredientsChange( FoodItem, std::list<OrderDetailsOfThisFood> orders, int activeOrderPos, OrderDetailsOfThisFood activeEdit)
+/* this is called when there is a unit change and user go back from food or add + button, active edit */
+{
+
+  if(orders.empty ()) return
+ 
+     display dialog button if orders[activeOrderPos].ingredients unit.plate.quantity > 1 && activeEdit.ingredients != orders[activeOrderPos].ingredients  
+       "ingredients are changed, Do you want to apply this change for all activeEdit.unit.plate.quantity" 
+         YES- orders[activeOrderPos] = activeEdit;
+         NO -  orders[activeOrderPos].unit.plate.quantity -= 1. orders.append(activeEdit)
+         Cancel - stay on same screen
+}
+
+class OrderDetailsOfThisFood //it contains following information
+{
+  flavor.spicy = 1;
+  unit.plate.quantity = 1;
+  ingredients.add = 1,2,3
+  ingredients.del = 4
+  notes = "no penut";
+  operator == (OrderDetailsOfThisFood) { 
+       /* compare each field and return bool or false except the quantity */
+  }
+  isIngredientsChanged() { return ingredients.add > 0 || ingredients.del> 0 }
+}
+
+
+
+/* json format for order is shown bwlow. Taken from checkout. This is nothing but OrderDetailsOfThisFood structure */
+
+
+
+					"foods": [{ //food details
+						"id": 1,  //food id
+						"flavor": { //optional, only populate if user changes his flavour details from food
+							"spicy": 1
+						},
+						"unit": { //unit from food
+							"plate": [{
+								"name": "full",
+								"quantity": "1" //number of quantity 
+							}, {
+								"name": "half",
+								"quantity": "2"
+							}]
+						},
+						"ingredients": { //incredients id
+							"add": [1, 2, 3], /*optional.  add this incredients*/
+							"del": [4] /* optional - must present if any item in the incredients is unchecked, including allergy & toavoid */
+						},
+						"notes": "No penut" //not to this food
+  
