@@ -14,3 +14,9 @@ Table booking
 checkout
 =======
 --failed state need to be implemented
+
+Spelling mistake in Diet screen
+=======================
+Glutten to  Gluten
+Allegran to Allergen
+Sulphite - Sulfate

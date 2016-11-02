@@ -44,7 +44,7 @@ JSON OUTPUT
         "expires": 1476841447, - // optional expiry time - valid through .  DISPLAY in gift card
         "name": "Omar Mohamaed", //name to be displayed .  DISPLAY in gift card
         "value": 50,     //actual amout
-        "remainig": 10.99, //remaining amount , this is must and display in card.  DISPLAY in gift card
+        "remaining": 10.99, //remaining amount , this is must and display in card.  DISPLAY in gift card
         "card_id": 1111222233334444, //optional , it is like visa card number .  DISPLAY in gift card
         "message": "happy birthday dear...  with love ST", //optional-  message
         "sender": {  //sender information
@@ -63,7 +63,7 @@ JSON OUTPUT
         "expires": 1476841447,
         "name": "Omar Mohamaed",
         "value": 50,
-        "remainig": 0.99,
+        "remaining": 0.99,
         "sender": {
           "type": "store",
           "type_id": 1,
@@ -77,7 +77,7 @@ JSON OUTPUT
         "template_id": 2,
         "img": "resource/giftcard/chillies.png",
         "value": 150,
-        "remainig": 101,
+        "remaining": 101,
         "sender": {
           "type": "user",
           "type_id": 1,
@@ -160,7 +160,7 @@ giftcard
     expires number = 1476841447
     name = Omar Mohamaed
     value number = 50
-    remainig number = 10.99
+    remaining number = 10.99
     card_id number = 1111222233334444
     sender
       type = app
@@ -177,7 +177,7 @@ giftcard
     expires number = 1476841447
     name = Omar Mohamaed
     value number = 50
-    remainig number = 0.99    
+    remaining number = 0.99    
     sender
       type = store
       type_id number = 1
@@ -190,7 +190,7 @@ giftcard
     template_id number = 2
     img = resource/giftcard/chillies.png
     value number = 150
-    remainig number = 101
+    remaining number = 101
     sender
       type = user
       type_id number = 1

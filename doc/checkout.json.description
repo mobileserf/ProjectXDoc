@@ -193,8 +193,8 @@ OnUnitChange( FoodItem, std::list<OrderDetailsOfThisFood> orders, int activeOrde
  
      display dialog button if orders[activeOrderPos].unit.plate.quantity > 1 && activeEdit != orders[activeOrderPos]  
        "Unit is changed, Do you want to apply this change for all activeEdit.unit.plate.quantity" 
-         YES- orders[activeOrderPos] = activeEdit;
-         NO -  orders[activeOrderPos].unit.plate.quantity -= 1. orders.append(activeEdit)
+         YES- orders[activeOrderPos] = activeEdit; and move the item in the last of list ( or delete activeOrderPos and append activeEdit end of list)
+         NO -  orders[activeOrderPos].unit.plate.quantity -= 1. orders.append(activeEdit), move the edited item to last of list
          Cancel - stay on same screen
 }
 
@@ -206,8 +206,8 @@ OnIngredientsChange( FoodItem, std::list<OrderDetailsOfThisFood> orders, int act
  
      display dialog button if orders[activeOrderPos].ingredients unit.plate.quantity > 1 && activeEdit.ingredients != orders[activeOrderPos].ingredients  
        "ingredients are changed, Do you want to apply this change for all activeEdit.unit.plate.quantity" 
-         YES- orders[activeOrderPos] = activeEdit;
-         NO -  orders[activeOrderPos].unit.plate.quantity -= 1. orders.append(activeEdit)
+         YES- orders[activeOrderPos] = activeEdit;, move the edited item to last of list ( or delete activeOrderPos and append activeEdit end of list)
+         NO -  orders[activeOrderPos].unit.plate.quantity -= 1. orders.append(activeEdit). move the edited item to last of list
          Cancel - stay on same screen
 }
 

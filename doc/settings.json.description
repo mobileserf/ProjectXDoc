@@ -1,0 +1,536 @@
+//Get deal/coupons/loyalty program using
+====================================
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "settings","id": 12345},
+           "data": {  "request_id": 12345,  /* repeats this value in same request, same request is identified by type & item_id */
+           "get": {
+                        "test": false, / This field is set when test mode is enabled */
+                        "userId": 12345, /* 0 if no user id is present */
+                        "last_date": 34325455656, /* last time a message send */
+                        "location": { /* last location */
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        }
+
+                }
+} }' http://www.mobileserf.com/ctg/foodtogo/get.php
+
+
+JSON OUTPUT
+==========
+
+//gift card query result
+
+{
+  "request_id": 12345, /* display only if request match with response id */
+  "settings": {
+    "test": false, / This field is set when test mode is enabled */
+    "userId": 12345,
+    "last_date": "12345667", /* date returned by server */
+    "location": {   /* ignore it */
+      "lat": 38.85114,
+      "lon": -77.344814
+    },
+    "diets": { // default diet screen information
+      "allergen": [ /* contains array of allegran, id 1-100 (now we have only 15) are default and should use default image if it doesn't contain any image 
+        {
+          "id": 1,
+          "name": "Peanut"
+          "img": "resource/allergen/peanut.png" /*optional use default image for 1-100 id's */
+        },
+        {
+          "id": 2,
+          "name": "Diary"
+        },
+        {
+          "id": 3,
+          "name": "Tree Nut"
+        },
+        {
+          "id": 4,
+          "name": "Egg"
+        },
+        {
+          "id": 5,
+          "name": "Fish"
+        },
+        {
+          "id": 6,
+          "name": "Shell Fish"
+        },
+        {
+          "id": 7,
+          "name": "Wheat"
+        },
+        {
+          "id": 8,
+          "name": "Corn"
+        },
+        {
+          "id": 9,
+          "name": "Gluten"
+        },
+        {
+          "id": 10,
+          "name": "Soy"
+        },
+        {
+          "id": 11,
+          "name": "Animal Derived"
+        },
+        {
+          "id": 12,
+          "name": "Night Shades"
+        },
+        {
+          "id": 13,
+          "name": "MSG"
+        },
+        {
+          "id": 14,
+          "name": "Trans Fat"
+        },
+        {
+          "id": 15,
+          "name": "Sulfate"
+        },
+        {
+          "id": 200, //Id from 200 is user defined and this can move to in 100th list in next release if it is reported by many users*/ 
+          "name": "Flavorings",
+          "img": "resource/allergen/flavoring.png" /* Optional
+        }
+      ],
+      "diet": [ /* diet information same as allegren */
+        {
+          "id": 1,
+          "name": "Diary"
+        },
+        {
+          "id": 2,
+          "name": "Egg"
+        },
+        {
+          "id": 3,
+          "name": "Fish"
+        },
+        {
+          "id": 4,
+          "name": "Shell Fish"
+        },
+        {
+          "id": 5,
+          "name": "Chicken"
+        },
+        {
+          "id": 6,
+          "name": "Pork"
+        },
+        {
+          "id": 7,
+          "name": "Beef"
+        },
+        {
+          "id": 8,
+          "name": "Lamp"
+        },
+        {
+          "id": 9,
+          "name": "Turkey"
+        },
+        {
+          "id": 200,
+          "name": "vegetable"
+        }
+      ],
+      "cuisine": [ /* list of cuisine */
+        {
+          "id": 1,
+          "name": "Meditarian"
+        },
+        {
+          "id": 2,
+          "name": "American"
+        },
+        {
+          "id": 3,
+          "name": "Italian"
+        },
+        {
+          "id": 4,
+          "name": "Mexican"
+        },
+        {
+          "id": 5,
+          "name": "French"
+        },
+        {
+          "id": 6,
+          "name": "Chinese"
+        },
+        {
+          "id": 7,
+          "name": "British"
+        },
+        {
+          "id": 8,
+          "name": "Greek"
+        },
+        {
+          "id": 9,
+          "name": "Caribbean"
+        },
+        {
+          "id": 10,
+          "name": "East European"
+        }
+      ]
+    },
+    "about_me": { // This is for about me screen 
+        "gender": [ //gender drop down menu
+          {
+            "id": 0,
+            "name": "Unknown"
+          },
+          {
+            "id": 1,
+            "name": "Male"
+          },
+          {
+            "id": 2,
+            "name": "Female"
+          }
+        ],
+        "race": [ //race drop down menu
+          {
+            "id": 0,
+            "name": "Unknown"
+          },
+          {
+            "id": 1,
+            "name": "American Indian or Alaska Native"
+          },
+          {
+            "id": 2,
+            "name": "Asian"
+          },
+          {
+            "id": 3,
+            "name": "Black or African American"
+          },
+          {
+            "id": 4,
+            "name": "Native Hawaiian or Other Pacific Islander"
+          },
+          {
+            "id": 5,
+            "name": "white"
+          }
+        ],
+        "ethnicity": [ //ethnicity drop down menu 
+          {
+            "id": 0,
+            "name": "Unknown"
+          },
+          {
+            "id": 1,
+            "name": "Hispanic or Latino"
+          },
+          {
+            "id": 2,
+            "name": "Not Hispanic of Latino"
+          }
+        ]
+    },	
+    "userpreference": { /* above is system default, here onwards it is user specific */
+      "diets": {    
+        "allergen": { 
+          "checked": [  //allegren that is user checked
+            2,
+            5
+          ],
+          "user_added": [ //allegren specific to this user and not in default list */
+            {
+              "id": 12341,
+              "name": "Beef"
+            }
+          ]
+        },
+        "diet": {  
+          "unchecked": [ /* all diets that are unchecked */
+            1,
+            6
+          ],
+          "user_added": [ /Diet that is added by user */
+            {
+              "id": 12341,
+              "name": "Flavoring",
+              "image": "resource/allergen/flavoring.png"
+            }
+          ]
+        },
+        "restrictions": [ /* food restrictions for this user
+          {
+            "id": 12341,
+            "name": "Sugar"
+          },
+          {
+            "id": 12342,
+            "name": "Salt"
+          }
+        ],
+        "cuisine": {
+          "selected": [  /* selected cuisine fo this user */ 
+            1,
+            2,
+            7
+          ],
+          "user_added": [ /* user added Cuisine */
+            {
+              "id": 12341,
+              "name": "African"
+            }
+          ]
+        }
+      },
+      "favorites": { /* user favourites stores and food *
+        "stores": [1 ], /* favourite stores */
+        "foods": [ //array of favourites food
+          {
+            "store_id": 2, // store id
+            "food_id": [ 201 ] //array of food in this store
+          }
+        ]
+      },
+      "lastvisited": {
+        "stores": [ 1, 2 ] /* list of last visited stores
+      },
+      "about_me": { //About me page, if values are not found use default or no value
+        "home": "11265 Roger Bacon Dr Reston VA 20190", // Optional
+        "office": [ //optional
+          {
+            "addr": "11265 Roger Bacon Dr Reston VA 20190"
+          }
+        ],
+        "height": { //optional
+          "feet": 5,
+          "inch": 5
+        },
+        "weight": { //optional
+          "value": "150",
+          "unit": "lb"
+        },
+        "dob": { //optional, each field in below are optional, for e.g user can just enter year
+          "year": "2000",
+          "month": "1",
+          "date": "1"
+        },
+        "gender": "1", //optional , value is from default values in above
+        "race": "0", //optional
+        "ethnicity": "0" //optional
+      }
+    } //end user_preference
+  } //end settings
+} 
+
+Json Editor - http://www.objgen.com/json
+
+settings
+  diets
+    allergen[0]
+      id number = 1
+      name = Peanut
+      img  = resource/allergen/peanut.png
+    allergen[1]
+      id number = 2
+      name = Diary
+    allergen[2]
+      id number = 3
+      name = Tree Nut
+    allergen[3]
+      id number = 4
+      name = Egg
+    allergen[4]
+      id number = 5
+      name = Fish
+    allergen[5]
+      id number = 6
+      name = Shell Fish
+    allergen[6]
+      id number = 7
+      name = Wheat
+    allergen[7]
+      id number = 8
+      name = Corn
+    allergen[8]
+      id number = 9
+      name = Gluten
+    allergen[9]
+      id number = 10
+      name = Soy
+    allergen[10]
+      id number = 11
+      name = Animal Derived
+    allergen[11]
+      id number = 12
+      name = Night Shades  
+    allergen[12]
+      id number = 13
+      name = MSG
+    allergen[13]
+      id number = 14
+      name = Trans Fat
+    allergen[14]
+      id number = 15
+      name = Sulfate  
+    allergen[15]
+      id number = 200
+      name = Flavorings
+      img = resource/allergen/flavoring.png
+    diet [0]
+      id number = 1
+      name = Diary
+    diet [1]
+      id number = 2
+      name = Egg
+    diet [2]
+      id number = 3
+      name = Fish
+    diet [3]
+      id number = 4
+      name = Shell Fish
+    diet [4]
+      id number = 5
+      name = Chicken
+    diet [5]
+      id number = 6
+      name = Pork
+    diet [6]
+      id number = 7
+      name = Beef
+    diet [7]
+      id number = 8
+      name = Lamp
+    diet [8]
+      id number = 9
+      name = Turkey
+    diet[9]
+      id number = 200
+      name = vegetable   
+
+    cuisine[0]
+      id number = 1
+      name = Meditarian
+    cuisine[1]
+      id number = 2
+      name = American
+    cuisine[2]
+      id number = 3
+      name = Italian
+    cuisine[3]
+      id number = 4
+      name = Mexican
+    cuisine[4]
+      id number = 5
+      name = French
+    cuisine[5]
+      id number = 6
+      name = Chinese
+    cuisine[6]
+      id number = 7
+      name = British
+    cuisine[7]
+      id number = 8
+      name = Greek
+    cuisine[8]
+      id number = 9
+      name = Caribbean 
+    cuisine[9]
+      id number = 10
+      name = East European 
+
+  about_me
+    gender[0]
+      id number = 0
+      name = Unknown
+    gender[1]
+      id number = 1
+      name = Male
+    gender[2]
+      id number = 2
+      name = Female
+    race[0]
+      id number = 0
+      name = Unknown
+    race[1]
+      id number = 1
+      name = American Indian or Alaska Native
+    race[2]
+      id number = 2
+      name = Asian
+    race[3]
+      id number = 3
+      name = Black or African American
+    race[4]
+      id number = 4
+      name = Native Hawaiian or Other Pacific Islander
+    race[5]
+      id number = 5
+      name = white
+    ethnicity[0]
+      id number = 0
+      name = Unknown
+    ethnicity[1]
+      id number = 1
+      name = Hispanic or Latino
+    ethnicity[2]
+      id number = 2
+      name = Not Hispanic of Latino
+
+  userpreference
+    diets
+      allergen
+        checked [] n = 2, 5
+        user_added [0]
+          id number = 12341
+          name = Beef
+      diet
+        unchecked [] n = 1, 6
+        user_added [0]
+          id number = 12341
+          name = Flavoring
+          image = resource/allergen/flavoring.png
+      restrictions[0]
+        id number = 12341
+        name = Sugar
+      restrictions[1]
+        id number = 12342
+        name = Salt
+      cuisine
+        selected [] n = 1,2, 7
+        user_added [0]
+          id number = 12341
+          name = African
+    favorites
+      stores [] n = 1
+      foods [0]
+        store_id number = 2
+        food_id [] number = 201
+    lastvisited
+      stores [] n = 1, 2
+
+    about_me
+      home = 11265 Roger Bacon Dr Reston VA 20190
+      office[0] 
+        addr = 11265 Roger Bacon Dr Reston VA 20190
+      height
+        feet n = 5
+        inch n = 5
+      weight
+        value = 150
+        unit = lb
+      dob
+        year = 2000
+        month = 1
+        date = 1
+      gender = 1
+      race = 0
+      ethnicity = 0

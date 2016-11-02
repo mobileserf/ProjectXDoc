@@ -1,0 +1,334 @@
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "settings","id": 12345},
+           "data": {  "request_id": 12345,  
+           "get": {
+                        "test": false, 
+                        "userId": 12345,
+                        "last_date": 34325455656, 
+                        "location": { 
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        }
+
+                }
+} }' http://www.mobileserf.com/ctg/foodtogo/get.php
+
+
+output
+======
+{
+  "request_id": 12345, 
+  "settings": {
+    "test": false, 
+    "userId": 12345,
+    "last_date": "12345667", 
+    "location": {   
+      "lat": 38.85114,
+      "lon": -77.344814
+    },
+    "diets": {
+      "allergen": [
+        {
+          "id": 1,
+          "name": "Peanut",
+          "img": "resource/allergen/peanut.png"
+        },
+        {
+          "id": 2,
+          "name": "Diary"
+        },
+        {
+          "id": 3,
+          "name": "Tree Nut"
+        },
+        {
+          "id": 4,
+          "name": "Egg"
+        },
+        {
+          "id": 5,
+          "name": "Fish"
+        },
+        {
+          "id": 6,
+          "name": "Shell Fish"
+        },
+        {
+          "id": 7,
+          "name": "Wheat"
+        },
+        {
+          "id": 8,
+          "name": "Corn"
+        },
+        {
+          "id": 9,
+          "name": "Gluten"
+        },
+        {
+          "id": 10,
+          "name": "Soy"
+        },
+        {
+          "id": 11,
+          "name": "Animal Derived"
+        },
+        {
+          "id": 12,
+          "name": "Night Shades"
+        },
+        {
+          "id": 13,
+          "name": "MSG"
+        },
+        {
+          "id": 14,
+          "name": "Trans Fat"
+        },
+        {
+          "id": 15,
+          "name": "Sulfate"
+        },
+        {
+          "id": 200,
+          "name": "Flavorings",
+          "img": "resource/allergen/flavoring.png"
+        }
+      ],
+      "diet": [
+        {
+          "id": 1,
+          "name": "Diary"
+        },
+        {
+          "id": 2,
+          "name": "Egg"
+        },
+        {
+          "id": 3,
+          "name": "Fish"
+        },
+        {
+          "id": 4,
+          "name": "Shell Fish"
+        },
+        {
+          "id": 5,
+          "name": "Chicken"
+        },
+        {
+          "id": 6,
+          "name": "Pork"
+        },
+        {
+          "id": 7,
+          "name": "Beef"
+        },
+        {
+          "id": 8,
+          "name": "Lamp"
+        },
+        {
+          "id": 9,
+          "name": "Turkey"
+        },
+        {
+          "id": 200,
+          "name": "vegetable"
+        }
+      ],
+      "cuisine": [
+        {
+          "id": 1,
+          "name": "Meditarian"
+        },
+        {
+          "id": 2,
+          "name": "American"
+        },
+        {
+          "id": 3,
+          "name": "Italian"
+        },
+        {
+          "id": 4,
+          "name": "Mexican"
+        },
+        {
+          "id": 5,
+          "name": "French"
+        },
+        {
+          "id": 6,
+          "name": "Chinese"
+        },
+        {
+          "id": 7,
+          "name": "British"
+        },
+        {
+          "id": 8,
+          "name": "Greek"
+        },
+        {
+          "id": 9,
+          "name": "Caribbean"
+        },
+        {
+          "id": 10,
+          "name": "East European"
+        }
+      ]
+    },
+    "about_me": {
+      "gender": [
+        {
+          "id": 0,
+          "name": "Unknown"
+        },
+        {
+          "id": 1,
+          "name": "Male"
+        },
+        {
+          "id": 2,
+          "name": "Female"
+        }
+      ],
+      "race": [
+        {
+          "id": 0,
+          "name": "Unknown"
+        },
+        {
+          "id": 1,
+          "name": "American Indian or Alaska Native"
+        },
+        {
+          "id": 2,
+          "name": "Asian"
+        },
+        {
+          "id": 3,
+          "name": "Black or African American"
+        },
+        {
+          "id": 4,
+          "name": "Native Hawaiian or Other Pacific Islander"
+        },
+        {
+          "id": 5,
+          "name": "white"
+        }
+      ],
+      "ethnicity": [
+        {
+          "id": 0,
+          "name": "Unknown"
+        },
+        {
+          "id": 1,
+          "name": "Hispanic or Latino"
+        },
+        {
+          "id": 2,
+          "name": "Not Hispanic of Latino"
+        }
+      ]
+    },
+    "userpreference": {
+      "diets": {
+        "allergen": {
+          "checked": [
+            2,
+            5
+          ],
+          "user_added": [
+            {
+              "id": 12341,
+              "name": "Beef"
+            }
+          ]
+        },
+        "diet": {
+          "unchecked": [
+            1,
+            6
+          ],
+          "user_added": [
+            {
+              "id": 12341,
+              "name": "Flavoring",
+              "image": "resource/allergen/flavoring.png"
+            }
+          ]
+        },
+        "restrictions": [
+          {
+            "id": 12341,
+            "name": "Sugar"
+          },
+          {
+            "id": 12342,
+            "name": "Salt"
+          }
+        ],
+        "cuisine": {
+          "selected": [
+            1,
+            2,
+            7
+          ],
+          "user_added": [
+            {
+              "id": 12341,
+              "name": "African"
+            }
+          ]
+        }
+      },
+      "favorites": {
+        "stores": [
+          1
+        ],
+        "foods": [
+          {
+            "store_id": 2,
+            "food_id": [
+              201
+            ]
+          }
+        ]
+      },
+      "lastvisited": {
+        "stores": [
+          1,
+          2
+        ]
+      },
+      "about_me": {
+        "home": "11265 Roger Bacon Dr Reston VA 20190",
+        "office": [
+          {
+            "addr": "11265 Roger Bacon Dr Reston VA 20190"
+          }
+        ],
+        "height": {
+          "feet": 5,
+          "inch": 5
+        },
+        "weight": {
+          "value": "150",
+          "unit": "lb"
+        },
+        "dob": {
+          "year": "2000",
+          "month": "1",
+          "date": "1"
+        },
+        "gender": "1",
+        "race": "0",
+        "ethnicity": "0"
+      }
+    }
+  }
+}
