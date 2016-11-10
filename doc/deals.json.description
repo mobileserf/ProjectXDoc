@@ -16,7 +16,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "deals","i
                                 "lon": -77.344814
                         },
                         "type": "store", /* this will always store */
-                        "item_id": 203
+                        "item_id": 2
 
                 }
 } }' http://www.mobileserf.com/ctg/foodtogo/get.php
@@ -41,6 +41,7 @@ JSON OUTPUT
       {
         "id": 1,
 	"food_id": 200  /* optional, must if it is food specific, point to food id */
+        "store_id": 2,
         "description": "half of...", /* MUST */
         "restrictions": "you can only apply this once", /* MUST */ 
         "img": "resource/food/burger.jpg", //optional
@@ -61,7 +62,8 @@ JSON OUTPUT
         }
       },
       {
-        "id": 1,
+        "id": 2,  /* no food id here so it is store specific */
+        "store_id": 2,
         "description": "30 % off...",
         "restrictions": "you can only apply this once",
 	"points": 0, / * optinal , no points if used this coupon */
@@ -83,11 +85,13 @@ JSON OUTPUT
         {
           "id": 1,   /* if this id is not present in this array and quantity is present ( > 0), then user is not used this deal at all */ 
           "remaining": 1 
+          "store_id": 2
         }
       ],
       "coupons": [ /* optional, coupons send to this user , it is not available for all */
         {
           "id": 1,
+          "store_id": 2,
           "description": "Buy 1 next 50% off",
           "restrictions": "you can only apply this once",
           "img": "resource/food/burger.jpg", /* optional */
@@ -114,6 +118,7 @@ JSON OUTPUT
       "loyalty": [
         {
           "id": 1,
+          "store_id": 2,
           "current_points": 750,
           "use_with_other_deal": false
         },
@@ -121,6 +126,7 @@ JSON OUTPUT
           /* all fields are same as deals */
           "id": 1, 
           "food_id": 201,
+          "store_id": 2,
           "description": "Buy 5, next one is on us",
           "restrictions": "you can only apply this once",
           "img": "resource/food/bu rger.jpg",

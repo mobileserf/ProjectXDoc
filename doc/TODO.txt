@@ -15,8 +15,21 @@ checkout
 =======
 --failed state need to be implemented
 
+userpreference 
+==============
+  change to user_specfic accross json
+
 Spelling mistake in Diet screen
 =======================
 Glutten to  Gluten
 Allegran to Allergen
 Sulphite - Sulfate
+
+#Add store Id to
+===============
+DEAL(done) - storeId
+  added store id in deals, coupons & loyalty 
+Review
+checkout - already present change id to storeId
+
+food - ???

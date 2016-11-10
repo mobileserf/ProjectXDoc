@@ -1,0 +1,223 @@
+//Get deal/coupons/loyalty program using
+====================================
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "giftcards","id": 50},
+           "data": {  "request_id": 12345,
+           "get": {
+                        "test": false, 
+                        "userId": 12345,
+                        "last_date": 34325455656,
+                        "location": {
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        },
+                        "type": "app", 
+                        "item_id": 0
+
+                }
+} }' http://www.mobileserf.com/ctg/foodtogo/get.php
+
+
+JSON OUTPUT
+==========
+
+//gift card query result
+
+{
+  "request_id": 12345, 
+  "giftcards": {
+    "test": false, / This field is set when test mode is enabled */
+    "userId": 12345,
+    "last_date": "12345667", 
+    "location": {  
+      "lat": 38.85114,
+      "lon": -77.344814
+    },
+  "giftcard": {
+    "existing": [ 
+      {
+        "id": 1,
+        "type": "app", 
+        "type_id": 1,  
+        "template_id": 1, 
+        "img": "resource/giftcard/togo.jpeg",  
+        "logo": "resource/giftcard/visa_logo_t.gif", 
+        "expires": 1476841447, - 
+        "name": "Omar Mohamaed", 
+        "value": 50,     
+        "remaining": 10.99, 
+        "card_id": 1111222233334444, 
+        "message": "happy birthday dear...  with love ST", 
+        "sender": {  
+          "type": "app", 
+          "type_id": 1,  
+          "name": "foodtogo" 
+        }
+      },
+      {
+        "id": 2,
+        "type": "store",
+        "type_id": 1,
+        "template_id": 1,
+        "img": "resource/giftcard/togo.jpeg",
+        "logo": "resource/giftcard/visa_logo_w.png",
+        "expires": 1476841447,
+        "name": "Omar Mohamaed",
+        "value": 50,
+        "remaining": 0.99,
+        "sender": {
+          "type": "store",
+          "type_id": 1,
+          "name": "mc donald"
+        }
+      },
+      {
+        "id": 3,
+        "type": "store",
+        "type_id": 1,
+        "template_id": 2,
+        "img": "resource/giftcard/chillies.png",
+        "value": 150,
+        "remaining": 101,
+        "sender": {
+          "type": "user",
+          "type_id": 1,
+          "name": "sitara"
+        }
+      }
+    ],
+    "send": [ 
+      {
+        "id": 1,
+        "type": "app",
+        "type_id": 1,
+        "template_id": 1,
+        "img": "resource/giftcard/togo.jpeg",
+        "logo": "resource/giftcard/visa_logo_t.gif",
+        "expires": 1476841447,
+        "name": "Omar Mohamaed",
+        "value": 50,
+        "card_id": 1111222233334444,
+        "receiver": {
+          "type": "user",
+          "type_id": 1,
+          "name": "sitara"
+        }
+      }
+    ],
+    "create": [ 
+      {
+        "type": "app", 
+        "type_id": 0, 
+        "template": [ 
+          "1",
+          "2"
+        ],
+        "img": { 
+          "src": "resource/giftcard/togo.jpeg",
+          "replace": "true" 
+        },
+        "logo": { 
+          "src": "resource/giftcard/visa_logo_t.gif",
+          "replace": "true"
+        },
+        "max_value": 200, 
+        "min_value": 10,  
+        "valid_until": 200 
+      }
+    ]
+   } 
+  }
+}
+
+
+GIFT CARD Create - 
+================================= 
+curl -v -F data='{"cmd": {"name": "giftcard_create","id": 51},
+           "data": {  "request_id": 12345,  
+           "upload": {
+                        "test": false, 
+                        "userId": 12345,
+                        "last_date": 34325455656, 
+                        "location": { 
+                                "lat": 38.851140,
+                                "lon": -77.344814
+                        },
+
+  			"gift": {
+			    "type": "app", 
+			    "type_id": 1, 
+			    "template_id": 1, 
+			    "card": {
+			      "default_img": false, 
+			      "default_logo": "true", 
+			      "value": 50,  
+			      "message": "happy birthday dear...  with love ST", 
+			      "date_to_send:345436456": {}
+			    },
+			    "recipient": {
+			      "name": "Omar Mohamaed",
+			      "method_type": "SMS",
+			      "method_id": "2",
+			      "method_value": {
+			        "phone": "+1-1234567890"
+			      }
+			    },
+			    "sender": {
+			      "type": "user",
+			      "type_id": 1,
+			      "type_value": {
+			        "name": "sitara",
+			        "userId": "12345"
+			      }
+			    },
+			    "payment": {
+			      "payment_type": 1,
+			      "payment_value": {
+			        "transactionId": "23143452545rdr"
+			      }
+			    }
+			  }
+
+                }
+
+} }'  -F image=@fish.png  -F logo=@taco.jpg  http://www.mobileserf.com/ctg/foodtogo/giftcard.php
+
+
+RESULT
+======
+{
+	"request_id": 12345,
+	"giftcard_create": {
+		"test": false,
+		"userId": 12345,
+		"last_date": "12345667",
+		"location": {
+			"lat": 38.85114,
+			"lon": -77.344814
+		},
+		"result": true,
+		"result_value": {
+			"message": "success"
+		},
+		"send": {
+			"id": 24143,
+			"type": "app",
+			"type_id": 1,
+			"template_id": 1,
+			"img": "resource/giftcard/togo.jpeg",
+			"logo": "resource/giftcard/visa_logo_t.gif",
+			"expires": 1476841447,
+			"name": "Omar Mohamaed",
+			"value": 50,
+			"card_id": 1111222233334444,
+			"receiver": {
+				"type": "user",
+				"type_id": 1,
+				"name": "sitara"
+			}
+
+		}
+	}
+}
+
+ 

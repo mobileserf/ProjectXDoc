@@ -34,7 +34,7 @@ output
         },
         {
           "id": 2,
-          "name": "Diary"
+          "name": "Dairy"
         },
         {
           "id": 3,
@@ -97,7 +97,7 @@ output
       "diet": [
         {
           "id": 1,
-          "name": "Diary"
+          "name": "Dairy"
         },
         {
           "id": 2,

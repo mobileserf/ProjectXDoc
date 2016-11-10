@@ -39,7 +39,7 @@ JSON OUTPUT
         },
         {
           "id": 2,
-          "name": "Diary"
+          "name": "Dairy"
         },
         {
           "id": 3,
@@ -102,7 +102,7 @@ JSON OUTPUT
       "diet": [ /* diet information same as allegren */
         {
           "id": 1,
-          "name": "Diary"
+          "name": "Dairy"
         },
         {
           "id": 2,
@@ -341,7 +341,7 @@ settings
       img  = resource/allergen/peanut.png
     allergen[1]
       id number = 2
-      name = Diary
+      name = Dairy
     allergen[2]
       id number = 3
       name = Tree Nut
@@ -387,7 +387,7 @@ settings
       img = resource/allergen/flavoring.png
     diet [0]
       id number = 1
-      name = Diary
+      name = Dairy
     diet [1]
       id number = 2
       name = Egg
