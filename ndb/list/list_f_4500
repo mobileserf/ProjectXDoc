@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 4500,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 4500,
+                "id": "15019",
+                "name": "Fish, cod, Pacific, raw (may have been previously frozen)"
+            },
+            {
+                "offset": 4501,
+                "id": "15020",
+                "name": "Fish, croaker, Atlantic, raw"
+            },
+            {
+                "offset": 4502,
+                "id": "15021",
+                "name": "Fish, croaker, Atlantic, cooked, breaded and fried"
+            },
+            {
+                "offset": 4503,
+                "id": "15022",
+                "name": "Fish, cusk, raw"
+            },
+            {
+                "offset": 4504,
+                "id": "15023",
+                "name": "Fish, mahimahi, raw"
+            },
+            {
+                "offset": 4505,
+                "id": "15024",
+                "name": "Fish, drum, freshwater, raw"
+            },
+            {
+                "offset": 4506,
+                "id": "15025",
+                "name": "Fish, eel, mixed species, raw"
+            },
+            {
+                "offset": 4507,
+                "id": "15026",
+                "name": "Fish, eel, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4508,
+                "id": "15027",
+                "name": "Fish, fish sticks, frozen, prepared"
+            },
+            {
+                "offset": 4509,
+                "id": "15028",
+                "name": "Fish, flatfish (flounder and sole species), raw"
+            },
+            {
+                "offset": 4510,
+                "id": "15029",
+                "name": "Fish, flatfish (flounder and sole species), cooked, dry heat"
+            },
+            {
+                "offset": 4511,
+                "id": "15030",
+                "name": "Fish, gefiltefish, commercial, sweet recipe"
+            },
+            {
+                "offset": 4512,
+                "id": "15031",
+                "name": "Fish, grouper, mixed species, raw"
+            },
+            {
+                "offset": 4513,
+                "id": "15032",
+                "name": "Fish, grouper, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4514,
+                "id": "15033",
+                "name": "Fish, haddock, raw"
+            },
+            {
+                "offset": 4515,
+                "id": "15034",
+                "name": "Fish, haddock, cooked, dry heat"
+            },
+            {
+                "offset": 4516,
+                "id": "15035",
+                "name": "Fish, haddock, smoked"
+            },
+            {
+                "offset": 4517,
+                "id": "15036",
+                "name": "Fish, halibut, Atlantic and Pacific, raw"
+            },
+            {
+                "offset": 4518,
+                "id": "15037",
+                "name": "Fish, halibut, Atlantic and Pacific, cooked, dry heat"
+            },
+            {
+                "offset": 4519,
+                "id": "15038",
+                "name": "Fish, halibut, Greenland, raw"
+            },
+            {
+                "offset": 4520,
+                "id": "15039",
+                "name": "Fish, herring, Atlantic, raw"
+            },
+            {
+                "offset": 4521,
+                "id": "15040",
+                "name": "Fish, herring, Atlantic, cooked, dry heat"
+            },
+            {
+                "offset": 4522,
+                "id": "15041",
+                "name": "Fish, herring, Atlantic, pickled"
+            },
+            {
+                "offset": 4523,
+                "id": "15042",
+                "name": "Fish, herring, Atlantic, kippered"
+            },
+            {
+                "offset": 4524,
+                "id": "15043",
+                "name": "Fish, herring, Pacific, raw"
+            },
+            {
+                "offset": 4525,
+                "id": "15044",
+                "name": "Fish, ling, raw"
+            },
+            {
+                "offset": 4526,
+                "id": "15045",
+                "name": "Fish, lingcod, raw"
+            },
+            {
+                "offset": 4527,
+                "id": "15046",
+                "name": "Fish, mackerel, Atlantic, raw"
+            },
+            {
+                "offset": 4528,
+                "id": "15047",
+                "name": "Fish, mackerel, Atlantic, cooked, dry heat"
+            },
+            {
+                "offset": 4529,
+                "id": "15048",
+                "name": "Fish, mackerel, jack, canned, drained solids"
+            },
+            {
+                "offset": 4530,
+                "id": "15049",
+                "name": "Fish, mackerel, king, raw"
+            },
+            {
+                "offset": 4531,
+                "id": "15050",
+                "name": "Fish, mackerel, Pacific and jack, mixed species, raw"
+            },
+            {
+                "offset": 4532,
+                "id": "15051",
+                "name": "Fish, mackerel, spanish, raw"
+            },
+            {
+                "offset": 4533,
+                "id": "15052",
+                "name": "Fish, mackerel, spanish, cooked, dry heat"
+            },
+            {
+                "offset": 4534,
+                "id": "15053",
+                "name": "Fish, milkfish, raw"
+            },
+            {
+                "offset": 4535,
+                "id": "15054",
+                "name": "Fish, monkfish, raw"
+            },
+            {
+                "offset": 4536,
+                "id": "15055",
+                "name": "Fish, mullet, striped, raw"
+            },
+            {
+                "offset": 4537,
+                "id": "15056",
+                "name": "Fish, mullet, striped, cooked, dry heat"
+            },
+            {
+                "offset": 4538,
+                "id": "15057",
+                "name": "Fish, ocean perch, Atlantic, raw"
+            },
+            {
+                "offset": 4539,
+                "id": "15058",
+                "name": "Fish, ocean perch, Atlantic, cooked, dry heat"
+            },
+            {
+                "offset": 4540,
+                "id": "15059",
+                "name": "Fish, pout, ocean, raw"
+            },
+            {
+                "offset": 4541,
+                "id": "15060",
+                "name": "Fish, perch, mixed species, raw"
+            },
+            {
+                "offset": 4542,
+                "id": "15061",
+                "name": "Fish, perch, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4543,
+                "id": "15062",
+                "name": "Fish, pike, northern, raw"
+            },
+            {
+                "offset": 4544,
+                "id": "15063",
+                "name": "Fish, pike, northern, cooked, dry heat"
+            },
+            {
+                "offset": 4545,
+                "id": "15064",
+                "name": "Fish, pike, walleye, raw"
+            },
+            {
+                "offset": 4546,
+                "id": "15065",
+                "name": "Fish, pollock, Atlantic, raw"
+            },
+            {
+                "offset": 4547,
+                "id": "15066",
+                "name": "Fish, pollock, Alaska, raw (may have been previously frozen)"
+            },
+            {
+                "offset": 4548,
+                "id": "15067",
+                "name": "Fish, pollock, Alaska, cooked, dry heat (may have been previously frozen)"
+            },
+            {
+                "offset": 4549,
+                "id": "15068",
+                "name": "Fish, pompano, florida, raw"
+            },
+            {
+                "offset": 4550,
+                "id": "15069",
+                "name": "Fish, pompano, florida, cooked, dry heat"
+            },
+            {
+                "offset": 4551,
+                "id": "15070",
+                "name": "Fish, rockfish, Pacific, mixed species, raw"
+            },
+            {
+                "offset": 4552,
+                "id": "15071",
+                "name": "Fish, rockfish, Pacific, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4553,
+                "id": "15072",
+                "name": "Fish, roe, mixed species, raw"
+            },
+            {
+                "offset": 4554,
+                "id": "15073",
+                "name": "Fish, roughy, orange, raw"
+            },
+            {
+                "offset": 4555,
+                "id": "15074",
+                "name": "Fish, sablefish, raw"
+            },
+            {
+                "offset": 4556,
+                "id": "15075",
+                "name": "Fish, sablefish, smoked"
+            },
+            {
+                "offset": 4557,
+                "id": "15076",
+                "name": "Fish, salmon, Atlantic, wild, raw"
+            },
+            {
+                "offset": 4558,
+                "id": "15077",
+                "name": "Fish, salmon, chinook, smoked"
+            },
+            {
+                "offset": 4559,
+                "id": "15078",
+                "name": "Fish, salmon, chinook, raw"
+            },
+            {
+                "offset": 4560,
+                "id": "15079",
+                "name": "Fish, salmon, chum, raw"
+            },
+            {
+                "offset": 4561,
+                "id": "15080",
+                "name": "Fish, salmon, chum, canned, drained solids with bone"
+            },
+            {
+                "offset": 4562,
+                "id": "15081",
+                "name": "Fish, salmon, coho, wild, raw"
+            },
+            {
+                "offset": 4563,
+                "id": "15082",
+                "name": "Fish, salmon, coho, wild, cooked, moist heat"
+            },
+            {
+                "offset": 4564,
+                "id": "15083",
+                "name": "Fish, salmon, pink, raw"
+            },
+            {
+                "offset": 4565,
+                "id": "15084",
+                "name": "Fish, salmon, pink, canned, total can contents"
+            },
+            {
+                "offset": 4566,
+                "id": "15085",
+                "name": "Fish, salmon, sockeye, raw"
+            },
+            {
+                "offset": 4567,
+                "id": "15086",
+                "name": "Fish, salmon, sockeye, cooked, dry heat"
+            },
+            {
+                "offset": 4568,
+                "id": "15087",
+                "name": "Fish, salmon, sockeye, canned, drained solids"
+            },
+            {
+                "offset": 4569,
+                "id": "15088",
+                "name": "Fish, sardine, Atlantic, canned in oil, drained solids with bone"
+            },
+            {
+                "offset": 4570,
+                "id": "15089",
+                "name": "Fish, sardine, Pacific, canned in tomato sauce, drained solids with bone"
+            },
+            {
+                "offset": 4571,
+                "id": "15090",
+                "name": "Fish, scup, raw"
+            },
+            {
+                "offset": 4572,
+                "id": "15091",
+                "name": "Fish, sea bass, mixed species, raw"
+            },
+            {
+                "offset": 4573,
+                "id": "15092",
+                "name": "Fish, sea bass, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4574,
+                "id": "15093",
+                "name": "Fish, seatrout, mixed species, raw"
+            },
+            {
+                "offset": 4575,
+                "id": "15094",
+                "name": "Fish, shad, american, raw"
+            },
+            {
+                "offset": 4576,
+                "id": "15095",
+                "name": "Fish, shark, mixed species, raw"
+            },
+            {
+                "offset": 4577,
+                "id": "15096",
+                "name": "Fish, shark, mixed species, cooked, batter-dipped and fried"
+            },
+            {
+                "offset": 4578,
+                "id": "15097",
+                "name": "Fish, sheepshead, raw"
+            },
+            {
+                "offset": 4579,
+                "id": "15098",
+                "name": "Fish, sheepshead, cooked, dry heat"
+            },
+            {
+                "offset": 4580,
+                "id": "15099",
+                "name": "Fish, smelt, rainbow, raw"
+            },
+            {
+                "offset": 4581,
+                "id": "15100",
+                "name": "Fish, smelt, rainbow, cooked, dry heat"
+            },
+            {
+                "offset": 4582,
+                "id": "15101",
+                "name": "Fish, snapper, mixed species, raw"
+            },
+            {
+                "offset": 4583,
+                "id": "15102",
+                "name": "Fish, snapper, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4584,
+                "id": "15103",
+                "name": "Fish, spot, raw"
+            },
+            {
+                "offset": 4585,
+                "id": "15104",
+                "name": "Fish, sturgeon, mixed species, raw"
+            },
+            {
+                "offset": 4586,
+                "id": "15105",
+                "name": "Fish, sturgeon, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4587,
+                "id": "15106",
+                "name": "Fish, sturgeon, mixed species, smoked"
+            },
+            {
+                "offset": 4588,
+                "id": "15107",
+                "name": "Fish, sucker, white, raw"
+            },
+            {
+                "offset": 4589,
+                "id": "15108",
+                "name": "Fish, sunfish, pumpkin seed, raw"
+            },
+            {
+                "offset": 4590,
+                "id": "15109",
+                "name": "Fish, surimi"
+            },
+            {
+                "offset": 4591,
+                "id": "15110",
+                "name": "Fish, swordfish, raw"
+            },
+            {
+                "offset": 4592,
+                "id": "15111",
+                "name": "Fish, swordfish, cooked, dry heat"
+            },
+            {
+                "offset": 4593,
+                "id": "15112",
+                "name": "Fish, tilefish, raw"
+            },
+            {
+                "offset": 4594,
+                "id": "15113",
+                "name": "Fish, tilefish, cooked, dry heat"
+            },
+            {
+                "offset": 4595,
+                "id": "15114",
+                "name": "Fish, trout, mixed species, raw"
+            },
+            {
+                "offset": 4596,
+                "id": "15115",
+                "name": "Fish, trout, rainbow, wild, raw"
+            },
+            {
+                "offset": 4597,
+                "id": "15116",
+                "name": "Fish, trout, rainbow, wild, cooked, dry heat"
+            },
+            {
+                "offset": 4598,
+                "id": "15117",
+                "name": "Fish, tuna, fresh, bluefin, raw"
+            },
+            {
+                "offset": 4599,
+                "id": "15118",
+                "name": "Fish, tuna, fresh, bluefin, cooked, dry heat"
+            },
+            {
+                "offset": 4600,
+                "id": "15119",
+                "name": "Fish, tuna, light, canned in oil, drained solids"
+            },
+            {
+                "offset": 4601,
+                "id": "15121",
+                "name": "Fish, tuna, light, canned in water, drained solids"
+            },
+            {
+                "offset": 4602,
+                "id": "15123",
+                "name": "Fish, tuna, fresh, skipjack, raw"
+            },
+            {
+                "offset": 4603,
+                "id": "15124",
+                "name": "Fish, tuna, white, canned in oil, drained solids"
+            },
+            {
+                "offset": 4604,
+                "id": "15126",
+                "name": "Fish, tuna, white, canned in water, drained solids"
+            },
+            {
+                "offset": 4605,
+                "id": "15127",
+                "name": "Fish, tuna, fresh, yellowfin, raw"
+            },
+            {
+                "offset": 4606,
+                "id": "15128",
+                "name": "Fish, tuna salad"
+            },
+            {
+                "offset": 4607,
+                "id": "15129",
+                "name": "Fish, turbot, european, raw"
+            },
+            {
+                "offset": 4608,
+                "id": "15130",
+                "name": "Fish, whitefish, mixed species, raw"
+            },
+            {
+                "offset": 4609,
+                "id": "15131",
+                "name": "Fish, whitefish, mixed species, smoked"
+            },
+            {
+                "offset": 4610,
+                "id": "15132",
+                "name": "Fish, whiting, mixed species, raw"
+            },
+            {
+                "offset": 4611,
+                "id": "15133",
+                "name": "Fish, whiting, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4612,
+                "id": "15134",
+                "name": "Fish, wolffish, Atlantic, raw"
+            },
+            {
+                "offset": 4613,
+                "id": "15135",
+                "name": "Fish, yellowtail, mixed species, raw"
+            },
+            {
+                "offset": 4614,
+                "id": "15136",
+                "name": "Crustaceans, crab, alaska king, raw"
+            },
+            {
+                "offset": 4615,
+                "id": "15137",
+                "name": "Crustaceans, crab, alaska king, cooked, moist heat"
+            },
+            {
+                "offset": 4616,
+                "id": "15138",
+                "name": "Crustaceans, crab, alaska king, imitation, made from surimi"
+            },
+            {
+                "offset": 4617,
+                "id": "15139",
+                "name": "Crustaceans, crab, blue, raw"
+            },
+            {
+                "offset": 4618,
+                "id": "15140",
+                "name": "Crustaceans, crab, blue, cooked, moist heat"
+            },
+            {
+                "offset": 4619,
+                "id": "15141",
+                "name": "Crustaceans, crab, blue, canned"
+            },
+            {
+                "offset": 4620,
+                "id": "15142",
+                "name": "Crustaceans, crab, blue, crab cakes, home recipe"
+            },
+            {
+                "offset": 4621,
+                "id": "15143",
+                "name": "Crustaceans, crab, dungeness, raw"
+            },
+            {
+                "offset": 4622,
+                "id": "15144",
+                "name": "Crustaceans, crab, queen, raw"
+            },
+            {
+                "offset": 4623,
+                "id": "15145",
+                "name": "Crustaceans, crayfish, mixed species, wild, raw"
+            },
+            {
+                "offset": 4624,
+                "id": "15146",
+                "name": "Crustaceans, crayfish, mixed species, wild, cooked, moist heat"
+            },
+            {
+                "offset": 4625,
+                "id": "15147",
+                "name": "Crustaceans, lobster, northern, raw"
+            },
+            {
+                "offset": 4626,
+                "id": "15148",
+                "name": "Crustaceans, lobster, northern, cooked, moist heat"
+            },
+            {
+                "offset": 4627,
+                "id": "15149",
+                "name": "Crustaceans, shrimp, mixed species, raw (may have been previously frozen)"
+            },
+            {
+                "offset": 4628,
+                "id": "15150",
+                "name": "Crustaceans, shrimp, mixed species, cooked, breaded and fried"
+            },
+            {
+                "offset": 4629,
+                "id": "15151",
+                "name": "Crustaceans, shrimp, mixed species, cooked, moist heat (may have been previously frozen)"
+            },
+            {
+                "offset": 4630,
+                "id": "15152",
+                "name": "Crustaceans, shrimp, mixed species, canned"
+            },
+            {
+                "offset": 4631,
+                "id": "15153",
+                "name": "Crustaceans, shrimp, mixed species, imitation, made from surimi"
+            },
+            {
+                "offset": 4632,
+                "id": "15154",
+                "name": "Crustaceans, spiny lobster, mixed species, raw"
+            },
+            {
+                "offset": 4633,
+                "id": "15155",
+                "name": "Mollusks, abalone, mixed species, raw"
+            },
+            {
+                "offset": 4634,
+                "id": "15156",
+                "name": "Mollusks, abalone, mixed species, cooked, fried"
+            },
+            {
+                "offset": 4635,
+                "id": "15157",
+                "name": "Mollusks, clam, mixed species, raw"
+            },
+            {
+                "offset": 4636,
+                "id": "15158",
+                "name": "Mollusks, clam, mixed species, cooked, breaded and fried"
+            },
+            {
+                "offset": 4637,
+                "id": "15159",
+                "name": "Mollusks, clam, mixed species, cooked, moist heat"
+            },
+            {
+                "offset": 4638,
+                "id": "15160",
+                "name": "Mollusks, clam, mixed species, canned, drained solids"
+            },
+            {
+                "offset": 4639,
+                "id": "15162",
+                "name": "Mollusks, clam, mixed species, canned, liquid"
+            },
+            {
+                "offset": 4640,
+                "id": "15163",
+                "name": "Mollusks, cuttlefish, mixed species, raw"
+            },
+            {
+                "offset": 4641,
+                "id": "15164",
+                "name": "Mollusks, mussel, blue, raw"
+            },
+            {
+                "offset": 4642,
+                "id": "15165",
+                "name": "Mollusks, mussel, blue, cooked, moist heat"
+            },
+            {
+                "offset": 4643,
+                "id": "15166",
+                "name": "Mollusks, octopus, common, raw"
+            },
+            {
+                "offset": 4644,
+                "id": "15167",
+                "name": "Mollusks, oyster, eastern, wild, raw"
+            },
+            {
+                "offset": 4645,
+                "id": "15168",
+                "name": "Mollusks, oyster, eastern, cooked, breaded and fried"
+            },
+            {
+                "offset": 4646,
+                "id": "15169",
+                "name": "Mollusks, oyster, eastern, wild, cooked, moist heat"
+            },
+            {
+                "offset": 4647,
+                "id": "15170",
+                "name": "Mollusks, oyster, eastern, canned"
+            },
+            {
+                "offset": 4648,
+                "id": "15171",
+                "name": "Mollusks, oyster, Pacific, raw"
+            },
+            {
+                "offset": 4649,
+                "id": "15172",
+                "name": "Mollusks, scallop, mixed species, raw"
+            },
+            {
+                "offset": 4650,
+                "id": "15173",
+                "name": "Mollusks, scallop, mixed species, cooked, breaded and fried"
+            },
+            {
+                "offset": 4651,
+                "id": "15174",
+                "name": "Mollusks, scallop, mixed species, imitation, made from surimi"
+            },
+            {
+                "offset": 4652,
+                "id": "15175",
+                "name": "Mollusks, squid, mixed species, raw"
+            },
+            {
+                "offset": 4653,
+                "id": "15176",
+                "name": "Mollusks, squid, mixed species, cooked, fried"
+            },
+            {
+                "offset": 4654,
+                "id": "15177",
+                "name": "Mollusks, whelk, unspecified, raw"
+            },
+            {
+                "offset": 4655,
+                "id": "15178",
+                "name": "Mollusks, whelk, unspecified, cooked, moist heat"
+            },
+            {
+                "offset": 4656,
+                "id": "15179",
+                "name": "Fish, salmon, chinook, smoked, (lox), regular"
+            },
+            {
+                "offset": 4657,
+                "id": "15180",
+                "name": "Fish, salmon, chum, canned, without salt, drained solids with bone"
+            },
+            {
+                "offset": 4658,
+                "id": "15181",
+                "name": "Fish, salmon, pink, canned, without salt, solids with bone and liquid"
+            },
+            {
+                "offset": 4659,
+                "id": "15182",
+                "name": "Fish, salmon, sockeye, canned, without salt, drained solids with bone"
+            },
+            {
+                "offset": 4660,
+                "id": "15183",
+                "name": "Fish, tuna, light, canned in oil, without salt, drained solids"
+            },
+            {
+                "offset": 4661,
+                "id": "15184",
+                "name": "Fish, tuna, light, canned in water, without salt, drained solids"
+            },
+            {
+                "offset": 4662,
+                "id": "15185",
+                "name": "Fish, tuna, white, canned in oil, without salt, drained solids"
+            },
+            {
+                "offset": 4663,
+                "id": "15186",
+                "name": "Fish, tuna, white, canned in water, without salt, drained solids"
+            },
+            {
+                "offset": 4664,
+                "id": "15187",
+                "name": "Fish, bass, freshwater, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4665,
+                "id": "15188",
+                "name": "Fish, bass, striped, cooked, dry heat"
+            },
+            {
+                "offset": 4666,
+                "id": "15189",
+                "name": "Fish, bluefish, cooked, dry heat"
+            },
+            {
+                "offset": 4667,
+                "id": "15190",
+                "name": "Fish, burbot, cooked, dry heat"
+            },
+            {
+                "offset": 4668,
+                "id": "15191",
+                "name": "Fish, butterfish, cooked, dry heat"
+            },
+            {
+                "offset": 4669,
+                "id": "15192",
+                "name": "Fish, cod, Pacific, cooked, dry heat (may have been previously frozen)"
+            },
+            {
+                "offset": 4670,
+                "id": "15193",
+                "name": "Fish, cusk, cooked, dry heat"
+            },
+            {
+                "offset": 4671,
+                "id": "15194",
+                "name": "Fish, mahimahi, cooked, dry heat"
+            },
+            {
+                "offset": 4672,
+                "id": "15195",
+                "name": "Fish, drum, freshwater, cooked, dry heat"
+            },
+            {
+                "offset": 4673,
+                "id": "15196",
+                "name": "Fish, halibut, greenland, cooked, dry heat"
+            },
+            {
+                "offset": 4674,
+                "id": "15197",
+                "name": "Fish, herring, Pacific, cooked, dry heat"
+            },
+            {
+                "offset": 4675,
+                "id": "15198",
+                "name": "Fish, ling, cooked, dry heat"
+            },
+            {
+                "offset": 4676,
+                "id": "15199",
+                "name": "Fish, lingcod, cooked, dry heat"
+            },
+            {
+                "offset": 4677,
+                "id": "15200",
+                "name": "Fish, mackerel, king, cooked, dry heat"
+            },
+            {
+                "offset": 4678,
+                "id": "15201",
+                "name": "Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4679,
+                "id": "15202",
+                "name": "Fish, milkfish, cooked, dry heat"
+            },
+            {
+                "offset": 4680,
+                "id": "15203",
+                "name": "Fish, monkfish, cooked, dry heat"
+            },
+            {
+                "offset": 4681,
+                "id": "15204",
+                "name": "Fish, pike, walleye, cooked, dry heat"
+            },
+            {
+                "offset": 4682,
+                "id": "15205",
+                "name": "Fish, pollock, Atlantic, cooked, dry heat"
+            },
+            {
+                "offset": 4683,
+                "id": "15206",
+                "name": "Fish, pout, ocean, cooked, dry heat"
+            },
+            {
+                "offset": 4684,
+                "id": "15207",
+                "name": "Fish, roe, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4685,
+                "id": "15208",
+                "name": "Fish, sablefish, cooked, dry heat"
+            },
+            {
+                "offset": 4686,
+                "id": "15209",
+                "name": "Fish, salmon, Atlantic, wild, cooked, dry heat"
+            },
+            {
+                "offset": 4687,
+                "id": "15210",
+                "name": "Fish, salmon, chinook, cooked, dry heat"
+            },
+            {
+                "offset": 4688,
+                "id": "15211",
+                "name": "Fish, salmon, chum, cooked, dry heat"
+            },
+            {
+                "offset": 4689,
+                "id": "15212",
+                "name": "Fish, salmon, pink, cooked, dry heat"
+            },
+            {
+                "offset": 4690,
+                "id": "15213",
+                "name": "Fish, scup, cooked, dry heat"
+            },
+            {
+                "offset": 4691,
+                "id": "15214",
+                "name": "Fish, seatrout, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4692,
+                "id": "15215",
+                "name": "Fish, shad, american, cooked, dry heat"
+            },
+            {
+                "offset": 4693,
+                "id": "15216",
+                "name": "Fish, spot, cooked, dry heat"
+            },
+            {
+                "offset": 4694,
+                "id": "15217",
+                "name": "Fish, sucker, white, cooked, dry heat"
+            },
+            {
+                "offset": 4695,
+                "id": "15218",
+                "name": "Fish, sunfish, pumpkin seed, cooked, dry heat"
+            },
+            {
+                "offset": 4696,
+                "id": "15219",
+                "name": "Fish, trout, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4697,
+                "id": "15220",
+                "name": "Fish, tuna, skipjack, fresh, cooked, dry heat"
+            },
+            {
+                "offset": 4698,
+                "id": "15221",
+                "name": "Fish, tuna, yellowfin, fresh, cooked, dry heat"
+            },
+            {
+                "offset": 4699,
+                "id": "15222",
+                "name": "Fish, turbot, european, cooked, dry heat"
+            },
+            {
+                "offset": 4700,
+                "id": "15223",
+                "name": "Fish, whitefish, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4701,
+                "id": "15224",
+                "name": "Fish, wolffish, Atlantic, cooked, dry heat"
+            },
+            {
+                "offset": 4702,
+                "id": "15225",
+                "name": "Fish, yellowtail, mixed species, cooked, dry heat"
+            },
+            {
+                "offset": 4703,
+                "id": "15226",
+                "name": "Crustaceans, crab, dungeness, cooked, moist heat"
+            },
+            {
+                "offset": 4704,
+                "id": "15227",
+                "name": "Crustaceans, crab, queen, cooked, moist heat"
+            },
+            {
+                "offset": 4705,
+                "id": "15228",
+                "name": "Crustaceans, spiny lobster, mixed species, cooked, moist heat"
+            },
+            {
+                "offset": 4706,
+                "id": "15229",
+                "name": "Mollusks, cuttlefish, mixed species, cooked, moist heat"
+            },
+            {
+                "offset": 4707,
+                "id": "15230",
+                "name": "Mollusks, octopus, common, cooked, moist heat"
+            },
+            {
+                "offset": 4708,
+                "id": "15231",
+                "name": "Mollusks, oyster, Pacific, cooked, moist heat"
+            },
+            {
+                "offset": 4709,
+                "id": "15232",
+                "name": "Fish, roughy, orange, cooked, dry heat"
+            },
+            {
+                "offset": 4710,
+                "id": "15233",
+                "name": "Fish, catfish, channel, wild, cooked, dry heat"
+            },
+            {
+                "offset": 4711,
+                "id": "15234",
+                "name": "Fish, catfish, channel, farmed, raw"
+            },
+            {
+                "offset": 4712,
+                "id": "15235",
+                "name": "Fish, catfish, channel, farmed, cooked, dry heat"
+            },
+            {
+                "offset": 4713,
+                "id": "15236",
+                "name": "Fish, salmon, Atlantic, farmed, raw"
+            },
+            {
+                "offset": 4714,
+                "id": "15237",
+                "name": "Fish, salmon, Atlantic, farmed, cooked, dry heat"
+            },
+            {
+                "offset": 4715,
+                "id": "15238",
+                "name": "Fish, salmon, coho, farmed, raw"
+            },
+            {
+                "offset": 4716,
+                "id": "15239",
+                "name": "Fish, salmon, coho, farmed, cooked, dry heat"
+            },
+            {
+                "offset": 4717,
+                "id": "15240",
+                "name": "Fish, trout, rainbow, farmed, raw"
+            },
+            {
+                "offset": 4718,
+                "id": "15241",
+                "name": "Fish, trout, rainbow, farmed, cooked, dry heat"
+            },
+            {
+                "offset": 4719,
+                "id": "15242",
+                "name": "Crustaceans, crayfish, mixed species, farmed, raw"
+            },
+            {
+                "offset": 4720,
+                "id": "15243",
+                "name": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat"
+            },
+            {
+                "offset": 4721,
+                "id": "15244",
+                "name": "Mollusks, oyster, eastern, wild, cooked, dry heat"
+            },
+            {
+                "offset": 4722,
+                "id": "15245",
+                "name": "Mollusks, oyster, eastern, farmed, raw"
+            },
+            {
+                "offset": 4723,
+                "id": "15246",
+                "name": "Mollusks, oyster, eastern, farmed, cooked, dry heat"
+            },
+            {
+                "offset": 4724,
+                "id": "15247",
+                "name": "Fish, salmon, coho, wild, cooked, dry heat"
+            },
+            {
+                "offset": 4725,
+                "id": "15250",
+                "name": "Mollusks, conch, baked or broiled"
+            },
+            {
+                "offset": 4726,
+                "id": "15251",
+                "name": "USDA Commodity, salmon nuggets, breaded, frozen, heated"
+            },
+            {
+                "offset": 4727,
+                "id": "15252",
+                "name": "USDA Commodity, salmon nuggets, cooked as purchased, unheated"
+            },
+            {
+                "offset": 4728,
+                "id": "15253",
+                "name": "Salmon, sockeye, canned, total can contents"
+            },
+            {
+                "offset": 4729,
+                "id": "15260",
+                "name": "Fish, salmon, pink, canned, drained solids"
+            },
+            {
+                "offset": 4730,
+                "id": "15261",
+                "name": "Fish, tilapia, raw"
+            },
+            {
+                "offset": 4731,
+                "id": "15262",
+                "name": "Fish, tilapia, cooked, dry heat"
+            },
+            {
+                "offset": 4732,
+                "id": "15264",
+                "name": "Salmon, sockeye, canned, drained solids, without skin and bones"
+            },
+            {
+                "offset": 4733,
+                "id": "15265",
+                "name": "Fish, Salmon, pink, canned, drained solids, without skin and bones"
+            },
+            {
+                "offset": 4734,
+                "id": "15266",
+                "name": "Fish, pollock, Alaska, raw (not previously frozen)"
+            },
+            {
+                "offset": 4735,
+                "id": "15267",
+                "name": "Fish, pollock, Alaska, cooked (not previously frozen)"
+            },
+            {
+                "offset": 4736,
+                "id": "15268",
+                "name": "Fish, cod, Pacific, raw (not previously frozen)"
+            },
+            {
+                "offset": 4737,
+                "id": "15269",
+                "name": "Fish, cod, Pacific, cooked (not previously frozen)"
+            },
+            {
+                "offset": 4738,
+                "id": "15270",
+                "name": "Crustaceans, shrimp, raw (not previously frozen)"
+            },
+            {
+                "offset": 4739,
+                "id": "15271",
+                "name": "Crustaceans, shrimp, cooked (not previously frozen)"
+            },
+            {
+                "offset": 4740,
+                "id": "15274",
+                "name": "Fish, trout, brook, raw, New York State"
+            },
+            {
+                "offset": 4741,
+                "id": "16001",
+                "name": "Beans, adzuki, mature seeds, raw"
+            },
+            {
+                "offset": 4742,
+                "id": "16002",
+                "name": "Beans, adzuki, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4743,
+                "id": "16003",
+                "name": "Beans, adzuki, mature seeds, canned, sweetened"
+            },
+            {
+                "offset": 4744,
+                "id": "16004",
+                "name": "Yokan, prepared from adzuki beans and sugar"
+            },
+            {
+                "offset": 4745,
+                "id": "16005",
+                "name": "Beans, baked, home prepared"
+            },
+            {
+                "offset": 4746,
+                "id": "16006",
+                "name": "Beans, baked, canned, plain or vegetarian"
+            },
+            {
+                "offset": 4747,
+                "id": "16007",
+                "name": "Beans, baked, canned, with beef"
+            },
+            {
+                "offset": 4748,
+                "id": "16008",
+                "name": "Beans, baked, canned, with franks"
+            },
+            {
+                "offset": 4749,
+                "id": "16009",
+                "name": "Beans, baked, canned, with pork"
+            },
+            {
+                "offset": 4750,
+                "id": "16010",
+                "name": "Beans, baked, canned, with pork and sweet sauce"
+            },
+            {
+                "offset": 4751,
+                "id": "16011",
+                "name": "Beans, baked, canned, with pork and tomato sauce"
+            },
+            {
+                "offset": 4752,
+                "id": "16014",
+                "name": "Beans, black, mature seeds, raw"
+            },
+            {
+                "offset": 4753,
+                "id": "16015",
+                "name": "Beans, black, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4754,
+                "id": "16016",
+                "name": "Beans, black turtle, mature seeds, raw"
+            },
+            {
+                "offset": 4755,
+                "id": "16017",
+                "name": "Beans, black turtle, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4756,
+                "id": "16018",
+                "name": "Beans, black turtle, mature seeds, canned"
+            },
+            {
+                "offset": 4757,
+                "id": "16019",
+                "name": "Beans, cranberry (roman), mature seeds, raw"
+            },
+            {
+                "offset": 4758,
+                "id": "16020",
+                "name": "Beans, cranberry (roman), mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4759,
+                "id": "16021",
+                "name": "Beans, cranberry (roman), mature seeds, canned"
+            },
+            {
+                "offset": 4760,
+                "id": "16022",
+                "name": "Beans, french, mature seeds, raw"
+            },
+            {
+                "offset": 4761,
+                "id": "16023",
+                "name": "Beans, french, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4762,
+                "id": "16024",
+                "name": "Beans, great northern, mature seeds, raw"
+            },
+            {
+                "offset": 4763,
+                "id": "16025",
+                "name": "Beans, great northern, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4764,
+                "id": "16026",
+                "name": "Beans, great northern, mature seeds, canned"
+            },
+            {
+                "offset": 4765,
+                "id": "16027",
+                "name": "Beans, kidney, all types, mature seeds, raw"
+            },
+            {
+                "offset": 4766,
+                "id": "16028",
+                "name": "Beans, kidney, all types, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4767,
+                "id": "16029",
+                "name": "Beans, kidney, all types, mature seeds, canned"
+            },
+            {
+                "offset": 4768,
+                "id": "16030",
+                "name": "Beans, kidney, california red, mature seeds, raw"
+            },
+            {
+                "offset": 4769,
+                "id": "16031",
+                "name": "Beans, kidney, california red, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4770,
+                "id": "16032",
+                "name": "Beans, kidney, red, mature seeds, raw"
+            },
+            {
+                "offset": 4771,
+                "id": "16033",
+                "name": "Beans, kidney, red, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4772,
+                "id": "16034",
+                "name": "Beans, kidney, red, mature seeds, canned, solids and liquids"
+            },
+            {
+                "offset": 4773,
+                "id": "16035",
+                "name": "Beans, kidney, royal red, mature seeds, raw"
+            },
+            {
+                "offset": 4774,
+                "id": "16036",
+                "name": "Beans, kidney, royal red, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4775,
+                "id": "16037",
+                "name": "Beans, navy, mature seeds, raw"
+            },
+            {
+                "offset": 4776,
+                "id": "16038",
+                "name": "Beans, navy, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4777,
+                "id": "16039",
+                "name": "Beans, navy, mature seeds, canned"
+            },
+            {
+                "offset": 4778,
+                "id": "16040",
+                "name": "Beans, pink, mature seeds, raw"
+            },
+            {
+                "offset": 4779,
+                "id": "16041",
+                "name": "Beans, pink, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4780,
+                "id": "16042",
+                "name": "Beans, pinto, mature seeds, raw"
+            },
+            {
+                "offset": 4781,
+                "id": "16043",
+                "name": "Beans, pinto, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4782,
+                "id": "16044",
+                "name": "Beans, pinto, mature seeds, canned, solids and liquids"
+            },
+            {
+                "offset": 4783,
+                "id": "16045",
+                "name": "Beans, small white, mature seeds, raw"
+            },
+            {
+                "offset": 4784,
+                "id": "16046",
+                "name": "Beans, small white, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4785,
+                "id": "16047",
+                "name": "Beans, yellow, mature seeds, raw"
+            },
+            {
+                "offset": 4786,
+                "id": "16048",
+                "name": "Beans, yellow, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4787,
+                "id": "16049",
+                "name": "Beans, white, mature seeds, raw"
+            },
+            {
+                "offset": 4788,
+                "id": "16050",
+                "name": "Beans, white, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4789,
+                "id": "16051",
+                "name": "Beans, white, mature seeds, canned"
+            },
+            {
+                "offset": 4790,
+                "id": "16052",
+                "name": "Broadbeans (fava beans), mature seeds, raw"
+            },
+            {
+                "offset": 4791,
+                "id": "16053",
+                "name": "Broadbeans (fava beans), mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4792,
+                "id": "16054",
+                "name": "Broadbeans (fava beans), mature seeds, canned"
+            },
+            {
+                "offset": 4793,
+                "id": "16055",
+                "name": "Carob flour"
+            },
+            {
+                "offset": 4794,
+                "id": "16056",
+                "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+            },
+            {
+                "offset": 4795,
+                "id": "16057",
+                "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4796,
+                "id": "16058",
+                "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids"
+            },
+            {
+                "offset": 4797,
+                "id": "16059",
+                "name": "Chili with beans, canned"
+            },
+            {
+                "offset": 4798,
+                "id": "16060",
+                "name": "Cowpeas, catjang, mature seeds, raw"
+            },
+            {
+                "offset": 4799,
+                "id": "16061",
+                "name": "Cowpeas, catjang, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4800,
+                "id": "16062",
+                "name": "Cowpeas, common (blackeyes, crowder, southern), mature seeds, raw"
+            },
+            {
+                "offset": 4801,
+                "id": "16063",
+                "name": "Cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4802,
+                "id": "16064",
+                "name": "Cowpeas, common (blackeyes, crowder, southern), mature seeds, canned, plain"
+            },
+            {
+                "offset": 4803,
+                "id": "16065",
+                "name": "Cowpeas, common (blackeyes, crowder, southern), mature seeds, canned with pork"
+            },
+            {
+                "offset": 4804,
+                "id": "16067",
+                "name": "Hyacinth beans, mature seeds, raw"
+            },
+            {
+                "offset": 4805,
+                "id": "16068",
+                "name": "Hyacinth beans, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4806,
+                "id": "16069",
+                "name": "Lentils, raw"
+            },
+            {
+                "offset": 4807,
+                "id": "16070",
+                "name": "Lentils, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4808,
+                "id": "16071",
+                "name": "Lima beans, large, mature seeds, raw"
+            },
+            {
+                "offset": 4809,
+                "id": "16072",
+                "name": "Lima beans, large, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4810,
+                "id": "16073",
+                "name": "Lima beans, large, mature seeds, canned"
+            },
+            {
+                "offset": 4811,
+                "id": "16074",
+                "name": "Lima beans, thin seeded (baby), mature seeds, raw"
+            },
+            {
+                "offset": 4812,
+                "id": "16075",
+                "name": "Lima beans, thin seeded (baby), mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4813,
+                "id": "16076",
+                "name": "Lupins, mature seeds, raw"
+            },
+            {
+                "offset": 4814,
+                "id": "16077",
+                "name": "Lupins, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4815,
+                "id": "16078",
+                "name": "Mothbeans, mature seeds, raw"
+            },
+            {
+                "offset": 4816,
+                "id": "16079",
+                "name": "Mothbeans, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4817,
+                "id": "16080",
+                "name": "Mung beans, mature seeds, raw"
+            },
+            {
+                "offset": 4818,
+                "id": "16081",
+                "name": "Mung beans, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4819,
+                "id": "16082",
+                "name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated"
+            },
+            {
+                "offset": 4820,
+                "id": "16083",
+                "name": "Mungo beans, mature seeds, raw"
+            },
+            {
+                "offset": 4821,
+                "id": "16084",
+                "name": "Mungo beans, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4822,
+                "id": "16085",
+                "name": "Peas, green, split, mature seeds, raw"
+            },
+            {
+                "offset": 4823,
+                "id": "16086",
+                "name": "Peas, split, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4824,
+                "id": "16087",
+                "name": "Peanuts, all types, raw"
+            },
+            {
+                "offset": 4825,
+                "id": "16088",
+                "name": "Peanuts, all types, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4826,
+                "id": "16089",
+                "name": "Peanuts, all types, oil-roasted, with salt"
+            },
+            {
+                "offset": 4827,
+                "id": "16090",
+                "name": "Peanuts, all types, dry-roasted, with salt"
+            },
+            {
+                "offset": 4828,
+                "id": "16091",
+                "name": "Peanuts, spanish, raw"
+            },
+            {
+                "offset": 4829,
+                "id": "16092",
+                "name": "Peanuts, spanish, oil-roasted, with salt"
+            },
+            {
+                "offset": 4830,
+                "id": "16093",
+                "name": "Peanuts, valencia, raw"
+            },
+            {
+                "offset": 4831,
+                "id": "16094",
+                "name": "Peanuts, valencia, oil-roasted, with salt"
+            },
+            {
+                "offset": 4832,
+                "id": "16095",
+                "name": "Peanuts, virginia, raw"
+            },
+            {
+                "offset": 4833,
+                "id": "16096",
+                "name": "Peanuts, virginia, oil-roasted, with salt"
+            },
+            {
+                "offset": 4834,
+                "id": "16097",
+                "name": "Peanut butter, chunk style, with salt"
+            },
+            {
+                "offset": 4835,
+                "id": "16098",
+                "name": "Peanut butter, smooth style, with salt"
+            },
+            {
+                "offset": 4836,
+                "id": "16099",
+                "name": "Peanut flour, defatted"
+            },
+            {
+                "offset": 4837,
+                "id": "16100",
+                "name": "Peanut flour, low fat"
+            },
+            {
+                "offset": 4838,
+                "id": "16101",
+                "name": "Pigeon peas (red gram), mature seeds, raw"
+            },
+            {
+                "offset": 4839,
+                "id": "16102",
+                "name": "Pigeon peas (red gram), mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4840,
+                "id": "16103",
+                "name": "Refried beans, canned, traditional style (includes USDA commodity)"
+            },
+            {
+                "offset": 4841,
+                "id": "16104",
+                "name": "Bacon, meatless"
+            },
+            {
+                "offset": 4842,
+                "id": "16106",
+                "name": "Meat extender"
+            },
+            {
+                "offset": 4843,
+                "id": "16107",
+                "name": "Sausage, meatless"
+            },
+            {
+                "offset": 4844,
+                "id": "16108",
+                "name": "Soybeans, mature seeds, raw"
+            },
+            {
+                "offset": 4845,
+                "id": "16109",
+                "name": "Soybeans, mature cooked, boiled, without salt"
+            },
+            {
+                "offset": 4846,
+                "id": "16110",
+                "name": "Soybeans, mature seeds, roasted, salted"
+            },
+            {
+                "offset": 4847,
+                "id": "16111",
+                "name": "Soybeans, mature seeds, dry roasted"
+            },
+            {
+                "offset": 4848,
+                "id": "16112",
+                "name": "Miso"
+            },
+            {
+                "offset": 4849,
+                "id": "16113",
+                "name": "Natto"
+            },
+            {
+                "offset": 4850,
+                "id": "16114",
+                "name": "Tempeh"
+            },
+            {
+                "offset": 4851,
+                "id": "16115",
+                "name": "Soy flour, full-fat, raw"
+            },
+            {
+                "offset": 4852,
+                "id": "16116",
+                "name": "Soy flour, full-fat, roasted"
+            },
+            {
+                "offset": 4853,
+                "id": "16117",
+                "name": "Soy flour, defatted"
+            },
+            {
+                "offset": 4854,
+                "id": "16118",
+                "name": "Soy flour, low-fat"
+            },
+            {
+                "offset": 4855,
+                "id": "16119",
+                "name": "Soy meal, defatted, raw"
+            },
+            {
+                "offset": 4856,
+                "id": "16120",
+                "name": "Soymilk, original and vanilla, unfortified"
+            },
+            {
+                "offset": 4857,
+                "id": "16121",
+                "name": "Soy protein concentrate, produced by alcohol extraction"
+            },
+            {
+                "offset": 4858,
+                "id": "16122",
+                "name": "Soy protein isolate"
+            },
+            {
+                "offset": 4859,
+                "id": "16123",
+                "name": "Soy sauce made from soy and wheat (shoyu)"
+            },
+            {
+                "offset": 4860,
+                "id": "16124",
+                "name": "Soy sauce made from soy (tamari)"
+            },
+            {
+                "offset": 4861,
+                "id": "16125",
+                "name": "Soy sauce made from hydrolyzed vegetable protein"
+            },
+            {
+                "offset": 4862,
+                "id": "16126",
+                "name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+            },
+            {
+                "offset": 4863,
+                "id": "16127",
+                "name": "Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)"
+            },
+            {
+                "offset": 4864,
+                "id": "16128",
+                "name": "Tofu, dried-frozen (koyadofu)"
+            },
+            {
+                "offset": 4865,
+                "id": "16129",
+                "name": "Tofu, fried"
+            },
+            {
+                "offset": 4866,
+                "id": "16130",
+                "name": "Okara"
+            },
+            {
+                "offset": 4867,
+                "id": "16132",
+                "name": "Tofu, salted and fermented (fuyu)"
+            },
+            {
+                "offset": 4868,
+                "id": "16133",
+                "name": "Yardlong beans, mature seeds, raw"
+            },
+            {
+                "offset": 4869,
+                "id": "16134",
+                "name": "Yardlong beans, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4870,
+                "id": "16135",
+                "name": "Winged beans, mature seeds, raw"
+            },
+            {
+                "offset": 4871,
+                "id": "16136",
+                "name": "Winged beans, mature seeds, cooked, boiled, without salt"
+            },
+            {
+                "offset": 4872,
+                "id": "16137",
+                "name": "Hummus, home prepared"
+            },
+            {
+                "offset": 4873,
+                "id": "16138",
+                "name": "Falafel, home-prepared"
+            },
+            {
+                "offset": 4874,
+                "id": "16139",
+                "name": "Soymilk, original and vanilla, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4875,
+                "id": "16144",
+                "name": "Lentils, pink or red, raw"
+            },
+            {
+                "offset": 4876,
+                "id": "16145",
+                "name": "Beans, kidney, red, mature seeds, canned, drained solids"
+            },
+            {
+                "offset": 4877,
+                "id": "16146",
+                "name": "Beans, pinto, canned, drained solids"
+            },
+            {
+                "offset": 4878,
+                "id": "16147",
+                "name": "Veggie burgers or soyburgers, unprepared"
+            },
+            {
+                "offset": 4879,
+                "id": "16149",
+                "name": "Peanut spread, reduced sugar"
+            },
+            {
+                "offset": 4880,
+                "id": "16150",
+                "name": "Peanut butter, smooth, reduced fat"
+            },
+            {
+                "offset": 4881,
+                "id": "16155",
+                "name": "Peanut butter, smooth, vitamin and mineral fortified"
+            },
+            {
+                "offset": 4882,
+                "id": "16156",
+                "name": "Peanut butter, chunky, vitamin and mineral fortified"
+            },
+            {
+                "offset": 4883,
+                "id": "16157",
+                "name": "Chickpea flour (besan)"
+            },
+            {
+                "offset": 4884,
+                "id": "16158",
+                "name": "Hummus, commercial"
+            },
+            {
+                "offset": 4885,
+                "id": "16159",
+                "name": "Tofu, extra firm, prepared with nigari"
+            },
+            {
+                "offset": 4886,
+                "id": "16160",
+                "name": "Tofu, hard, prepared with nigari"
+            },
+            {
+                "offset": 4887,
+                "id": "16161",
+                "name": "MORI-NU, Tofu, silken, soft"
+            },
+            {
+                "offset": 4888,
+                "id": "16162",
+                "name": "MORI-NU, Tofu, silken, firm"
+            },
+            {
+                "offset": 4889,
+                "id": "16163",
+                "name": "MORI-NU, Tofu, silken, extra firm"
+            },
+            {
+                "offset": 4890,
+                "id": "16164",
+                "name": "MORI-NU, Tofu, silken, lite firm"
+            },
+            {
+                "offset": 4891,
+                "id": "16165",
+                "name": "MORI-NU, Tofu, silken, lite extra firm"
+            },
+            {
+                "offset": 4892,
+                "id": "16166",
+                "name": "Soymilk, chocolate, unfortified"
+            },
+            {
+                "offset": 4893,
+                "id": "16167",
+                "name": "USDA Commodity, Peanut Butter, smooth"
+            },
+            {
+                "offset": 4894,
+                "id": "16168",
+                "name": "Soymilk, chocolate, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4895,
+                "id": "16171",
+                "name": "Refried beans, canned, vegetarian"
+            },
+            {
+                "offset": 4896,
+                "id": "16172",
+                "name": "Refried beans, canned, fat-free"
+            },
+            {
+                "offset": 4897,
+                "id": "16173",
+                "name": "Frijoles rojos volteados (Refried beans, red, canned)"
+            },
+            {
+                "offset": 4898,
+                "id": "16174",
+                "name": "Tempeh, cooked"
+            },
+            {
+                "offset": 4899,
+                "id": "16200",
+                "name": "Campbell's Brown Sugar And Bacon Flavored Baked Beans"
+            },
+            {
+                "offset": 4900,
+                "id": "16201",
+                "name": "Campbell's Pork and Beans"
+            },
+            {
+                "offset": 4901,
+                "id": "16202",
+                "name": "PACE, Traditional Refried Beans"
+            },
+            {
+                "offset": 4902,
+                "id": "16203",
+                "name": "PACE, Salsa Refried Beans"
+            },
+            {
+                "offset": 4903,
+                "id": "16204",
+                "name": "PACE, Spicy Jalapeno Refried Beans"
+            },
+            {
+                "offset": 4904,
+                "id": "16210",
+                "name": "Vitasoy USA, Nasoya Lite Firm Tofu"
+            },
+            {
+                "offset": 4905,
+                "id": "16211",
+                "name": "Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu"
+            },
+            {
+                "offset": 4906,
+                "id": "16212",
+                "name": "Vitasoy USA, Organic Nasoya Extra Firm Tofu"
+            },
+            {
+                "offset": 4907,
+                "id": "16213",
+                "name": "Vitasoy USA, Organic Nasoya Firm Tofu"
+            },
+            {
+                "offset": 4908,
+                "id": "16214",
+                "name": "Vitasoy USA, Organic Nasoya Silken Tofu"
+            },
+            {
+                "offset": 4909,
+                "id": "16215",
+                "name": "Vitasoy USA, Vitasoy Organic Creamy Original Soymilk"
+            },
+            {
+                "offset": 4910,
+                "id": "16216",
+                "name": "Vitasoy USA, Vitasoy Organic Classic Original Soymilk"
+            },
+            {
+                "offset": 4911,
+                "id": "16219",
+                "name": "Vitasoy USA, Vitasoy Light Vanilla Soymilk"
+            },
+            {
+                "offset": 4912,
+                "id": "16222",
+                "name": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4913,
+                "id": "16223",
+                "name": "Soymilk (All flavors), enhanced"
+            },
+            {
+                "offset": 4914,
+                "id": "16225",
+                "name": "Soymilk, original and vanilla, light, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4915,
+                "id": "16227",
+                "name": "Soymilk, chocolate and other flavors, light, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4916,
+                "id": "16228",
+                "name": "Soymilk, original and vanilla, light, unsweetened, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4917,
+                "id": "16229",
+                "name": "Soymilk (All flavors), lowfat, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4918,
+                "id": "16230",
+                "name": "Soymilk (all flavors), nonfat, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4919,
+                "id": "16231",
+                "name": "Soymilk, chocolate, nonfat, with added calcium, vitamins A and D"
+            },
+            {
+                "offset": 4920,
+                "id": "16235",
+                "name": "SILK Plain, soymilk"
+            },
+            {
+                "offset": 4921,
+                "id": "16236",
+                "name": "SILK Vanilla, soymilk"
+            },
+            {
+                "offset": 4922,
+                "id": "16237",
+                "name": "SILK Chocolate, soymilk"
+            },
+            {
+                "offset": 4923,
+                "id": "16238",
+                "name": "SILK Light Plain, soymilk"
+            },
+            {
+                "offset": 4924,
+                "id": "16239",
+                "name": "SILK Light Vanilla, soymilk"
+            },
+            {
+                "offset": 4925,
+                "id": "16240",
+                "name": "SILK Light Chocolate, soymilk"
+            },
+            {
+                "offset": 4926,
+                "id": "16241",
+                "name": "SILK Plus Omega-3 DHA, soymilk"
+            },
+            {
+                "offset": 4927,
+                "id": "16242",
+                "name": "SILK Plus for Bone Health, soymilk"
+            },
+            {
+                "offset": 4928,
+                "id": "16243",
+                "name": "SILK Plus Fiber, soymilk"
+            },
+            {
+                "offset": 4929,
+                "id": "16244",
+                "name": "SILK Unsweetened, soymilk"
+            },
+            {
+                "offset": 4930,
+                "id": "16245",
+                "name": "SILK Very Vanilla, soymilk"
+            },
+            {
+                "offset": 4931,
+                "id": "16246",
+                "name": "SILK Nog, soymilk"
+            },
+            {
+                "offset": 4932,
+                "id": "16247",
+                "name": "SILK Chai, soymilk"
+            },
+            {
+                "offset": 4933,
+                "id": "16248",
+                "name": "SILK Mocha, soymilk"
+            },
+            {
+                "offset": 4934,
+                "id": "16249",
+                "name": "SILK Coffee, soymilk"
+            },
+            {
+                "offset": 4935,
+                "id": "16250",
+                "name": "SILK Vanilla soy yogurt (family size)"
+            },
+            {
+                "offset": 4936,
+                "id": "16251",
+                "name": "SILK Vanilla soy yogurt (single serving size)"
+            },
+            {
+                "offset": 4937,
+                "id": "16252",
+                "name": "SILK Plain soy yogurt"
+            },
+            {
+                "offset": 4938,
+                "id": "16253",
+                "name": "SILK Strawberry soy yogurt"
+            },
+            {
+                "offset": 4939,
+                "id": "16254",
+                "name": "SILK Raspberry soy yogurt"
+            },
+            {
+                "offset": 4940,
+                "id": "16255",
+                "name": "SILK Peach soy yogurt"
+            },
+            {
+                "offset": 4941,
+                "id": "16256",
+                "name": "SILK Black Cherry soy yogurt"
+            },
+            {
+                "offset": 4942,
+                "id": "16257",
+                "name": "SILK Blueberry soy yogurt"
+            },
+            {
+                "offset": 4943,
+                "id": "16258",
+                "name": "SILK Key Lime soy yogurt"
+            },
+            {
+                "offset": 4944,
+                "id": "16259",
+                "name": "SILK Banana-Strawberry soy yogurt"
+            },
+            {
+                "offset": 4945,
+                "id": "16260",
+                "name": "SILK Original Creamer"
+            },
+            {
+                "offset": 4946,
+                "id": "16261",
+                "name": "SILK French Vanilla Creamer"
+            },
+            {
+                "offset": 4947,
+                "id": "16262",
+                "name": "SILK Hazelnut Creamer"
+            },
+            {
+                "offset": 4948,
+                "id": "16271",
+                "name": "Vitasoy USA Organic Nasoya, Soft Tofu"
+            },
+            {
+                "offset": 4949,
+                "id": "16272",
+                "name": "Vitasoy USA Nasoya, Lite Silken Tofu"
+            },
+            {
+                "offset": 4950,
+                "id": "16273",
+                "name": "Vitasoy USA Organic Nasoya, Tofu Plus Extra Firm"
+            },
+            {
+                "offset": 4951,
+                "id": "16274",
+                "name": "Vitasoy USA Organic Nasoya, Tofu Plus Firm"
+            },
+            {
+                "offset": 4952,
+                "id": "16275",
+                "name": "Vitasoy USA Organic Nasoya Sprouted, Tofu Plus Super Firm"
+            },
+            {
+                "offset": 4953,
+                "id": "16276",
+                "name": "Vitasoy USA Azumaya, Extra Firm Tofu"
+            },
+            {
+                "offset": 4954,
+                "id": "16277",
+                "name": "Vitasoy USA Azumaya, Firm Tofu"
+            },
+            {
+                "offset": 4955,
+                "id": "16278",
+                "name": "Vitasoy USA Azumaya, Silken Tofu"
+            },
+            {
+                "offset": 4956,
+                "id": "16279",
+                "name": "HOUSE FOODS Premium Soft Tofu"
+            },
+            {
+                "offset": 4957,
+                "id": "16281",
+                "name": "HOUSE FOODS Premium Firm Tofu"
+            },
+            {
+                "offset": 4958,
+                "id": "16302",
+                "name": "Beans, adzuki, mature seed, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4959,
+                "id": "16315",
+                "name": "Beans, black, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4960,
+                "id": "16316",
+                "name": "Beans, black, mature seeds, canned, low sodium"
+            },
+            {
+                "offset": 4961,
+                "id": "16317",
+                "name": "Beans, black turtle, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4962,
+                "id": "16320",
+                "name": "Beans, cranberry (roman), mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4963,
+                "id": "16323",
+                "name": "Beans, french, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4964,
+                "id": "16325",
+                "name": "Beans, great northern, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4965,
+                "id": "16326",
+                "name": "Beans, great northern, mature seeds, canned, low sodium"
+            },
+            {
+                "offset": 4966,
+                "id": "16328",
+                "name": "Beans, kidney, all types, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4967,
+                "id": "16331",
+                "name": "Beans, kidney, california red, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4968,
+                "id": "16333",
+                "name": "Beans, kidney, red, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4969,
+                "id": "16335",
+                "name": "Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water"
+            },
+            {
+                "offset": 4970,
+                "id": "16336",
+                "name": "Beans, kidney, royal red, mature seeds, cooked, boiled with salt"
+            },
+            {
+                "offset": 4971,
+                "id": "16337",
+                "name": "Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium"
+            },
+            {
+                "offset": 4972,
+                "id": "16338",
+                "name": "Beans, navy, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4973,
+                "id": "16341",
+                "name": "Beans, pink, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4974,
+                "id": "16343",
+                "name": "Beans, pinto, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4975,
+                "id": "16345",
+                "name": "Beans, pinto, mature seeds, canned, drained solids, rinsed in tap water"
+            },
+            {
+                "offset": 4976,
+                "id": "16346",
+                "name": "Beans, small white, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4977,
+                "id": "16347",
+                "name": "Beans, pinto, mature seeds, canned, solids and liquids, low sodium"
+            },
+            {
+                "offset": 4978,
+                "id": "16348",
+                "name": "Beans, yellow, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4979,
+                "id": "16350",
+                "name": "Beans, white, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4980,
+                "id": "16353",
+                "name": "Broadbeans (fava beans), mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4981,
+                "id": "16357",
+                "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4982,
+                "id": "16358",
+                "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids"
+            },
+            {
+                "offset": 4983,
+                "id": "16359",
+                "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+            },
+            {
+                "offset": 4984,
+                "id": "16360",
+                "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium"
+            },
+            {
+                "offset": 4985,
+                "id": "16361",
+                "name": "Cowpeas, catjang, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4986,
+                "id": "16363",
+                "name": "Cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4987,
+                "id": "16368",
+                "name": "Hyacinth beans, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4988,
+                "id": "16370",
+                "name": "Lentils, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4989,
+                "id": "16372",
+                "name": "Lima beans, large, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4990,
+                "id": "16375",
+                "name": "Lima beans, thin seeded (baby), mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4991,
+                "id": "16377",
+                "name": "Lupins, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4992,
+                "id": "16379",
+                "name": "Mothbeans, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4993,
+                "id": "16381",
+                "name": "Mung beans, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4994,
+                "id": "16384",
+                "name": "Mungo beans, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4995,
+                "id": "16386",
+                "name": "Peas, split, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 4996,
+                "id": "16389",
+                "name": "Peanuts, all types, oil-roasted, without salt"
+            },
+            {
+                "offset": 4997,
+                "id": "16390",
+                "name": "Peanuts, all types, dry-roasted, without salt"
+            },
+            {
+                "offset": 4998,
+                "id": "16392",
+                "name": "Peanuts, spanish, oil-roasted, without salt"
+            },
+            {
+                "offset": 4999,
+                "id": "16394",
+                "name": "Peanuts, valencia, oil-roasted, without salt"
+            }
+        ]
+    }
+}

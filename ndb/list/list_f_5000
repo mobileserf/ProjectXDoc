@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 5000,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 5000,
+                "id": "16396",
+                "name": "Peanuts, virginia, oil-roasted, without salt"
+            },
+            {
+                "offset": 5001,
+                "id": "16397",
+                "name": "Peanut butter, chunk style, without salt"
+            },
+            {
+                "offset": 5002,
+                "id": "16398",
+                "name": "Peanut butter, smooth style, without salt"
+            },
+            {
+                "offset": 5003,
+                "id": "16399",
+                "name": "Peanut butter with omega-3, creamy"
+            },
+            {
+                "offset": 5004,
+                "id": "16402",
+                "name": "Pigeon peas (red gram), mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 5005,
+                "id": "16403",
+                "name": "Refried beans, canned, traditional, reduced sodium"
+            },
+            {
+                "offset": 5006,
+                "id": "16409",
+                "name": "Soybeans, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 5007,
+                "id": "16410",
+                "name": "Soybeans, mature seeds, roasted, no salt added"
+            },
+            {
+                "offset": 5008,
+                "id": "16420",
+                "name": "Soy protein concentrate, produced by acid wash"
+            },
+            {
+                "offset": 5009,
+                "id": "16422",
+                "name": "Soy protein isolate, potassium type"
+            },
+            {
+                "offset": 5010,
+                "id": "16424",
+                "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+            },
+            {
+                "offset": 5011,
+                "id": "16425",
+                "name": "Soy sauce, reduced sodium, made from hydrolyzed vegetable protein"
+            },
+            {
+                "offset": 5012,
+                "id": "16426",
+                "name": "Tofu, raw, firm, prepared with calcium sulfate"
+            },
+            {
+                "offset": 5013,
+                "id": "16427",
+                "name": "Tofu, raw, regular, prepared with calcium sulfate"
+            },
+            {
+                "offset": 5014,
+                "id": "16428",
+                "name": "Tofu, dried-frozen (koyadofu), prepared with calcium sulfate"
+            },
+            {
+                "offset": 5015,
+                "id": "16429",
+                "name": "Tofu, fried, prepared with calcium sulfate"
+            },
+            {
+                "offset": 5016,
+                "id": "16432",
+                "name": "Tofu, salted and fermented (fuyu), prepared with calcium sulfate"
+            },
+            {
+                "offset": 5017,
+                "id": "16434",
+                "name": "Yardlong beans, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 5018,
+                "id": "16436",
+                "name": "Winged beans, mature seeds, cooked, boiled, with salt"
+            },
+            {
+                "offset": 5019,
+                "id": "16500",
+                "name": "LOMA LINDA Little Links, canned, unprepared"
+            },
+            {
+                "offset": 5020,
+                "id": "16502",
+                "name": "LOMA LINDA Low Fat Big Franks, canned, unprepared"
+            },
+            {
+                "offset": 5021,
+                "id": "16504",
+                "name": "LOMA LINDA Tender Rounds with Gravy, canned, unprepared"
+            },
+            {
+                "offset": 5022,
+                "id": "16505",
+                "name": "LOMA LINDA Swiss Stake with Gravy, canned, unprepared"
+            },
+            {
+                "offset": 5023,
+                "id": "16506",
+                "name": "LOMA LINDA Vege-Burger, canned, unprepared"
+            },
+            {
+                "offset": 5024,
+                "id": "16507",
+                "name": "LOMA LINDA Redi-Burger, canned, unprepared"
+            },
+            {
+                "offset": 5025,
+                "id": "16508",
+                "name": "LOMA LINDA Tender Bits, canned, unprepared"
+            },
+            {
+                "offset": 5026,
+                "id": "16509",
+                "name": "LOMA LINDA Linketts, canned, unprepared"
+            },
+            {
+                "offset": 5027,
+                "id": "16510",
+                "name": "WORTHINGTON Chili, canned, unprepared"
+            },
+            {
+                "offset": 5028,
+                "id": "16511",
+                "name": "WORTHINGTON Choplets, canned, unprepared"
+            },
+            {
+                "offset": 5029,
+                "id": "16512",
+                "name": "WORTHINGTON Diced Chik, canned, unprepared"
+            },
+            {
+                "offset": 5030,
+                "id": "16513",
+                "name": "WORTHINGTON FriChik Original, canned, unprepared"
+            },
+            {
+                "offset": 5031,
+                "id": "16514",
+                "name": "WORTHINGTON Low Fat Fri Chik, canned, unprepared"
+            },
+            {
+                "offset": 5032,
+                "id": "16515",
+                "name": "WORTHINGTON Low Fat Veja-Links, canned, unprepared"
+            },
+            {
+                "offset": 5033,
+                "id": "16516",
+                "name": "WORTHINGTON Multigrain Cutlets, canned, unprepared"
+            },
+            {
+                "offset": 5034,
+                "id": "16517",
+                "name": "WORTHINGTON Prime Stakes, canned, unprepared"
+            },
+            {
+                "offset": 5035,
+                "id": "16518",
+                "name": "WORTHINGTON Saucettes, canned, unprepared"
+            },
+            {
+                "offset": 5036,
+                "id": "16519",
+                "name": "WORTHINGTON Super Links, canned, unprepared"
+            },
+            {
+                "offset": 5037,
+                "id": "16521",
+                "name": "WORTHINGTON Vegetable Skallops, canned, unprepared"
+            },
+            {
+                "offset": 5038,
+                "id": "16522",
+                "name": "WORTHINGTON Vegetable Steaks, canned, unprepared"
+            },
+            {
+                "offset": 5039,
+                "id": "16523",
+                "name": "WORTHINGTON Vegetarian Burger, canned, unprepared"
+            },
+            {
+                "offset": 5040,
+                "id": "16524",
+                "name": "WORTHINGTON Veja-Links, canned, unprepared"
+            },
+            {
+                "offset": 5041,
+                "id": "16525",
+                "name": "WORTHINGTON Chic-Ketts, frozen, unprepared"
+            },
+            {
+                "offset": 5042,
+                "id": "16526",
+                "name": "WORTHINGTON Meatless Chicken Roll, frozen, unprepared"
+            },
+            {
+                "offset": 5043,
+                "id": "16527",
+                "name": "WORTHINGTON Meatless Corned Beef Roll, frozen, unprepared"
+            },
+            {
+                "offset": 5044,
+                "id": "16528",
+                "name": "WORTHINGTON Dinner Roast, frozen, unprepared"
+            },
+            {
+                "offset": 5045,
+                "id": "16529",
+                "name": "WORTHINGTON FriPats, frozen, unprepared"
+            },
+            {
+                "offset": 5046,
+                "id": "16531",
+                "name": "WORTHINGTON Prosage Links, frozen, unprepared"
+            },
+            {
+                "offset": 5047,
+                "id": "16532",
+                "name": "WORTHINGTON Prosage Roll, frozen, unprepared"
+            },
+            {
+                "offset": 5048,
+                "id": "16533",
+                "name": "WORTHINGTON Smoked Turkey Roll, frozen, unprepared"
+            },
+            {
+                "offset": 5049,
+                "id": "16534",
+                "name": "WORTHINGTON Stakelets, frozen, unprepared"
+            },
+            {
+                "offset": 5050,
+                "id": "16535",
+                "name": "WORTHINGTON Stripples, frozen, unprepared"
+            },
+            {
+                "offset": 5051,
+                "id": "16536",
+                "name": "WORTHINGTON Wham (roll), frozen, unprepared"
+            },
+            {
+                "offset": 5052,
+                "id": "16538",
+                "name": "MORNINGSTAR FARMS Breakfast Pattie with Organic Soy, frozen, unprepared"
+            },
+            {
+                "offset": 5053,
+                "id": "16542",
+                "name": "MORNINGSTAR FARMS Breakfast Bacon Strips, frozen, unprepared"
+            },
+            {
+                "offset": 5054,
+                "id": "16546",
+                "name": "MORNINGSTAR FARMS Breakfast Sausage Links, frozen, unprepared"
+            },
+            {
+                "offset": 5055,
+                "id": "16548",
+                "name": "MORNINGSTAR FARMS Grillers Original, frozen, unprepared"
+            },
+            {
+                "offset": 5056,
+                "id": "16549",
+                "name": "MORNINGSTAR FARMS Grillers Prime, frozen, unprepared"
+            },
+            {
+                "offset": 5057,
+                "id": "16551",
+                "name": "MORNINGSTAR FARMS Asian Veggie Patties, frozen, unprepared"
+            },
+            {
+                "offset": 5058,
+                "id": "16552",
+                "name": "MORNINGSTAR FARMS Mushroom Lover's Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5059,
+                "id": "16554",
+                "name": "MORNINGSTAR FARMS Tomato & Basil Pizza Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5060,
+                "id": "16555",
+                "name": "MORNINGSTAR FARMS Buffalo Wings, frozen, unprepared"
+            },
+            {
+                "offset": 5061,
+                "id": "16556",
+                "name": "MORNINGSTAR FARMS Chik'n Nuggets, frozen, unprepared"
+            },
+            {
+                "offset": 5062,
+                "id": "16557",
+                "name": "MORNINGSTAR FARMS Chik Patties, frozen, unprepared"
+            },
+            {
+                "offset": 5063,
+                "id": "16558",
+                "name": "MORNINGSTAR FARMS Italian Herb Chik'n Pattie, frozen, unprepared"
+            },
+            {
+                "offset": 5064,
+                "id": "16560",
+                "name": "MORNINGSTAR FARMS Corn Dog, frozen, unprepared"
+            },
+            {
+                "offset": 5065,
+                "id": "16561",
+                "name": "MORNINGSTAR FARMS Corn Dog Mini, frozen, unprepared"
+            },
+            {
+                "offset": 5066,
+                "id": "16565",
+                "name": "MORNINGSTAR FARMS Sausage Style Recipe Crumbles, frozen, unprepared"
+            },
+            {
+                "offset": 5067,
+                "id": "16570",
+                "name": "GARDENBURGER Black Bean Chipotle Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5068,
+                "id": "16579",
+                "name": "GARDENBURGER Original, frozen, unprepared"
+            },
+            {
+                "offset": 5069,
+                "id": "16581",
+                "name": "GARDENBURGER Flame Grilled Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5070,
+                "id": "16584",
+                "name": "GARDENBURGER Savory Portabella Veggie Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5071,
+                "id": "16585",
+                "name": "GARDENBURGER Sun-Dried Tomato Basil Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5072,
+                "id": "16586",
+                "name": "GARDENBURGER Veggie Medley Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5073,
+                "id": "16587",
+                "name": "MORNINGSTAR FARMS Breakfast Sausage Patties Maple Flavored, frozen, unprepared"
+            },
+            {
+                "offset": 5074,
+                "id": "16588",
+                "name": "MORNINGSTAR FARMS Chik'n Grill Veggie Patties, frozen, unprepared"
+            },
+            {
+                "offset": 5075,
+                "id": "16590",
+                "name": "MORNINGSTAR FARMS BBQ Riblets, frozen, unprepared"
+            },
+            {
+                "offset": 5076,
+                "id": "16591",
+                "name": "WORTHINGTON Leanies, frozen, unprepared"
+            },
+            {
+                "offset": 5077,
+                "id": "16592",
+                "name": "MORNINGSTAR FARMS California Turk'y Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5078,
+                "id": "16593",
+                "name": "MORNINGSTAR FARMS Hot and Spicy Veggie Sausage Patties, frozen, unprepared"
+            },
+            {
+                "offset": 5079,
+                "id": "16594",
+                "name": "MORNINGSTAR FARMS Lasagna with Veggie Sausage, frozen, unprepared"
+            },
+            {
+                "offset": 5080,
+                "id": "16596",
+                "name": "MORNINGSTAR FARMS Grillers Quarter Pound Veggie Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5081,
+                "id": "16600",
+                "name": "MORNINGSTAR FARMS Sesame Chik'n Entree, frozen, unprepared"
+            },
+            {
+                "offset": 5082,
+                "id": "16601",
+                "name": "MORNINGSTAR FARMS Grillers Chik'n Veggie Patties, frozen, unprepared"
+            },
+            {
+                "offset": 5083,
+                "id": "16602",
+                "name": "MORNINGSTAR FARMS Meal Starters Veggie Meatballs, frozen, unprepared"
+            },
+            {
+                "offset": 5084,
+                "id": "16603",
+                "name": "MORNINGSTAR FARMS Breakfast Biscuit Sausage, Egg & Cheese, frozen, unprepared"
+            },
+            {
+                "offset": 5085,
+                "id": "16606",
+                "name": "MORNINGSTAR FARMS Mediterranean Chickpea, frozen, unprepared"
+            },
+            {
+                "offset": 5086,
+                "id": "16607",
+                "name": "MORNINGSTAR FARMS Buffalo Chik Patties, frozen, unprepared"
+            },
+            {
+                "offset": 5087,
+                "id": "16608",
+                "name": "MORNINGSTAR FARMS Chik Patties Original, frozen, unprepared"
+            },
+            {
+                "offset": 5088,
+                "id": "16609",
+                "name": "MORNINGSTAR FARMS Breakfast Pattie, frozen, unprepared"
+            },
+            {
+                "offset": 5089,
+                "id": "16610",
+                "name": "MORNINGSTAR FARMS Roasted Garlic & Quinoa Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5090,
+                "id": "16611",
+                "name": "MORNINGSTAR FARMS Parmesan Garlic Wings, frozen, unprepared"
+            },
+            {
+                "offset": 5091,
+                "id": "16613",
+                "name": "MORNINGSTAR FARMS Breakfast Sandwich Veggie Sausage Egg & Cheese English Muffin, frozen, unprepared"
+            },
+            {
+                "offset": 5092,
+                "id": "16614",
+                "name": "MORNINGSTAR FARMS Breakfast Sandwich Veggie Scramble & Cheese English Muffin, frozen, unprepared"
+            },
+            {
+                "offset": 5093,
+                "id": "16615",
+                "name": "MORNINGSTAR FARMS Chipotle Black Bean Crumbles, frozen, unprepared"
+            },
+            {
+                "offset": 5094,
+                "id": "16616",
+                "name": "MORNINGSTAR FARMS Garden Veggie Nuggets, frozen, unprepared"
+            },
+            {
+                "offset": 5095,
+                "id": "16617",
+                "name": "MORNINGSTAR FARMS Spicy Black Bean Enchilada Entree, frozen, unprepared"
+            },
+            {
+                "offset": 5096,
+                "id": "16618",
+                "name": "MORNINGSTAR FARMS Spicy Indian Veggie Burger, frozen, unprepared"
+            },
+            {
+                "offset": 5097,
+                "id": "16619",
+                "name": "MORNINGSTAR FARMS Tuscan Greens & Beans, frozen, unprepared"
+            },
+            {
+                "offset": 5098,
+                "id": "17000",
+                "name": "Veal, Australian, rib, rib roast, separable lean only, raw"
+            },
+            {
+                "offset": 5099,
+                "id": "17001",
+                "name": "Lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5100,
+                "id": "17002",
+                "name": "Lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4\" fat, choice, cooked"
+            },
+            {
+                "offset": 5101,
+                "id": "17003",
+                "name": "Lamb, domestic, composite of trimmed retail cuts, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5102,
+                "id": "17004",
+                "name": "Lamb, domestic, composite of trimmed retail cuts, separable lean only, trimmed to 1/4\" fat, choice, cooked"
+            },
+            {
+                "offset": 5103,
+                "id": "17005",
+                "name": "Lamb, domestic, composite of trimmed retail cuts, separable fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5104,
+                "id": "17006",
+                "name": "Lamb, domestic, composite of trimmed retail cuts, separable fat, trimmed to 1/4\" fat, choice, cooked"
+            },
+            {
+                "offset": 5105,
+                "id": "17007",
+                "name": "Lamb, domestic, foreshank, separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5106,
+                "id": "17008",
+                "name": "Lamb, domestic, foreshank, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5107,
+                "id": "17009",
+                "name": "Lamb, domestic, foreshank, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5108,
+                "id": "17010",
+                "name": "Lamb, domestic, foreshank, separable lean only, trimmed to 1/4\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5109,
+                "id": "17011",
+                "name": "Lamb, domestic, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5110,
+                "id": "17012",
+                "name": "Lamb, domestic, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5111,
+                "id": "17013",
+                "name": "Lamb, domestic, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5112,
+                "id": "17014",
+                "name": "Lamb, domestic, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5113,
+                "id": "17015",
+                "name": "Lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5114,
+                "id": "17016",
+                "name": "Lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5115,
+                "id": "17017",
+                "name": "Lamb, domestic, leg, shank half, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5116,
+                "id": "17018",
+                "name": "Lamb, domestic, leg, shank half, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5117,
+                "id": "17019",
+                "name": "Lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5118,
+                "id": "17020",
+                "name": "Lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5119,
+                "id": "17021",
+                "name": "Lamb, domestic, leg, sirloin half, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5120,
+                "id": "17022",
+                "name": "Lamb, domestic, leg, sirloin half, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5121,
+                "id": "17023",
+                "name": "Lamb, domestic, loin, separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5122,
+                "id": "17024",
+                "name": "Lamb, domestic, loin, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5123,
+                "id": "17025",
+                "name": "Lamb, domestic, loin, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5124,
+                "id": "17026",
+                "name": "Lamb, domestic, loin, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5125,
+                "id": "17027",
+                "name": "Lamb, domestic, loin, separable lean only, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5126,
+                "id": "17028",
+                "name": "Lamb, domestic, loin, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5127,
+                "id": "17029",
+                "name": "Lamb, domestic, rib, separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5128,
+                "id": "17030",
+                "name": "Lamb, domestic, rib, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5129,
+                "id": "17031",
+                "name": "Lamb, domestic, rib, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5130,
+                "id": "17032",
+                "name": "Lamb, domestic, rib, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5131,
+                "id": "17033",
+                "name": "Lamb, domestic, rib, separable lean only, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5132,
+                "id": "17034",
+                "name": "Lamb, domestic, rib, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5133,
+                "id": "17035",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5134,
+                "id": "17036",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5135,
+                "id": "17037",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5136,
+                "id": "17038",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5137,
+                "id": "17039",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5138,
+                "id": "17040",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5139,
+                "id": "17041",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5140,
+                "id": "17042",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5141,
+                "id": "17043",
+                "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5142,
+                "id": "17044",
+                "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5143,
+                "id": "17045",
+                "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5144,
+                "id": "17046",
+                "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5145,
+                "id": "17047",
+                "name": "Lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5146,
+                "id": "17048",
+                "name": "Lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5147,
+                "id": "17049",
+                "name": "Lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5148,
+                "id": "17050",
+                "name": "Lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5149,
+                "id": "17051",
+                "name": "Lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5150,
+                "id": "17052",
+                "name": "Lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5151,
+                "id": "17053",
+                "name": "Lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5152,
+                "id": "17054",
+                "name": "Lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5153,
+                "id": "17055",
+                "name": "Lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 5154,
+                "id": "17056",
+                "name": "Lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5155,
+                "id": "17057",
+                "name": "Lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5156,
+                "id": "17058",
+                "name": "Lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5157,
+                "id": "17059",
+                "name": "Lamb, domestic, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4\" fat, raw"
+            },
+            {
+                "offset": 5158,
+                "id": "17060",
+                "name": "Lamb, domestic, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4\" fat, cooked, braised"
+            },
+            {
+                "offset": 5159,
+                "id": "17061",
+                "name": "Lamb, domestic, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5160,
+                "id": "17062",
+                "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, raw"
+            },
+            {
+                "offset": 5161,
+                "id": "17063",
+                "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, cooked"
+            },
+            {
+                "offset": 5162,
+                "id": "17064",
+                "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean only, raw"
+            },
+            {
+                "offset": 5163,
+                "id": "17065",
+                "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean only, cooked"
+            },
+            {
+                "offset": 5164,
+                "id": "17066",
+                "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable fat, raw"
+            },
+            {
+                "offset": 5165,
+                "id": "17067",
+                "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable fat, cooked"
+            },
+            {
+                "offset": 5166,
+                "id": "17068",
+                "name": "Lamb, New Zealand, imported, fore-shank, separable lean and fat, raw"
+            },
+            {
+                "offset": 5167,
+                "id": "17069",
+                "name": "Lamb, New Zealand, imported, fore-shank, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5168,
+                "id": "17070",
+                "name": "Lamb, New Zealand, imported, fore-shank, separable lean only, raw"
+            },
+            {
+                "offset": 5169,
+                "id": "17071",
+                "name": "Lamb, New Zealand, imported, fore-shank, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5170,
+                "id": "17072",
+                "name": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean and fat, raw"
+            },
+            {
+                "offset": 5171,
+                "id": "17073",
+                "name": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 5172,
+                "id": "17074",
+                "name": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean only, raw"
+            },
+            {
+                "offset": 5173,
+                "id": "17075",
+                "name": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5174,
+                "id": "17076",
+                "name": "Lamb, New Zealand, imported, loin chop, separable lean and fat, raw"
+            },
+            {
+                "offset": 5175,
+                "id": "17077",
+                "name": "Lamb, New Zealand, imported, frozen, loin, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 5176,
+                "id": "17078",
+                "name": "Lamb, New Zealand, imported, loin chop, separable lean only, raw"
+            },
+            {
+                "offset": 5177,
+                "id": "17079",
+                "name": "Lamb, New Zealand, imported, frozen, loin, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 5178,
+                "id": "17080",
+                "name": "Lamb, New Zealand, imported, rack - partly frenched, separable lean and fat, raw"
+            },
+            {
+                "offset": 5179,
+                "id": "17081",
+                "name": "Lamb, New Zealand, imported, rack - partly frenched, separable lean and fat, cooked, fast roasted"
+            },
+            {
+                "offset": 5180,
+                "id": "17082",
+                "name": "Lamb, New Zealand, imported, rack - partly frenched, separable lean only, raw"
+            },
+            {
+                "offset": 5181,
+                "id": "17083",
+                "name": "Lamb, New Zealand, imported, rack - partly frenched, separable lean only, cooked, fast roasted"
+            },
+            {
+                "offset": 5182,
+                "id": "17084",
+                "name": "Lamb, New Zealand, imported, square-cut shoulder, separable lean and fat, raw"
+            },
+            {
+                "offset": 5183,
+                "id": "17085",
+                "name": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5184,
+                "id": "17086",
+                "name": "Lamb, New Zealand, imported, square-cut shoulder, separable lean only, raw"
+            },
+            {
+                "offset": 5185,
+                "id": "17087",
+                "name": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5186,
+                "id": "17088",
+                "name": "Veal, composite of trimmed retail cuts, separable lean and fat, raw"
+            },
+            {
+                "offset": 5187,
+                "id": "17089",
+                "name": "Veal, composite of trimmed retail cuts, separable lean and fat, cooked"
+            },
+            {
+                "offset": 5188,
+                "id": "17090",
+                "name": "Veal, composite of trimmed retail cuts, separable lean only, raw"
+            },
+            {
+                "offset": 5189,
+                "id": "17091",
+                "name": "Veal, composite of trimmed retail cuts, separable lean only, cooked"
+            },
+            {
+                "offset": 5190,
+                "id": "17092",
+                "name": "Veal, composite of trimmed retail cuts, separable fat, raw"
+            },
+            {
+                "offset": 5191,
+                "id": "17093",
+                "name": "Veal, composite of trimmed retail cuts, separable fat, cooked"
+            },
+            {
+                "offset": 5192,
+                "id": "17094",
+                "name": "Veal, leg (top round), separable lean and fat, raw"
+            },
+            {
+                "offset": 5193,
+                "id": "17095",
+                "name": "Veal, leg (top round), separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5194,
+                "id": "17096",
+                "name": "Veal, leg (top round), separable lean and fat, cooked, pan-fried, breaded"
+            },
+            {
+                "offset": 5195,
+                "id": "17097",
+                "name": "Veal, leg (top round), separable lean and fat, cooked, pan-fried, not breaded"
+            },
+            {
+                "offset": 5196,
+                "id": "17098",
+                "name": "Veal, leg (top round), separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 5197,
+                "id": "17099",
+                "name": "Veal, leg (top round), separable lean only, raw"
+            },
+            {
+                "offset": 5198,
+                "id": "17100",
+                "name": "Veal, leg (top round), separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5199,
+                "id": "17101",
+                "name": "Veal, leg (top round), separable lean only, cooked, pan-fried, breaded"
+            },
+            {
+                "offset": 5200,
+                "id": "17102",
+                "name": "Veal, leg (top round), separable lean only, cooked, pan-fried, not breaded"
+            },
+            {
+                "offset": 5201,
+                "id": "17103",
+                "name": "Veal, leg (top round), separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5202,
+                "id": "17104",
+                "name": "Veal, loin, separable lean and fat, raw"
+            },
+            {
+                "offset": 5203,
+                "id": "17105",
+                "name": "Veal, loin, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5204,
+                "id": "17106",
+                "name": "Veal, loin, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 5205,
+                "id": "17107",
+                "name": "Veal, loin, separable lean only, raw"
+            },
+            {
+                "offset": 5206,
+                "id": "17108",
+                "name": "Veal, loin, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5207,
+                "id": "17109",
+                "name": "Veal, loin, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5208,
+                "id": "17110",
+                "name": "Veal, rib, separable lean and fat, raw"
+            },
+            {
+                "offset": 5209,
+                "id": "17111",
+                "name": "Veal, rib, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5210,
+                "id": "17112",
+                "name": "Veal, rib, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 5211,
+                "id": "17113",
+                "name": "Veal, rib, separable lean only, raw"
+            },
+            {
+                "offset": 5212,
+                "id": "17114",
+                "name": "Veal, rib, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5213,
+                "id": "17115",
+                "name": "Veal, rib, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5214,
+                "id": "17116",
+                "name": "Veal, shoulder, whole (arm and blade), separable lean and fat, raw"
+            },
+            {
+                "offset": 5215,
+                "id": "17117",
+                "name": "Veal, shoulder, whole (arm and blade), separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5216,
+                "id": "17118",
+                "name": "Veal, shoulder, whole (arm and blade), separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 5217,
+                "id": "17119",
+                "name": "Veal, shoulder, whole (arm and blade), separable lean only, raw"
+            },
+            {
+                "offset": 5218,
+                "id": "17120",
+                "name": "Veal, shoulder, whole (arm and blade), separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5219,
+                "id": "17121",
+                "name": "Veal, shoulder, whole (arm and blade), separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5220,
+                "id": "17122",
+                "name": "Veal, shoulder, arm, separable lean and fat, raw"
+            },
+            {
+                "offset": 5221,
+                "id": "17123",
+                "name": "Veal, shoulder, arm, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5222,
+                "id": "17124",
+                "name": "Veal, shoulder, arm, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 5223,
+                "id": "17125",
+                "name": "Veal, shoulder, arm, separable lean only, raw"
+            },
+            {
+                "offset": 5224,
+                "id": "17126",
+                "name": "Veal, shoulder, arm, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5225,
+                "id": "17127",
+                "name": "Veal, shoulder, arm, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5226,
+                "id": "17128",
+                "name": "Veal, shoulder, blade chop, separable lean and fat, raw"
+            },
+            {
+                "offset": 5227,
+                "id": "17129",
+                "name": "Veal, shoulder, blade, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5228,
+                "id": "17130",
+                "name": "Veal, shoulder, blade, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 5229,
+                "id": "17131",
+                "name": "Veal, shoulder, blade chop, separable lean only, raw"
+            },
+            {
+                "offset": 5230,
+                "id": "17132",
+                "name": "Veal, shoulder, blade, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5231,
+                "id": "17133",
+                "name": "Veal, shoulder, blade, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5232,
+                "id": "17134",
+                "name": "Veal, sirloin, separable lean and fat, raw"
+            },
+            {
+                "offset": 5233,
+                "id": "17135",
+                "name": "Veal, sirloin, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5234,
+                "id": "17136",
+                "name": "Veal, sirloin, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 5235,
+                "id": "17137",
+                "name": "Veal, sirloin, separable lean only, raw"
+            },
+            {
+                "offset": 5236,
+                "id": "17138",
+                "name": "Veal, sirloin, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5237,
+                "id": "17139",
+                "name": "Veal, sirloin, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5238,
+                "id": "17140",
+                "name": "Veal, cubed for stew (leg and shoulder), separable lean only, raw"
+            },
+            {
+                "offset": 5239,
+                "id": "17141",
+                "name": "Veal, cubed for stew (leg and shoulder), separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5240,
+                "id": "17142",
+                "name": "Veal, ground, raw"
+            },
+            {
+                "offset": 5241,
+                "id": "17143",
+                "name": "Veal, ground, cooked, broiled"
+            },
+            {
+                "offset": 5242,
+                "id": "17144",
+                "name": "Game meat, antelope, raw"
+            },
+            {
+                "offset": 5243,
+                "id": "17145",
+                "name": "Game meat, antelope, cooked, roasted"
+            },
+            {
+                "offset": 5244,
+                "id": "17146",
+                "name": "Game meat, bear, raw"
+            },
+            {
+                "offset": 5245,
+                "id": "17147",
+                "name": "Game meat, bear, cooked, simmered"
+            },
+            {
+                "offset": 5246,
+                "id": "17148",
+                "name": "Bison, ground, grass-fed, cooked"
+            },
+            {
+                "offset": 5247,
+                "id": "17149",
+                "name": "Bison, ground, grass-fed, raw"
+            },
+            {
+                "offset": 5248,
+                "id": "17150",
+                "name": "Game meat, beaver, raw"
+            },
+            {
+                "offset": 5249,
+                "id": "17151",
+                "name": "Game meat, beaver, cooked, roasted"
+            },
+            {
+                "offset": 5250,
+                "id": "17152",
+                "name": "Game meat, beefalo, composite of cuts, raw"
+            },
+            {
+                "offset": 5251,
+                "id": "17153",
+                "name": "Game meat, beefalo, composite of cuts, cooked, roasted"
+            },
+            {
+                "offset": 5252,
+                "id": "17154",
+                "name": "Veal, Australian, separable fat, raw"
+            },
+            {
+                "offset": 5253,
+                "id": "17155",
+                "name": "Veal, Australian, rib, rib roast, separable lean and fat, raw"
+            },
+            {
+                "offset": 5254,
+                "id": "17156",
+                "name": "Game meat, bison, separable lean only, raw"
+            },
+            {
+                "offset": 5255,
+                "id": "17157",
+                "name": "Game meat, bison, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 5256,
+                "id": "17158",
+                "name": "Game meat, boar, wild, raw"
+            },
+            {
+                "offset": 5257,
+                "id": "17159",
+                "name": "Game meat, boar, wild, cooked, roasted"
+            },
+            {
+                "offset": 5258,
+                "id": "17160",
+                "name": "Game meat, buffalo, water, raw"
+            },
+            {
+                "offset": 5259,
+                "id": "17161",
+                "name": "Game meat, buffalo, water, cooked, roasted"
+            },
+            {
+                "offset": 5260,
+                "id": "17162",
+                "name": "Game meat, caribou, raw"
+            },
+            {
+                "offset": 5261,
+                "id": "17163",
+                "name": "Game meat, caribou, cooked, roasted"
+            },
+            {
+                "offset": 5262,
+                "id": "17164",
+                "name": "Game meat, deer, raw"
+            },
+            {
+                "offset": 5263,
+                "id": "17165",
+                "name": "Game meat, deer, cooked, roasted"
+            },
+            {
+                "offset": 5264,
+                "id": "17166",
+                "name": "Game meat, elk, raw"
+            },
+            {
+                "offset": 5265,
+                "id": "17167",
+                "name": "Game meat, elk, cooked, roasted"
+            },
+            {
+                "offset": 5266,
+                "id": "17168",
+                "name": "Goat, raw"
+            },
+            {
+                "offset": 5267,
+                "id": "17169",
+                "name": "Game meat, goat, cooked, roasted"
+            },
+            {
+                "offset": 5268,
+                "id": "17170",
+                "name": "Game meat, horse, raw"
+            },
+            {
+                "offset": 5269,
+                "id": "17171",
+                "name": "Game meat, horse, cooked, roasted"
+            },
+            {
+                "offset": 5270,
+                "id": "17172",
+                "name": "Game meat, moose, raw"
+            },
+            {
+                "offset": 5271,
+                "id": "17173",
+                "name": "Game meat, moose, cooked, roasted"
+            },
+            {
+                "offset": 5272,
+                "id": "17174",
+                "name": "Game meat, muskrat, raw"
+            },
+            {
+                "offset": 5273,
+                "id": "17175",
+                "name": "Game meat, muskrat, cooked, roasted"
+            },
+            {
+                "offset": 5274,
+                "id": "17176",
+                "name": "Game meat, opossum, cooked, roasted"
+            },
+            {
+                "offset": 5275,
+                "id": "17177",
+                "name": "Game meat, rabbit, domesticated, composite of cuts, raw"
+            },
+            {
+                "offset": 5276,
+                "id": "17178",
+                "name": "Game meat, rabbit, domesticated, composite of cuts, cooked, roasted"
+            },
+            {
+                "offset": 5277,
+                "id": "17179",
+                "name": "Game meat, rabbit, domesticated, composite of cuts, cooked, stewed"
+            },
+            {
+                "offset": 5278,
+                "id": "17180",
+                "name": "Game meat, rabbit, wild, raw"
+            },
+            {
+                "offset": 5279,
+                "id": "17181",
+                "name": "Game meat, rabbit, wild, cooked, stewed"
+            },
+            {
+                "offset": 5280,
+                "id": "17182",
+                "name": "Game meat, raccoon, cooked, roasted"
+            },
+            {
+                "offset": 5281,
+                "id": "17183",
+                "name": "Game meat, squirrel, raw"
+            },
+            {
+                "offset": 5282,
+                "id": "17184",
+                "name": "Game meat, squirrel, cooked, roasted"
+            },
+            {
+                "offset": 5283,
+                "id": "17185",
+                "name": "Lamb, variety meats and by-products, brain, raw"
+            },
+            {
+                "offset": 5284,
+                "id": "17186",
+                "name": "Lamb, variety meats and by-products, brain, cooked, braised"
+            },
+            {
+                "offset": 5285,
+                "id": "17187",
+                "name": "Lamb, variety meats and by-products, brain, cooked, pan-fried"
+            },
+            {
+                "offset": 5286,
+                "id": "17188",
+                "name": "Veal, variety meats and by-products, brain, raw"
+            },
+            {
+                "offset": 5287,
+                "id": "17189",
+                "name": "Veal, variety meats and by-products, brain, cooked, braised"
+            },
+            {
+                "offset": 5288,
+                "id": "17190",
+                "name": "Veal, variety meats and by-products, brain, cooked, pan-fried"
+            },
+            {
+                "offset": 5289,
+                "id": "17191",
+                "name": "Lamb, variety meats and by-products, heart, raw"
+            },
+            {
+                "offset": 5290,
+                "id": "17192",
+                "name": "Lamb, variety meats and by-products, heart, cooked, braised"
+            },
+            {
+                "offset": 5291,
+                "id": "17193",
+                "name": "Veal, variety meats and by-products, heart, raw"
+            },
+            {
+                "offset": 5292,
+                "id": "17194",
+                "name": "Veal, variety meats and by-products, heart, cooked, braised"
+            },
+            {
+                "offset": 5293,
+                "id": "17195",
+                "name": "Lamb, variety meats and by-products, kidneys, raw"
+            },
+            {
+                "offset": 5294,
+                "id": "17196",
+                "name": "Lamb, variety meats and by-products, kidneys, cooked, braised"
+            },
+            {
+                "offset": 5295,
+                "id": "17197",
+                "name": "Veal, variety meats and by-products, kidneys, raw"
+            },
+            {
+                "offset": 5296,
+                "id": "17198",
+                "name": "Veal, variety meats and by-products, kidneys, cooked, braised"
+            },
+            {
+                "offset": 5297,
+                "id": "17199",
+                "name": "Lamb, variety meats and by-products, liver, raw"
+            },
+            {
+                "offset": 5298,
+                "id": "17200",
+                "name": "Lamb, variety meats and by-products, liver, cooked, braised"
+            },
+            {
+                "offset": 5299,
+                "id": "17201",
+                "name": "Lamb, variety meats and by-products, liver, cooked, pan-fried"
+            },
+            {
+                "offset": 5300,
+                "id": "17202",
+                "name": "Veal, variety meats and by-products, liver, raw"
+            },
+            {
+                "offset": 5301,
+                "id": "17203",
+                "name": "Veal, variety meats and by-products, liver, cooked, braised"
+            },
+            {
+                "offset": 5302,
+                "id": "17204",
+                "name": "Veal, variety meats and by-products, liver, cooked, pan-fried"
+            },
+            {
+                "offset": 5303,
+                "id": "17205",
+                "name": "Lamb, variety meats and by-products, lungs, raw"
+            },
+            {
+                "offset": 5304,
+                "id": "17206",
+                "name": "Lamb, variety meats and by-products, lungs, cooked, braised"
+            },
+            {
+                "offset": 5305,
+                "id": "17207",
+                "name": "Veal, variety meats and by-products, lungs, raw"
+            },
+            {
+                "offset": 5306,
+                "id": "17208",
+                "name": "Veal, variety meats and by-products, lungs, cooked, braised"
+            },
+            {
+                "offset": 5307,
+                "id": "17209",
+                "name": "Lamb, variety meats and by-products, mechanically separated, raw"
+            },
+            {
+                "offset": 5308,
+                "id": "17210",
+                "name": "Lamb, variety meats and by-products, pancreas, raw"
+            },
+            {
+                "offset": 5309,
+                "id": "17211",
+                "name": "Lamb, variety meats and by-products, pancreas, cooked, braised"
+            },
+            {
+                "offset": 5310,
+                "id": "17212",
+                "name": "Veal, variety meats and by-products, pancreas, raw"
+            },
+            {
+                "offset": 5311,
+                "id": "17213",
+                "name": "Veal, variety meats and by-products, pancreas, cooked, braised"
+            },
+            {
+                "offset": 5312,
+                "id": "17214",
+                "name": "Lamb, variety meats and by-products, spleen, raw"
+            },
+            {
+                "offset": 5313,
+                "id": "17215",
+                "name": "Lamb, variety meats and by-products, spleen, cooked, braised"
+            },
+            {
+                "offset": 5314,
+                "id": "17216",
+                "name": "Veal, variety meats and by-products, spleen, raw"
+            },
+            {
+                "offset": 5315,
+                "id": "17217",
+                "name": "Veal, variety meats and by-products, spleen, cooked, braised"
+            },
+            {
+                "offset": 5316,
+                "id": "17218",
+                "name": "Veal, variety meats and by-products, thymus, raw"
+            },
+            {
+                "offset": 5317,
+                "id": "17219",
+                "name": "Veal, variety meats and by-products, thymus, cooked, braised"
+            },
+            {
+                "offset": 5318,
+                "id": "17220",
+                "name": "Lamb, variety meats and by-products, tongue, raw"
+            },
+            {
+                "offset": 5319,
+                "id": "17221",
+                "name": "Lamb, variety meats and by-products, tongue, cooked, braised"
+            },
+            {
+                "offset": 5320,
+                "id": "17222",
+                "name": "Veal, variety meats and by-products, tongue, raw"
+            },
+            {
+                "offset": 5321,
+                "id": "17223",
+                "name": "Veal, variety meats and by-products, tongue, cooked, braised"
+            },
+            {
+                "offset": 5322,
+                "id": "17224",
+                "name": "Lamb, ground, raw"
+            },
+            {
+                "offset": 5323,
+                "id": "17225",
+                "name": "Lamb, ground, cooked, broiled"
+            },
+            {
+                "offset": 5324,
+                "id": "17226",
+                "name": "Lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5325,
+                "id": "17227",
+                "name": "Lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, choice, cooked"
+            },
+            {
+                "offset": 5326,
+                "id": "17228",
+                "name": "Lamb, domestic, foreshank, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5327,
+                "id": "17229",
+                "name": "Lamb, domestic, foreshank, separable lean and fat, trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5328,
+                "id": "17230",
+                "name": "Lamb, domestic, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5329,
+                "id": "17231",
+                "name": "Lamb, domestic, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5330,
+                "id": "17232",
+                "name": "Lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5331,
+                "id": "17233",
+                "name": "Lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5332,
+                "id": "17234",
+                "name": "Lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5333,
+                "id": "17235",
+                "name": "Lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5334,
+                "id": "17236",
+                "name": "Lamb, domestic, loin, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5335,
+                "id": "17237",
+                "name": "Lamb, domestic, loin, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5336,
+                "id": "17238",
+                "name": "Lamb, domestic, loin, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5337,
+                "id": "17239",
+                "name": "Lamb, domestic, rib, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5338,
+                "id": "17240",
+                "name": "Lamb, domestic, rib, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5339,
+                "id": "17241",
+                "name": "Lamb, domestic, rib, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5340,
+                "id": "17242",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5341,
+                "id": "17243",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5342,
+                "id": "17244",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5343,
+                "id": "17245",
+                "name": "Lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5344,
+                "id": "17246",
+                "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5345,
+                "id": "17247",
+                "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5346,
+                "id": "17248",
+                "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5347,
+                "id": "17249",
+                "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, choice, roasted"
+            },
+            {
+                "offset": 5348,
+                "id": "17250",
+                "name": "Lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 5349,
+                "id": "17251",
+                "name": "Lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 5350,
+                "id": "17252",
+                "name": "Lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 5351,
+                "id": "17253",
+                "name": "Lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 5352,
+                "id": "17254",
+                "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5353,
+                "id": "17255",
+                "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, cooked"
+            },
+            {
+                "offset": 5354,
+                "id": "17256",
+                "name": "Lamb, New Zealand, imported, frozen, foreshank, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5355,
+                "id": "17257",
+                "name": "Lamb, New Zealand, imported, frozen, foreshank, separable lean and fat, trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5356,
+                "id": "17258",
+                "name": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5357,
+                "id": "17259",
+                "name": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5358,
+                "id": "17260",
+                "name": "Lamb, New Zealand, imported, frozen, loin, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5359,
+                "id": "17261",
+                "name": "Lamb, New Zealand, imported, frozen, loin, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5360,
+                "id": "17262",
+                "name": "Lamb, new zealand, imported, frozen, rib, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5361,
+                "id": "17263",
+                "name": "Lamb, New Zealand, imported, frozen, rib, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5362,
+                "id": "17264",
+                "name": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5363,
+                "id": "17265",
+                "name": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5364,
+                "id": "17267",
+                "name": "Game meat, bison, top sirloin, separable lean only, trimmed to 0\" fat, raw"
+            },
+            {
+                "offset": 5365,
+                "id": "17268",
+                "name": "Game meat, bison, ribeye, separable lean only, trimmed to 0\" fat, raw"
+            },
+            {
+                "offset": 5366,
+                "id": "17269",
+                "name": "Game meat, bison, shoulder clod, separable lean only, trimmed to 0\" fat, raw"
+            },
+            {
+                "offset": 5367,
+                "id": "17270",
+                "name": "Veal, breast, separable fat, cooked"
+            },
+            {
+                "offset": 5368,
+                "id": "17271",
+                "name": "Veal, breast, whole, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 5369,
+                "id": "17272",
+                "name": "Veal, breast, whole, boneless, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5370,
+                "id": "17273",
+                "name": "Veal, breast, plate half, boneless, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5371,
+                "id": "17274",
+                "name": "Veal, breast, point half, boneless, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5372,
+                "id": "17275",
+                "name": "Veal, breast, whole, boneless, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5373,
+                "id": "17276",
+                "name": "Veal, shank (fore and hind), separable lean and fat, raw"
+            },
+            {
+                "offset": 5374,
+                "id": "17277",
+                "name": "Veal, shank (fore and hind), separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5375,
+                "id": "17278",
+                "name": "Veal, shank (fore and hind), separable lean only, raw"
+            },
+            {
+                "offset": 5376,
+                "id": "17279",
+                "name": "Veal, shank (fore and hind), separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5377,
+                "id": "17280",
+                "name": "Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5378,
+                "id": "17281",
+                "name": "Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, cooked"
+            },
+            {
+                "offset": 5379,
+                "id": "17282",
+                "name": "Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5380,
+                "id": "17283",
+                "name": "Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, cooked"
+            },
+            {
+                "offset": 5381,
+                "id": "17284",
+                "name": "Lamb, Australian, imported, fresh, separable fat, raw"
+            },
+            {
+                "offset": 5382,
+                "id": "17285",
+                "name": "Lamb, Australian, imported, fresh, separable fat, cooked"
+            },
+            {
+                "offset": 5383,
+                "id": "17286",
+                "name": "Lamb, Australian, imported, fresh, foreshank, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5384,
+                "id": "17287",
+                "name": "Lamb, Australian, imported, fresh, foreshank, separable lean and fat, trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5385,
+                "id": "17288",
+                "name": "Lamb, Australian, imported, fresh, foreshank, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5386,
+                "id": "17289",
+                "name": "Lamb, Australian, imported, fresh, foreshank, separable lean only, trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5387,
+                "id": "17290",
+                "name": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5388,
+                "id": "17291",
+                "name": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5389,
+                "id": "17292",
+                "name": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5390,
+                "id": "17293",
+                "name": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean only, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5391,
+                "id": "17294",
+                "name": "Lamb, Australian, imported, fresh, leg, shank half, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5392,
+                "id": "17295",
+                "name": "Lamb, Australian, imported, fresh, leg, shank half, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5393,
+                "id": "17296",
+                "name": "Lamb, Australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5394,
+                "id": "17297",
+                "name": "Lamb, Australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5395,
+                "id": "17298",
+                "name": "Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5396,
+                "id": "17299",
+                "name": "Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5397,
+                "id": "17300",
+                "name": "Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5398,
+                "id": "17301",
+                "name": "Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean only, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5399,
+                "id": "17302",
+                "name": "Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5400,
+                "id": "17303",
+                "name": "Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5401,
+                "id": "17304",
+                "name": "Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5402,
+                "id": "17305",
+                "name": "Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean only, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5403,
+                "id": "17306",
+                "name": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5404,
+                "id": "17307",
+                "name": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5405,
+                "id": "17308",
+                "name": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5406,
+                "id": "17309",
+                "name": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5407,
+                "id": "17310",
+                "name": "Lamb, Australian, imported, fresh, loin, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5408,
+                "id": "17311",
+                "name": "Lamb, Australian, imported, fresh, loin, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5409,
+                "id": "17312",
+                "name": "Lamb, Australian, imported, fresh, loin, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5410,
+                "id": "17313",
+                "name": "Lamb, Australian, imported, fresh, loin, separable lean only, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5411,
+                "id": "17314",
+                "name": "Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5412,
+                "id": "17315",
+                "name": "Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, grilled"
+            },
+            {
+                "offset": 5413,
+                "id": "17316",
+                "name": "Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5414,
+                "id": "17317",
+                "name": "Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, grilled"
+            },
+            {
+                "offset": 5415,
+                "id": "17318",
+                "name": "Lamb, Australian, imported, fresh, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5416,
+                "id": "17319",
+                "name": "Lamb, Australian, imported, fresh, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, cooked"
+            },
+            {
+                "offset": 5417,
+                "id": "17320",
+                "name": "Lamb, Australian, imported, fresh, shoulder, whole (arm and blade), separable lean only,   trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5418,
+                "id": "17321",
+                "name": "Lamb, Australian, imported, fresh, shoulder, whole (arm and blade), separable lean only, trimmed to 1/8\" fat, cooked"
+            },
+            {
+                "offset": 5419,
+                "id": "17322",
+                "name": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5420,
+                "id": "17323",
+                "name": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5421,
+                "id": "17324",
+                "name": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5422,
+                "id": "17325",
+                "name": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean only,   trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5423,
+                "id": "17326",
+                "name": "Lamb, Australian, imported, fresh, shoulder, blade, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5424,
+                "id": "17327",
+                "name": "Lamb, Australian, imported, fresh, shoulder, blade, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5425,
+                "id": "17328",
+                "name": "Lamb, Australian, imported, fresh, shoulder, blade, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5426,
+                "id": "17329",
+                "name": "Lamb, Australian, imported, fresh, shoulder ,blade, separable lean only, trimmed to 1/8\" fat, cooked, broiled"
+            },
+            {
+                "offset": 5427,
+                "id": "17330",
+                "name": "Game meat , bison, ground, raw"
+            },
+            {
+                "offset": 5428,
+                "id": "17331",
+                "name": "Game meat, bison, ground, cooked, pan-broiled"
+            },
+            {
+                "offset": 5429,
+                "id": "17332",
+                "name": "Game meat , bison, top sirloin, separable lean only, 1\" steak, cooked, broiled"
+            },
+            {
+                "offset": 5430,
+                "id": "17333",
+                "name": "Game meat, bison, chuck, shoulder clod, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5431,
+                "id": "17334",
+                "name": "Game meat, bison, chuck, shoulder clod, separable lean only, raw"
+            },
+            {
+                "offset": 5432,
+                "id": "17335",
+                "name": "Game meat, bison, ribeye, separable lean only, 1\" steak, cooked, broiled"
+            },
+            {
+                "offset": 5433,
+                "id": "17336",
+                "name": "Game meat, bison, top round, separable lean only, 1\" steak, cooked, broiled"
+            },
+            {
+                "offset": 5434,
+                "id": "17337",
+                "name": "Game meat, bison, top round, separable lean only, 1\" steak, raw"
+            },
+            {
+                "offset": 5435,
+                "id": "17338",
+                "name": "Game meat, elk, ground, raw"
+            },
+            {
+                "offset": 5436,
+                "id": "17339",
+                "name": "Game meat, elk, ground, cooked, pan-broiled"
+            },
+            {
+                "offset": 5437,
+                "id": "17340",
+                "name": "Game meat, elk, loin, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 5438,
+                "id": "17341",
+                "name": "Game meat, elk, round, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 5439,
+                "id": "17342",
+                "name": "Game meat, elk, tenderloin, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 5440,
+                "id": "17343",
+                "name": "Game meat, deer, ground, raw"
+            },
+            {
+                "offset": 5441,
+                "id": "17344",
+                "name": "Game meat, deer, ground, cooked, pan-broiled"
+            },
+            {
+                "offset": 5442,
+                "id": "17345",
+                "name": "Game meat, deer, loin, separable lean only, 1\" steak, cooked, broiled"
+            },
+            {
+                "offset": 5443,
+                "id": "17346",
+                "name": "Game meat, deer, shoulder clod, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5444,
+                "id": "17347",
+                "name": "Game meat, deer, tenderloin, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 5445,
+                "id": "17348",
+                "name": "Game meat, deer, top round, separable lean only, 1\" steak, cooked, broiled"
+            },
+            {
+                "offset": 5446,
+                "id": "17349",
+                "name": "Veal, Australian, shank, fore, bone-in, separable lean only, raw"
+            },
+            {
+                "offset": 5447,
+                "id": "17350",
+                "name": "Veal, Australian, shank, fore, bone-in, separable lean and fat, raw"
+            },
+            {
+                "offset": 5448,
+                "id": "17351",
+                "name": "Veal, Australian, shank, hind, bone-in, separable lean only, raw"
+            },
+            {
+                "offset": 5449,
+                "id": "17352",
+                "name": "Veal, Australian, shank, hind, bone-in, separable lean and fat"
+            },
+            {
+                "offset": 5450,
+                "id": "17353",
+                "name": "Lamb, Australian, ground,  85% lean / 15% fat, raw"
+            },
+            {
+                "offset": 5451,
+                "id": "17354",
+                "name": "Lamb, New Zealand, imported, Intermuscular fat, cooked"
+            },
+            {
+                "offset": 5452,
+                "id": "17355",
+                "name": "Lamb, New Zealand, imported, Intermuscular fat, raw"
+            },
+            {
+                "offset": 5453,
+                "id": "17356",
+                "name": "Lamb, New Zealand, imported, subcutaneous fat, raw"
+            },
+            {
+                "offset": 5454,
+                "id": "17357",
+                "name": "Lamb, New Zealand, imported, brains, cooked, soaked and fried"
+            },
+            {
+                "offset": 5455,
+                "id": "17358",
+                "name": "Lamb, New Zealand, imported, brains, raw"
+            },
+            {
+                "offset": 5456,
+                "id": "17359",
+                "name": "Lamb, New Zealand, imported, breast, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5457,
+                "id": "17360",
+                "name": "Lamb, New Zealand, imported, breast, separable lean only, raw"
+            },
+            {
+                "offset": 5458,
+                "id": "17361",
+                "name": "Lamb, New Zealand, imported, chump, boneless, separable lean only, cooked, fast roasted"
+            },
+            {
+                "offset": 5459,
+                "id": "17362",
+                "name": "Lamb, New Zealand, imported, subcutaneous fat, cooked"
+            },
+            {
+                "offset": 5460,
+                "id": "17363",
+                "name": "Lamb, New Zealand, imported, chump, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 5461,
+                "id": "17364",
+                "name": "Lamb, New Zealand, imported, kidney, cooked, soaked and fried"
+            },
+            {
+                "offset": 5462,
+                "id": "17365",
+                "name": "Lamb, New Zealand, imported, flap, boneless, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5463,
+                "id": "17366",
+                "name": "Lamb, New Zealand, imported, flap, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 5464,
+                "id": "17367",
+                "name": "Lamb, New Zealand, imported, kidney, raw"
+            },
+            {
+                "offset": 5465,
+                "id": "17368",
+                "name": "Lamb, New Zealand, imported, liver, cooked, soaked and fried"
+            },
+            {
+                "offset": 5466,
+                "id": "17369",
+                "name": "Lamb, New Zealand, imported, liver, raw"
+            },
+            {
+                "offset": 5467,
+                "id": "17370",
+                "name": "Lamb, New Zealand, imported, ground lamb, cooked, braised"
+            },
+            {
+                "offset": 5468,
+                "id": "17371",
+                "name": "Lamb, New Zealand, imported, ground lamb, raw"
+            },
+            {
+                "offset": 5469,
+                "id": "17372",
+                "name": "Lamb, New Zealand, imported, heart, cooked, soaked and simmered"
+            },
+            {
+                "offset": 5470,
+                "id": "17373",
+                "name": "Lamb, New Zealand, imported, heart, raw"
+            },
+            {
+                "offset": 5471,
+                "id": "17374",
+                "name": "Lamb, New Zealand, imported, sweetbread, cooked, soaked and simmered"
+            },
+            {
+                "offset": 5472,
+                "id": "17375",
+                "name": "Lamb, New Zealand, imported, sweetbread, raw"
+            },
+            {
+                "offset": 5473,
+                "id": "17376",
+                "name": "Lamb, New Zealand, imported, testes, cooked, soaked and fried"
+            },
+            {
+                "offset": 5474,
+                "id": "17377",
+                "name": "Lamb, New Zealand, imported, testes, raw"
+            },
+            {
+                "offset": 5475,
+                "id": "17378",
+                "name": "Lamb, New Zealand, imported, tongue - swiss cut, cooked, soaked and simmered"
+            },
+            {
+                "offset": 5476,
+                "id": "17379",
+                "name": "Lamb, New Zealand, imported, tongue - swiss cut, raw"
+            },
+            {
+                "offset": 5477,
+                "id": "17380",
+                "name": "Lamb, New Zealand, imported, tunnel-boned leg, chump off, shank off, separable lean only, cooked, slow roasted"
+            },
+            {
+                "offset": 5478,
+                "id": "17381",
+                "name": "Lamb, New Zealand, imported, tunnel-boned leg, chump off, shank off, separable lean only, raw"
+            },
+            {
+                "offset": 5479,
+                "id": "17382",
+                "name": "Lamb, New Zealand, imported, square-cut shoulder chops, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5480,
+                "id": "17383",
+                "name": "Lamb, New Zealand, imported, square-cut shoulder chops, separable lean only, raw"
+            },
+            {
+                "offset": 5481,
+                "id": "17384",
+                "name": "Lamb, New Zealand, imported, tenderloin, separable lean only, cooked, fast fried"
+            },
+            {
+                "offset": 5482,
+                "id": "17385",
+                "name": "Lamb, New Zealand, imported, tenderloin, separable lean only, raw"
+            },
+            {
+                "offset": 5483,
+                "id": "17386",
+                "name": "Lamb, New Zealand, imported, loin saddle, separable lean only, cooked, fast roasted"
+            },
+            {
+                "offset": 5484,
+                "id": "17387",
+                "name": "Lamb, New Zealand, imported, loin saddle, separable lean only, raw"
+            },
+            {
+                "offset": 5485,
+                "id": "17388",
+                "name": "Lamb, New Zealand, imported, loin, boneless, separable lean only, cooked, fast roasted"
+            },
+            {
+                "offset": 5486,
+                "id": "17389",
+                "name": "Lamb, New Zealand, imported, loin, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 5487,
+                "id": "17390",
+                "name": "Lamb, New Zealand, imported, hind-shank, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5488,
+                "id": "17391",
+                "name": "Lamb, New Zealand, imported, hind-shank, separable lean only, raw"
+            },
+            {
+                "offset": 5489,
+                "id": "17392",
+                "name": "Lamb, New Zealand, imported, neck chops, separable lean only, raw"
+            },
+            {
+                "offset": 5490,
+                "id": "17393",
+                "name": "Lamb, New Zealand, imported, neck chops, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5491,
+                "id": "17394",
+                "name": "Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean only, cooked, slow roasted"
+            },
+            {
+                "offset": 5492,
+                "id": "17395",
+                "name": "Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 5493,
+                "id": "17396",
+                "name": "Lamb, New Zealand, imported, rack - fully frenched, separable lean only, cooked, fast roasted"
+            },
+            {
+                "offset": 5494,
+                "id": "17397",
+                "name": "Lamb, New Zealand, imported, rack - fully frenched, separable lean only, raw"
+            },
+            {
+                "offset": 5495,
+                "id": "17398",
+                "name": "Lamb, New Zealand, imported, loin chop, separable lean only, cooked, fast fried"
+            },
+            {
+                "offset": 5496,
+                "id": "17399",
+                "name": "Lamb, New Zealand, imported, square-cut shoulder, separable lean only, cooked, slow roasted"
+            },
+            {
+                "offset": 5497,
+                "id": "17400",
+                "name": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean only, cooked, fast fried"
+            },
+            {
+                "offset": 5498,
+                "id": "17401",
+                "name": "Lamb, New Zealand, imported, flap, boneless, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5499,
+                "id": "17402",
+                "name": "Lamb, New Zealand, imported, flap, boneless, separable lean and fat, raw"
+            }
+        ]
+    }
+}

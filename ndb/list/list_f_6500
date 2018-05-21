@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 6500,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 6500,
+                "id": "20032",
+                "name": "Millet, cooked"
+            },
+            {
+                "offset": 6501,
+                "id": "20033",
+                "name": "Oat bran, raw"
+            },
+            {
+                "offset": 6502,
+                "id": "20034",
+                "name": "Oat bran, cooked"
+            },
+            {
+                "offset": 6503,
+                "id": "20035",
+                "name": "Quinoa, uncooked"
+            },
+            {
+                "offset": 6504,
+                "id": "20036",
+                "name": "Rice, brown, long-grain, raw"
+            },
+            {
+                "offset": 6505,
+                "id": "20037",
+                "name": "Rice, brown, long-grain, cooked"
+            },
+            {
+                "offset": 6506,
+                "id": "20038",
+                "name": "Oats"
+            },
+            {
+                "offset": 6507,
+                "id": "20040",
+                "name": "Rice, brown, medium-grain, raw"
+            },
+            {
+                "offset": 6508,
+                "id": "20041",
+                "name": "Rice, brown, medium-grain, cooked"
+            },
+            {
+                "offset": 6509,
+                "id": "20042",
+                "name": "Rice, brown, parboiled, dry, UNCLE BEN'S"
+            },
+            {
+                "offset": 6510,
+                "id": "20044",
+                "name": "Rice, white, long-grain, regular, raw, enriched"
+            },
+            {
+                "offset": 6511,
+                "id": "20045",
+                "name": "Rice, white, long-grain, regular, enriched, cooked"
+            },
+            {
+                "offset": 6512,
+                "id": "20046",
+                "name": "Rice, white, long-grain, parboiled, enriched, dry"
+            },
+            {
+                "offset": 6513,
+                "id": "20047",
+                "name": "Rice, white, long-grain, parboiled, enriched, cooked"
+            },
+            {
+                "offset": 6514,
+                "id": "20048",
+                "name": "Rice, white, long-grain, precooked or instant, enriched, dry"
+            },
+            {
+                "offset": 6515,
+                "id": "20049",
+                "name": "Rice, white, long-grain, precooked or instant, enriched, prepared"
+            },
+            {
+                "offset": 6516,
+                "id": "20050",
+                "name": "Rice, white, medium-grain, raw, enriched"
+            },
+            {
+                "offset": 6517,
+                "id": "20051",
+                "name": "Rice, white, medium-grain, enriched, cooked"
+            },
+            {
+                "offset": 6518,
+                "id": "20052",
+                "name": "Rice, white, short-grain, enriched, uncooked"
+            },
+            {
+                "offset": 6519,
+                "id": "20053",
+                "name": "Rice, white, short-grain, enriched, cooked"
+            },
+            {
+                "offset": 6520,
+                "id": "20054",
+                "name": "Rice, white, glutinous, unenriched, uncooked"
+            },
+            {
+                "offset": 6521,
+                "id": "20055",
+                "name": "Rice, white, glutinous, unenriched, cooked"
+            },
+            {
+                "offset": 6522,
+                "id": "20058",
+                "name": "Rice, white, steamed, Chinese restaurant"
+            },
+            {
+                "offset": 6523,
+                "id": "20060",
+                "name": "Rice bran, crude"
+            },
+            {
+                "offset": 6524,
+                "id": "20061",
+                "name": "Rice flour, white, unenriched"
+            },
+            {
+                "offset": 6525,
+                "id": "20062",
+                "name": "Rye grain"
+            },
+            {
+                "offset": 6526,
+                "id": "20063",
+                "name": "Rye flour, dark"
+            },
+            {
+                "offset": 6527,
+                "id": "20064",
+                "name": "Rye flour, medium"
+            },
+            {
+                "offset": 6528,
+                "id": "20065",
+                "name": "Rye flour, light"
+            },
+            {
+                "offset": 6529,
+                "id": "20066",
+                "name": "Semolina, enriched"
+            },
+            {
+                "offset": 6530,
+                "id": "20067",
+                "name": "Sorghum grain"
+            },
+            {
+                "offset": 6531,
+                "id": "20068",
+                "name": "Tapioca, pearl, dry"
+            },
+            {
+                "offset": 6532,
+                "id": "20069",
+                "name": "Triticale"
+            },
+            {
+                "offset": 6533,
+                "id": "20070",
+                "name": "Triticale flour, whole-grain"
+            },
+            {
+                "offset": 6534,
+                "id": "20071",
+                "name": "Wheat, hard red spring"
+            },
+            {
+                "offset": 6535,
+                "id": "20072",
+                "name": "Wheat, hard red winter"
+            },
+            {
+                "offset": 6536,
+                "id": "20073",
+                "name": "Wheat, soft red winter"
+            },
+            {
+                "offset": 6537,
+                "id": "20074",
+                "name": "Wheat, hard white"
+            },
+            {
+                "offset": 6538,
+                "id": "20075",
+                "name": "Wheat, soft white"
+            },
+            {
+                "offset": 6539,
+                "id": "20076",
+                "name": "Wheat, durum"
+            },
+            {
+                "offset": 6540,
+                "id": "20077",
+                "name": "Wheat bran, crude"
+            },
+            {
+                "offset": 6541,
+                "id": "20078",
+                "name": "Wheat germ, crude"
+            },
+            {
+                "offset": 6542,
+                "id": "20080",
+                "name": "Wheat flour, whole-grain"
+            },
+            {
+                "offset": 6543,
+                "id": "20081",
+                "name": "Wheat flour, white, all-purpose, enriched, bleached"
+            },
+            {
+                "offset": 6544,
+                "id": "20082",
+                "name": "Wheat flour, white, all-purpose, self-rising, enriched"
+            },
+            {
+                "offset": 6545,
+                "id": "20083",
+                "name": "Wheat flour, white, bread, enriched"
+            },
+            {
+                "offset": 6546,
+                "id": "20084",
+                "name": "Wheat flour, white, cake, enriched"
+            },
+            {
+                "offset": 6547,
+                "id": "20086",
+                "name": "Wheat flour, white, tortilla mix, enriched"
+            },
+            {
+                "offset": 6548,
+                "id": "20087",
+                "name": "Wheat, sprouted"
+            },
+            {
+                "offset": 6549,
+                "id": "20088",
+                "name": "Wild rice, raw"
+            },
+            {
+                "offset": 6550,
+                "id": "20089",
+                "name": "Wild rice, cooked"
+            },
+            {
+                "offset": 6551,
+                "id": "20090",
+                "name": "Rice flour, brown"
+            },
+            {
+                "offset": 6552,
+                "id": "20091",
+                "name": "Pasta, gluten-free, corn, dry"
+            },
+            {
+                "offset": 6553,
+                "id": "20092",
+                "name": "Pasta, gluten-free, corn, cooked"
+            },
+            {
+                "offset": 6554,
+                "id": "20093",
+                "name": "Pasta, fresh-refrigerated, plain, as purchased"
+            },
+            {
+                "offset": 6555,
+                "id": "20094",
+                "name": "Pasta, fresh-refrigerated, plain, cooked"
+            },
+            {
+                "offset": 6556,
+                "id": "20095",
+                "name": "Pasta, fresh-refrigerated, spinach, as purchased"
+            },
+            {
+                "offset": 6557,
+                "id": "20096",
+                "name": "Pasta, fresh-refrigerated, spinach, cooked"
+            },
+            {
+                "offset": 6558,
+                "id": "20097",
+                "name": "Pasta, homemade, made with egg, cooked"
+            },
+            {
+                "offset": 6559,
+                "id": "20098",
+                "name": "Pasta, homemade, made without egg, cooked"
+            },
+            {
+                "offset": 6560,
+                "id": "20105",
+                "name": "Macaroni, vegetable, enriched, dry"
+            },
+            {
+                "offset": 6561,
+                "id": "20106",
+                "name": "Macaroni, vegetable, enriched, cooked"
+            },
+            {
+                "offset": 6562,
+                "id": "20109",
+                "name": "Noodles, egg, dry, enriched"
+            },
+            {
+                "offset": 6563,
+                "id": "20110",
+                "name": "Noodles, egg, enriched, cooked"
+            },
+            {
+                "offset": 6564,
+                "id": "20111",
+                "name": "Noodles, egg, spinach, enriched, dry"
+            },
+            {
+                "offset": 6565,
+                "id": "20112",
+                "name": "Noodles, egg, spinach, enriched, cooked"
+            },
+            {
+                "offset": 6566,
+                "id": "20113",
+                "name": "Noodles, chinese, chow mein"
+            },
+            {
+                "offset": 6567,
+                "id": "20114",
+                "name": "Noodles, japanese, soba, dry"
+            },
+            {
+                "offset": 6568,
+                "id": "20115",
+                "name": "Noodles, japanese, soba, cooked"
+            },
+            {
+                "offset": 6569,
+                "id": "20116",
+                "name": "Noodles, japanese, somen, dry"
+            },
+            {
+                "offset": 6570,
+                "id": "20117",
+                "name": "Noodles, japanese, somen, cooked"
+            },
+            {
+                "offset": 6571,
+                "id": "20118",
+                "name": "Noodles, flat, crunchy, Chinese restaurant"
+            },
+            {
+                "offset": 6572,
+                "id": "20120",
+                "name": "Pasta, dry, enriched"
+            },
+            {
+                "offset": 6573,
+                "id": "20121",
+                "name": "Pasta, cooked, enriched, without added salt"
+            },
+            {
+                "offset": 6574,
+                "id": "20124",
+                "name": "Pasta, whole-wheat, dry"
+            },
+            {
+                "offset": 6575,
+                "id": "20125",
+                "name": "Pasta, whole-wheat, cooked"
+            },
+            {
+                "offset": 6576,
+                "id": "20126",
+                "name": "Spaghetti, spinach, dry"
+            },
+            {
+                "offset": 6577,
+                "id": "20127",
+                "name": "Spaghetti, spinach, cooked"
+            },
+            {
+                "offset": 6578,
+                "id": "20129",
+                "name": "Wheat flours, bread, unenriched"
+            },
+            {
+                "offset": 6579,
+                "id": "20130",
+                "name": "Barley flour or meal"
+            },
+            {
+                "offset": 6580,
+                "id": "20131",
+                "name": "Barley malt flour"
+            },
+            {
+                "offset": 6581,
+                "id": "20132",
+                "name": "Oat flour, partially debranned"
+            },
+            {
+                "offset": 6582,
+                "id": "20133",
+                "name": "Rice noodles, dry"
+            },
+            {
+                "offset": 6583,
+                "id": "20134",
+                "name": "Rice noodles, cooked"
+            },
+            {
+                "offset": 6584,
+                "id": "20135",
+                "name": "Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry"
+            },
+            {
+                "offset": 6585,
+                "id": "20136",
+                "name": "Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, cooked"
+            },
+            {
+                "offset": 6586,
+                "id": "20137",
+                "name": "Quinoa, cooked"
+            },
+            {
+                "offset": 6587,
+                "id": "20138",
+                "name": "Wheat, KAMUT khorasan, uncooked"
+            },
+            {
+                "offset": 6588,
+                "id": "20139",
+                "name": "Wheat, KAMUT khorasan, cooked"
+            },
+            {
+                "offset": 6589,
+                "id": "20140",
+                "name": "Spelt, uncooked"
+            },
+            {
+                "offset": 6590,
+                "id": "20141",
+                "name": "Spelt, cooked"
+            },
+            {
+                "offset": 6591,
+                "id": "20142",
+                "name": "Teff, uncooked"
+            },
+            {
+                "offset": 6592,
+                "id": "20143",
+                "name": "Teff, cooked"
+            },
+            {
+                "offset": 6593,
+                "id": "20310",
+                "name": "Noodles, egg, cooked, enriched, with added salt"
+            },
+            {
+                "offset": 6594,
+                "id": "20314",
+                "name": "Corn grain, white"
+            },
+            {
+                "offset": 6595,
+                "id": "20315",
+                "name": "Corn flour, whole-grain, blue (harina de maiz morado)"
+            },
+            {
+                "offset": 6596,
+                "id": "20316",
+                "name": "Corn flour, whole-grain, white"
+            },
+            {
+                "offset": 6597,
+                "id": "20317",
+                "name": "Corn flour, yellow, masa, enriched"
+            },
+            {
+                "offset": 6598,
+                "id": "20320",
+                "name": "Cornmeal, whole-grain, white"
+            },
+            {
+                "offset": 6599,
+                "id": "20321",
+                "name": "Pasta, cooked, enriched, with added salt"
+            },
+            {
+                "offset": 6600,
+                "id": "20322",
+                "name": "Cornmeal, degermed, enriched, white"
+            },
+            {
+                "offset": 6601,
+                "id": "20323",
+                "name": "Cornmeal, white, self-rising, bolted, plain, enriched"
+            },
+            {
+                "offset": 6602,
+                "id": "20324",
+                "name": "Cornmeal, white, self-rising, bolted, with wheat flour added, enriched"
+            },
+            {
+                "offset": 6603,
+                "id": "20325",
+                "name": "Cornmeal, white, self-rising, degermed, enriched"
+            },
+            {
+                "offset": 6604,
+                "id": "20330",
+                "name": "Hominy, canned, yellow"
+            },
+            {
+                "offset": 6605,
+                "id": "20345",
+                "name": "Rice, white, long-grain, regular, cooked, enriched, with salt"
+            },
+            {
+                "offset": 6606,
+                "id": "20381",
+                "name": "Wheat flour, white, all-purpose, enriched, calcium-fortified"
+            },
+            {
+                "offset": 6607,
+                "id": "20409",
+                "name": "Noodles, egg, dry, unenriched"
+            },
+            {
+                "offset": 6608,
+                "id": "20410",
+                "name": "Noodles, egg, unenriched, cooked, without added salt"
+            },
+            {
+                "offset": 6609,
+                "id": "20420",
+                "name": "Pasta, dry, unenriched"
+            },
+            {
+                "offset": 6610,
+                "id": "20421",
+                "name": "Pasta, cooked, unenriched, without added salt"
+            },
+            {
+                "offset": 6611,
+                "id": "20422",
+                "name": "Cornmeal, degermed, unenriched, yellow"
+            },
+            {
+                "offset": 6612,
+                "id": "20444",
+                "name": "Rice, white, long-grain, regular, raw, unenriched"
+            },
+            {
+                "offset": 6613,
+                "id": "20445",
+                "name": "Rice, white, long-grain, regular, unenriched, cooked without salt"
+            },
+            {
+                "offset": 6614,
+                "id": "20446",
+                "name": "Rice, white, long-grain, parboiled, unenriched, dry"
+            },
+            {
+                "offset": 6615,
+                "id": "20447",
+                "name": "Rice, white, long-grain, parboiled, unenriched, cooked"
+            },
+            {
+                "offset": 6616,
+                "id": "20450",
+                "name": "Rice, white, medium-grain, raw, unenriched"
+            },
+            {
+                "offset": 6617,
+                "id": "20451",
+                "name": "Rice, white, medium-grain, cooked, unenriched"
+            },
+            {
+                "offset": 6618,
+                "id": "20452",
+                "name": "Rice, white, short-grain, raw, unenriched"
+            },
+            {
+                "offset": 6619,
+                "id": "20453",
+                "name": "Rice, white, short-grain, cooked, unenriched"
+            },
+            {
+                "offset": 6620,
+                "id": "20466",
+                "name": "Semolina, unenriched"
+            },
+            {
+                "offset": 6621,
+                "id": "20481",
+                "name": "Wheat flour, white, all-purpose, unenriched"
+            },
+            {
+                "offset": 6622,
+                "id": "20510",
+                "name": "Noodles, egg, cooked, unenriched, with added salt"
+            },
+            {
+                "offset": 6623,
+                "id": "20521",
+                "name": "Pasta, cooked, unenriched, with added salt"
+            },
+            {
+                "offset": 6624,
+                "id": "20522",
+                "name": "Cornmeal, degermed, unenriched, white"
+            },
+            {
+                "offset": 6625,
+                "id": "20523",
+                "name": "Spaghetti, protein-fortified, cooked, enriched (n x 6.25)"
+            },
+            {
+                "offset": 6626,
+                "id": "20545",
+                "name": "Rice, white, long-grain, regular, cooked, unenriched, with salt"
+            },
+            {
+                "offset": 6627,
+                "id": "20581",
+                "name": "Wheat flour, white, all-purpose, enriched, unbleached"
+            },
+            {
+                "offset": 6628,
+                "id": "20622",
+                "name": "Spaghetti, protein-fortified, dry, enriched (n x 6.25)"
+            },
+            {
+                "offset": 6629,
+                "id": "20623",
+                "name": "Wheat flour, white (industrial), 9% protein, bleached, enriched"
+            },
+            {
+                "offset": 6630,
+                "id": "20624",
+                "name": "Wheat flour, white (industrial), 9% protein, bleached, unenriched"
+            },
+            {
+                "offset": 6631,
+                "id": "20628",
+                "name": "Wheat flour, white (industrial), 10% protein, bleached, enriched"
+            },
+            {
+                "offset": 6632,
+                "id": "20629",
+                "name": "Wheat flour, white (industrial), 10% protein, bleached, unenriched"
+            },
+            {
+                "offset": 6633,
+                "id": "20630",
+                "name": "Wheat flour, white (industrial), 10% protein, unbleached, enriched"
+            },
+            {
+                "offset": 6634,
+                "id": "20634",
+                "name": "Wheat flour, white (industrial), 11.5% protein, bleached, enriched"
+            },
+            {
+                "offset": 6635,
+                "id": "20635",
+                "name": "Wheat flour, white (industrial), 11.5% protein, bleached, unenriched"
+            },
+            {
+                "offset": 6636,
+                "id": "20636",
+                "name": "Wheat flour, white (industrial), 11.5% protein, unbleached, enriched"
+            },
+            {
+                "offset": 6637,
+                "id": "20640",
+                "name": "Wheat flour, white (industrial), 13% protein, bleached, enriched"
+            },
+            {
+                "offset": 6638,
+                "id": "20641",
+                "name": "Wheat flour, white (industrial), 13% protein, bleached, unenriched"
+            },
+            {
+                "offset": 6639,
+                "id": "20645",
+                "name": "Wheat flour, white (industrial), 15% protein, bleached, enriched"
+            },
+            {
+                "offset": 6640,
+                "id": "20646",
+                "name": "Wheat flour, white (industrial), 15% protein, bleached, unenriched"
+            },
+            {
+                "offset": 6641,
+                "id": "20647",
+                "name": "Millet flour"
+            },
+            {
+                "offset": 6642,
+                "id": "20648",
+                "name": "Sorghum flour, whole-grain"
+            },
+            {
+                "offset": 6643,
+                "id": "20649",
+                "name": "Wheat flour, whole-grain, soft wheat"
+            },
+            {
+                "offset": 6644,
+                "id": "20650",
+                "name": "Sorghum flour, refined, unenriched"
+            },
+            {
+                "offset": 6645,
+                "id": "20651",
+                "name": "Rice, brown, parboiled, cooked, UNCLE BENS"
+            },
+            {
+                "offset": 6646,
+                "id": "20652",
+                "name": "Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked"
+            },
+            {
+                "offset": 6647,
+                "id": "20653",
+                "name": "Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry"
+            },
+            {
+                "offset": 6648,
+                "id": "20654",
+                "name": "Pasta, gluten-free, brown rice flour, cooked, TINKYADA"
+            },
+            {
+                "offset": 6649,
+                "id": "20655",
+                "name": "Pasta, gluten-free, corn flour and quinoa flour, cooked, ANCIENT HARVEST"
+            },
+            {
+                "offset": 6650,
+                "id": "20656",
+                "name": "Pasta, gluten-free, rice flour and rice bran extract, cooked, DE BOLES"
+            },
+            {
+                "offset": 6651,
+                "id": "20657",
+                "name": "Pasta, gluten-free, corn and rice flour, cooked"
+            },
+            {
+                "offset": 6652,
+                "id": "21002",
+                "name": "Fast foods, biscuit, with egg"
+            },
+            {
+                "offset": 6653,
+                "id": "21003",
+                "name": "Fast foods, biscuit, with egg and bacon"
+            },
+            {
+                "offset": 6654,
+                "id": "21004",
+                "name": "Fast foods, biscuit, with egg and ham"
+            },
+            {
+                "offset": 6655,
+                "id": "21005",
+                "name": "Fast Foods, biscuit, with egg and sausage"
+            },
+            {
+                "offset": 6656,
+                "id": "21006",
+                "name": "Fast foods, biscuit with egg and steak"
+            },
+            {
+                "offset": 6657,
+                "id": "21007",
+                "name": "Fast foods, biscuit, with egg, cheese, and bacon"
+            },
+            {
+                "offset": 6658,
+                "id": "21008",
+                "name": "Fast foods, biscuit, with ham"
+            },
+            {
+                "offset": 6659,
+                "id": "21009",
+                "name": "Fast foods, biscuit, with sausage"
+            },
+            {
+                "offset": 6660,
+                "id": "21010",
+                "name": "Fast foods, biscuit, with crispy chicken fillet"
+            },
+            {
+                "offset": 6661,
+                "id": "21011",
+                "name": "Fast foods, croissant, with egg and cheese"
+            },
+            {
+                "offset": 6662,
+                "id": "21012",
+                "name": "Fast foods, croissant, with egg, cheese, and bacon"
+            },
+            {
+                "offset": 6663,
+                "id": "21013",
+                "name": "Fast foods, croissant, with egg, cheese, and ham"
+            },
+            {
+                "offset": 6664,
+                "id": "21014",
+                "name": "Fast foods, croissant, with egg, cheese, and sausage"
+            },
+            {
+                "offset": 6665,
+                "id": "21018",
+                "name": "Fast foods, egg, scrambled"
+            },
+            {
+                "offset": 6666,
+                "id": "21020",
+                "name": "Fast foods, english muffin, with cheese and sausage"
+            },
+            {
+                "offset": 6667,
+                "id": "21021",
+                "name": "Fast foods, english muffin, with egg, cheese, and canadian bacon"
+            },
+            {
+                "offset": 6668,
+                "id": "21022",
+                "name": "Fast foods, english muffin, with egg, cheese, and sausage"
+            },
+            {
+                "offset": 6669,
+                "id": "21023",
+                "name": "Fast foods, french toast with butter"
+            },
+            {
+                "offset": 6670,
+                "id": "21024",
+                "name": "Fast foods, french toast sticks"
+            },
+            {
+                "offset": 6671,
+                "id": "21026",
+                "name": "Fast foods, potatoes, hash browns, round pieces or patty"
+            },
+            {
+                "offset": 6672,
+                "id": "21028",
+                "name": "Fast foods, vanilla, light, soft-serve ice cream, with cone"
+            },
+            {
+                "offset": 6673,
+                "id": "21032",
+                "name": "Fast foods, sundae, caramel"
+            },
+            {
+                "offset": 6674,
+                "id": "21033",
+                "name": "Fast foods, sundae, hot fudge"
+            },
+            {
+                "offset": 6675,
+                "id": "21034",
+                "name": "Fast foods, sundae, strawberry"
+            },
+            {
+                "offset": 6676,
+                "id": "21059",
+                "name": "Fast foods, shrimp, breaded and fried"
+            },
+            {
+                "offset": 6677,
+                "id": "21060",
+                "name": "Fast foods, burrito, with beans"
+            },
+            {
+                "offset": 6678,
+                "id": "21061",
+                "name": "Fast foods, burrito, with beans and cheese"
+            },
+            {
+                "offset": 6679,
+                "id": "21063",
+                "name": "Fast foods, burrito, with beans and beef"
+            },
+            {
+                "offset": 6680,
+                "id": "21064",
+                "name": "Fast foods, burrito, with beans, cheese, and beef"
+            },
+            {
+                "offset": 6681,
+                "id": "21078",
+                "name": "Fast foods, nachos, with cheese"
+            },
+            {
+                "offset": 6682,
+                "id": "21080",
+                "name": "Fast foods, nachos, with cheese, beans, ground beef, and tomatoes"
+            },
+            {
+                "offset": 6683,
+                "id": "21082",
+                "name": "Fast foods, taco with beef, cheese and lettuce, hard shell"
+            },
+            {
+                "offset": 6684,
+                "id": "21083",
+                "name": "Fast foods, taco salad"
+            },
+            {
+                "offset": 6685,
+                "id": "21089",
+                "name": "Fast foods, cheeseburger; single, regular patty; plain"
+            },
+            {
+                "offset": 6686,
+                "id": "21090",
+                "name": "Fast foods, cheeseburger; single, regular patty, with condiments"
+            },
+            {
+                "offset": 6687,
+                "id": "21091",
+                "name": "Fast foods, cheeseburger; single, regular patty, with condiments and vegetables"
+            },
+            {
+                "offset": 6688,
+                "id": "21092",
+                "name": "Fast foods, cheeseburger; double, regular patty; plain"
+            },
+            {
+                "offset": 6689,
+                "id": "21093",
+                "name": "Fast foods, cheeseburger; double, regular patty, with condiments and vegetables"
+            },
+            {
+                "offset": 6690,
+                "id": "21094",
+                "name": "Fast foods, cheeseburger, double, regular patty and bun, with condiments"
+            },
+            {
+                "offset": 6691,
+                "id": "21095",
+                "name": "Fast foods, cheeseburger; double, regular, patty and bun; with condiments and vegetables"
+            },
+            {
+                "offset": 6692,
+                "id": "21096",
+                "name": "Fast foods, cheeseburger; single, large patty; plain"
+            },
+            {
+                "offset": 6693,
+                "id": "21097",
+                "name": "Fast foods, cheeseburger; single, large patty; with condiments and bacon"
+            },
+            {
+                "offset": 6694,
+                "id": "21098",
+                "name": "Fast foods, cheeseburger; single, large patty; with condiments and vegetables"
+            },
+            {
+                "offset": 6695,
+                "id": "21099",
+                "name": "Fast foods, cheeseburger; single, large patty; with condiments, vegetables and ham"
+            },
+            {
+                "offset": 6696,
+                "id": "21100",
+                "name": "Fast foods, cheeseburger; double, large patty, with condiments and vegetables"
+            },
+            {
+                "offset": 6697,
+                "id": "21101",
+                "name": "Fast foods, cheeseburger; triple, regular patty; plain"
+            },
+            {
+                "offset": 6698,
+                "id": "21102",
+                "name": "Fast foods, chicken fillet sandwich, plain with pickles"
+            },
+            {
+                "offset": 6699,
+                "id": "21105",
+                "name": "Fast foods, fish sandwich, with tartar sauce"
+            },
+            {
+                "offset": 6700,
+                "id": "21106",
+                "name": "Fast foods, fish sandwich, with tartar sauce and cheese"
+            },
+            {
+                "offset": 6701,
+                "id": "21107",
+                "name": "Fast foods, hamburger; single, regular patty; plain"
+            },
+            {
+                "offset": 6702,
+                "id": "21108",
+                "name": "Fast foods, hamburger; single, regular patty; with condiments"
+            },
+            {
+                "offset": 6703,
+                "id": "21109",
+                "name": "Fast foods, hamburger; single, regular patty; with condiments and vegetables"
+            },
+            {
+                "offset": 6704,
+                "id": "21110",
+                "name": "Fast foods, hamburger; double, regular, patty; plain"
+            },
+            {
+                "offset": 6705,
+                "id": "21111",
+                "name": "Fast foods, hamburger; double, regular patty; with condiments"
+            },
+            {
+                "offset": 6706,
+                "id": "21112",
+                "name": "Fast foods, hamburger; single, large patty; plain"
+            },
+            {
+                "offset": 6707,
+                "id": "21113",
+                "name": "Fast foods, hamburger; single, large patty; with condiments and vegetables"
+            },
+            {
+                "offset": 6708,
+                "id": "21114",
+                "name": "Fast foods, hamburger; double, large patty; with condiments and vegetables"
+            },
+            {
+                "offset": 6709,
+                "id": "21115",
+                "name": "Fast foods, hamburger, large, triple patty, with condiments"
+            },
+            {
+                "offset": 6710,
+                "id": "21118",
+                "name": "Fast foods, hotdog, plain"
+            },
+            {
+                "offset": 6711,
+                "id": "21119",
+                "name": "Fast foods, hotdog, with chili"
+            },
+            {
+                "offset": 6712,
+                "id": "21120",
+                "name": "Fast foods, hotdog, with corn flour coating (corndog)"
+            },
+            {
+                "offset": 6713,
+                "id": "21121",
+                "name": "Fast foods, roast beef sandwich, plain"
+            },
+            {
+                "offset": 6714,
+                "id": "21124",
+                "name": "Fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6715,
+                "id": "21125",
+                "name": "Fast foods, submarine sandwich, roast beef on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6716,
+                "id": "21126",
+                "name": "Fast foods, submarine sandwich, tuna on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6717,
+                "id": "21127",
+                "name": "Fast foods, coleslaw"
+            },
+            {
+                "offset": 6718,
+                "id": "21129",
+                "name": "Fast foods, hush puppies"
+            },
+            {
+                "offset": 6719,
+                "id": "21130",
+                "name": "Fast foods, onion rings, breaded and fried"
+            },
+            {
+                "offset": 6720,
+                "id": "21138",
+                "name": "Fast foods, potato, french fried in vegetable oil"
+            },
+            {
+                "offset": 6721,
+                "id": "21139",
+                "name": "Fast foods, potato, mashed"
+            },
+            {
+                "offset": 6722,
+                "id": "21140",
+                "name": "Side dishes, potato salad"
+            },
+            {
+                "offset": 6723,
+                "id": "21141",
+                "name": "BURGER KING, Vanilla Shake"
+            },
+            {
+                "offset": 6724,
+                "id": "21142",
+                "name": "Fast food, biscuit"
+            },
+            {
+                "offset": 6725,
+                "id": "21143",
+                "name": "CHICK-FIL-A, Chick-n-Strips"
+            },
+            {
+                "offset": 6726,
+                "id": "21144",
+                "name": "CHICK-FIL-A, hash browns"
+            },
+            {
+                "offset": 6727,
+                "id": "21145",
+                "name": "School Lunch, pizza, BIG DADDY'S LS 16\" 51% Whole Grain Rolled Edge Cheese Pizza, frozen"
+            },
+            {
+                "offset": 6728,
+                "id": "21146",
+                "name": "School Lunch, pizza, BIG DADDY'S LS 16\" 51% Whole Grain Rolled Edge Turkey Pepperoni Pizza, frozen"
+            },
+            {
+                "offset": 6729,
+                "id": "21147",
+                "name": "School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Cheese Pizza 50/50 Cheese, frozen"
+            },
+            {
+                "offset": 6730,
+                "id": "21148",
+                "name": "School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Pepperoni Pizza 50/50 Cheese, frozen"
+            },
+            {
+                "offset": 6731,
+                "id": "21149",
+                "name": "School Lunch, pizza, TONY'S Breakfast Pizza Sausage, frozen"
+            },
+            {
+                "offset": 6732,
+                "id": "21150",
+                "name": "SUBWAY, sweet onion chicken teriyaki sub on white bread with lettuce, tomato and sweet onion sauce"
+            },
+            {
+                "offset": 6733,
+                "id": "21151",
+                "name": "Fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce"
+            },
+            {
+                "offset": 6734,
+                "id": "21152",
+                "name": "SUBWAY, SUBWAY CLUB sub on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6735,
+                "id": "21153",
+                "name": "Fast foods, submarine sandwich, turkey, roast beef and ham on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6736,
+                "id": "21154",
+                "name": "Fast foods, submarine sandwich, oven roasted chicken on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6737,
+                "id": "21155",
+                "name": "Fast foods, submarine sandwich, turkey breast on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6738,
+                "id": "21156",
+                "name": "Fast foods, submarine sandwich, ham on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6739,
+                "id": "21157",
+                "name": "SUBWAY, meatball marinara sub on white bread (no toppings)"
+            },
+            {
+                "offset": 6740,
+                "id": "21158",
+                "name": "Fast foods, submarine sandwich, meatball marinara on white bread"
+            },
+            {
+                "offset": 6741,
+                "id": "21159",
+                "name": "SUBWAY, steak & cheese sub on white bread with American cheese, lettuce and tomato"
+            },
+            {
+                "offset": 6742,
+                "id": "21160",
+                "name": "Fast foods, submarine sandwich, steak and cheese on white bread with cheese, lettuce and tomato"
+            },
+            {
+                "offset": 6743,
+                "id": "21161",
+                "name": "SUBWAY, B.L.T. sub on white bread with bacon, lettuce and tomato"
+            },
+            {
+                "offset": 6744,
+                "id": "21162",
+                "name": "Fast foods, submarine sandwich, bacon, lettuce, and tomato on white bread"
+            },
+            {
+                "offset": 6745,
+                "id": "21202",
+                "name": "Fast foods, hamburger, large, single patty, with condiments"
+            },
+            {
+                "offset": 6746,
+                "id": "21207",
+                "name": "SUBWAY, turkey breast sub on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6747,
+                "id": "21209",
+                "name": "SUBWAY, black forest ham sub on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6748,
+                "id": "21210",
+                "name": "SUBWAY, roast beef sub on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6749,
+                "id": "21211",
+                "name": "SUBWAY, oven roasted chicken sub on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6750,
+                "id": "21213",
+                "name": "SUBWAY, cold cut sub on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6751,
+                "id": "21214",
+                "name": "SUBWAY, tuna sub on white bread with lettuce and tomato"
+            },
+            {
+                "offset": 6752,
+                "id": "21224",
+                "name": "Pizza, cheese topping, regular crust, frozen, cooked"
+            },
+            {
+                "offset": 6753,
+                "id": "21225",
+                "name": "Pizza, cheese topping, rising crust, frozen, cooked"
+            },
+            {
+                "offset": 6754,
+                "id": "21226",
+                "name": "Pizza, meat and vegetable topping, regular crust, frozen, cooked"
+            },
+            {
+                "offset": 6755,
+                "id": "21227",
+                "name": "Pizza, meat and vegetable topping, rising crust, frozen, cooked"
+            },
+            {
+                "offset": 6756,
+                "id": "21228",
+                "name": "McDONALD'S, Hamburger"
+            },
+            {
+                "offset": 6757,
+                "id": "21229",
+                "name": "Fast foods, chicken, breaded and fried, boneless pieces, plain"
+            },
+            {
+                "offset": 6758,
+                "id": "21230",
+                "name": "Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise"
+            },
+            {
+                "offset": 6759,
+                "id": "21232",
+                "name": "McDONALD'S, FILET-O-FISH"
+            },
+            {
+                "offset": 6760,
+                "id": "21233",
+                "name": "McDONALD'S, Cheeseburger"
+            },
+            {
+                "offset": 6761,
+                "id": "21234",
+                "name": "McDONALD'S, QUARTER POUNDER"
+            },
+            {
+                "offset": 6762,
+                "id": "21235",
+                "name": "McDONALD'S, QUARTER POUNDER with Cheese"
+            },
+            {
+                "offset": 6763,
+                "id": "21237",
+                "name": "McDONALD'S, BIG MAC"
+            },
+            {
+                "offset": 6764,
+                "id": "21238",
+                "name": "McDONALD'S, french fries"
+            },
+            {
+                "offset": 6765,
+                "id": "21239",
+                "name": "WENDY'S, CLASSIC SINGLE Hamburger, no cheese"
+            },
+            {
+                "offset": 6766,
+                "id": "21240",
+                "name": "WENDY'S, CLASSIC SINGLE Hamburger, with cheese"
+            },
+            {
+                "offset": 6767,
+                "id": "21241",
+                "name": "WENDY'S, Jr. Hamburger, without cheese"
+            },
+            {
+                "offset": 6768,
+                "id": "21242",
+                "name": "WENDY'S, Jr. Hamburger, with cheese"
+            },
+            {
+                "offset": 6769,
+                "id": "21243",
+                "name": "WENDY'S, CLASSIC DOUBLE, with cheese"
+            },
+            {
+                "offset": 6770,
+                "id": "21244",
+                "name": "WENDY'S, Homestyle Chicken Fillet Sandwich"
+            },
+            {
+                "offset": 6771,
+                "id": "21245",
+                "name": "WENDY'S, Ultimate Chicken Grill Sandwich"
+            },
+            {
+                "offset": 6772,
+                "id": "21246",
+                "name": "WENDY'S, Chicken Nuggets"
+            },
+            {
+                "offset": 6773,
+                "id": "21247",
+                "name": "WENDY'S, french fries"
+            },
+            {
+                "offset": 6774,
+                "id": "21248",
+                "name": "WENDY'S, Frosty Dairy Dessert"
+            },
+            {
+                "offset": 6775,
+                "id": "21249",
+                "name": "BURGER KING, french fries"
+            },
+            {
+                "offset": 6776,
+                "id": "21250",
+                "name": "BURGER KING, Hamburger"
+            },
+            {
+                "offset": 6777,
+                "id": "21251",
+                "name": "BURGER KING, Cheeseburger"
+            },
+            {
+                "offset": 6778,
+                "id": "21252",
+                "name": "BURGER KING, WHOPPER, no cheese"
+            },
+            {
+                "offset": 6779,
+                "id": "21253",
+                "name": "BURGER KING, WHOPPER, with cheese"
+            },
+            {
+                "offset": 6780,
+                "id": "21254",
+                "name": "BURGER KING, DOUBLE WHOPPER, no cheese"
+            },
+            {
+                "offset": 6781,
+                "id": "21255",
+                "name": "BURGER KING, DOUBLE WHOPPER, with cheese"
+            },
+            {
+                "offset": 6782,
+                "id": "21256",
+                "name": "BURGER KING, Chicken Strips"
+            },
+            {
+                "offset": 6783,
+                "id": "21258",
+                "name": "BURGER KING, Premium Fish Sandwich"
+            },
+            {
+                "offset": 6784,
+                "id": "21259",
+                "name": "BURGER KING, Original Chicken Sandwich"
+            },
+            {
+                "offset": 6785,
+                "id": "21260",
+                "name": "TACO BELL, Original Taco with beef, cheese and lettuce"
+            },
+            {
+                "offset": 6786,
+                "id": "21261",
+                "name": "TACO BELL, Soft Taco with beef, cheese and lettuce"
+            },
+            {
+                "offset": 6787,
+                "id": "21262",
+                "name": "TACO BELL, Soft Taco with chicken, cheese and lettuce"
+            },
+            {
+                "offset": 6788,
+                "id": "21263",
+                "name": "TACO BELL, Soft Taco with steak"
+            },
+            {
+                "offset": 6789,
+                "id": "21264",
+                "name": "TACO BELL, Bean Burrito"
+            },
+            {
+                "offset": 6790,
+                "id": "21265",
+                "name": "TACO BELL, BURRITO SUPREME with beef"
+            },
+            {
+                "offset": 6791,
+                "id": "21266",
+                "name": "TACO BELL, BURRITO SUPREME with chicken"
+            },
+            {
+                "offset": 6792,
+                "id": "21267",
+                "name": "TACO BELL, BURRITO SUPREME with steak"
+            },
+            {
+                "offset": 6793,
+                "id": "21268",
+                "name": "TACO BELL, Nachos"
+            },
+            {
+                "offset": 6794,
+                "id": "21269",
+                "name": "TACO BELL, Nachos Supreme"
+            },
+            {
+                "offset": 6795,
+                "id": "21270",
+                "name": "TACO BELL, Taco Salad"
+            },
+            {
+                "offset": 6796,
+                "id": "21271",
+                "name": "PIZZA HUT 12\" Cheese Pizza, Hand-Tossed Crust"
+            },
+            {
+                "offset": 6797,
+                "id": "21272",
+                "name": "PIZZA HUT 12\" Cheese Pizza, Pan Crust"
+            },
+            {
+                "offset": 6798,
+                "id": "21273",
+                "name": "PIZZA HUT 12\" Cheese Pizza, THIN 'N CRISPY Crust"
+            },
+            {
+                "offset": 6799,
+                "id": "21274",
+                "name": "PIZZA HUT 12\" Pepperoni Pizza, Hand-Tossed Crust"
+            },
+            {
+                "offset": 6800,
+                "id": "21275",
+                "name": "PIZZA HUT 12\" Pepperoni Pizza, Pan Crust"
+            },
+            {
+                "offset": 6801,
+                "id": "21276",
+                "name": "PIZZA HUT 12\" Super Supreme Pizza, Hand-Tossed Crust"
+            },
+            {
+                "offset": 6802,
+                "id": "21277",
+                "name": "DOMINO'S 14\" Cheese Pizza, Classic Hand-Tossed Crust"
+            },
+            {
+                "offset": 6803,
+                "id": "21278",
+                "name": "DOMINO'S 14\" Cheese Pizza, Ultimate Deep Dish Crust"
+            },
+            {
+                "offset": 6804,
+                "id": "21279",
+                "name": "DOMINO'S 14\" Cheese Pizza, Crunchy Thin Crust"
+            },
+            {
+                "offset": 6805,
+                "id": "21280",
+                "name": "DOMINO'S 14\" Pepperoni Pizza, Classic Hand-Tossed Crust"
+            },
+            {
+                "offset": 6806,
+                "id": "21281",
+                "name": "DOMINO'S 14\" Pepperoni Pizza, Ultimate Deep Dish Crust"
+            },
+            {
+                "offset": 6807,
+                "id": "21282",
+                "name": "DOMINO'S 14\" EXTRAVAGANZZA FEAST Pizza, Classic Hand-Tossed Crust"
+            },
+            {
+                "offset": 6808,
+                "id": "21283",
+                "name": "PAPA JOHN'S 14\" Cheese Pizza, Original Crust"
+            },
+            {
+                "offset": 6809,
+                "id": "21284",
+                "name": "PAPA JOHN'S 14\" Pepperoni Pizza, Original Crust"
+            },
+            {
+                "offset": 6810,
+                "id": "21285",
+                "name": "PAPA JOHN'S 14\" The Works Pizza, Original Crust"
+            },
+            {
+                "offset": 6811,
+                "id": "21286",
+                "name": "PAPA JOHN'S 14\" Cheese Pizza, Thin Crust"
+            },
+            {
+                "offset": 6812,
+                "id": "21287",
+                "name": "LITTLE CAESARS 14\" Original Round Cheese Pizza, Regular Crust"
+            },
+            {
+                "offset": 6813,
+                "id": "21288",
+                "name": "LITTLE CAESARS 14\" Original Round Pepperoni Pizza, Regular Crust"
+            },
+            {
+                "offset": 6814,
+                "id": "21289",
+                "name": "LITTLE CAESARS 14\" Original Round Meat and Vegetable Pizza, Regular Crust"
+            },
+            {
+                "offset": 6815,
+                "id": "21290",
+                "name": "LITTLE CAESARS 14\" Cheese Pizza, Large Deep Dish Crust"
+            },
+            {
+                "offset": 6816,
+                "id": "21291",
+                "name": "LITTLE CAESARS 14\" Pepperoni Pizza, Large Deep Dish Crust"
+            },
+            {
+                "offset": 6817,
+                "id": "21292",
+                "name": "LITTLE CAESARS 14\" Cheese Pizza, Thin Crust"
+            },
+            {
+                "offset": 6818,
+                "id": "21293",
+                "name": "PIZZA HUT 14\" Cheese Pizza, Hand-Tossed Crust"
+            },
+            {
+                "offset": 6819,
+                "id": "21294",
+                "name": "PIZZA HUT 14\" Cheese Pizza, Pan Crust"
+            },
+            {
+                "offset": 6820,
+                "id": "21295",
+                "name": "PIZZA HUT 14\" Cheese Pizza, THIN 'N CRISPY Crust"
+            },
+            {
+                "offset": 6821,
+                "id": "21296",
+                "name": "PIZZA HUT 14\" Pepperoni Pizza, Hand-Tossed Crust"
+            },
+            {
+                "offset": 6822,
+                "id": "21297",
+                "name": "PIZZA HUT 14\" Pepperoni Pizza, Pan Crust"
+            },
+            {
+                "offset": 6823,
+                "id": "21298",
+                "name": "PIZZA HUT 14\" Super Supreme Pizza, Hand-Tossed Crust"
+            },
+            {
+                "offset": 6824,
+                "id": "21299",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, cheese topping, regular crust"
+            },
+            {
+                "offset": 6825,
+                "id": "21300",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, cheese topping, thick crust"
+            },
+            {
+                "offset": 6826,
+                "id": "21301",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, cheese topping, thin crust"
+            },
+            {
+                "offset": 6827,
+                "id": "21302",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, pepperoni topping, regular crust"
+            },
+            {
+                "offset": 6828,
+                "id": "21303",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, pepperoni topping, thick crust"
+            },
+            {
+                "offset": 6829,
+                "id": "21304",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, meat and vegetable topping, regular crust"
+            },
+            {
+                "offset": 6830,
+                "id": "21305",
+                "name": "Fast foods, griddle cake sandwich, egg, cheese, and sausage"
+            },
+            {
+                "offset": 6831,
+                "id": "21306",
+                "name": "Fast foods, griddle cake sandwich, sausage"
+            },
+            {
+                "offset": 6832,
+                "id": "21307",
+                "name": "Fast foods, griddle cake sandwich, egg, cheese, and bacon"
+            },
+            {
+                "offset": 6833,
+                "id": "21309",
+                "name": "McDONALD'S, Chicken McNUGGETS"
+            },
+            {
+                "offset": 6834,
+                "id": "21310",
+                "name": "McDONALD'S, Barbeque Sauce"
+            },
+            {
+                "offset": 6835,
+                "id": "21311",
+                "name": "McDONALD'S, Creamy Ranch Sauce"
+            },
+            {
+                "offset": 6836,
+                "id": "21313",
+                "name": "McDONALD'S, Hot Mustard Sauce"
+            },
+            {
+                "offset": 6837,
+                "id": "21314",
+                "name": "McDONALD'S, Spicy Buffalo Sauce"
+            },
+            {
+                "offset": 6838,
+                "id": "21315",
+                "name": "McDONALD'S, Sweet 'N Sour Sauce"
+            },
+            {
+                "offset": 6839,
+                "id": "21316",
+                "name": "McDONALD'S, Tangy Honey Mustard Sauce"
+            },
+            {
+                "offset": 6840,
+                "id": "21319",
+                "name": "McDONALD'S, Hash Brown"
+            },
+            {
+                "offset": 6841,
+                "id": "21321",
+                "name": "McDONALD'S, Hotcakes (plain)"
+            },
+            {
+                "offset": 6842,
+                "id": "21324",
+                "name": "McDONALD'S, Baked Apple Pie"
+            },
+            {
+                "offset": 6843,
+                "id": "21327",
+                "name": "McDONALD'S, Bacon, Egg & Cheese McGRIDDLES"
+            },
+            {
+                "offset": 6844,
+                "id": "21328",
+                "name": "McDONALD'S, Sausage McGRIDDLES"
+            },
+            {
+                "offset": 6845,
+                "id": "21329",
+                "name": "McDONALD'S, Sausage, Egg & Cheese McGRIDDLES"
+            },
+            {
+                "offset": 6846,
+                "id": "21333",
+                "name": "McDONALD'S, Vanilla Reduced Fat Ice Cream Cone"
+            },
+            {
+                "offset": 6847,
+                "id": "21334",
+                "name": "McDONALD'S, Strawberry Sundae"
+            },
+            {
+                "offset": 6848,
+                "id": "21335",
+                "name": "McDONALD'S, Hot Caramel Sundae"
+            },
+            {
+                "offset": 6849,
+                "id": "21336",
+                "name": "McDONALD'S, Hot Fudge Sundae"
+            },
+            {
+                "offset": 6850,
+                "id": "21337",
+                "name": "McDONALD'S, Peanuts (for Sundaes)"
+            },
+            {
+                "offset": 6851,
+                "id": "21338",
+                "name": "McDONALD'S, McFLURRY with M&M'S CANDIES"
+            },
+            {
+                "offset": 6852,
+                "id": "21339",
+                "name": "McDONALD'S, McFLURRY with OREO cookies"
+            },
+            {
+                "offset": 6853,
+                "id": "21340",
+                "name": "McDONALD'S, Sausage Burrito"
+            },
+            {
+                "offset": 6854,
+                "id": "21341",
+                "name": "McDONALD'S, BIG BREAKFAST"
+            },
+            {
+                "offset": 6855,
+                "id": "21343",
+                "name": "McDONALD'S, Low Fat Caramel Sauce"
+            },
+            {
+                "offset": 6856,
+                "id": "21344",
+                "name": "McDONALD'S, Double Cheeseburger"
+            },
+            {
+                "offset": 6857,
+                "id": "21345",
+                "name": "McDONALD'S, DOUBLE QUARTER POUNDER with Cheese"
+            },
+            {
+                "offset": 6858,
+                "id": "21346",
+                "name": "McDONALD'S, NEWMAN'S OWN Cobb Dressing"
+            },
+            {
+                "offset": 6859,
+                "id": "21347",
+                "name": "McDONALD'S, NEWMAN'S OWN Creamy Caesar Dressing"
+            },
+            {
+                "offset": 6860,
+                "id": "21348",
+                "name": "McDONALD'S, NEWMAN'S OWN Low Fat Balsamic Vinaigrette"
+            },
+            {
+                "offset": 6861,
+                "id": "21349",
+                "name": "McDONALD'S, NEWMAN'S OWN Ranch Dressing"
+            },
+            {
+                "offset": 6862,
+                "id": "21350",
+                "name": "McDONALD'S, BIG MAC (without Big Mac Sauce)"
+            },
+            {
+                "offset": 6863,
+                "id": "21355",
+                "name": "McDONALD'S, McCHICKEN Sandwich"
+            },
+            {
+                "offset": 6864,
+                "id": "21356",
+                "name": "McDONALD'S, McCHICKEN Sandwich (without mayonnaise)"
+            },
+            {
+                "offset": 6865,
+                "id": "21357",
+                "name": "McDONALD'S, Egg McMUFFIN"
+            },
+            {
+                "offset": 6866,
+                "id": "21358",
+                "name": "McDONALD'S, Sausage McMUFFIN"
+            },
+            {
+                "offset": 6867,
+                "id": "21359",
+                "name": "McDONALD'S, Sausage McMUFFIN with Egg"
+            },
+            {
+                "offset": 6868,
+                "id": "21360",
+                "name": "McDONALD'S, Bacon Egg & Cheese Biscuit"
+            },
+            {
+                "offset": 6869,
+                "id": "21361",
+                "name": "McDONALD'S, Sausage Biscuit"
+            },
+            {
+                "offset": 6870,
+                "id": "21362",
+                "name": "McDONALD'S, Sausage Biscuit with Egg"
+            },
+            {
+                "offset": 6871,
+                "id": "21363",
+                "name": "McDONALD'S, Deluxe Breakfast, with syrup and margarine"
+            },
+            {
+                "offset": 6872,
+                "id": "21364",
+                "name": "McDONALD'S, Hotcakes and Sausage"
+            },
+            {
+                "offset": 6873,
+                "id": "21365",
+                "name": "McDONALD'S, Hotcakes (with 2 pats margarine & syrup)"
+            },
+            {
+                "offset": 6874,
+                "id": "21376",
+                "name": "McDONALD'S, Bacon Ranch Salad with Grilled Chicken"
+            },
+            {
+                "offset": 6875,
+                "id": "21377",
+                "name": "McDONALD'S Bacon Ranch Salad with Crispy Chicken"
+            },
+            {
+                "offset": 6876,
+                "id": "21378",
+                "name": "McDONALD'S, Bacon Ranch Salad without chicken"
+            },
+            {
+                "offset": 6877,
+                "id": "21379",
+                "name": "McDONALD'S, Side Salad"
+            },
+            {
+                "offset": 6878,
+                "id": "21380",
+                "name": "McDONALD'S, Fruit 'n Yogurt Parfait"
+            },
+            {
+                "offset": 6879,
+                "id": "21381",
+                "name": "McDONALD'S, Fruit 'n Yogurt Parfait (without granola)"
+            },
+            {
+                "offset": 6880,
+                "id": "21382",
+                "name": "McDONALD'S, FILET-O-FISH (without tartar sauce)"
+            },
+            {
+                "offset": 6881,
+                "id": "21383",
+                "name": "BURGER KING, CROISSAN'WICH with Sausage, Egg and Cheese"
+            },
+            {
+                "offset": 6882,
+                "id": "21384",
+                "name": "BURGER KING, CROISSAN'WICH with Sausage and Cheese"
+            },
+            {
+                "offset": 6883,
+                "id": "21385",
+                "name": "BURGER KING, CROISSAN'WICH with Egg and Cheese"
+            },
+            {
+                "offset": 6884,
+                "id": "21386",
+                "name": "BURGER KING, french toast sticks"
+            },
+            {
+                "offset": 6885,
+                "id": "21387",
+                "name": "BURGER KING, Hash Brown Rounds"
+            },
+            {
+                "offset": 6886,
+                "id": "21388",
+                "name": "Fast foods, miniature cinnamon rolls"
+            },
+            {
+                "offset": 6887,
+                "id": "21389",
+                "name": "Fast foods, hamburger; double, large patty; with condiments, vegetables and mayonnaise"
+            },
+            {
+                "offset": 6888,
+                "id": "21390",
+                "name": "Fast foods, hamburger; single, large patty; with condiments, vegetables and mayonnaise"
+            },
+            {
+                "offset": 6889,
+                "id": "21393",
+                "name": "Fast foods, hamburger; single, regular patty; double decker bun with condiments and special sauce"
+            },
+            {
+                "offset": 6890,
+                "id": "21395",
+                "name": "Fast foods, cheeseburger; double, regular patty; with condiments"
+            },
+            {
+                "offset": 6891,
+                "id": "21396",
+                "name": "Fast foods, cheeseburger; double, large patty; with condiments"
+            },
+            {
+                "offset": 6892,
+                "id": "21397",
+                "name": "Fast foods, cheeseburger; single, large patty; with condiments, vegetables and mayonnaise"
+            },
+            {
+                "offset": 6893,
+                "id": "21398",
+                "name": "Fast foods, cheeseburger; single, large patty; with condiments"
+            },
+            {
+                "offset": 6894,
+                "id": "21399",
+                "name": "Fast Foods, cheeseburger; double, large patty; with condiments, vegetables and mayonnaise"
+            },
+            {
+                "offset": 6895,
+                "id": "21400",
+                "name": "Fast foods, cheeseburger; double, regular patty; double decker bun with condiments and special sauce"
+            },
+            {
+                "offset": 6896,
+                "id": "21401",
+                "name": "Fast foods, chicken tenders"
+            },
+            {
+                "offset": 6897,
+                "id": "21402",
+                "name": "McDONALD'S, Premium Grilled Chicken Classic Sandwich"
+            },
+            {
+                "offset": 6898,
+                "id": "21403",
+                "name": "McDONALD'S, Premium Crispy Chicken Classic Sandwich"
+            },
+            {
+                "offset": 6899,
+                "id": "21404",
+                "name": "McDONALD'S, Premium Grilled Chicken Club Sandwich"
+            },
+            {
+                "offset": 6900,
+                "id": "21405",
+                "name": "McDONALD'S, Premium Crispy Chicken Club Sandwich"
+            },
+            {
+                "offset": 6901,
+                "id": "21406",
+                "name": "McDONALD'S, Premium Grilled Chicken Ranch BLT Sandwich"
+            },
+            {
+                "offset": 6902,
+                "id": "21407",
+                "name": "McDONALD'S, Premium Crispy Chicken Ranch BLT Sandwich"
+            },
+            {
+                "offset": 6903,
+                "id": "21410",
+                "name": "Fast foods, bagel, with egg, sausage patty, cheese, and condiments"
+            },
+            {
+                "offset": 6904,
+                "id": "21411",
+                "name": "Fast foods, bagel, with breakfast steak, egg, cheese, and condiments"
+            },
+            {
+                "offset": 6905,
+                "id": "21412",
+                "name": "Light Ice Cream, soft serve, blended with milk chocolate candies"
+            },
+            {
+                "offset": 6906,
+                "id": "21413",
+                "name": "Light Ice Cream, soft serve, blended with cookie pieces"
+            },
+            {
+                "offset": 6907,
+                "id": "21415",
+                "name": "POPEYES, biscuit"
+            },
+            {
+                "offset": 6908,
+                "id": "21416",
+                "name": "POPEYES, Coleslaw"
+            },
+            {
+                "offset": 6909,
+                "id": "21417",
+                "name": "POPEYES, Mild Chicken Strips, analyzed 2006"
+            },
+            {
+                "offset": 6910,
+                "id": "21418",
+                "name": "POPEYES, Spicy Chicken Strips, analyzed 2006"
+            },
+            {
+                "offset": 6911,
+                "id": "21419",
+                "name": "KFC, biscuit"
+            },
+            {
+                "offset": 6912,
+                "id": "21420",
+                "name": "KFC, Coleslaw"
+            },
+            {
+                "offset": 6913,
+                "id": "21421",
+                "name": "KFC, Crispy Chicken Strips"
+            },
+            {
+                "offset": 6914,
+                "id": "21422",
+                "name": "KFC, Popcorn Chicken"
+            },
+            {
+                "offset": 6915,
+                "id": "21424",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Skin and Breading"
+            },
+            {
+                "offset": 6916,
+                "id": "21425",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6917,
+                "id": "21426",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6918,
+                "id": "21427",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6919,
+                "id": "21428",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6920,
+                "id": "21429",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Skin and Breading"
+            },
+            {
+                "offset": 6921,
+                "id": "21430",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Breast, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6922,
+                "id": "21431",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Drumstick, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6923,
+                "id": "21432",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6924,
+                "id": "21433",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Wing, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6925,
+                "id": "21434",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat and skin with breading"
+            },
+            {
+                "offset": 6926,
+                "id": "21435",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat and skin with breading"
+            },
+            {
+                "offset": 6927,
+                "id": "21436",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat and skin with breading"
+            },
+            {
+                "offset": 6928,
+                "id": "21437",
+                "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat and skin with breading"
+            },
+            {
+                "offset": 6929,
+                "id": "21438",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Breast, meat and skin with breading"
+            },
+            {
+                "offset": 6930,
+                "id": "21439",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Drumstick, meat and skin with breading"
+            },
+            {
+                "offset": 6931,
+                "id": "21440",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat and skin with breading"
+            },
+            {
+                "offset": 6932,
+                "id": "21441",
+                "name": "KFC, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading"
+            },
+            {
+                "offset": 6933,
+                "id": "21442",
+                "name": "POPEYES, Fried Chicken, Mild, Breast, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6934,
+                "id": "21443",
+                "name": "POPEYES, Fried Chicken, Mild, Drumstick, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6935,
+                "id": "21444",
+                "name": "POPEYES, Fried Chicken, Mild, Skin and Breading"
+            },
+            {
+                "offset": 6936,
+                "id": "21445",
+                "name": "POPEYES, Fried Chicken, Mild, Thigh, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6937,
+                "id": "21446",
+                "name": "POPEYES, Fried Chicken, Mild, Wing, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6938,
+                "id": "21456",
+                "name": "POPEYES, Fried Chicken, Mild, Breast, meat and skin with breading"
+            },
+            {
+                "offset": 6939,
+                "id": "21457",
+                "name": "POPEYES, Fried Chicken, Mild, Drumstick, meat and skin with breading"
+            },
+            {
+                "offset": 6940,
+                "id": "21458",
+                "name": "POPEYES, Fried Chicken, Mild, Thigh, meat and skin with breading"
+            },
+            {
+                "offset": 6941,
+                "id": "21459",
+                "name": "POPEYES, Fried Chicken, Mild, Wing, meat and skin with breading"
+            },
+            {
+                "offset": 6942,
+                "id": "21461",
+                "name": "Fast foods, grilled chicken, bacon and tomato club sandwich, with cheese, lettuce, and mayonnaise"
+            },
+            {
+                "offset": 6943,
+                "id": "21462",
+                "name": "Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise"
+            },
+            {
+                "offset": 6944,
+                "id": "21463",
+                "name": "Yogurt parfait, lowfat, with fruit and granola"
+            },
+            {
+                "offset": 6945,
+                "id": "21464",
+                "name": "Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6946,
+                "id": "21465",
+                "name": "Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6947,
+                "id": "21466",
+                "name": "Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6948,
+                "id": "21467",
+                "name": "Fast Foods, Fried Chicken, Wing, meat only, skin and breading removed"
+            },
+            {
+                "offset": 6949,
+                "id": "21468",
+                "name": "Fast Foods, Fried Chicken, Skin and breading from all pieces"
+            },
+            {
+                "offset": 6950,
+                "id": "21469",
+                "name": "Fast Foods, Fried Chicken, Breast, meat and skin and breading"
+            },
+            {
+                "offset": 6951,
+                "id": "21470",
+                "name": "Fast Foods, Fried Chicken, Drumstick, meat and skin with breading"
+            },
+            {
+                "offset": 6952,
+                "id": "21471",
+                "name": "Fast Foods, Fried Chicken, Thigh, meat and skin and breading"
+            },
+            {
+                "offset": 6953,
+                "id": "21472",
+                "name": "Fast Foods, Fried Chicken, Wing, meat and skin and breading"
+            },
+            {
+                "offset": 6954,
+                "id": "21473",
+                "name": "DIGIORNO Pizza, cheese topping, cheese stuffed crust, frozen, baked"
+            },
+            {
+                "offset": 6955,
+                "id": "21474",
+                "name": "DIGIORNO Pizza, cheese topping, rising crust, frozen, baked"
+            },
+            {
+                "offset": 6956,
+                "id": "21475",
+                "name": "DIGIORNO Pizza, cheese topping, thin crispy crust, frozen, baked"
+            },
+            {
+                "offset": 6957,
+                "id": "21476",
+                "name": "DIGIORNO Pizza, pepperoni topping, cheese stuffed crust, frozen, baked"
+            },
+            {
+                "offset": 6958,
+                "id": "21477",
+                "name": "DIGIORNO Pizza, pepperoni topping, rising crust, frozen, baked"
+            },
+            {
+                "offset": 6959,
+                "id": "21478",
+                "name": "DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked"
+            },
+            {
+                "offset": 6960,
+                "id": "21479",
+                "name": "DIGIORNO Pizza, supreme topping, rising crust, frozen, baked"
+            },
+            {
+                "offset": 6961,
+                "id": "21480",
+                "name": "DIGIORNO Pizza, supreme topping, thin crispy crust, frozen, baked"
+            },
+            {
+                "offset": 6962,
+                "id": "21482",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, sausage topping, thick crust"
+            },
+            {
+                "offset": 6963,
+                "id": "21483",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, sausage topping, thin crust"
+            },
+            {
+                "offset": 6964,
+                "id": "21484",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, sausage topping, regular crust"
+            },
+            {
+                "offset": 6965,
+                "id": "21485",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, pepperoni topping, thin crust"
+            },
+            {
+                "offset": 6966,
+                "id": "21486",
+                "name": "Fast foods, taco with beef, cheese and lettuce, soft"
+            },
+            {
+                "offset": 6967,
+                "id": "21487",
+                "name": "Fast foods, taco with chicken, lettuce and cheese, soft"
+            },
+            {
+                "offset": 6968,
+                "id": "21488",
+                "name": "Fast foods, quesadilla, with chicken"
+            },
+            {
+                "offset": 6969,
+                "id": "21490",
+                "name": "Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread"
+            },
+            {
+                "offset": 6970,
+                "id": "21491",
+                "name": "PIZZA HUT 14\" Pepperoni Pizza, THIN 'N CRISPY Crust"
+            },
+            {
+                "offset": 6971,
+                "id": "21492",
+                "name": "DOMINO'S 14\" Pepperoni Pizza, Crunchy Thin Crust"
+            },
+            {
+                "offset": 6972,
+                "id": "21493",
+                "name": "DOMINO'S 14\" Sausage Pizza, Crunchy Thin Crust"
+            },
+            {
+                "offset": 6973,
+                "id": "21494",
+                "name": "DOMINO'S 14\" Sausage Pizza, Classic Hand-Tossed Crust"
+            },
+            {
+                "offset": 6974,
+                "id": "21495",
+                "name": "DOMINO'S 14\" Sausage Pizza, Ultimate Deep Dish Crust"
+            },
+            {
+                "offset": 6975,
+                "id": "21496",
+                "name": "PIZZA HUT 14\" Sausage Pizza, THIN 'N CRISPY Crust"
+            },
+            {
+                "offset": 6976,
+                "id": "21497",
+                "name": "PIZZA HUT 14\" Sausage Pizza, Hand-Tossed Crust"
+            },
+            {
+                "offset": 6977,
+                "id": "21498",
+                "name": "PIZZA HUT 14\" Sausage Pizza, Pan Crust"
+            },
+            {
+                "offset": 6978,
+                "id": "21499",
+                "name": "KASHI Pizza, Roasted Vegetable, frozen, unprepared"
+            },
+            {
+                "offset": 6979,
+                "id": "21500",
+                "name": "KASHI Pizza, Mushroom Trio & Spinach, frozen, unprepared"
+            },
+            {
+                "offset": 6980,
+                "id": "21501",
+                "name": "KASHI Pizza, Margherita, frozen, unprepared"
+            },
+            {
+                "offset": 6981,
+                "id": "21503",
+                "name": "KASHI Pizza, Mediterranean, frozen, unprepared"
+            },
+            {
+                "offset": 6982,
+                "id": "21505",
+                "name": "Pizza, cheese topping, thin crust, frozen, cooked"
+            },
+            {
+                "offset": 6983,
+                "id": "21506",
+                "name": "BURGER KING, Double Cheeseburger"
+            },
+            {
+                "offset": 6984,
+                "id": "21507",
+                "name": "WENDY'S, Double Stack, with cheese"
+            },
+            {
+                "offset": 6985,
+                "id": "21508",
+                "name": "WEND'YS, Crispy Chicken Sandwich"
+            },
+            {
+                "offset": 6986,
+                "id": "21509",
+                "name": "BURGER KING, Onion Rings"
+            },
+            {
+                "offset": 6987,
+                "id": "21510",
+                "name": "WENDY'S, DAVE'S Hot 'N Juicy 1/4 LB, single"
+            },
+            {
+                "offset": 6988,
+                "id": "21511",
+                "name": "Fast Food, Pizza Chain, 14\" pizza, cheese topping, stuffed crust"
+            },
+            {
+                "offset": 6989,
+                "id": "21512",
+                "name": "PIZZA HUT 14\" Cheese Pizza, Stuffed Crust"
+            },
+            {
+                "offset": 6990,
+                "id": "21513",
+                "name": "KASHI Pizza, Greek Tzatziki, single serve, frozen, unprepared"
+            },
+            {
+                "offset": 6991,
+                "id": "21514",
+                "name": "KASHI Pizza, Tikka Masala, single serve, frozen, unprepared"
+            },
+            {
+                "offset": 6992,
+                "id": "21515",
+                "name": "MORNINGSTAR FARMS Pizza, Baja Black Bean, single serve, frozen, unprepared"
+            },
+            {
+                "offset": 6993,
+                "id": "21516",
+                "name": "KASHI Pizza, Mushroom and Spinach, single serve, frozen, unprepared"
+            },
+            {
+                "offset": 6994,
+                "id": "21517",
+                "name": "Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce"
+            },
+            {
+                "offset": 6995,
+                "id": "21518",
+                "name": "Fast foods, grilled chicken in tortilla, with lettuce, cheese, and ranch sauce"
+            },
+            {
+                "offset": 6996,
+                "id": "21519",
+                "name": "Fast foods, breakfast burrito, with egg, cheese, and sausage"
+            },
+            {
+                "offset": 6997,
+                "id": "21520",
+                "name": "Fast foods, breadstick, soft, prepared with garlic and parmesan cheese"
+            },
+            {
+                "offset": 6998,
+                "id": "21521",
+                "name": "Fast foods, strawberry banana smoothie made with ice and low-fat yogurt"
+            },
+            {
+                "offset": 6999,
+                "id": "21522",
+                "name": "McDONALD'S, Southern Style Chicken Biscuit"
+            }
+        ]
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Full",
+        "food": {
+            "ndbno": "45001502",
+            "name": "AMY'S, BROCCOLI & CHEDDAR BAKE, UPC: 042272009688",
+            "sd": "",
+            "fg": "Branded Food Products Database",
+            "sn": "",
+            "cn": "",
+            "manu": "AMY'S",
+            "nf": 0.0,
+            "cf": 0.0,
+            "ff": 0.0,
+            "pf": 0.0,
+            "r": "0%",
+            "rd": "",
+            "nutrients": [
+                {
+                    "nutrient_id": 208,
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": 167.0,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 359.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 359.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 203,
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 6.51,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 14.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 14.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 204,
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 7.44,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 16.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 16.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 205,
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 18.14,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 39.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 39.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 291,
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.9,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 1.9
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 1.9
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 269,
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 1.86,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 4.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 4.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 301,
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 140.0,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 301.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 301.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 303,
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 0.17,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 0.37
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 0.37
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 307,
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 256.0,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 550.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 550.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 401,
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 5.6,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 318,
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": 186.0,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 400.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 400.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 606,
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 4.18,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 8.987
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 8.987
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 605,
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 601,
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": 23.0,
+                    "sourcecode": "",
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 49.0
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 215.0,
+                            "qty": 1.0,
+                            "value": 49.0
+                        }
+                    ]
+                }
+            ]
+        },
+        "sources": [
+            
+        ],
+        "footnotes": [
+            
+        ],
+        "langual": [
+            
+        ]
+    }
+}

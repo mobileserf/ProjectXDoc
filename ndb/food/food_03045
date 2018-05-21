@@ -1,0 +1,3728 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Full",
+        "food": {
+            "ndbno": "03045",
+            "name": "Babyfood, dinner, macaroni and tomato and beef, junior",
+            "sd": "BABYFOOD,DINNER,MACARONI&TOMATO&BF,JR",
+            "fg": "Baby Foods",
+            "sn": "",
+            "cn": "",
+            "manu": "",
+            "nf": 5.98,
+            "cf": 4.1,
+            "ff": 8.9,
+            "pf": 4.1,
+            "r": "0%",
+            "rd": "",
+            "nutrients": [
+                {
+                    "nutrient_id": 255,
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 86.7,
+                    "sourcecode": "",
+                    "dp": 20,
+                    "se": "0.100",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 13.87
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 24.58
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 147.39
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 147.39
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 147.39
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 208,
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": 59.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 9.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 17.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 100.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 100.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 100.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 268,
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kJ",
+                    "value": 247.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 40.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 70.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 420.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 420.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 420.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 203,
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 2.5,
+                    "sourcecode": "",
+                    "dp": 28,
+                    "se": "0.200",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.4
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.71
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 4.25
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 4.25
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 4.25
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 204,
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 1.1,
+                    "sourcecode": "",
+                    "dp": 22,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.18
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.31
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.87
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.87
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.87
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 207,
+                    "name": "Ash",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.3,
+                    "sourcecode": "",
+                    "dp": 17,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.05
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.09
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.51
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.51
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.51
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 205,
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 9.4,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 1.5
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 2.66
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 15.98
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 15.98
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 15.98
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 291,
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 1.1,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.2
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.3
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.9
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.9
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.9
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 269,
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 2.43,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.39
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.69
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 4.13
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 4.13
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 4.13
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 301,
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 14.0,
+                    "sourcecode": "",
+                    "dp": 19,
+                    "se": "1.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 4.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 24.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 24.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 24.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 303,
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 0.36,
+                    "sourcecode": "",
+                    "dp": 19,
+                    "se": "0.020",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.06
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.1
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.61
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.61
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.61
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 304,
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 7.0,
+                    "sourcecode": "",
+                    "dp": 3,
+                    "se": "1.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 1.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 305,
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 44.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 7.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 12.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 75.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 75.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 75.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 306,
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 72.0,
+                    "sourcecode": "",
+                    "dp": 13,
+                    "se": "2.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 20.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 122.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 122.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 122.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 307,
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 35.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 6.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 10.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 60.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 60.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 60.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 309,
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 0.36,
+                    "sourcecode": "",
+                    "dp": 7,
+                    "se": "0.010",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.06
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.1
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.61
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.61
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.61
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 312,
+                    "name": "Copper, Cu",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 0.039,
+                    "sourcecode": "",
+                    "dp": 3,
+                    "se": "0.003",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.006
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.011
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.066
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.066
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.066
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 317,
+                    "name": "Selenium, Se",
+                    "group": "Minerals",
+                    "unit": "\u00b5g",
+                    "value": 8.4,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 1.3
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 2.4
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 14.3
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 14.3
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 14.3
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 401,
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 1.5,
+                    "sourcecode": "",
+                    "dp": 16,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.2
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.4
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 2.6
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 2.6
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 404,
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.048,
+                    "sourcecode": "",
+                    "dp": 20,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.008
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.014
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.082
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.082
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.082
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 405,
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.055,
+                    "sourcecode": "",
+                    "dp": 19,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.009
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.016
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.094
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.094
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.094
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 406,
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.751,
+                    "sourcecode": "",
+                    "dp": 19,
+                    "se": "0.019",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.12
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.213
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.277
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.277
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.277
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 415,
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.047,
+                    "sourcecode": "",
+                    "dp": 5,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.008
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.013
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.08
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.08
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.08
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 417,
+                    "name": "Folate, total",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 9.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 1.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 3.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 15.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 15.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 15.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 431,
+                    "name": "Folic acid",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 3.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 1.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 5.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 5.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 5.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 432,
+                    "name": "Folate, food",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 7.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 1.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 12.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 435,
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 11.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 3.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 19.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 19.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 19.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 421,
+                    "name": "Choline, total",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 10.4,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 1.7
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 2.9
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 17.7
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 17.7
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 17.7
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 418,
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 0.24,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.04
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.07
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.41
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.41
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.41
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 578,
+                    "name": "Vitamin B-12, added",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 320,
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 35.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 6.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 10.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 60.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 60.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 60.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 319,
+                    "name": "Retinol",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 321,
+                    "name": "Carotene, beta",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 338.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 54.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 96.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 575.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 575.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 575.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 322,
+                    "name": "Carotene, alpha",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 154.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 25.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 44.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 262.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 262.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 262.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 334,
+                    "name": "Cryptoxanthin, beta",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 318,
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": 691.0,
+                    "sourcecode": "",
+                    "dp": 19,
+                    "se": "24.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 111.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 196.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1175.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1175.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1175.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 337,
+                    "name": "Lycopene",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 250.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 40.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 71.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 425.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 425.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 425.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 338,
+                    "name": "Lutein + zeaxanthin",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 12.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 3.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 20.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 20.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 20.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 323,
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.81,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.13
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.23
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.38
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.38
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.38
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 573,
+                    "name": "Vitamin E, added",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 328,
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 326,
+                    "name": "Vitamin D3 (cholecalciferol)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 324,
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": 1.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 2.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 430,
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 6.7,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 1.1
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 1.9
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 11.4
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 11.4
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 11.4
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 606,
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.411,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.066
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.117
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.699
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.699
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.699
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 607,
+                    "name": "4:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.001,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 608,
+                    "name": "6:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 609,
+                    "name": "8:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 610,
+                    "name": "10:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.001,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 611,
+                    "name": "12:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.001,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 612,
+                    "name": "14:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.029,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.005
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.008
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.049
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.049
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.049
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 613,
+                    "name": "16:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.241,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.039
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.068
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.41
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.41
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.41
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 614,
+                    "name": "18:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.119,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.019
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.034
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.202
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.202
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.202
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 645,
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.447,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.072
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.127
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.76
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.76
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.76
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 626,
+                    "name": "16:1 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.038,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.006
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.011
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.065
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.065
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.065
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 617,
+                    "name": "18:1 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.392,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.063
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.111
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.666
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.666
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.666
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 628,
+                    "name": "20:1",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.001,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 630,
+                    "name": "22:1 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 646,
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.079,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.013
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.022
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.134
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.134
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.134
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 618,
+                    "name": "18:2 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.066,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.011
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.019
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.112
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.112
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.112
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 619,
+                    "name": "18:3 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.007,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.001
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.012
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.012
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.012
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 627,
+                    "name": "18:4",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 620,
+                    "name": "20:4 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.004,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.001
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.001
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.007
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.007
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.007
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 629,
+                    "name": "20:5 n-3 (EPA)",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 631,
+                    "name": "22:5 n-3 (DPA)",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 621,
+                    "name": "22:6 n-3 (DHA)",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 601,
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": 4.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 1.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 1.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 7.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 7.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 7.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 501,
+                    "name": "Tryptophan",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.028,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.004
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.008
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.048
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.048
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.048
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 502,
+                    "name": "Threonine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.09,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.014
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.026
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.153
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.153
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.153
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 503,
+                    "name": "Isoleucine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.118,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.019
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.033
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.201
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.201
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.201
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 504,
+                    "name": "Leucine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.198,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.032
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.056
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.337
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.337
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.337
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 505,
+                    "name": "Lysine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.149,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.024
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.042
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.253
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.253
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.253
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 506,
+                    "name": "Methionine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.039,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.006
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.011
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.066
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.066
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.066
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 507,
+                    "name": "Cystine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.034,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.005
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.01
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.058
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.058
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.058
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 508,
+                    "name": "Phenylalanine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.112,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.018
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.032
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.19
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.19
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.19
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 509,
+                    "name": "Tyrosine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.082,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.013
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.023
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.139
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.139
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.139
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 510,
+                    "name": "Valine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.127,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.02
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.036
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.216
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.216
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.216
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 511,
+                    "name": "Arginine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.133,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.021
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.038
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.226
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.226
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.226
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 512,
+                    "name": "Histidine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.064,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.01
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.018
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.109
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.109
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.109
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 513,
+                    "name": "Alanine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.128,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.02
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.036
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.218
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.218
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.218
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 514,
+                    "name": "Aspartic acid",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.198,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.032
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.056
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.337
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.337
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.337
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 515,
+                    "name": "Glutamic acid",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.619,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.099
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.175
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.052
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.052
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 1.052
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 516,
+                    "name": "Glycine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.126,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.02
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.036
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.214
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.214
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.214
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 517,
+                    "name": "Proline",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.201,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.032
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.057
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.342
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.342
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.342
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 518,
+                    "name": "Serine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.104,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.017
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.029
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.177
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.177
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.177
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 221,
+                    "name": "Alcohol, ethyl",
+                    "group": "Other",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 262,
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 263,
+                    "name": "Theobromine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": 0.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 3 (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "jar Gerber Third Foods (6 oz)",
+                            "eqv": 170.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                }
+            ]
+        },
+        "sources": [
+            
+        ],
+        "footnotes": [
+            
+        ],
+        "langual": [
+            
+        ]
+    }
+}

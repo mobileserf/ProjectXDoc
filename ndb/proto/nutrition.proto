@@ -1,0 +1,68 @@
+//syntax = "proto3";
+package nutrition;
+
+/* food Group information */
+message FGDetails {
+   required string name = 1;
+   repeated int32 foodId= 2; /* identified by FoodList and FoodGroup */
+};
+
+message FoodGroup{
+   map<int32, FGDetails> fgDetails= 1;
+};
+
+
+/* nutrition Group info */
+message NutrientGroupId
+{
+   map <int32, string> NutritionGId= 1;
+};
+
+/* nutrition info */
+message NGDetails {
+   required string name = 1;  /* eg fiber */
+   optional int32  nGId = 2; /* NutrientGroupId , ex: Proximates id in NutrientGroupId*/
+};
+message Nutritions {
+   map<int32, NGDetails> nutrition= 1;
+};
+
+/* total unique units in food Group */
+message Units {
+  map<int32, string > unit = 1;
+};
+
+/*Food List */
+message FoodName {
+  required string name = 1;
+  optional string sd = 2; /* short description */
+  optional int32 foodGroupId = 3;
+};
+
+message FoodList {
+  map<int32, FoodName> foodName = 1; 
+};
+
+/*Food */
+message FoodUnits {
+  repeated int32 unitId = 1;  /* from UnitsmeasureId, value */
+};
+
+message FoodMeasure {
+   required float value = 1;   /* actual value */
+   required float gramEqv = 2; /* gram equvalent value */
+};
+
+message FoodNutrient {
+   required int32 nutrientId = 1;
+   repeated FoodMeasure measures = 3; /* size of units = measures */ 
+};
+
+message Food {
+   required FoodUnits units = 1; /* units repeats same for all  measureing in this food */
+   repeated FoodNutrient nutrients= 2;
+};
+message FoodDetails {
+  map<int32, Food> foodName = 1; /* foodId from FoodList, Food */
+
+};

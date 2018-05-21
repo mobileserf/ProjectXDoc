@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 3500,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 3500,
+                "id": "11889",
+                "name": "Turnips, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3501,
+                "id": "11890",
+                "name": "Turnips, frozen, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3502,
+                "id": "11891",
+                "name": "Turnip greens, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3503,
+                "id": "11892",
+                "name": "Turnip greens, frozen, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3504,
+                "id": "11893",
+                "name": "Turnip greens and turnips, frozen, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3505,
+                "id": "11894",
+                "name": "Vegetables, mixed, frozen, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3506,
+                "id": "11895",
+                "name": "Waxgourd, (chinese preserving melon), cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3507,
+                "id": "11896",
+                "name": "Winged bean, immature seeds, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3508,
+                "id": "11897",
+                "name": "Yam, cooked, boiled, drained, or baked, with salt"
+            },
+            {
+                "offset": 3509,
+                "id": "11898",
+                "name": "Yambean (jicama), cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3510,
+                "id": "11899",
+                "name": "Yardlong bean, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3511,
+                "id": "11900",
+                "name": "Corn, sweet, white, raw"
+            },
+            {
+                "offset": 3512,
+                "id": "11901",
+                "name": "Corn, sweet, white, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 3513,
+                "id": "11902",
+                "name": "Corn, sweet, white, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3514,
+                "id": "11903",
+                "name": "Corn, sweet, white, canned, whole kernel, regular pack, solids and liquids"
+            },
+            {
+                "offset": 3515,
+                "id": "11904",
+                "name": "Corn, sweet, white, canned, whole kernel, no salt added, solids and liquids"
+            },
+            {
+                "offset": 3516,
+                "id": "11905",
+                "name": "Corn, sweet, white, canned, whole kernel, drained solids"
+            },
+            {
+                "offset": 3517,
+                "id": "11906",
+                "name": "Corn, sweet, white, canned, cream style, regular pack"
+            },
+            {
+                "offset": 3518,
+                "id": "11907",
+                "name": "Corn, sweet, white, canned, cream style, no salt added"
+            },
+            {
+                "offset": 3519,
+                "id": "11908",
+                "name": "Corn, sweet, white, canned, vacuum pack, regular pack"
+            },
+            {
+                "offset": 3520,
+                "id": "11909",
+                "name": "Corn, sweet, white, canned, vacuum pack, no salt added"
+            },
+            {
+                "offset": 3521,
+                "id": "11910",
+                "name": "Corn, sweet, white, frozen, kernels cut off cob, unprepared"
+            },
+            {
+                "offset": 3522,
+                "id": "11911",
+                "name": "Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, without salt"
+            },
+            {
+                "offset": 3523,
+                "id": "11912",
+                "name": "Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, with salt"
+            },
+            {
+                "offset": 3524,
+                "id": "11913",
+                "name": "Corn, sweet, white, frozen, kernels on cob, unprepared"
+            },
+            {
+                "offset": 3525,
+                "id": "11914",
+                "name": "Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 3526,
+                "id": "11915",
+                "name": "Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3527,
+                "id": "11916",
+                "name": "Peppers, sweet, red, canned, solids and liquids"
+            },
+            {
+                "offset": 3528,
+                "id": "11917",
+                "name": "Peppers, sweet, red, frozen, chopped, unprepared"
+            },
+            {
+                "offset": 3529,
+                "id": "11918",
+                "name": "Peppers, sweet, red, frozen, chopped, boiled, drained, without salt"
+            },
+            {
+                "offset": 3530,
+                "id": "11919",
+                "name": "Peppers, sweet, red, frozen, chopped, boiled, drained, with salt"
+            },
+            {
+                "offset": 3531,
+                "id": "11921",
+                "name": "Peppers, sweet, red, sauteed"
+            },
+            {
+                "offset": 3532,
+                "id": "11922",
+                "name": "Sesbania flower, cooked, steamed, with salt"
+            },
+            {
+                "offset": 3533,
+                "id": "11923",
+                "name": "Soybeans, mature seeds, sprouted, cooked, steamed, with salt"
+            },
+            {
+                "offset": 3534,
+                "id": "11924",
+                "name": "Soybeans, mature seeds, sprouted, cooked, stir-fried, with salt"
+            },
+            {
+                "offset": 3535,
+                "id": "11925",
+                "name": "Dock, cooked, boiled, drained, with salt"
+            },
+            {
+                "offset": 3536,
+                "id": "11926",
+                "name": "Lentils, sprouted, cooked, stir-fried, with salt"
+            },
+            {
+                "offset": 3537,
+                "id": "11927",
+                "name": "Mountain yam, hawaii, cooked, steamed, with salt"
+            },
+            {
+                "offset": 3538,
+                "id": "11928",
+                "name": "Tree fern, cooked, with salt"
+            },
+            {
+                "offset": 3539,
+                "id": "11929",
+                "name": "Potatoes, mashed, prepared from granules, without milk, whole milk and margarine"
+            },
+            {
+                "offset": 3540,
+                "id": "11930",
+                "name": "Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and margarine added"
+            },
+            {
+                "offset": 3541,
+                "id": "11931",
+                "name": "Peppers, sweet, red, freeze-dried"
+            },
+            {
+                "offset": 3542,
+                "id": "11932",
+                "name": "Beans, snap, yellow, canned, regular pack, drained solids"
+            },
+            {
+                "offset": 3543,
+                "id": "11933",
+                "name": "Beans, snap, yellow, canned, no salt added, drained solids"
+            },
+            {
+                "offset": 3544,
+                "id": "11934",
+                "name": "Potatoes, mashed, home-prepared, whole milk and butter added"
+            },
+            {
+                "offset": 3545,
+                "id": "11935",
+                "name": "Catsup"
+            },
+            {
+                "offset": 3546,
+                "id": "11936",
+                "name": "Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw"
+            },
+            {
+                "offset": 3547,
+                "id": "11937",
+                "name": "Pickles, cucumber, dill or kosher dill"
+            },
+            {
+                "offset": 3548,
+                "id": "11938",
+                "name": "Mushroom, white, exposed to ultraviolet light, raw"
+            },
+            {
+                "offset": 3549,
+                "id": "11939",
+                "name": "Mushrooms, portabella, exposed to ultraviolet light, grilled"
+            },
+            {
+                "offset": 3550,
+                "id": "11940",
+                "name": "Pickles, cucumber, sweet (includes bread and butter pickles)"
+            },
+            {
+                "offset": 3551,
+                "id": "11941",
+                "name": "Pickles, cucumber, sour"
+            },
+            {
+                "offset": 3552,
+                "id": "11943",
+                "name": "Pimento, canned"
+            },
+            {
+                "offset": 3553,
+                "id": "11944",
+                "name": "Pickle relish, hot dog"
+            },
+            {
+                "offset": 3554,
+                "id": "11945",
+                "name": "Pickle relish, sweet"
+            },
+            {
+                "offset": 3555,
+                "id": "11946",
+                "name": "Pickles, cucumber, sour, low sodium"
+            },
+            {
+                "offset": 3556,
+                "id": "11947",
+                "name": "Pickles, cucumber, dill, reduced sodium"
+            },
+            {
+                "offset": 3557,
+                "id": "11948",
+                "name": "Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)"
+            },
+            {
+                "offset": 3558,
+                "id": "11949",
+                "name": "Catsup, low sodium"
+            },
+            {
+                "offset": 3559,
+                "id": "11950",
+                "name": "Mushrooms, enoki, raw"
+            },
+            {
+                "offset": 3560,
+                "id": "11951",
+                "name": "Peppers, sweet, yellow, raw"
+            },
+            {
+                "offset": 3561,
+                "id": "11952",
+                "name": "Radicchio, raw"
+            },
+            {
+                "offset": 3562,
+                "id": "11953",
+                "name": "Squash, zucchini, baby, raw"
+            },
+            {
+                "offset": 3563,
+                "id": "11954",
+                "name": "Tomatillos, raw"
+            },
+            {
+                "offset": 3564,
+                "id": "11955",
+                "name": "Tomatoes, sun-dried"
+            },
+            {
+                "offset": 3565,
+                "id": "11956",
+                "name": "Tomatoes, sun-dried, packed in oil, drained"
+            },
+            {
+                "offset": 3566,
+                "id": "11957",
+                "name": "Fennel, bulb, raw"
+            },
+            {
+                "offset": 3567,
+                "id": "11958",
+                "name": "Pickle relish, hamburger"
+            },
+            {
+                "offset": 3568,
+                "id": "11959",
+                "name": "Arugula, raw"
+            },
+            {
+                "offset": 3569,
+                "id": "11960",
+                "name": "Carrots, baby, raw"
+            },
+            {
+                "offset": 3570,
+                "id": "11961",
+                "name": "Hearts of palm, canned"
+            },
+            {
+                "offset": 3571,
+                "id": "11962",
+                "name": "Peppers, hot chile, sun-dried"
+            },
+            {
+                "offset": 3572,
+                "id": "11963",
+                "name": "Nopales, raw"
+            },
+            {
+                "offset": 3573,
+                "id": "11964",
+                "name": "Nopales, cooked, without salt"
+            },
+            {
+                "offset": 3574,
+                "id": "11965",
+                "name": "Cauliflower, green, raw"
+            },
+            {
+                "offset": 3575,
+                "id": "11967",
+                "name": "Cauliflower, green, cooked, no salt added"
+            },
+            {
+                "offset": 3576,
+                "id": "11968",
+                "name": "Cauliflower, green, cooked, with salt"
+            },
+            {
+                "offset": 3577,
+                "id": "11969",
+                "name": "Broccoli, chinese, cooked"
+            },
+            {
+                "offset": 3578,
+                "id": "11970",
+                "name": "Cabbage, napa, cooked"
+            },
+            {
+                "offset": 3579,
+                "id": "11972",
+                "name": "Lemon grass (citronella), raw"
+            },
+            {
+                "offset": 3580,
+                "id": "11973",
+                "name": "Beans, fava, in pod, raw"
+            },
+            {
+                "offset": 3581,
+                "id": "11974",
+                "name": "Grape leaves, raw"
+            },
+            {
+                "offset": 3582,
+                "id": "11975",
+                "name": "Grape leaves, canned"
+            },
+            {
+                "offset": 3583,
+                "id": "11976",
+                "name": "Pepper, banana, raw"
+            },
+            {
+                "offset": 3584,
+                "id": "11977",
+                "name": "Peppers, serrano, raw"
+            },
+            {
+                "offset": 3585,
+                "id": "11978",
+                "name": "Peppers, ancho, dried"
+            },
+            {
+                "offset": 3586,
+                "id": "11979",
+                "name": "Peppers, jalapeno, raw"
+            },
+            {
+                "offset": 3587,
+                "id": "11980",
+                "name": "Peppers, chili, green, canned"
+            },
+            {
+                "offset": 3588,
+                "id": "11981",
+                "name": "Peppers, hungarian, raw"
+            },
+            {
+                "offset": 3589,
+                "id": "11982",
+                "name": "Peppers, pasilla, dried"
+            },
+            {
+                "offset": 3590,
+                "id": "11983",
+                "name": "Pickles, chowchow, with cauliflower onion mustard, sweet"
+            },
+            {
+                "offset": 3591,
+                "id": "11984",
+                "name": "Epazote, raw"
+            },
+            {
+                "offset": 3592,
+                "id": "11985",
+                "name": "Fireweed, leaves, raw"
+            },
+            {
+                "offset": 3593,
+                "id": "11986",
+                "name": "Malabar spinach, cooked"
+            },
+            {
+                "offset": 3594,
+                "id": "11987",
+                "name": "Mushrooms, oyster, raw"
+            },
+            {
+                "offset": 3595,
+                "id": "11988",
+                "name": "Fungi, Cloud ears, dried"
+            },
+            {
+                "offset": 3596,
+                "id": "11989",
+                "name": "Mushrooms, straw, canned, drained solids"
+            },
+            {
+                "offset": 3597,
+                "id": "11990",
+                "name": "Wasabi, root, raw"
+            },
+            {
+                "offset": 3598,
+                "id": "11991",
+                "name": "Yautia (tannier), raw"
+            },
+            {
+                "offset": 3599,
+                "id": "11992",
+                "name": "Mushrooms, white, microwaved"
+            },
+            {
+                "offset": 3600,
+                "id": "11993",
+                "name": "Mushrooms, maitake, raw"
+            },
+            {
+                "offset": 3601,
+                "id": "11994",
+                "name": "Broccoli, chinese, raw"
+            },
+            {
+                "offset": 3602,
+                "id": "11995",
+                "name": "Fiddlehead ferns, raw"
+            },
+            {
+                "offset": 3603,
+                "id": "11996",
+                "name": "Fiddlehead ferns, frozen, unprepared"
+            },
+            {
+                "offset": 3604,
+                "id": "11998",
+                "name": "Mushrooms, portabella, exposed to ultraviolet light, raw"
+            },
+            {
+                "offset": 3605,
+                "id": "12001",
+                "name": "Seeds, breadfruit seeds, raw"
+            },
+            {
+                "offset": 3606,
+                "id": "12003",
+                "name": "Seeds, breadfruit seeds, boiled"
+            },
+            {
+                "offset": 3607,
+                "id": "12004",
+                "name": "Seeds, breadnut tree seeds, raw"
+            },
+            {
+                "offset": 3608,
+                "id": "12005",
+                "name": "Seeds, breadnut tree seeds, dried"
+            },
+            {
+                "offset": 3609,
+                "id": "12006",
+                "name": "Seeds, chia seeds, dried"
+            },
+            {
+                "offset": 3610,
+                "id": "12007",
+                "name": "Seeds, cottonseed flour, partially defatted (glandless)"
+            },
+            {
+                "offset": 3611,
+                "id": "12008",
+                "name": "Seeds, cottonseed flour, low fat (glandless)"
+            },
+            {
+                "offset": 3612,
+                "id": "12011",
+                "name": "Seeds, cottonseed meal, partially defatted (glandless)"
+            },
+            {
+                "offset": 3613,
+                "id": "12012",
+                "name": "Seeds, hemp seed, hulled"
+            },
+            {
+                "offset": 3614,
+                "id": "12013",
+                "name": "Seeds, lotus seeds, dried"
+            },
+            {
+                "offset": 3615,
+                "id": "12014",
+                "name": "Seeds, pumpkin and squash seed kernels, dried"
+            },
+            {
+                "offset": 3616,
+                "id": "12016",
+                "name": "Seeds, pumpkin and squash seed kernels, roasted, without salt"
+            },
+            {
+                "offset": 3617,
+                "id": "12021",
+                "name": "Seeds, safflower seed kernels, dried"
+            },
+            {
+                "offset": 3618,
+                "id": "12022",
+                "name": "Seeds, safflower seed meal, partially defatted"
+            },
+            {
+                "offset": 3619,
+                "id": "12023",
+                "name": "Seeds, sesame seeds, whole, dried"
+            },
+            {
+                "offset": 3620,
+                "id": "12024",
+                "name": "Seeds, sesame seeds, whole, roasted and toasted"
+            },
+            {
+                "offset": 3621,
+                "id": "12029",
+                "name": "Seeds, sesame seed kernels, toasted, without salt added (decorticated)"
+            },
+            {
+                "offset": 3622,
+                "id": "12032",
+                "name": "Seeds, sesame flour, partially defatted"
+            },
+            {
+                "offset": 3623,
+                "id": "12033",
+                "name": "Seeds, sesame flour, low-fat"
+            },
+            {
+                "offset": 3624,
+                "id": "12034",
+                "name": "Seeds, sesame meal, partially defatted"
+            },
+            {
+                "offset": 3625,
+                "id": "12036",
+                "name": "Seeds, sunflower seed kernels, dried"
+            },
+            {
+                "offset": 3626,
+                "id": "12037",
+                "name": "Seeds, sunflower seed kernels, dry roasted, without salt"
+            },
+            {
+                "offset": 3627,
+                "id": "12038",
+                "name": "Seeds, sunflower seed kernels, oil roasted, without salt"
+            },
+            {
+                "offset": 3628,
+                "id": "12039",
+                "name": "Seeds, sunflower seed kernels, toasted, without salt"
+            },
+            {
+                "offset": 3629,
+                "id": "12040",
+                "name": "Seeds, sunflower seed butter, without salt"
+            },
+            {
+                "offset": 3630,
+                "id": "12041",
+                "name": "Seeds, sunflower seed flour, partially defatted"
+            },
+            {
+                "offset": 3631,
+                "id": "12058",
+                "name": "Nuts, acorns, raw"
+            },
+            {
+                "offset": 3632,
+                "id": "12059",
+                "name": "Nuts, acorns, dried"
+            },
+            {
+                "offset": 3633,
+                "id": "12060",
+                "name": "Nuts, acorn flour, full fat"
+            },
+            {
+                "offset": 3634,
+                "id": "12061",
+                "name": "Nuts, almonds"
+            },
+            {
+                "offset": 3635,
+                "id": "12062",
+                "name": "Nuts, almonds, blanched"
+            },
+            {
+                "offset": 3636,
+                "id": "12063",
+                "name": "Nuts, almonds, dry roasted, without salt added"
+            },
+            {
+                "offset": 3637,
+                "id": "12065",
+                "name": "Nuts, almonds, oil roasted, without salt added"
+            },
+            {
+                "offset": 3638,
+                "id": "12071",
+                "name": "Nuts, almond paste"
+            },
+            {
+                "offset": 3639,
+                "id": "12077",
+                "name": "Nuts, beechnuts, dried"
+            },
+            {
+                "offset": 3640,
+                "id": "12078",
+                "name": "Nuts, brazilnuts, dried, unblanched"
+            },
+            {
+                "offset": 3641,
+                "id": "12084",
+                "name": "Nuts, butternuts, dried"
+            },
+            {
+                "offset": 3642,
+                "id": "12085",
+                "name": "Nuts, cashew nuts, dry roasted, without salt added"
+            },
+            {
+                "offset": 3643,
+                "id": "12086",
+                "name": "Nuts, cashew nuts, oil roasted, without salt added"
+            },
+            {
+                "offset": 3644,
+                "id": "12087",
+                "name": "Nuts, cashew nuts, raw"
+            },
+            {
+                "offset": 3645,
+                "id": "12088",
+                "name": "Nuts, cashew butter, plain, without salt added"
+            },
+            {
+                "offset": 3646,
+                "id": "12093",
+                "name": "Nuts, chestnuts, chinese, raw"
+            },
+            {
+                "offset": 3647,
+                "id": "12094",
+                "name": "Nuts, chestnuts, chinese, dried"
+            },
+            {
+                "offset": 3648,
+                "id": "12095",
+                "name": "Nuts, chestnuts, chinese, boiled and steamed"
+            },
+            {
+                "offset": 3649,
+                "id": "12096",
+                "name": "Nuts, chestnuts, chinese, roasted"
+            },
+            {
+                "offset": 3650,
+                "id": "12097",
+                "name": "Nuts, chestnuts, european, raw, unpeeled"
+            },
+            {
+                "offset": 3651,
+                "id": "12098",
+                "name": "Nuts, chestnuts, european, raw, peeled"
+            },
+            {
+                "offset": 3652,
+                "id": "12099",
+                "name": "Nuts, chestnuts, european, dried, unpeeled"
+            },
+            {
+                "offset": 3653,
+                "id": "12100",
+                "name": "Nuts, chestnuts, european, dried, peeled"
+            },
+            {
+                "offset": 3654,
+                "id": "12101",
+                "name": "Nuts, chestnuts, european, boiled and steamed"
+            },
+            {
+                "offset": 3655,
+                "id": "12104",
+                "name": "Nuts, coconut meat, raw"
+            },
+            {
+                "offset": 3656,
+                "id": "12108",
+                "name": "Nuts, coconut meat, dried (desiccated), not sweetened"
+            },
+            {
+                "offset": 3657,
+                "id": "12109",
+                "name": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged"
+            },
+            {
+                "offset": 3658,
+                "id": "12110",
+                "name": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned"
+            },
+            {
+                "offset": 3659,
+                "id": "12114",
+                "name": "Nuts, coconut meat, dried (desiccated), toasted"
+            },
+            {
+                "offset": 3660,
+                "id": "12115",
+                "name": "Nuts, coconut cream, raw (liquid expressed from grated meat)"
+            },
+            {
+                "offset": 3661,
+                "id": "12116",
+                "name": "Nuts, coconut cream, canned, sweetened"
+            },
+            {
+                "offset": 3662,
+                "id": "12117",
+                "name": "Nuts, coconut milk, raw (liquid expressed from grated meat and water)"
+            },
+            {
+                "offset": 3663,
+                "id": "12118",
+                "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+            },
+            {
+                "offset": 3664,
+                "id": "12119",
+                "name": "Nuts, coconut water (liquid from coconuts)"
+            },
+            {
+                "offset": 3665,
+                "id": "12120",
+                "name": "Nuts, hazelnuts or filberts"
+            },
+            {
+                "offset": 3666,
+                "id": "12121",
+                "name": "Nuts, hazelnuts or filberts, blanched"
+            },
+            {
+                "offset": 3667,
+                "id": "12122",
+                "name": "Nuts, hazelnuts or filberts, dry roasted, without salt added"
+            },
+            {
+                "offset": 3668,
+                "id": "12127",
+                "name": "Nuts, ginkgo nuts, raw"
+            },
+            {
+                "offset": 3669,
+                "id": "12128",
+                "name": "Nuts, ginkgo nuts, dried"
+            },
+            {
+                "offset": 3670,
+                "id": "12129",
+                "name": "Nuts, ginkgo nuts, canned"
+            },
+            {
+                "offset": 3671,
+                "id": "12130",
+                "name": "Nuts, hickorynuts, dried"
+            },
+            {
+                "offset": 3672,
+                "id": "12131",
+                "name": "Nuts, macadamia nuts, raw"
+            },
+            {
+                "offset": 3673,
+                "id": "12132",
+                "name": "Nuts, macadamia nuts, dry roasted, without salt added"
+            },
+            {
+                "offset": 3674,
+                "id": "12135",
+                "name": "Nuts, mixed nuts, dry roasted, with peanuts, without salt added"
+            },
+            {
+                "offset": 3675,
+                "id": "12136",
+                "name": "Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend"
+            },
+            {
+                "offset": 3676,
+                "id": "12137",
+                "name": "Nuts, mixed nuts, oil roasted, with peanuts, without salt added"
+            },
+            {
+                "offset": 3677,
+                "id": "12138",
+                "name": "Nuts, mixed nuts, oil roasted, without peanuts, without salt added"
+            },
+            {
+                "offset": 3678,
+                "id": "12140",
+                "name": "Nuts, formulated, wheat-based, unflavored, with salt added"
+            },
+            {
+                "offset": 3679,
+                "id": "12141",
+                "name": "Nuts, mixed nuts, dry roasted, with peanuts, salt added, CHOSEN ROASTER"
+            },
+            {
+                "offset": 3680,
+                "id": "12142",
+                "name": "Nuts, pecans"
+            },
+            {
+                "offset": 3681,
+                "id": "12143",
+                "name": "Nuts, pecans, dry roasted, without salt added"
+            },
+            {
+                "offset": 3682,
+                "id": "12144",
+                "name": "Nuts, pecans, oil roasted, without salt added"
+            },
+            {
+                "offset": 3683,
+                "id": "12145",
+                "name": "Nuts, pilinuts, dried"
+            },
+            {
+                "offset": 3684,
+                "id": "12147",
+                "name": "Nuts, pine nuts, dried"
+            },
+            {
+                "offset": 3685,
+                "id": "12149",
+                "name": "Nuts, pine nuts, pinyon, dried"
+            },
+            {
+                "offset": 3686,
+                "id": "12151",
+                "name": "Nuts, pistachio nuts, raw"
+            },
+            {
+                "offset": 3687,
+                "id": "12152",
+                "name": "Nuts, pistachio nuts, dry roasted, without salt added"
+            },
+            {
+                "offset": 3688,
+                "id": "12154",
+                "name": "Nuts, walnuts, black, dried"
+            },
+            {
+                "offset": 3689,
+                "id": "12155",
+                "name": "Nuts, walnuts, english"
+            },
+            {
+                "offset": 3690,
+                "id": "12156",
+                "name": "Nuts, walnuts, glazed"
+            },
+            {
+                "offset": 3691,
+                "id": "12157",
+                "name": "Nuts, walnuts, dry roasted, with salt added"
+            },
+            {
+                "offset": 3692,
+                "id": "12158",
+                "name": "Seeds, breadfruit seeds, roasted"
+            },
+            {
+                "offset": 3693,
+                "id": "12160",
+                "name": "Seeds, cottonseed kernels, roasted (glandless)"
+            },
+            {
+                "offset": 3694,
+                "id": "12163",
+                "name": "Seeds, pumpkin and squash seeds, whole, roasted, without salt"
+            },
+            {
+                "offset": 3695,
+                "id": "12166",
+                "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+            },
+            {
+                "offset": 3696,
+                "id": "12167",
+                "name": "Nuts, chestnuts, european, roasted"
+            },
+            {
+                "offset": 3697,
+                "id": "12169",
+                "name": "Seeds, sesame butter, paste"
+            },
+            {
+                "offset": 3698,
+                "id": "12170",
+                "name": "Seeds, sesame flour, high-fat"
+            },
+            {
+                "offset": 3699,
+                "id": "12171",
+                "name": "Seeds, sesame butter, tahini, from unroasted kernels (non-chemically removed seed coat)"
+            },
+            {
+                "offset": 3700,
+                "id": "12174",
+                "name": "Seeds, watermelon seed kernels, dried"
+            },
+            {
+                "offset": 3701,
+                "id": "12175",
+                "name": "Nuts, chestnuts, japanese, dried"
+            },
+            {
+                "offset": 3702,
+                "id": "12176",
+                "name": "Nuts, coconut milk, frozen (liquid expressed from grated meat and water)"
+            },
+            {
+                "offset": 3703,
+                "id": "12177",
+                "name": "Nuts, coconut meat, dried (desiccated), creamed"
+            },
+            {
+                "offset": 3704,
+                "id": "12179",
+                "name": "Nuts, coconut meat, dried (desiccated), sweetened, shredded"
+            },
+            {
+                "offset": 3705,
+                "id": "12193",
+                "name": "Seeds, sisymbrium sp. seeds, whole, dried"
+            },
+            {
+                "offset": 3706,
+                "id": "12195",
+                "name": "Nuts, almond butter, plain, without salt added"
+            },
+            {
+                "offset": 3707,
+                "id": "12198",
+                "name": "Seeds, sesame butter, tahini, from raw and stone ground kernels"
+            },
+            {
+                "offset": 3708,
+                "id": "12200",
+                "name": "Nuts, formulated, wheat-based, all flavors except macadamia, without salt"
+            },
+            {
+                "offset": 3709,
+                "id": "12201",
+                "name": "Seeds, sesame seed kernels, dried (decorticated)"
+            },
+            {
+                "offset": 3710,
+                "id": "12202",
+                "name": "Nuts, chestnuts, japanese, raw"
+            },
+            {
+                "offset": 3711,
+                "id": "12203",
+                "name": "Nuts, chestnuts, japanese, boiled and steamed"
+            },
+            {
+                "offset": 3712,
+                "id": "12204",
+                "name": "Nuts, chestnuts, japanese, roasted"
+            },
+            {
+                "offset": 3713,
+                "id": "12205",
+                "name": "Seeds, lotus seeds, raw"
+            },
+            {
+                "offset": 3714,
+                "id": "12206",
+                "name": "Nuts, almonds, honey roasted, unblanched"
+            },
+            {
+                "offset": 3715,
+                "id": "12220",
+                "name": "Seeds, flaxseed"
+            },
+            {
+                "offset": 3716,
+                "id": "12516",
+                "name": "Seeds, pumpkin and squash seed kernels, roasted, with salt added"
+            },
+            {
+                "offset": 3717,
+                "id": "12529",
+                "name": "Seeds, sesame seed kernels, toasted, with salt added (decorticated)"
+            },
+            {
+                "offset": 3718,
+                "id": "12536",
+                "name": "Seeds, sunflower seed kernels from shell, dry roasted, with salt added"
+            },
+            {
+                "offset": 3719,
+                "id": "12537",
+                "name": "Seeds, sunflower seed kernels, dry roasted, with salt added"
+            },
+            {
+                "offset": 3720,
+                "id": "12538",
+                "name": "Seeds, sunflower seed kernels, oil roasted, with salt added"
+            },
+            {
+                "offset": 3721,
+                "id": "12539",
+                "name": "Seeds, sunflower seed kernels, toasted, with salt added"
+            },
+            {
+                "offset": 3722,
+                "id": "12540",
+                "name": "Seeds, sunflower seed butter, with salt added"
+            },
+            {
+                "offset": 3723,
+                "id": "12563",
+                "name": "Nuts, almonds, dry roasted, with salt added"
+            },
+            {
+                "offset": 3724,
+                "id": "12565",
+                "name": "Nuts, almonds, oil roasted, with salt added"
+            },
+            {
+                "offset": 3725,
+                "id": "12567",
+                "name": "Nuts, almonds, oil roasted, with salt added, smoke flavor"
+            },
+            {
+                "offset": 3726,
+                "id": "12585",
+                "name": "Nuts, cashew nuts, dry roasted, with salt added"
+            },
+            {
+                "offset": 3727,
+                "id": "12586",
+                "name": "Nuts, cashew nuts, oil roasted, with salt added"
+            },
+            {
+                "offset": 3728,
+                "id": "12588",
+                "name": "Nuts, cashew butter, plain, with salt added"
+            },
+            {
+                "offset": 3729,
+                "id": "12632",
+                "name": "Nuts, macadamia nuts, dry roasted, with salt added"
+            },
+            {
+                "offset": 3730,
+                "id": "12635",
+                "name": "Nuts, mixed nuts, dry roasted, with peanuts, with salt added"
+            },
+            {
+                "offset": 3731,
+                "id": "12637",
+                "name": "Nuts, mixed nuts, oil roasted, with peanuts, with salt added"
+            },
+            {
+                "offset": 3732,
+                "id": "12638",
+                "name": "Nuts, mixed nuts, oil roasted, without peanuts, with salt added"
+            },
+            {
+                "offset": 3733,
+                "id": "12643",
+                "name": "Nuts, pecans, dry roasted, with salt added"
+            },
+            {
+                "offset": 3734,
+                "id": "12644",
+                "name": "Nuts, pecans, oil roasted, with salt added"
+            },
+            {
+                "offset": 3735,
+                "id": "12652",
+                "name": "Nuts, pistachio nuts, dry roasted, with salt added"
+            },
+            {
+                "offset": 3736,
+                "id": "12663",
+                "name": "Seeds, pumpkin and squash seeds, whole, roasted, with salt added"
+            },
+            {
+                "offset": 3737,
+                "id": "12665",
+                "name": "Nuts, almonds, oil roasted, lightly salted"
+            },
+            {
+                "offset": 3738,
+                "id": "12695",
+                "name": "Nuts, almond butter, plain, with salt added"
+            },
+            {
+                "offset": 3739,
+                "id": "12698",
+                "name": "Seeds, sesame butter, tahini, type of kernels unspecified"
+            },
+            {
+                "offset": 3740,
+                "id": "12737",
+                "name": "Nuts, mixed nuts, oil roasted, with peanuts, lightly salted"
+            },
+            {
+                "offset": 3741,
+                "id": "12738",
+                "name": "Nuts, mixed nuts, oil roasted, without peanuts, lightly salted"
+            },
+            {
+                "offset": 3742,
+                "id": "13000",
+                "name": "Beef, grass-fed, strip steaks, lean only, raw"
+            },
+            {
+                "offset": 3743,
+                "id": "13001",
+                "name": "Beef, carcass, separable lean and fat, choice, raw"
+            },
+            {
+                "offset": 3744,
+                "id": "13002",
+                "name": "Beef, carcass, separable lean and fat, select, raw"
+            },
+            {
+                "offset": 3745,
+                "id": "13019",
+                "name": "Beef, retail cuts, separable fat, raw"
+            },
+            {
+                "offset": 3746,
+                "id": "13020",
+                "name": "Beef, retail cuts, separable fat, cooked"
+            },
+            {
+                "offset": 3747,
+                "id": "13023",
+                "name": "Beef, brisket, whole, separable lean only, all grades, raw"
+            },
+            {
+                "offset": 3748,
+                "id": "13047",
+                "name": "Beef, grass-fed, ground, raw"
+            },
+            {
+                "offset": 3749,
+                "id": "13055",
+                "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3750,
+                "id": "13065",
+                "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3751,
+                "id": "13066",
+                "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3752,
+                "id": "13067",
+                "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3753,
+                "id": "13068",
+                "name": "Beef, flank, steak, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3754,
+                "id": "13069",
+                "name": "Beef, flank, steak, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3755,
+                "id": "13070",
+                "name": "Beef, flank, steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3756,
+                "id": "13095",
+                "name": "Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3757,
+                "id": "13096",
+                "name": "Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3758,
+                "id": "13097",
+                "name": "Beef, rib, eye, small end (ribs 10-12), separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3759,
+                "id": "13098",
+                "name": "Beef, rib, eye, small end (ribs 10-12), separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3760,
+                "id": "13147",
+                "name": "Beef, rib, shortribs, separable lean and fat, choice, raw"
+            },
+            {
+                "offset": 3761,
+                "id": "13148",
+                "name": "Beef, rib, shortribs, separable lean and fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3762,
+                "id": "13149",
+                "name": "Beef, rib, shortribs, separable lean only, choice, raw"
+            },
+            {
+                "offset": 3763,
+                "id": "13150",
+                "name": "Beef, rib, shortribs, separable lean only, choice, cooked, braised"
+            },
+            {
+                "offset": 3764,
+                "id": "13156",
+                "name": "Beef, round, full cut, separable lean only, trimmed to 1/4\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3765,
+                "id": "13158",
+                "name": "Beef, round, full cut, separable lean only, trimmed to 1/4\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3766,
+                "id": "13165",
+                "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3767,
+                "id": "13166",
+                "name": "USDA Commodity, beef, canned"
+            },
+            {
+                "offset": 3768,
+                "id": "13227",
+                "name": "Beef, shank crosscuts, separable lean only, trimmed to 1/4\" fat, choice, raw"
+            },
+            {
+                "offset": 3769,
+                "id": "13228",
+                "name": "Beef, shank crosscuts, separable lean only, trimmed to 1/4\" fat, choice, cooked, simmered"
+            },
+            {
+                "offset": 3770,
+                "id": "13231",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 3771,
+                "id": "13232",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3772,
+                "id": "13235",
+                "name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 3773,
+                "id": "13236",
+                "name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3774,
+                "id": "13284",
+                "name": "Beef, rib eye, small end (ribs 10-12), separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 3775,
+                "id": "13285",
+                "name": "Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3776,
+                "id": "13293",
+                "name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 3777,
+                "id": "13294",
+                "name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3778,
+                "id": "13317",
+                "name": "Beef, ground, patties, frozen, cooked, broiled"
+            },
+            {
+                "offset": 3779,
+                "id": "13318",
+                "name": "Beef, variety meats and by-products, brain, raw"
+            },
+            {
+                "offset": 3780,
+                "id": "13319",
+                "name": "Beef, variety meats and by-products, brain, cooked, pan-fried"
+            },
+            {
+                "offset": 3781,
+                "id": "13320",
+                "name": "Beef, variety meats and by-products, brain, cooked, simmered"
+            },
+            {
+                "offset": 3782,
+                "id": "13321",
+                "name": "Beef, variety meats and by-products, heart, raw"
+            },
+            {
+                "offset": 3783,
+                "id": "13322",
+                "name": "Beef, variety meats and by-products, heart, cooked, simmered"
+            },
+            {
+                "offset": 3784,
+                "id": "13323",
+                "name": "Beef, variety meats and by-products, kidneys, raw"
+            },
+            {
+                "offset": 3785,
+                "id": "13324",
+                "name": "Beef, variety meats and by-products, kidneys, cooked, simmered"
+            },
+            {
+                "offset": 3786,
+                "id": "13325",
+                "name": "Beef, variety meats and by-products, liver, raw"
+            },
+            {
+                "offset": 3787,
+                "id": "13326",
+                "name": "Beef, variety meats and by-products, liver, cooked, braised"
+            },
+            {
+                "offset": 3788,
+                "id": "13327",
+                "name": "Beef, variety meats and by-products, liver, cooked, pan-fried"
+            },
+            {
+                "offset": 3789,
+                "id": "13328",
+                "name": "Beef, variety meats and by-products, lungs, raw"
+            },
+            {
+                "offset": 3790,
+                "id": "13329",
+                "name": "Beef, variety meats and by-products, lungs, cooked, braised"
+            },
+            {
+                "offset": 3791,
+                "id": "13330",
+                "name": "Beef, variety meats and by-products, mechanically separated beef, raw"
+            },
+            {
+                "offset": 3792,
+                "id": "13331",
+                "name": "Beef, variety meats and by-products, pancreas, raw"
+            },
+            {
+                "offset": 3793,
+                "id": "13332",
+                "name": "Beef, variety meats and by-products, pancreas, cooked, braised"
+            },
+            {
+                "offset": 3794,
+                "id": "13333",
+                "name": "Beef, variety meats and by-products, spleen, raw"
+            },
+            {
+                "offset": 3795,
+                "id": "13334",
+                "name": "Beef, variety meats and by-products, spleen, cooked, braised"
+            },
+            {
+                "offset": 3796,
+                "id": "13335",
+                "name": "Beef, variety meats and by-products, suet, raw"
+            },
+            {
+                "offset": 3797,
+                "id": "13337",
+                "name": "Beef, variety meats and by-products, thymus, raw"
+            },
+            {
+                "offset": 3798,
+                "id": "13338",
+                "name": "Beef, variety meats and by-products, thymus, cooked, braised"
+            },
+            {
+                "offset": 3799,
+                "id": "13339",
+                "name": "Beef, variety meats and by-products, tongue, raw"
+            },
+            {
+                "offset": 3800,
+                "id": "13340",
+                "name": "Beef, variety meats and by-products, tongue, cooked, simmered"
+            },
+            {
+                "offset": 3801,
+                "id": "13341",
+                "name": "Beef, variety meats and by-products, tripe, raw"
+            },
+            {
+                "offset": 3802,
+                "id": "13342",
+                "name": "Beef, sandwich steaks, flaked, chopped, formed and thinly sliced, raw"
+            },
+            {
+                "offset": 3803,
+                "id": "13343",
+                "name": "Beef, brisket, flat half, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3804,
+                "id": "13344",
+                "name": "Beef, cured, breakfast strips, raw or unheated"
+            },
+            {
+                "offset": 3805,
+                "id": "13345",
+                "name": "Beef, cured, breakfast strips, cooked"
+            },
+            {
+                "offset": 3806,
+                "id": "13346",
+                "name": "Beef, cured, corned beef, brisket, raw"
+            },
+            {
+                "offset": 3807,
+                "id": "13347",
+                "name": "Beef, cured, corned beef, brisket, cooked"
+            },
+            {
+                "offset": 3808,
+                "id": "13348",
+                "name": "Beef, cured, corned beef, canned"
+            },
+            {
+                "offset": 3809,
+                "id": "13349",
+                "name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 3810,
+                "id": "13350",
+                "name": "Beef, cured, dried"
+            },
+            {
+                "offset": 3811,
+                "id": "13351",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3812,
+                "id": "13352",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3813,
+                "id": "13353",
+                "name": "Beef, cured, luncheon meat, jellied"
+            },
+            {
+                "offset": 3814,
+                "id": "13354",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3815,
+                "id": "13355",
+                "name": "Beef, cured, pastrami"
+            },
+            {
+                "offset": 3816,
+                "id": "13356",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 3817,
+                "id": "13357",
+                "name": "Beef, cured, sausage, cooked, smoked"
+            },
+            {
+                "offset": 3818,
+                "id": "13358",
+                "name": "Beef, cured, smoked, chopped beef"
+            },
+            {
+                "offset": 3819,
+                "id": "13359",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3820,
+                "id": "13361",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, all grades, cooked"
+            },
+            {
+                "offset": 3821,
+                "id": "13362",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, choice, cooked"
+            },
+            {
+                "offset": 3822,
+                "id": "13363",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, select, cooked"
+            },
+            {
+                "offset": 3823,
+                "id": "13364",
+                "name": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, all grades, cooked"
+            },
+            {
+                "offset": 3824,
+                "id": "13365",
+                "name": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, choice, cooked"
+            },
+            {
+                "offset": 3825,
+                "id": "13366",
+                "name": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, select, cooked"
+            },
+            {
+                "offset": 3826,
+                "id": "13367",
+                "name": "Beef, brisket, whole, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3827,
+                "id": "13368",
+                "name": "Beef, brisket, whole, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3828,
+                "id": "13369",
+                "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3829,
+                "id": "13370",
+                "name": "Beef, brisket, flat half, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3830,
+                "id": "13371",
+                "name": "Beef, brisket, point half, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3831,
+                "id": "13372",
+                "name": "Beef, brisket, point half, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3832,
+                "id": "13373",
+                "name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3833,
+                "id": "13375",
+                "name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3834,
+                "id": "13377",
+                "name": "Beef, chuck, arm pot roast, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3835,
+                "id": "13378",
+                "name": "Beef, chuck, arm pot roast, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3836,
+                "id": "13379",
+                "name": "Beef, chuck, blade roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3837,
+                "id": "13380",
+                "name": "Beef, chuck, under blade pot roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3838,
+                "id": "13381",
+                "name": "Beef, chuck, under blade pot roast, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3839,
+                "id": "13382",
+                "name": "Beef, chuck, blade roast, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3840,
+                "id": "13383",
+                "name": "Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3841,
+                "id": "13384",
+                "name": "Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3842,
+                "id": "13386",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3843,
+                "id": "13387",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3844,
+                "id": "13388",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3845,
+                "id": "13389",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3846,
+                "id": "13390",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3847,
+                "id": "13391",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3848,
+                "id": "13392",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3849,
+                "id": "13393",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3850,
+                "id": "13394",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3851,
+                "id": "13395",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3852,
+                "id": "13396",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3853,
+                "id": "13398",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3854,
+                "id": "13399",
+                "name": "Beef, round, bottom round, roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3855,
+                "id": "13401",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3856,
+                "id": "13402",
+                "name": "Beef, round, bottom round, roast, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3857,
+                "id": "13404",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3858,
+                "id": "13405",
+                "name": "Beef, round, bottom round, roast, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3859,
+                "id": "13407",
+                "name": "Beef, round, bottom round, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3860,
+                "id": "13408",
+                "name": "Beef, round, bottom round, roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3861,
+                "id": "13410",
+                "name": "Beef, round, bottom round, steak, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3862,
+                "id": "13411",
+                "name": "Beef, round, bottom round, roast, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3863,
+                "id": "13413",
+                "name": "Beef, round, bottom round, steak, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3864,
+                "id": "13414",
+                "name": "Beef, round, bottom round roast, separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3865,
+                "id": "13415",
+                "name": "Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3866,
+                "id": "13416",
+                "name": "Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3867,
+                "id": "13417",
+                "name": "Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3868,
+                "id": "13418",
+                "name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3869,
+                "id": "13419",
+                "name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3870,
+                "id": "13420",
+                "name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3871,
+                "id": "13421",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3872,
+                "id": "13422",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3873,
+                "id": "13423",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3874,
+                "id": "13424",
+                "name": "Beef, round, tip round, roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3875,
+                "id": "13425",
+                "name": "Beef, round, tip round, roast, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3876,
+                "id": "13426",
+                "name": "Beef, round, tip round, roast, separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3877,
+                "id": "13428",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3878,
+                "id": "13430",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3879,
+                "id": "13432",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3880,
+                "id": "13436",
+                "name": "Beef, round, top round, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3881,
+                "id": "13438",
+                "name": "Beef, round, top round, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3882,
+                "id": "13439",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3883,
+                "id": "13440",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3884,
+                "id": "13441",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3885,
+                "id": "13442",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3886,
+                "id": "13443",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3887,
+                "id": "13444",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3888,
+                "id": "13445",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3889,
+                "id": "13446",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3890,
+                "id": "13447",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3891,
+                "id": "13448",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3892,
+                "id": "13449",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3893,
+                "id": "13450",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3894,
+                "id": "13451",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3895,
+                "id": "13452",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3896,
+                "id": "13453",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3897,
+                "id": "13454",
+                "name": "Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3898,
+                "id": "13455",
+                "name": "Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3899,
+                "id": "13456",
+                "name": "Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3900,
+                "id": "13459",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3901,
+                "id": "13460",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 0\" fat, USDA choice, cooked, broiled"
+            },
+            {
+                "offset": 3902,
+                "id": "13463",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 0\" fat, USDA select, cooked, broiled"
+            },
+            {
+                "offset": 3903,
+                "id": "13464",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3904,
+                "id": "13465",
+                "name": "Beef, short loin, porterhouse steak, separable lean only,  trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3905,
+                "id": "13466",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3906,
+                "id": "13467",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3907,
+                "id": "13468",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 3908,
+                "id": "13469",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3909,
+                "id": "13470",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3910,
+                "id": "13473",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3911,
+                "id": "13474",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 0\" fat, USDA choice, cooked, broiled"
+            },
+            {
+                "offset": 3912,
+                "id": "13477",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 0\" fat, USDA select, cooked, broiled"
+            },
+            {
+                "offset": 3913,
+                "id": "13478",
+                "name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3914,
+                "id": "13479",
+                "name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3915,
+                "id": "13481",
+                "name": "Beef, short loin, t-bone steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3916,
+                "id": "13482",
+                "name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 3917,
+                "id": "13483",
+                "name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3918,
+                "id": "13484",
+                "name": "Beef, short loin, t-bone steak, separable lean only, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3919,
+                "id": "13485",
+                "name": "Beef, brisket, flat half, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3920,
+                "id": "13486",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 3921,
+                "id": "13487",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3922,
+                "id": "13488",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 3923,
+                "id": "13490",
+                "name": "Beef, rib, eye, small end (ribs 10- 12) separable lean only, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3924,
+                "id": "13491",
+                "name": "Beef, round, top round steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3925,
+                "id": "13492",
+                "name": "Beef, round, top round steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3926,
+                "id": "13493",
+                "name": "Beef, round, top round steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3927,
+                "id": "13494",
+                "name": "Beef, ground, 70% lean meat / 30% fat, crumbles, cooked, pan-browned"
+            },
+            {
+                "offset": 3928,
+                "id": "13495",
+                "name": "Beef, ground, 70% lean meat / 30% fat, loaf, cooked, baked"
+            },
+            {
+                "offset": 3929,
+                "id": "13496",
+                "name": "Beef, ground, 70% lean meat / 30% fat, patty cooked, pan-broiled"
+            },
+            {
+                "offset": 3930,
+                "id": "13497",
+                "name": "Beef, ground, 70% lean meat / 30% fat, patty, cooked, broiled"
+            },
+            {
+                "offset": 3931,
+                "id": "13498",
+                "name": "Beef, ground, 70% lean meat / 30% fat, raw"
+            },
+            {
+                "offset": 3932,
+                "id": "13499",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 3933,
+                "id": "13500",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3934,
+                "id": "13501",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3935,
+                "id": "13502",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 3936,
+                "id": "13519",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 3937,
+                "id": "13520",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3938,
+                "id": "13523",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 3939,
+                "id": "13595",
+                "name": "Beef, brisket, flat half, boneless separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 3940,
+                "id": "13596",
+                "name": "Beef, brisket, flat half, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3941,
+                "id": "13597",
+                "name": "Beef, brisket, flat half, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 3942,
+                "id": "13598",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 3943,
+                "id": "13647",
+                "name": "Beef, shoulder pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 3944,
+                "id": "13648",
+                "name": "Beef, shoulder pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3945,
+                "id": "13649",
+                "name": "Beef, shoulder pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 3946,
+                "id": "13650",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 3947,
+                "id": "13786",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 3948,
+                "id": "13788",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 3949,
+                "id": "13791",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 3950,
+                "id": "13795",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3951,
+                "id": "13796",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked"
+            },
+            {
+                "offset": 3952,
+                "id": "13797",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 3953,
+                "id": "13798",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, choice, cooked"
+            },
+            {
+                "offset": 3954,
+                "id": "13799",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 3955,
+                "id": "13800",
+                "name": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, select, cooked"
+            },
+            {
+                "offset": 3956,
+                "id": "13803",
+                "name": "Beef, brisket, whole, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3957,
+                "id": "13804",
+                "name": "Beef, brisket, whole, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3958,
+                "id": "13805",
+                "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3959,
+                "id": "13806",
+                "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3960,
+                "id": "13807",
+                "name": "Beef, brisket, point half, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3961,
+                "id": "13808",
+                "name": "Beef, brisket, point half, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3962,
+                "id": "13809",
+                "name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3963,
+                "id": "13810",
+                "name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3964,
+                "id": "13811",
+                "name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 3965,
+                "id": "13812",
+                "name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3966,
+                "id": "13813",
+                "name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 3967,
+                "id": "13814",
+                "name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3968,
+                "id": "13815",
+                "name": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3969,
+                "id": "13816",
+                "name": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 3970,
+                "id": "13817",
+                "name": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 3971,
+                "id": "13818",
+                "name": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 3972,
+                "id": "13819",
+                "name": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 3973,
+                "id": "13820",
+                "name": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 3974,
+                "id": "13821",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3975,
+                "id": "13822",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3976,
+                "id": "13823",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3977,
+                "id": "13824",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3978,
+                "id": "13825",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3979,
+                "id": "13826",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3980,
+                "id": "13827",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 3981,
+                "id": "13828",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3982,
+                "id": "13829",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3983,
+                "id": "13830",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 3984,
+                "id": "13831",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3985,
+                "id": "13832",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3986,
+                "id": "13833",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, prime, raw"
+            },
+            {
+                "offset": 3987,
+                "id": "13834",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled"
+            },
+            {
+                "offset": 3988,
+                "id": "13835",
+                "name": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, prime, cooked, roasted"
+            },
+            {
+                "offset": 3989,
+                "id": "13838",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 3990,
+                "id": "13839",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 3991,
+                "id": "13840",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 3992,
+                "id": "13841",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 3993,
+                "id": "13842",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 3994,
+                "id": "13843",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 3995,
+                "id": "13844",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 3996,
+                "id": "13845",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 3997,
+                "id": "13846",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 3998,
+                "id": "13847",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, prime, raw"
+            },
+            {
+                "offset": 3999,
+                "id": "13848",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled"
+            }
+        ]
+    }
+}

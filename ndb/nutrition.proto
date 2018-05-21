@@ -1,0 +1,65 @@
+package nutrition;
+
+/* food Group information */
+message FGDetails {
+   required string name = 1;
+   repeated int32 foodId= 2;
+};
+
+message FoodGroup{
+   required map<id, FGDetails> fgDetails= 1;
+};
+
+
+/* nutrition Group info */
+message NutrientGroupId
+{
+   map <int32, string> NutritionGId= 1;
+};
+
+/* nutrition info */
+message NGDetails {
+   required string name = 1;
+   repeated string  nGId = 2; /* NutrientGroupId */
+};
+message Nutritions {
+   required map<id, NGDetails> = 1;
+};
+
+/* total unique units in food Group */
+message Units {
+  map<int32, string > unit = 1;
+};
+
+/*Food List */
+message FoodName {
+  required string name = 1;
+  optional string sd = 2; /* short description */
+  optional int32 foodGroup = 3;
+};
+
+message FoodList {
+  map<int32, FoodName> foodName = 1; 
+};
+
+/*Food */
+
+message FoodUnits {
+  repeated int32 unitId  /* from UnitsmeasureId, value */
+};
+
+message Messures {
+   required float value = 1;   /* actual value */
+   required float gramEqv = 2; /* gram equvalent value */
+};
+
+message Measurement {
+   required int32 nutrientId = 1;
+   required FoodUnits units = 2; /* units repeats same for all  measureing in this food */
+   repeated Measures measures = 3; /* size of units = measures */ 
+};
+
+message FoodDetails {
+  map<int32, Measurement> foodName = 1; /* foodId from FoodList, Food */
+
+};

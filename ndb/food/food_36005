@@ -1,0 +1,2991 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Full",
+        "food": {
+            "ndbno": "36005",
+            "name": "APPLEBEE'S, chicken tenders, from kids' menu",
+            "sd": "APPLEBEE'S,CHICK TENDERS,FROM KIDS' MENU",
+            "fg": "Restaurant Foods",
+            "sn": "",
+            "cn": "family style, applebees",
+            "manu": "Applebee's",
+            "nf": 0.0,
+            "cf": 0.0,
+            "ff": 0.0,
+            "pf": 0.0,
+            "r": "0%",
+            "rd": "",
+            "nutrients": [
+                {
+                    "nutrient_id": 255,
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 43.42,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.555",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 15.2
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 42.99
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 208,
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": 296.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 104.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 293.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 268,
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kJ",
+                    "value": 1238.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 433.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1226.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 203,
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 19.25,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.151",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 6.74
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 19.06
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 204,
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 16.15,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.443",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 5.65
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 15.99
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 207,
+                    "name": "Ash",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 2.81,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.047",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.98
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 2.78
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 205,
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 18.36,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 6.43
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 18.18
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 291,
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 1.2,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.060",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.4
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.2
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 269,
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.39,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.018",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.14
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.39
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 210,
+                    "name": "Sucrose",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 211,
+                    "name": "Glucose (dextrose)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.39,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.018",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.14
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.39
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 212,
+                    "name": "Fructose",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 213,
+                    "name": "Lactose",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 214,
+                    "name": "Maltose",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 287,
+                    "name": "Galactose",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 209,
+                    "name": "Starch",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 16.97,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.736",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 5.94
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 16.8
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 301,
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 23.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.494",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 8.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 23.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 303,
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 0.9,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.026",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.32
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.89
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 304,
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 30.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.353",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 10.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 30.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 305,
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 305.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "3.992",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 107.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 302.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 306,
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 337.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "3.420",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 118.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 334.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 307,
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 763.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "6.227",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 267.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 755.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 309,
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 0.71,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.012",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.25
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.7
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 312,
+                    "name": "Copper, Cu",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 0.071,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.003",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.025
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.07
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 315,
+                    "name": "Manganese, Mn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 0.26,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 6,
+                    "se": "0.010",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.091
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.257
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 317,
+                    "name": "Selenium, Se",
+                    "group": "Minerals",
+                    "unit": "\u00b5g",
+                    "value": 16.9,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "1.308",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 5.9
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 16.7
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 404,
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.1,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.006",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.035
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.099
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 405,
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.177,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.007",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.062
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.175
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 406,
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 7.89,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.631",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 2.762
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 7.811
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 410,
+                    "name": "Pantothenic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 1.565,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 2,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.548
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.549
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 415,
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.484,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.011",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.169
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.479
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 418,
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 0.15,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.018",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.05
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.15
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 320,
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 10.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 4.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 10.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 319,
+                    "name": "Retinol",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 7.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 7.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 321,
+                    "name": "Carotene, beta",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 23.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 8.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 23.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 322,
+                    "name": "Carotene, alpha",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 334,
+                    "name": "Cryptoxanthin, beta",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 11.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 4.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 11.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 318,
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": 72.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 25.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 71.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 337,
+                    "name": "Lycopene",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 6.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 2.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 6.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 338,
+                    "name": "Lutein + zeaxanthin",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 72.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 25.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 71.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 323,
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 1.28,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.103",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.45
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.27
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 341,
+                    "name": "Tocopherol, beta",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.17,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.016",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.06
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.17
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 342,
+                    "name": "Tocopherol, gamma",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 7.01,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.431",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 2.45
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 6.94
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 343,
+                    "name": "Tocopherol, delta",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 1.12,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "1.118",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.39
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.11
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 430,
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": 25.1,
+                    "sourcecode": [
+                        2
+                    ],
+                    "dp": 3,
+                    "se": "2.924",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 8.8
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 24.8
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 606,
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 2.852,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.998
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 2.823
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 607,
+                    "name": "4:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 608,
+                    "name": "6:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 609,
+                    "name": "8:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.007,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.007
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 610,
+                    "name": "10:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.005,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.005
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 611,
+                    "name": "12:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.002,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.001
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 612,
+                    "name": "14:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.02,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.007
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.02
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 652,
+                    "name": "15:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.005,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.005
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 613,
+                    "name": "16:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 1.783,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.041",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.624
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.765
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 653,
+                    "name": "17:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.018,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.006
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.018
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 614,
+                    "name": "18:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.892,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.017",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.312
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.883
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 615,
+                    "name": "20:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.05,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.018
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.05
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 624,
+                    "name": "22:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.05,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.018
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.05
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 654,
+                    "name": "24:0",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.019,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.007
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.019
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 645,
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 3.568,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 1.249
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 3.532
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 625,
+                    "name": "14:1",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.002,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.001
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 697,
+                    "name": "15:1",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 626,
+                    "name": "16:1 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.059,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.008",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.021
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.058
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 673,
+                    "name": "16:1 c",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.059,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.008",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.021
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.058
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 662,
+                    "name": "16:1 t",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 687,
+                    "name": "17:1",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.009,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.003
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.009
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 617,
+                    "name": "18:1 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 3.402,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.070",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 1.191
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 3.368
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 674,
+                    "name": "18:1 c",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 3.366,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.070",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 1.178
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 3.332
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 663,
+                    "name": "18:1 t",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.037,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.004",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.013
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.037
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 628,
+                    "name": "20:1",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.096,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.003",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.034
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.095
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 630,
+                    "name": "22:1 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 676,
+                    "name": "22:1 c",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 664,
+                    "name": "22:1 t",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 671,
+                    "name": "24:1 c",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 646,
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 7.894,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 2.763
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 7.815
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 618,
+                    "name": "18:2 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 6.88,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.011",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 2.408
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 6.811
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 675,
+                    "name": "18:2 n-6 c,c",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 6.79,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.007",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 2.376
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 6.722
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 670,
+                    "name": "18:2 CLAs",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.01,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.004
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.01
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 665,
+                    "name": "18:2 t not further defined",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.08,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.008",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.028
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.079
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 619,
+                    "name": "18:3 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.917,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.010",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.321
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.908
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 851,
+                    "name": "18:3 n-3 c,c,c (ALA)",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.859,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.014",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.301
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.85
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 685,
+                    "name": "18:3 n-6 c,c,c",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.058,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.004",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.02
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.057
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 856,
+                    "name": "18:3i",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 627,
+                    "name": "18:4",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 672,
+                    "name": "20:2 n-6 c,c",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.01,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.004
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.01
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 689,
+                    "name": "20:3 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.009,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.003
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.009
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 853,
+                    "name": "20:3 n-6",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.009,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.003
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.009
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 620,
+                    "name": "20:4 undifferentiated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.051,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.002",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.018
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.05
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 629,
+                    "name": "20:5 n-3 (EPA)",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 858,
+                    "name": "22:4",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.019,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.007
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.019
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 631,
+                    "name": "22:5 n-3 (DPA)",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.005,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.002
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.005
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 621,
+                    "name": "22:6 n-3 (DHA)",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.004,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.001",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.001
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.004
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 605,
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.116,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.041
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.115
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 693,
+                    "name": "Fatty acids, total trans-monoenoic",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.037,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.013
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.037
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 601,
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": 51.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 3,
+                    "se": "0.850",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 18.0
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 50.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 501,
+                    "name": "Tryptophan",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.203,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.071
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.201
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 502,
+                    "name": "Threonine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.577,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.202
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.571
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 503,
+                    "name": "Isoleucine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.952,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.333
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.942
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 504,
+                    "name": "Leucine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 1.52,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.532
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.505
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 505,
+                    "name": "Lysine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 1.348,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.472
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.335
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 506,
+                    "name": "Methionine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.486,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.17
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.481
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 507,
+                    "name": "Cystine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.233,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.082
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.231
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 508,
+                    "name": "Phenylalanine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.76,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.266
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.752
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 509,
+                    "name": "Tyrosine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.507,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.177
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.502
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 510,
+                    "name": "Valine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 1.054,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.369
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.043
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 511,
+                    "name": "Arginine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 1.135,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.397
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.124
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 512,
+                    "name": "Histidine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.679,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.238
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.672
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 513,
+                    "name": "Alanine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 1.043,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.365
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.033
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 514,
+                    "name": "Aspartic acid",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 1.651,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.578
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.634
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 515,
+                    "name": "Glutamic acid",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 3.343,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 1.17
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 3.31
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 516,
+                    "name": "Glycine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.79,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.276
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.782
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 517,
+                    "name": "Proline",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 1.175,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.411
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 1.163
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 518,
+                    "name": "Serine",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.577,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.202
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.571
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 521,
+                    "name": "Hydroxyproline",
+                    "group": "Amino Acids",
+                    "unit": "g",
+                    "value": 0.03,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "piece",
+                            "eqv": 35.0,
+                            "qty": 1.0,
+                            "value": 0.01
+                        },
+                        {
+                            "label": "serving (3 pieces)",
+                            "eqv": 99.0,
+                            "qty": 1.0,
+                            "value": 0.03
+                        }
+                    ]
+                }
+            ]
+        },
+        "sources": [
+            {
+                "id": 1,
+                "title": "National Food and Nutrient Analysis Program Wave 16h",
+                "authors": "Nutrient Data Laboratory, ARS, USDA",
+                "vol": "Beltsville",
+                "iss": "MD",
+                "year": "2012"
+            },
+            {
+                "id": 2,
+                "title": "National Food and Nutrient Analysis Program Wave 12c",
+                "authors": "Nutrient Data Laboratory, ARS, USDA",
+                "vol": "Beltsville",
+                "iss": "MD",
+                "year": "2008"
+            }
+        ],
+        "footnotes": [
+            
+        ],
+        "langual": [
+            
+        ]
+    }
+}

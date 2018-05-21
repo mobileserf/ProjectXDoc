@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 6000,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 6000,
+                "id": "18952",
+                "name": "Tostada shells, corn"
+            },
+            {
+                "offset": 6001,
+                "id": "18953",
+                "name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)"
+            },
+            {
+                "offset": 6002,
+                "id": "18954",
+                "name": "Bread, pound cake type, pan de torta salvadoran"
+            },
+            {
+                "offset": 6003,
+                "id": "18955",
+                "name": "Bread, pan dulce, sweet yeast bread"
+            },
+            {
+                "offset": 6004,
+                "id": "18956",
+                "name": "Keikitos (muffins), Latino bakery item"
+            },
+            {
+                "offset": 6005,
+                "id": "18957",
+                "name": "Cake, pound, BIMBO Bakeries USA, Panque Casero, home baked style"
+            },
+            {
+                "offset": 6006,
+                "id": "18958",
+                "name": "Pan Dulce, LA RICURA, Salpora de Arroz con Azucar, cookie-like, contains wheat flour and rice flour"
+            },
+            {
+                "offset": 6007,
+                "id": "18959",
+                "name": "Pastry, Pastelitos de Guava (guava pastries)"
+            },
+            {
+                "offset": 6008,
+                "id": "18960",
+                "name": "Crackers, snack, GOYA CRACKERS"
+            },
+            {
+                "offset": 6009,
+                "id": "18961",
+                "name": "Crackers, cream, GAMESA SABROSAS"
+            },
+            {
+                "offset": 6010,
+                "id": "18962",
+                "name": "Crackers, cream, LA MODERNA RIKIS CREAM CRACKERS"
+            },
+            {
+                "offset": 6011,
+                "id": "18963",
+                "name": "Garlic bread, frozen"
+            },
+            {
+                "offset": 6012,
+                "id": "18964",
+                "name": "Cinnamon buns, frosted (includes honey buns)"
+            },
+            {
+                "offset": 6013,
+                "id": "18965",
+                "name": "Crackers, cheese, reduced fat"
+            },
+            {
+                "offset": 6014,
+                "id": "18966",
+                "name": "Crackers, saltines, whole wheat (includes multi-grain)"
+            },
+            {
+                "offset": 6015,
+                "id": "18967",
+                "name": "Bread, white wheat"
+            },
+            {
+                "offset": 6016,
+                "id": "18968",
+                "name": "Bagels, wheat"
+            },
+            {
+                "offset": 6017,
+                "id": "18969",
+                "name": "Cream puff, eclair, custard or cream filled, iced"
+            },
+            {
+                "offset": 6018,
+                "id": "18970",
+                "name": "Tortillas, ready-to-bake or -fry, flour, shelf stable"
+            },
+            {
+                "offset": 6019,
+                "id": "18971",
+                "name": "Bread, potato"
+            },
+            {
+                "offset": 6020,
+                "id": "18972",
+                "name": "Bread, cheese"
+            },
+            {
+                "offset": 6021,
+                "id": "18973",
+                "name": "Focaccia, Italian flatbread, plain"
+            },
+            {
+                "offset": 6022,
+                "id": "18974",
+                "name": "KASHI, TLC, Honey Sesame Crackers"
+            },
+            {
+                "offset": 6023,
+                "id": "18975",
+                "name": "KASHI, TLC, Original 7-Grain Crackers"
+            },
+            {
+                "offset": 6024,
+                "id": "18976",
+                "name": "KASHI, TLC, Country Cheddar Crackers"
+            },
+            {
+                "offset": 6025,
+                "id": "18977",
+                "name": "KASHI, TLC, Toasted Asiago Crackers"
+            },
+            {
+                "offset": 6026,
+                "id": "18978",
+                "name": "KASHI, Blueberry Waffle"
+            },
+            {
+                "offset": 6027,
+                "id": "18979",
+                "name": "KASHI, H2H Woven Wheat Cracker, Original"
+            },
+            {
+                "offset": 6028,
+                "id": "18980",
+                "name": "KASHI, Original Waffle"
+            },
+            {
+                "offset": 6029,
+                "id": "18981",
+                "name": "KASHI, TLC, Fire Roasted Vegetable Crackers"
+            },
+            {
+                "offset": 6030,
+                "id": "18982",
+                "name": "KASHI, H2H Woven Wheat Cracker, Roasted Garlic"
+            },
+            {
+                "offset": 6031,
+                "id": "18983",
+                "name": "AUSTIN, Cheddar Cheese on Wheat Crackers, sandwich-type"
+            },
+            {
+                "offset": 6032,
+                "id": "18984",
+                "name": "AUSTIN, Cheddar Cheese on Cheese Crackers, sandwich-type"
+            },
+            {
+                "offset": 6033,
+                "id": "18985",
+                "name": "AUSTIN, Chocolatey Peanut Butter Crackers, sandwich-type"
+            },
+            {
+                "offset": 6034,
+                "id": "18986",
+                "name": "AUSTIN, Grilled Cheese on Wafer Crackers, sandwich-type"
+            },
+            {
+                "offset": 6035,
+                "id": "18987",
+                "name": "AUSTIN, Cheddar Cheese on Cheese Crackers, sandwich-type, reduced fat"
+            },
+            {
+                "offset": 6036,
+                "id": "18988",
+                "name": "AUSTIN, Peanut Butter on Cheese Crackers, sandwich-type, reduced fat"
+            },
+            {
+                "offset": 6037,
+                "id": "18989",
+                "name": "AUSTIN, Peanut Butter on Toasty Crackers, sandwich-type, reduced fat"
+            },
+            {
+                "offset": 6038,
+                "id": "18990",
+                "name": "AUSTIN, PB & J Crackers, sandwich-type"
+            },
+            {
+                "offset": 6039,
+                "id": "18991",
+                "name": "BARBARA DEE, Winter Mints Cookies"
+            },
+            {
+                "offset": 6040,
+                "id": "18992",
+                "name": "KELLOGG'S, BEANATURAL, Original 3-Bean Chips"
+            },
+            {
+                "offset": 6041,
+                "id": "18993",
+                "name": "BEAR NAKED, Double Chocolate Cookies"
+            },
+            {
+                "offset": 6042,
+                "id": "18994",
+                "name": "BEAR NAKED, Fruit & Nut Cookies"
+            },
+            {
+                "offset": 6043,
+                "id": "18995",
+                "name": "KELLOGG'S, EGGO, Biscuit Scramblers, Bacon, Egg & Cheese"
+            },
+            {
+                "offset": 6044,
+                "id": "18996",
+                "name": "KELLOGG'S, EGGO, Biscuit Scramblers, Egg & Cheese"
+            },
+            {
+                "offset": 6045,
+                "id": "18997",
+                "name": "KELLOGG'S, EGGO, French Toaster Sticks, Cinnamon"
+            },
+            {
+                "offset": 6046,
+                "id": "18998",
+                "name": "KELLOGG'S, EGGO, French Toaster Sticks, Original"
+            },
+            {
+                "offset": 6047,
+                "id": "18999",
+                "name": "KELLOGG'S, EGGO, Mini Muffin Tops, Blueberry"
+            },
+            {
+                "offset": 6048,
+                "id": "19000",
+                "name": "SCHIFF,TIGER'S MILK BAR"
+            },
+            {
+                "offset": 6049,
+                "id": "19001",
+                "name": "Candies, TOBLERONE, milk chocolate with honey and almond nougat"
+            },
+            {
+                "offset": 6050,
+                "id": "19002",
+                "name": "Snacks, beef jerky, chopped and formed"
+            },
+            {
+                "offset": 6051,
+                "id": "19003",
+                "name": "Snacks, corn-based, extruded, chips, plain"
+            },
+            {
+                "offset": 6052,
+                "id": "19004",
+                "name": "Snacks, corn-based, extruded, chips, barbecue-flavor"
+            },
+            {
+                "offset": 6053,
+                "id": "19005",
+                "name": "Snacks, corn-based, extruded, cones, plain"
+            },
+            {
+                "offset": 6054,
+                "id": "19007",
+                "name": "Snacks, corn-based, extruded, onion-flavor"
+            },
+            {
+                "offset": 6055,
+                "id": "19008",
+                "name": "Snacks, corn-based, extruded, puffs or twists, cheese-flavor"
+            },
+            {
+                "offset": 6056,
+                "id": "19009",
+                "name": "Snacks, KRAFT, CORNNUTS, plain"
+            },
+            {
+                "offset": 6057,
+                "id": "19010",
+                "name": "Snacks, crisped rice bar, chocolate chip"
+            },
+            {
+                "offset": 6058,
+                "id": "19013",
+                "name": "Snacks, fruit leather, pieces"
+            },
+            {
+                "offset": 6059,
+                "id": "19014",
+                "name": "Snacks, fruit leather, rolls"
+            },
+            {
+                "offset": 6060,
+                "id": "19015",
+                "name": "Snacks, granola bars, hard, plain"
+            },
+            {
+                "offset": 6061,
+                "id": "19016",
+                "name": "Snacks, granola bars, hard, almond"
+            },
+            {
+                "offset": 6062,
+                "id": "19017",
+                "name": "Snacks, granola bars, hard, chocolate chip"
+            },
+            {
+                "offset": 6063,
+                "id": "19018",
+                "name": "Fruit syrup"
+            },
+            {
+                "offset": 6064,
+                "id": "19020",
+                "name": "Snacks, granola bars, soft, uncoated, plain"
+            },
+            {
+                "offset": 6065,
+                "id": "19021",
+                "name": "Snacks, granola bars, soft, uncoated, peanut butter"
+            },
+            {
+                "offset": 6066,
+                "id": "19022",
+                "name": "Snacks, granola bars, soft, uncoated, raisin"
+            },
+            {
+                "offset": 6067,
+                "id": "19024",
+                "name": "Snacks, granola bars, soft, coated, milk chocolate coating, chocolate chip"
+            },
+            {
+                "offset": 6068,
+                "id": "19025",
+                "name": "Candies, honey-combed, with peanut butter"
+            },
+            {
+                "offset": 6069,
+                "id": "19026",
+                "name": "Snacks, granola bars, soft, coated, milk chocolate coating, peanut butter"
+            },
+            {
+                "offset": 6070,
+                "id": "19027",
+                "name": "Snacks, granola bars, soft, uncoated, peanut butter and chocolate chip"
+            },
+            {
+                "offset": 6071,
+                "id": "19029",
+                "name": "Topping, SMUCKER'S MAGIC SHELL"
+            },
+            {
+                "offset": 6072,
+                "id": "19030",
+                "name": "Syrup, fruit flavored"
+            },
+            {
+                "offset": 6073,
+                "id": "19031",
+                "name": "Snacks, oriental mix, rice-based"
+            },
+            {
+                "offset": 6074,
+                "id": "19033",
+                "name": "Snacks, GENERAL MILLS, CHEX MIX, traditional flavor"
+            },
+            {
+                "offset": 6075,
+                "id": "19034",
+                "name": "Snacks, popcorn, air-popped"
+            },
+            {
+                "offset": 6076,
+                "id": "19035",
+                "name": "Snacks, popcorn, oil-popped, microwave, regular flavor, no trans fat"
+            },
+            {
+                "offset": 6077,
+                "id": "19036",
+                "name": "Snacks, popcorn, cakes"
+            },
+            {
+                "offset": 6078,
+                "id": "19038",
+                "name": "Snacks, popcorn, caramel-coated, with peanuts"
+            },
+            {
+                "offset": 6079,
+                "id": "19039",
+                "name": "Snacks, popcorn, caramel-coated, without peanuts"
+            },
+            {
+                "offset": 6080,
+                "id": "19040",
+                "name": "Snacks, popcorn, cheese-flavor"
+            },
+            {
+                "offset": 6081,
+                "id": "19041",
+                "name": "Snacks, pork skins, plain"
+            },
+            {
+                "offset": 6082,
+                "id": "19042",
+                "name": "Snacks, potato chips, barbecue-flavor"
+            },
+            {
+                "offset": 6083,
+                "id": "19043",
+                "name": "Snacks, potato chips, sour-cream-and-onion-flavor"
+            },
+            {
+                "offset": 6084,
+                "id": "19045",
+                "name": "Snacks, potato chips, made from dried potatoes, reduced fat"
+            },
+            {
+                "offset": 6085,
+                "id": "19046",
+                "name": "Snacks, potato chips, made from dried potatoes, sour-cream and onion-flavor"
+            },
+            {
+                "offset": 6086,
+                "id": "19047",
+                "name": "Snacks, pretzels, hard, plain, salted"
+            },
+            {
+                "offset": 6087,
+                "id": "19048",
+                "name": "Snacks, pretzels, hard, confectioner's coating, chocolate-flavor"
+            },
+            {
+                "offset": 6088,
+                "id": "19049",
+                "name": "Snacks, M&M MARS, COMBOS Snacks Cheddar Cheese Pretzel"
+            },
+            {
+                "offset": 6089,
+                "id": "19050",
+                "name": "Snacks, pretzels, hard, whole-wheat including both salted and unsalted"
+            },
+            {
+                "offset": 6090,
+                "id": "19051",
+                "name": "Snacks, rice cracker brown rice, plain"
+            },
+            {
+                "offset": 6091,
+                "id": "19052",
+                "name": "Snacks, rice cakes, brown rice, buckwheat"
+            },
+            {
+                "offset": 6092,
+                "id": "19053",
+                "name": "Snacks, rice cakes, brown rice, sesame seed"
+            },
+            {
+                "offset": 6093,
+                "id": "19056",
+                "name": "Snacks, tortilla chips, plain, white corn, salted"
+            },
+            {
+                "offset": 6094,
+                "id": "19057",
+                "name": "Snacks, tortilla chips, nacho cheese"
+            },
+            {
+                "offset": 6095,
+                "id": "19058",
+                "name": "Snacks, tortilla chips, ranch-flavor"
+            },
+            {
+                "offset": 6096,
+                "id": "19059",
+                "name": "Snacks, trail mix, regular"
+            },
+            {
+                "offset": 6097,
+                "id": "19061",
+                "name": "Snacks, trail mix, tropical"
+            },
+            {
+                "offset": 6098,
+                "id": "19062",
+                "name": "Snacks, trail mix, regular, with chocolate chips, salted nuts and seeds"
+            },
+            {
+                "offset": 6099,
+                "id": "19063",
+                "name": "Snacks, tortilla chips, taco-flavor"
+            },
+            {
+                "offset": 6100,
+                "id": "19064",
+                "name": "Candies, TOOTSIE ROLL, chocolate-flavor roll"
+            },
+            {
+                "offset": 6101,
+                "id": "19065",
+                "name": "Candies, ALMOND JOY Candy Bar"
+            },
+            {
+                "offset": 6102,
+                "id": "19067",
+                "name": "Candies, TWIZZLERS CHERRY BITES"
+            },
+            {
+                "offset": 6103,
+                "id": "19068",
+                "name": "Candies, NESTLE, BIT-O'-HONEY Candy Chews"
+            },
+            {
+                "offset": 6104,
+                "id": "19069",
+                "name": "Candies, NESTLE, BUTTERFINGER Bar"
+            },
+            {
+                "offset": 6105,
+                "id": "19070",
+                "name": "Candies, butterscotch"
+            },
+            {
+                "offset": 6106,
+                "id": "19071",
+                "name": "Candies, carob, unsweetened"
+            },
+            {
+                "offset": 6107,
+                "id": "19074",
+                "name": "Candies, caramels"
+            },
+            {
+                "offset": 6108,
+                "id": "19075",
+                "name": "Candies, CARAMELLO Candy Bar"
+            },
+            {
+                "offset": 6109,
+                "id": "19076",
+                "name": "Candies, caramels, chocolate-flavor roll"
+            },
+            {
+                "offset": 6110,
+                "id": "19077",
+                "name": "Baking chocolate, unsweetened, liquid"
+            },
+            {
+                "offset": 6111,
+                "id": "19078",
+                "name": "Baking chocolate, unsweetened, squares"
+            },
+            {
+                "offset": 6112,
+                "id": "19079",
+                "name": "Candies, confectioner's coating, yogurt"
+            },
+            {
+                "offset": 6113,
+                "id": "19080",
+                "name": "Candies, semisweet chocolate"
+            },
+            {
+                "offset": 6114,
+                "id": "19081",
+                "name": "Candies, sweet chocolate"
+            },
+            {
+                "offset": 6115,
+                "id": "19083",
+                "name": "Candies, sweet chocolate coated fondant"
+            },
+            {
+                "offset": 6116,
+                "id": "19084",
+                "name": "Candies, HERSHEY'S GOLDEN ALMOND SOLITAIRES"
+            },
+            {
+                "offset": 6117,
+                "id": "19085",
+                "name": "Candies, confectioner's coating, butterscotch"
+            },
+            {
+                "offset": 6118,
+                "id": "19086",
+                "name": "Candies, confectioner's coating, peanut butter"
+            },
+            {
+                "offset": 6119,
+                "id": "19087",
+                "name": "Candies, white chocolate"
+            },
+            {
+                "offset": 6120,
+                "id": "19088",
+                "name": "Ice creams, vanilla, light"
+            },
+            {
+                "offset": 6121,
+                "id": "19089",
+                "name": "Ice creams, vanilla, rich"
+            },
+            {
+                "offset": 6122,
+                "id": "19090",
+                "name": "Ice creams, french vanilla, soft-serve"
+            },
+            {
+                "offset": 6123,
+                "id": "19091",
+                "name": "Candies, YORK Peppermint Pattie"
+            },
+            {
+                "offset": 6124,
+                "id": "19092",
+                "name": "Candies, TWIZZLERS NIBS CHERRY BITS"
+            },
+            {
+                "offset": 6125,
+                "id": "19093",
+                "name": "Candies, SYMPHONY Milk Chocolate Bar"
+            },
+            {
+                "offset": 6126,
+                "id": "19094",
+                "name": "Desserts, flan, caramel custard, prepared-from-recipe"
+            },
+            {
+                "offset": 6127,
+                "id": "19095",
+                "name": "Ice creams, vanilla"
+            },
+            {
+                "offset": 6128,
+                "id": "19096",
+                "name": "Ice creams, vanilla, light, soft-serve"
+            },
+            {
+                "offset": 6129,
+                "id": "19097",
+                "name": "Sherbet, orange"
+            },
+            {
+                "offset": 6130,
+                "id": "19098",
+                "name": "Candies, 5TH AVENUE Candy Bar"
+            },
+            {
+                "offset": 6131,
+                "id": "19099",
+                "name": "Candies, fondant, prepared-from-recipe"
+            },
+            {
+                "offset": 6132,
+                "id": "19100",
+                "name": "Candies, fudge, chocolate, prepared-from-recipe"
+            },
+            {
+                "offset": 6133,
+                "id": "19101",
+                "name": "Candies, fudge, chocolate, with nuts, prepared-from-recipe"
+            },
+            {
+                "offset": 6134,
+                "id": "19102",
+                "name": "Candies, fudge, peanut butter, prepared-from-recipe"
+            },
+            {
+                "offset": 6135,
+                "id": "19103",
+                "name": "Candies, fudge, vanilla, prepared-from-recipe"
+            },
+            {
+                "offset": 6136,
+                "id": "19104",
+                "name": "Candies, fudge, vanilla with nuts"
+            },
+            {
+                "offset": 6137,
+                "id": "19105",
+                "name": "Candies, NESTLE, GOOBERS Chocolate Covered Peanuts"
+            },
+            {
+                "offset": 6138,
+                "id": "19106",
+                "name": "Candies, gumdrops, starch jelly pieces"
+            },
+            {
+                "offset": 6139,
+                "id": "19107",
+                "name": "Candies, hard"
+            },
+            {
+                "offset": 6140,
+                "id": "19108",
+                "name": "Candies, jellybeans"
+            },
+            {
+                "offset": 6141,
+                "id": "19109",
+                "name": "Candies, KIT KAT Wafer Bar"
+            },
+            {
+                "offset": 6142,
+                "id": "19110",
+                "name": "Candies, KRACKEL Chocolate Bar"
+            },
+            {
+                "offset": 6143,
+                "id": "19111",
+                "name": "Candies, NESTLE, BABY RUTH Bar"
+            },
+            {
+                "offset": 6144,
+                "id": "19112",
+                "name": "Candies, TWIZZLERS Strawberry Twists Candy"
+            },
+            {
+                "offset": 6145,
+                "id": "19113",
+                "name": "Syrups, table blends, pancake, with butter"
+            },
+            {
+                "offset": 6146,
+                "id": "19114",
+                "name": "Ice creams, chocolate, light"
+            },
+            {
+                "offset": 6147,
+                "id": "19115",
+                "name": "Candies, MARS SNACKFOOD US, MARS Almond Bar"
+            },
+            {
+                "offset": 6148,
+                "id": "19116",
+                "name": "Candies, marshmallows"
+            },
+            {
+                "offset": 6149,
+                "id": "19117",
+                "name": "Candies, halavah, plain"
+            },
+            {
+                "offset": 6150,
+                "id": "19118",
+                "name": "Candies, NESTLE, OH HENRY! Bar"
+            },
+            {
+                "offset": 6151,
+                "id": "19119",
+                "name": "Candies, NESTLE, CHUNKY Bar"
+            },
+            {
+                "offset": 6152,
+                "id": "19120",
+                "name": "Candies, milk chocolate"
+            },
+            {
+                "offset": 6153,
+                "id": "19121",
+                "name": "Puddings, banana, dry mix, instant, prepared with 2% milk"
+            },
+            {
+                "offset": 6154,
+                "id": "19122",
+                "name": "Puddings, banana, dry mix, regular, prepared with 2% milk"
+            },
+            {
+                "offset": 6155,
+                "id": "19123",
+                "name": "Puddings, chocolate, dry mix, instant, prepared with 2% milk"
+            },
+            {
+                "offset": 6156,
+                "id": "19124",
+                "name": "Baking chocolate, mexican, squares"
+            },
+            {
+                "offset": 6157,
+                "id": "19125",
+                "name": "Chocolate-flavored hazelnut spread"
+            },
+            {
+                "offset": 6158,
+                "id": "19126",
+                "name": "Candies, milk chocolate coated peanuts"
+            },
+            {
+                "offset": 6159,
+                "id": "19127",
+                "name": "Candies, milk chocolate coated raisins"
+            },
+            {
+                "offset": 6160,
+                "id": "19128",
+                "name": "Syrups, table blends, pancake, reduced-calorie"
+            },
+            {
+                "offset": 6161,
+                "id": "19129",
+                "name": "Syrups, table blends, pancake"
+            },
+            {
+                "offset": 6162,
+                "id": "19130",
+                "name": "Candies, HERSHEY'S POT OF GOLD Almond Bar"
+            },
+            {
+                "offset": 6163,
+                "id": "19132",
+                "name": "Candies, milk chocolate, with almonds"
+            },
+            {
+                "offset": 6164,
+                "id": "19134",
+                "name": "Candies, milk chocolate, with rice cereal"
+            },
+            {
+                "offset": 6165,
+                "id": "19135",
+                "name": "Candies, MARS SNACKFOOD US, MILKY WAY Bar"
+            },
+            {
+                "offset": 6166,
+                "id": "19136",
+                "name": "Candies, HERSHEY'S SKOR Toffee Bar"
+            },
+            {
+                "offset": 6167,
+                "id": "19137",
+                "name": "Toppings, strawberry"
+            },
+            {
+                "offset": 6168,
+                "id": "19138",
+                "name": "Candies, truffles, prepared-from-recipe"
+            },
+            {
+                "offset": 6169,
+                "id": "19139",
+                "name": "Baking chocolate, MARS SNACKFOOD US, M&M's Semisweet Chocolate Mini Baking Bits"
+            },
+            {
+                "offset": 6170,
+                "id": "19140",
+                "name": "Candies, MARS SNACKFOOD US, M&M's Peanut Chocolate Candies"
+            },
+            {
+                "offset": 6171,
+                "id": "19141",
+                "name": "Candies, MARS SNACKFOOD US, M&M's Milk Chocolate Candies"
+            },
+            {
+                "offset": 6172,
+                "id": "19142",
+                "name": "Candies, MOUNDS Candy Bar"
+            },
+            {
+                "offset": 6173,
+                "id": "19143",
+                "name": "Candies, MR. GOODBAR Chocolate Bar"
+            },
+            {
+                "offset": 6174,
+                "id": "19144",
+                "name": "Candies, NESTLE, 100 GRAND Bar"
+            },
+            {
+                "offset": 6175,
+                "id": "19145",
+                "name": "Candies, NESTLE, CRUNCH Bar and Dessert Topping"
+            },
+            {
+                "offset": 6176,
+                "id": "19146",
+                "name": "Baking chocolate, MARS SNACKFOOD US, M&M's Milk Chocolate Mini Baking Bits"
+            },
+            {
+                "offset": 6177,
+                "id": "19147",
+                "name": "Candies, peanut bar"
+            },
+            {
+                "offset": 6178,
+                "id": "19148",
+                "name": "Candies, peanut brittle, prepared-from-recipe"
+            },
+            {
+                "offset": 6179,
+                "id": "19149",
+                "name": "Candies, NESTLE, RAISINETS Chocolate Covered Raisins"
+            },
+            {
+                "offset": 6180,
+                "id": "19150",
+                "name": "Candies, REESE'S Peanut Butter Cups"
+            },
+            {
+                "offset": 6181,
+                "id": "19151",
+                "name": "Candies, REESE'S PIECES Candy"
+            },
+            {
+                "offset": 6182,
+                "id": "19152",
+                "name": "Candies, ROLO Caramels in Milk Chocolate"
+            },
+            {
+                "offset": 6183,
+                "id": "19153",
+                "name": "Candies, NESTLE, AFTER EIGHT Mints"
+            },
+            {
+                "offset": 6184,
+                "id": "19154",
+                "name": "Candies, sesame crunch"
+            },
+            {
+                "offset": 6185,
+                "id": "19155",
+                "name": "Candies, MARS SNACKFOOD US, SNICKERS Bar"
+            },
+            {
+                "offset": 6186,
+                "id": "19156",
+                "name": "Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Original fruits"
+            },
+            {
+                "offset": 6187,
+                "id": "19157",
+                "name": "Candies, MARS SNACKFOOD US, M&M's MINIs Milk Chocolate Candies"
+            },
+            {
+                "offset": 6188,
+                "id": "19159",
+                "name": "Candies, MARS SNACKFOOD US, 3 MUSKETEERS Bar"
+            },
+            {
+                "offset": 6189,
+                "id": "19160",
+                "name": "Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars"
+            },
+            {
+                "offset": 6190,
+                "id": "19161",
+                "name": "Candies, MARS SNACKFOOD US, TWIX Peanut Butter Cookie Bars"
+            },
+            {
+                "offset": 6191,
+                "id": "19162",
+                "name": "Candies, WHATCHAMACALLIT Candy Bar"
+            },
+            {
+                "offset": 6192,
+                "id": "19163",
+                "name": "Chewing gum"
+            },
+            {
+                "offset": 6193,
+                "id": "19164",
+                "name": "Candies, SPECIAL DARK Chocolate Bar"
+            },
+            {
+                "offset": 6194,
+                "id": "19165",
+                "name": "Cocoa, dry powder, unsweetened"
+            },
+            {
+                "offset": 6195,
+                "id": "19166",
+                "name": "Cocoa, dry powder, unsweetened, processed with alkali"
+            },
+            {
+                "offset": 6196,
+                "id": "19168",
+                "name": "Desserts, egg custard, baked, prepared-from-recipe"
+            },
+            {
+                "offset": 6197,
+                "id": "19169",
+                "name": "Egg custards, dry mix"
+            },
+            {
+                "offset": 6198,
+                "id": "19170",
+                "name": "Egg custards, dry mix, prepared with whole milk"
+            },
+            {
+                "offset": 6199,
+                "id": "19171",
+                "name": "Cocoa, dry powder, unsweetened, HERSHEY'S European Style Cocoa"
+            },
+            {
+                "offset": 6200,
+                "id": "19172",
+                "name": "Gelatin desserts, dry mix"
+            },
+            {
+                "offset": 6201,
+                "id": "19173",
+                "name": "Gelatin desserts, dry mix, prepared with water"
+            },
+            {
+                "offset": 6202,
+                "id": "19175",
+                "name": "Gelatin desserts, dry mix, reduced calorie, with aspartame"
+            },
+            {
+                "offset": 6203,
+                "id": "19176",
+                "name": "Gelatin desserts, dry mix, reduced calorie, with aspartame, prepared with water"
+            },
+            {
+                "offset": 6204,
+                "id": "19177",
+                "name": "Gelatins, dry powder, unsweetened"
+            },
+            {
+                "offset": 6205,
+                "id": "19181",
+                "name": "Candies, YORK BITES"
+            },
+            {
+                "offset": 6206,
+                "id": "19182",
+                "name": "Desserts, mousse, chocolate, prepared-from-recipe"
+            },
+            {
+                "offset": 6207,
+                "id": "19183",
+                "name": "Puddings, chocolate, ready-to-eat"
+            },
+            {
+                "offset": 6208,
+                "id": "19184",
+                "name": "Puddings, chocolate, dry mix, instant"
+            },
+            {
+                "offset": 6209,
+                "id": "19185",
+                "name": "Puddings, chocolate, dry mix, instant, prepared with whole milk"
+            },
+            {
+                "offset": 6210,
+                "id": "19186",
+                "name": "Desserts, apple crisp, prepared-from-recipe"
+            },
+            {
+                "offset": 6211,
+                "id": "19187",
+                "name": "Flan, caramel custard, dry mix"
+            },
+            {
+                "offset": 6212,
+                "id": "19188",
+                "name": "Puddings, chocolate, dry mix, regular"
+            },
+            {
+                "offset": 6213,
+                "id": "19189",
+                "name": "Puddings, chocolate, dry mix, regular, prepared with whole milk"
+            },
+            {
+                "offset": 6214,
+                "id": "19190",
+                "name": "Puddings, chocolate, dry mix, regular, prepared with 2% milk"
+            },
+            {
+                "offset": 6215,
+                "id": "19191",
+                "name": "Puddings, coconut cream, dry mix, instant, prepared with 2% milk"
+            },
+            {
+                "offset": 6216,
+                "id": "19193",
+                "name": "Puddings, rice, ready-to-eat"
+            },
+            {
+                "offset": 6217,
+                "id": "19194",
+                "name": "Puddings, rice, dry mix"
+            },
+            {
+                "offset": 6218,
+                "id": "19195",
+                "name": "Puddings, rice, dry mix, prepared with whole milk"
+            },
+            {
+                "offset": 6219,
+                "id": "19198",
+                "name": "Puddings, tapioca, dry mix"
+            },
+            {
+                "offset": 6220,
+                "id": "19199",
+                "name": "Puddings, tapioca, dry mix, prepared with whole milk"
+            },
+            {
+                "offset": 6221,
+                "id": "19201",
+                "name": "Puddings, vanilla, ready-to-eat"
+            },
+            {
+                "offset": 6222,
+                "id": "19202",
+                "name": "Puddings, vanilla, dry mix, instant"
+            },
+            {
+                "offset": 6223,
+                "id": "19203",
+                "name": "Puddings, vanilla, dry mix, instant, prepared with whole milk"
+            },
+            {
+                "offset": 6224,
+                "id": "19204",
+                "name": "Puddings, lemon, dry mix, instant, prepared with 2% milk"
+            },
+            {
+                "offset": 6225,
+                "id": "19205",
+                "name": "Egg custards, dry mix, prepared with 2% milk"
+            },
+            {
+                "offset": 6226,
+                "id": "19206",
+                "name": "Puddings, vanilla, dry mix, regular"
+            },
+            {
+                "offset": 6227,
+                "id": "19207",
+                "name": "Puddings, vanilla, dry mix, regular, prepared with whole milk"
+            },
+            {
+                "offset": 6228,
+                "id": "19208",
+                "name": "Puddings, rice, dry mix, prepared with 2% milk"
+            },
+            {
+                "offset": 6229,
+                "id": "19209",
+                "name": "Puddings, tapioca, dry mix, prepared with 2% milk"
+            },
+            {
+                "offset": 6230,
+                "id": "19212",
+                "name": "Puddings, vanilla, dry mix, regular, prepared with 2% milk"
+            },
+            {
+                "offset": 6231,
+                "id": "19213",
+                "name": "Rennin, chocolate, dry mix, prepared with 2% milk"
+            },
+            {
+                "offset": 6232,
+                "id": "19214",
+                "name": "Rennin, vanilla, dry mix, prepared with 2% milk"
+            },
+            {
+                "offset": 6233,
+                "id": "19216",
+                "name": "Candies, praline, prepared-from-recipe"
+            },
+            {
+                "offset": 6234,
+                "id": "19217",
+                "name": "Frozen novelties, ice type, fruit, no sugar added"
+            },
+            {
+                "offset": 6235,
+                "id": "19218",
+                "name": "Puddings, tapioca, ready-to-eat"
+            },
+            {
+                "offset": 6236,
+                "id": "19219",
+                "name": "Puddings, coconut cream, dry mix, regular, prepared with 2% milk"
+            },
+            {
+                "offset": 6237,
+                "id": "19220",
+                "name": "Desserts, rennin, chocolate, dry mix"
+            },
+            {
+                "offset": 6238,
+                "id": "19221",
+                "name": "Rennin, chocolate, dry mix, prepared with whole milk"
+            },
+            {
+                "offset": 6239,
+                "id": "19222",
+                "name": "Desserts, rennin, vanilla, dry mix"
+            },
+            {
+                "offset": 6240,
+                "id": "19223",
+                "name": "Rennin, vanilla, dry mix, prepared with whole milk"
+            },
+            {
+                "offset": 6241,
+                "id": "19225",
+                "name": "Desserts, rennin, tablets, unsweetened"
+            },
+            {
+                "offset": 6242,
+                "id": "19226",
+                "name": "Frostings, chocolate, creamy, ready-to-eat"
+            },
+            {
+                "offset": 6243,
+                "id": "19227",
+                "name": "Frostings, coconut-nut, ready-to-eat"
+            },
+            {
+                "offset": 6244,
+                "id": "19228",
+                "name": "Frostings, cream cheese-flavor, ready-to-eat"
+            },
+            {
+                "offset": 6245,
+                "id": "19230",
+                "name": "Frostings, vanilla, creamy, ready-to-eat"
+            },
+            {
+                "offset": 6246,
+                "id": "19231",
+                "name": "Flan, caramel custard, dry mix, prepared with 2% milk"
+            },
+            {
+                "offset": 6247,
+                "id": "19232",
+                "name": "Flan, caramel custard, dry mix, prepared with whole milk"
+            },
+            {
+                "offset": 6248,
+                "id": "19233",
+                "name": "Puddings, vanilla, ready-to-eat, fat free"
+            },
+            {
+                "offset": 6249,
+                "id": "19234",
+                "name": "Puddings, tapioca, ready-to-eat, fat free"
+            },
+            {
+                "offset": 6250,
+                "id": "19235",
+                "name": "Puddings, chocolate, ready-to-eat, fat free"
+            },
+            {
+                "offset": 6251,
+                "id": "19236",
+                "name": "Candies, HERSHEY'S MILK CHOCOLATE WITH ALMOND BITES"
+            },
+            {
+                "offset": 6252,
+                "id": "19238",
+                "name": "Candies, REESE'S BITES"
+            },
+            {
+                "offset": 6253,
+                "id": "19239",
+                "name": "Candies, REESE'S NUTRAGEOUS Candy Bar"
+            },
+            {
+                "offset": 6254,
+                "id": "19240",
+                "name": "Frostings, chocolate, creamy, dry mix"
+            },
+            {
+                "offset": 6255,
+                "id": "19241",
+                "name": "Frostings, chocolate, creamy, dry mix, prepared with butter"
+            },
+            {
+                "offset": 6256,
+                "id": "19243",
+                "name": "Candies, HEATH BITES"
+            },
+            {
+                "offset": 6257,
+                "id": "19244",
+                "name": "Frostings, vanilla, creamy, dry mix"
+            },
+            {
+                "offset": 6258,
+                "id": "19246",
+                "name": "Frostings, white, fluffy, dry mix"
+            },
+            {
+                "offset": 6259,
+                "id": "19247",
+                "name": "Frostings, white, fluffy, dry mix, prepared with water"
+            },
+            {
+                "offset": 6260,
+                "id": "19248",
+                "name": "Candies, HERSHEY'S, ALMOND JOY BITES"
+            },
+            {
+                "offset": 6261,
+                "id": "19249",
+                "name": "Candies, HERSHEY, REESESTICKS crispy wafers, peanut butter, milk chocolate"
+            },
+            {
+                "offset": 6262,
+                "id": "19250",
+                "name": "Candies, HERSHEY, KIT KAT BIG KAT Bar"
+            },
+            {
+                "offset": 6263,
+                "id": "19252",
+                "name": "Candies, REESE'S, FAST BREAK, milk chocolate peanut butter and soft nougats"
+            },
+            {
+                "offset": 6264,
+                "id": "19254",
+                "name": "Candies, MARS SNACKFOOD US, DOVE Milk Chocolate"
+            },
+            {
+                "offset": 6265,
+                "id": "19255",
+                "name": "Candies, MARS SNACKFOOD US, DOVE Dark Chocolate"
+            },
+            {
+                "offset": 6266,
+                "id": "19256",
+                "name": "Candies, MARS SNACKFOOD US, MILKY WAY Caramels, milk chocolate covered"
+            },
+            {
+                "offset": 6267,
+                "id": "19258",
+                "name": "Candies, MARS SNACKFOOD US, MILKY WAY Caramels. dark chocolate covered"
+            },
+            {
+                "offset": 6268,
+                "id": "19260",
+                "name": "Ice creams, vanilla, light, no sugar added"
+            },
+            {
+                "offset": 6269,
+                "id": "19263",
+                "name": "Frozen novelties, fruit and juice bars"
+            },
+            {
+                "offset": 6270,
+                "id": "19265",
+                "name": "Ice creams, chocolate, light, no sugar added"
+            },
+            {
+                "offset": 6271,
+                "id": "19268",
+                "name": "Candies, dark chocolate coated coffee beans"
+            },
+            {
+                "offset": 6272,
+                "id": "19269",
+                "name": "Snacks, GENERAL MILLS, BETTY CROCKER Fruit Roll Ups, berry flavored, with vitamin C"
+            },
+            {
+                "offset": 6273,
+                "id": "19270",
+                "name": "Ice creams, chocolate"
+            },
+            {
+                "offset": 6274,
+                "id": "19271",
+                "name": "Ice creams, strawberry"
+            },
+            {
+                "offset": 6275,
+                "id": "19272",
+                "name": "Snacks, FARLEY CANDY, FARLEY Fruit Snacks, with vitamins A, C, and E"
+            },
+            {
+                "offset": 6276,
+                "id": "19273",
+                "name": "Snacks, SUNKIST, SUNKIST Fruit Roll, strawberry, with vitamins A, C, and E"
+            },
+            {
+                "offset": 6277,
+                "id": "19274",
+                "name": "Snacks, fruit leather, pieces, with vitamin C"
+            },
+            {
+                "offset": 6278,
+                "id": "19279",
+                "name": "Candies, milk chocolate coated coffee beans"
+            },
+            {
+                "offset": 6279,
+                "id": "19280",
+                "name": "Frozen novelties, ice type, lime"
+            },
+            {
+                "offset": 6280,
+                "id": "19281",
+                "name": "Frozen novelties, ice type, italian, restaurant-prepared"
+            },
+            {
+                "offset": 6281,
+                "id": "19283",
+                "name": "Frozen novelties, ice type, pop"
+            },
+            {
+                "offset": 6282,
+                "id": "19292",
+                "name": "Candies, MARS SNACKFOOD US, M&M's Crispy Chocolate Candies"
+            },
+            {
+                "offset": 6283,
+                "id": "19293",
+                "name": "Frozen yogurts, vanilla, soft-serve"
+            },
+            {
+                "offset": 6284,
+                "id": "19294",
+                "name": "Fruit butters, apple"
+            },
+            {
+                "offset": 6285,
+                "id": "19295",
+                "name": "Candies, MARS SNACKFOOD US, SNICKERS MUNCH bar"
+            },
+            {
+                "offset": 6286,
+                "id": "19296",
+                "name": "Honey"
+            },
+            {
+                "offset": 6287,
+                "id": "19297",
+                "name": "Jams and preserves"
+            },
+            {
+                "offset": 6288,
+                "id": "19300",
+                "name": "Jellies"
+            },
+            {
+                "offset": 6289,
+                "id": "19301",
+                "name": "Candies, fudge, chocolate marshmallow, with nuts, prepared-by-recipe"
+            },
+            {
+                "offset": 6290,
+                "id": "19302",
+                "name": "Candies, MARS SNACKFOOD US, SNICKERS Almond bar"
+            },
+            {
+                "offset": 6291,
+                "id": "19303",
+                "name": "Marmalade, orange"
+            },
+            {
+                "offset": 6292,
+                "id": "19304",
+                "name": "Molasses"
+            },
+            {
+                "offset": 6293,
+                "id": "19306",
+                "name": "Candies, MARS SNACKFOOD US, POP'ABLES SNICKERS Brand Bite Size Candies"
+            },
+            {
+                "offset": 6294,
+                "id": "19307",
+                "name": "Candies, MARS SNACKFOOD US, POP'ABLES MILKY WAY Brand Bite Size Candies"
+            },
+            {
+                "offset": 6295,
+                "id": "19308",
+                "name": "Candies, MARS SNACKFOOD US, POP'ABLES 3 MUSKETEERS Brand Bite Size Candies"
+            },
+            {
+                "offset": 6296,
+                "id": "19309",
+                "name": "Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Fruit and Creme"
+            },
+            {
+                "offset": 6297,
+                "id": "19310",
+                "name": "Pectin, unsweetened, dry mix"
+            },
+            {
+                "offset": 6298,
+                "id": "19312",
+                "name": "Pie fillings, apple, canned"
+            },
+            {
+                "offset": 6299,
+                "id": "19313",
+                "name": "Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Tropical fruits"
+            },
+            {
+                "offset": 6300,
+                "id": "19314",
+                "name": "Pie fillings, canned, cherry"
+            },
+            {
+                "offset": 6301,
+                "id": "19315",
+                "name": "Candies, MARS SNACKFOOD US, STARBURST Sour Fruit Chews"
+            },
+            {
+                "offset": 6302,
+                "id": "19318",
+                "name": "Puddings, banana, dry mix, instant"
+            },
+            {
+                "offset": 6303,
+                "id": "19319",
+                "name": "Puddings, banana, dry mix, instant, prepared with whole milk"
+            },
+            {
+                "offset": 6304,
+                "id": "19320",
+                "name": "Puddings, banana, dry mix, regular"
+            },
+            {
+                "offset": 6305,
+                "id": "19321",
+                "name": "Puddings, banana, dry mix, regular, prepared with whole milk"
+            },
+            {
+                "offset": 6306,
+                "id": "19322",
+                "name": "Puddings, coconut cream, dry mix, instant"
+            },
+            {
+                "offset": 6307,
+                "id": "19323",
+                "name": "Puddings, coconut cream, dry mix, instant, prepared with whole milk"
+            },
+            {
+                "offset": 6308,
+                "id": "19324",
+                "name": "Puddings, coconut cream, dry mix, regular"
+            },
+            {
+                "offset": 6309,
+                "id": "19325",
+                "name": "Puddings, coconut cream, dry mix, regular, prepared with whole milk"
+            },
+            {
+                "offset": 6310,
+                "id": "19326",
+                "name": "Candies, MARS SNACKFOOD US, COCOAVIA Chocolate Bar"
+            },
+            {
+                "offset": 6311,
+                "id": "19327",
+                "name": "Candies, MARS SNACKFOOD US, COCOAVIA Blueberry and Almond Chocolate Bar"
+            },
+            {
+                "offset": 6312,
+                "id": "19328",
+                "name": "Candies, MARS SNACKFOOD US, COCOAVIA Crispy Chocolate Bar"
+            },
+            {
+                "offset": 6313,
+                "id": "19330",
+                "name": "Puddings, lemon, dry mix, instant"
+            },
+            {
+                "offset": 6314,
+                "id": "19331",
+                "name": "Puddings, lemon, dry mix, instant, prepared with whole milk"
+            },
+            {
+                "offset": 6315,
+                "id": "19332",
+                "name": "Puddings, lemon, dry mix, regular"
+            },
+            {
+                "offset": 6316,
+                "id": "19333",
+                "name": "Pudding, lemon, dry mix, regular, prepared with sugar, egg yolk and water"
+            },
+            {
+                "offset": 6317,
+                "id": "19334",
+                "name": "Sugars, brown"
+            },
+            {
+                "offset": 6318,
+                "id": "19335",
+                "name": "Sugars, granulated"
+            },
+            {
+                "offset": 6319,
+                "id": "19336",
+                "name": "Sugars, powdered"
+            },
+            {
+                "offset": 6320,
+                "id": "19337",
+                "name": "Sweeteners, tabletop, aspartame, EQUAL, packets"
+            },
+            {
+                "offset": 6321,
+                "id": "19340",
+                "name": "Sugars, maple"
+            },
+            {
+                "offset": 6322,
+                "id": "19345",
+                "name": "Syrups, chocolate, HERSHEY'S Genuine Chocolate Flavored Lite Syrup"
+            },
+            {
+                "offset": 6323,
+                "id": "19348",
+                "name": "Syrups, chocolate, fudge-type"
+            },
+            {
+                "offset": 6324,
+                "id": "19349",
+                "name": "Syrups, corn, dark"
+            },
+            {
+                "offset": 6325,
+                "id": "19350",
+                "name": "Syrups, corn, light"
+            },
+            {
+                "offset": 6326,
+                "id": "19351",
+                "name": "Syrups, corn, high-fructose"
+            },
+            {
+                "offset": 6327,
+                "id": "19352",
+                "name": "Syrups, malt"
+            },
+            {
+                "offset": 6328,
+                "id": "19353",
+                "name": "Syrups, maple"
+            },
+            {
+                "offset": 6329,
+                "id": "19355",
+                "name": "Syrups, sorghum"
+            },
+            {
+                "offset": 6330,
+                "id": "19359",
+                "name": "Candies, MARS SNACKFOOD US, SNICKERS CRUNCHER"
+            },
+            {
+                "offset": 6331,
+                "id": "19360",
+                "name": "Syrups, table blends, pancake, with 2% maple"
+            },
+            {
+                "offset": 6332,
+                "id": "19361",
+                "name": "Syrups, table blends, cane and 15% maple"
+            },
+            {
+                "offset": 6333,
+                "id": "19362",
+                "name": "Syrups, table blends, corn, refiner, and sugar"
+            },
+            {
+                "offset": 6334,
+                "id": "19363",
+                "name": "Candies, MARS SNACKFOOD US, SKITTLES Wild Berry Bite Size Candies"
+            },
+            {
+                "offset": 6335,
+                "id": "19364",
+                "name": "Toppings, butterscotch or caramel"
+            },
+            {
+                "offset": 6336,
+                "id": "19365",
+                "name": "Toppings, marshmallow cream"
+            },
+            {
+                "offset": 6337,
+                "id": "19366",
+                "name": "Toppings, pineapple"
+            },
+            {
+                "offset": 6338,
+                "id": "19367",
+                "name": "Toppings, nuts in syrup"
+            },
+            {
+                "offset": 6339,
+                "id": "19368",
+                "name": "Candies, MARS SNACKFOOD US, SKITTLES Tropical Bite Size Candies"
+            },
+            {
+                "offset": 6340,
+                "id": "19369",
+                "name": "Candies, MARS SNACKFOOD US, SKITTLES Sours Original"
+            },
+            {
+                "offset": 6341,
+                "id": "19370",
+                "name": "Candies, MARS SNACKFOOD US, SKITTLES Original Bite Size Candies"
+            },
+            {
+                "offset": 6342,
+                "id": "19371",
+                "name": "Frostings, vanilla, creamy, dry mix, prepared with margarine"
+            },
+            {
+                "offset": 6343,
+                "id": "19372",
+                "name": "Frostings, chocolate, creamy, dry mix, prepared with margarine"
+            },
+            {
+                "offset": 6344,
+                "id": "19375",
+                "name": "Frostings, glaze, prepared-from-recipe"
+            },
+            {
+                "offset": 6345,
+                "id": "19379",
+                "name": "Candies, fudge, chocolate marshmallow, prepared-from-recipe"
+            },
+            {
+                "offset": 6346,
+                "id": "19382",
+                "name": "Candies, taffy, prepared-from-recipe"
+            },
+            {
+                "offset": 6347,
+                "id": "19383",
+                "name": "Candies, toffee, prepared-from-recipe"
+            },
+            {
+                "offset": 6348,
+                "id": "19384",
+                "name": "Candies, divinity, prepared-from-recipe"
+            },
+            {
+                "offset": 6349,
+                "id": "19387",
+                "name": "Frozen novelties, ice type, pineapple-coconut"
+            },
+            {
+                "offset": 6350,
+                "id": "19393",
+                "name": "Frozen yogurts, chocolate, soft-serve"
+            },
+            {
+                "offset": 6351,
+                "id": "19400",
+                "name": "Snacks, banana chips"
+            },
+            {
+                "offset": 6352,
+                "id": "19401",
+                "name": "Snacks, cornnuts, barbecue-flavor"
+            },
+            {
+                "offset": 6353,
+                "id": "19403",
+                "name": "Snacks, crisped rice bar, almond"
+            },
+            {
+                "offset": 6354,
+                "id": "19404",
+                "name": "Snacks, granola bars, soft, uncoated, chocolate chip"
+            },
+            {
+                "offset": 6355,
+                "id": "19405",
+                "name": "Snacks, granola bars, soft, uncoated, chocolate chip, graham and marshmallow"
+            },
+            {
+                "offset": 6356,
+                "id": "19406",
+                "name": "Snacks, granola bars, soft, uncoated, nut and raisin"
+            },
+            {
+                "offset": 6357,
+                "id": "19407",
+                "name": "Snacks, beef sticks, smoked"
+            },
+            {
+                "offset": 6358,
+                "id": "19408",
+                "name": "Snacks, pork skins, barbecue-flavor"
+            },
+            {
+                "offset": 6359,
+                "id": "19409",
+                "name": "Frostings, glaze, chocolate, prepared-from-recipe, with butter, NFSMI Recipe No. C-32"
+            },
+            {
+                "offset": 6360,
+                "id": "19410",
+                "name": "Snack, potato chips, made from dried potatoes, plain"
+            },
+            {
+                "offset": 6361,
+                "id": "19411",
+                "name": "Snacks, potato chips, plain, salted"
+            },
+            {
+                "offset": 6362,
+                "id": "19412",
+                "name": "Snacks, potato chips, made from dried potatoes, cheese-flavor"
+            },
+            {
+                "offset": 6363,
+                "id": "19413",
+                "name": "Snacks, rice cakes, brown rice, corn"
+            },
+            {
+                "offset": 6364,
+                "id": "19414",
+                "name": "Snacks, rice cakes, brown rice, multigrain"
+            },
+            {
+                "offset": 6365,
+                "id": "19415",
+                "name": "Snacks, potato sticks"
+            },
+            {
+                "offset": 6366,
+                "id": "19416",
+                "name": "Snacks, rice cakes, brown rice, rye"
+            },
+            {
+                "offset": 6367,
+                "id": "19418",
+                "name": "Snacks, sesame sticks, wheat-based, salted"
+            },
+            {
+                "offset": 6368,
+                "id": "19419",
+                "name": "Snacks, corn cakes"
+            },
+            {
+                "offset": 6369,
+                "id": "19420",
+                "name": "Snacks, granola bars, hard, peanut butter"
+            },
+            {
+                "offset": 6370,
+                "id": "19421",
+                "name": "Snacks, potato chips, cheese-flavor"
+            },
+            {
+                "offset": 6371,
+                "id": "19422",
+                "name": "Snacks, potato chips, reduced fat"
+            },
+            {
+                "offset": 6372,
+                "id": "19423",
+                "name": "Snacks, potato chips, fat-free, made with olestra"
+            },
+            {
+                "offset": 6373,
+                "id": "19424",
+                "name": "Snacks, tortilla chips, nacho-flavor, reduced fat"
+            },
+            {
+                "offset": 6374,
+                "id": "19433",
+                "name": "Tortilla chips, low fat, baked without fat"
+            },
+            {
+                "offset": 6375,
+                "id": "19434",
+                "name": "Cheese puffs and twists, corn based, baked, low fat"
+            },
+            {
+                "offset": 6376,
+                "id": "19435",
+                "name": "Snacks, granola bar, fruit-filled, nonfat"
+            },
+            {
+                "offset": 6377,
+                "id": "19436",
+                "name": "Popcorn, sugar syrup/caramel, fat-free"
+            },
+            {
+                "offset": 6378,
+                "id": "19437",
+                "name": "Snacks, potato chips, fat free, salted"
+            },
+            {
+                "offset": 6379,
+                "id": "19438",
+                "name": "Snacks, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Squares"
+            },
+            {
+                "offset": 6380,
+                "id": "19439",
+                "name": "Snacks, KELLOGG, KELLOGG'S Low Fat Granola Bar, Crunchy Almond/Brown Sugar"
+            },
+            {
+                "offset": 6381,
+                "id": "19440",
+                "name": "Snacks, M&M MARS, KUDOS Whole Grain Bar, chocolate chip"
+            },
+            {
+                "offset": 6382,
+                "id": "19441",
+                "name": "Snacks, KELLOGG'S, NUTRI-GRAIN Cereal Bars, fruit"
+            },
+            {
+                "offset": 6383,
+                "id": "19444",
+                "name": "Snacks, tortilla chips, low fat, made with olestra, nacho cheese"
+            },
+            {
+                "offset": 6384,
+                "id": "19445",
+                "name": "Snacks, potato chips, made from dried potatoes, fat-free, made with olestra"
+            },
+            {
+                "offset": 6385,
+                "id": "19524",
+                "name": "Snacks, taro chips"
+            },
+            {
+                "offset": 6386,
+                "id": "19701",
+                "name": "Candies, semisweet chocolate, made with butter"
+            },
+            {
+                "offset": 6387,
+                "id": "19702",
+                "name": "Gelatin desserts, dry mix, with added ascorbic acid, sodium-citrate and salt"
+            },
+            {
+                "offset": 6388,
+                "id": "19703",
+                "name": "Gelatin desserts, dry mix, reduced calorie, with aspartame, added phosphorus, potassium, sodium, vitamin C"
+            },
+            {
+                "offset": 6389,
+                "id": "19704",
+                "name": "Gelatin desserts, dry mix, reduced calorie, with aspartame, no added sodium"
+            },
+            {
+                "offset": 6390,
+                "id": "19705",
+                "name": "Puddings, banana, dry mix, instant, with added oil"
+            },
+            {
+                "offset": 6391,
+                "id": "19706",
+                "name": "Puddings, banana, dry mix, regular, with added oil"
+            },
+            {
+                "offset": 6392,
+                "id": "19708",
+                "name": "Puddings, lemon, dry mix, regular, with added oil, potassium, sodium"
+            },
+            {
+                "offset": 6393,
+                "id": "19709",
+                "name": "Puddings, tapioca, dry mix, with no added salt"
+            },
+            {
+                "offset": 6394,
+                "id": "19710",
+                "name": "Puddings, vanilla, dry mix, regular, with added oil"
+            },
+            {
+                "offset": 6395,
+                "id": "19719",
+                "name": "Jams and preserves, apricot"
+            },
+            {
+                "offset": 6396,
+                "id": "19720",
+                "name": "Syrups, table blends, pancake, with 2% maple, with added potassium"
+            },
+            {
+                "offset": 6397,
+                "id": "19800",
+                "name": "Snacks, corn cakes, very low sodium"
+            },
+            {
+                "offset": 6398,
+                "id": "19802",
+                "name": "Snacks, corn-based, extruded, puffs or twists, cheese-flavor, unenriched"
+            },
+            {
+                "offset": 6399,
+                "id": "19804",
+                "name": "Snacks, corn-based, extruded, chips, barbecue-flavor, made with enriched masa flour"
+            },
+            {
+                "offset": 6400,
+                "id": "19806",
+                "name": "Snacks, popcorn, air-popped (Unsalted)"
+            },
+            {
+                "offset": 6401,
+                "id": "19807",
+                "name": "Snacks, popcorn, oil-popped, white popcorn, salt added"
+            },
+            {
+                "offset": 6402,
+                "id": "19809",
+                "name": "Snacks, potato chips, plain, made with partially hydrogenated soybean oil, salted"
+            },
+            {
+                "offset": 6403,
+                "id": "19810",
+                "name": "Snacks, potato chips, plain, made with partially hydrogenated soybean oil, unsalted"
+            },
+            {
+                "offset": 6404,
+                "id": "19811",
+                "name": "Snacks, potato chips, plain, unsalted"
+            },
+            {
+                "offset": 6405,
+                "id": "19812",
+                "name": "Snacks, pretzels, hard, plain, made with unenriched flour, salted"
+            },
+            {
+                "offset": 6406,
+                "id": "19813",
+                "name": "Snacks, pretzels, hard, plain, made with unenriched flour, unsalted"
+            },
+            {
+                "offset": 6407,
+                "id": "19814",
+                "name": "Snacks, pretzels, hard, plain, made with enriched flour, unsalted"
+            },
+            {
+                "offset": 6408,
+                "id": "19816",
+                "name": "Snacks, rice cakes, brown rice, plain, unsalted"
+            },
+            {
+                "offset": 6409,
+                "id": "19817",
+                "name": "Snacks, rice cakes, brown rice, buckwheat, unsalted"
+            },
+            {
+                "offset": 6410,
+                "id": "19818",
+                "name": "Snacks, rice cakes, brown rice, multigrain, unsalted"
+            },
+            {
+                "offset": 6411,
+                "id": "19819",
+                "name": "Snacks, rice cakes, brown rice, sesame seed, unsalted"
+            },
+            {
+                "offset": 6412,
+                "id": "19820",
+                "name": "Snacks, sesame sticks, wheat-based, unsalted"
+            },
+            {
+                "offset": 6413,
+                "id": "19821",
+                "name": "Snacks, trail mix, regular, unsalted"
+            },
+            {
+                "offset": 6414,
+                "id": "19822",
+                "name": "Snacks, trail mix, regular, with chocolate chips, unsalted nuts and seeds"
+            },
+            {
+                "offset": 6415,
+                "id": "19823",
+                "name": "Potato chips, without salt, reduced fat"
+            },
+            {
+                "offset": 6416,
+                "id": "19833",
+                "name": "Snacks, tortilla chips, low fat, unsalted"
+            },
+            {
+                "offset": 6417,
+                "id": "19856",
+                "name": "Frozen novelties, juice type, POPSICLE SCRIBBLERS"
+            },
+            {
+                "offset": 6418,
+                "id": "19857",
+                "name": "Snacks, tortilla chips, nacho-flavor, made with enriched masa flour"
+            },
+            {
+                "offset": 6419,
+                "id": "19858",
+                "name": "Candies, sugar-coated almonds"
+            },
+            {
+                "offset": 6420,
+                "id": "19859",
+                "name": "Cocoa, dry powder, hi-fat or breakfast, plain"
+            },
+            {
+                "offset": 6421,
+                "id": "19860",
+                "name": "Cocoa, dry powder, hi-fat or breakfast, processed with alkali"
+            },
+            {
+                "offset": 6422,
+                "id": "19866",
+                "name": "Candies, soft fruit and nut squares"
+            },
+            {
+                "offset": 6423,
+                "id": "19867",
+                "name": "Ice creams, vanilla, fat free"
+            },
+            {
+                "offset": 6424,
+                "id": "19868",
+                "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+            },
+            {
+                "offset": 6425,
+                "id": "19871",
+                "name": "Frozen novelties, No Sugar Added, FUDGSICLE pops"
+            },
+            {
+                "offset": 6426,
+                "id": "19873",
+                "name": "Frozen novelties, ice type, sugar free, orange, cherry, and grape POPSICLE pops"
+            },
+            {
+                "offset": 6427,
+                "id": "19874",
+                "name": "Frozen novelties, KLONDIKE, SLIM-A-BEAR Fudge Bar, 98% fat free, no sugar added"
+            },
+            {
+                "offset": 6428,
+                "id": "19875",
+                "name": "Ice creams, BREYERS, All Natural Light Vanilla"
+            },
+            {
+                "offset": 6429,
+                "id": "19876",
+                "name": "Ice creams, BREYERS, All Natural Light French Vanilla"
+            },
+            {
+                "offset": 6430,
+                "id": "19877",
+                "name": "Ice creams, BREYERS, 98% Fat Free Vanilla"
+            },
+            {
+                "offset": 6431,
+                "id": "19878",
+                "name": "Ice creams, BREYERS, All Natural Light Vanilla Chocolate Strawberry"
+            },
+            {
+                "offset": 6432,
+                "id": "19879",
+                "name": "Ice creams, BREYERS, All Natural Light Mint Chocolate Chip"
+            },
+            {
+                "offset": 6433,
+                "id": "19880",
+                "name": "Ice creams, BREYERS, No Sugar Added, Butter Pecan"
+            },
+            {
+                "offset": 6434,
+                "id": "19881",
+                "name": "Ice creams, BREYERS, No Sugar Added, French Vanilla"
+            },
+            {
+                "offset": 6435,
+                "id": "19882",
+                "name": "Ice creams, BREYERS, No Sugar Added, Vanilla"
+            },
+            {
+                "offset": 6436,
+                "id": "19883",
+                "name": "Ice creams, BREYERS, No Sugar Added, Vanilla Fudge Twirl"
+            },
+            {
+                "offset": 6437,
+                "id": "19884",
+                "name": "Ice creams, BREYERS, No Sugar Added, Vanilla Chocolate Strawberry"
+            },
+            {
+                "offset": 6438,
+                "id": "19886",
+                "name": "Frozen novelties, KLONDIKE, SLIM-A-BEAR Chocolate Cone"
+            },
+            {
+                "offset": 6439,
+                "id": "19887",
+                "name": "Frozen novelties, KLONDIKE, SLIM-A-BEAR Vanilla Sandwich"
+            },
+            {
+                "offset": 6440,
+                "id": "19890",
+                "name": "Frozen novelties, KLONDIKE, SLIM-A-BEAR, No Sugar Added, Stickless Bar"
+            },
+            {
+                "offset": 6441,
+                "id": "19891",
+                "name": "Frozen novelties, No Sugar Added CREAMSICLE Pops"
+            },
+            {
+                "offset": 6442,
+                "id": "19892",
+                "name": "Frozen novelties, Sugar Free, CREAMSICLE Pops"
+            },
+            {
+                "offset": 6443,
+                "id": "19893",
+                "name": "Ice creams, BREYERS, All Natural Light French Chocolate"
+            },
+            {
+                "offset": 6444,
+                "id": "19894",
+                "name": "Ice creams, BREYERS, 98% Fat Free Chocolate"
+            },
+            {
+                "offset": 6445,
+                "id": "19895",
+                "name": "Ice creams, BREYERS, No Sugar Added, Chocolate Caramel"
+            },
+            {
+                "offset": 6446,
+                "id": "19896",
+                "name": "Candies, REESE's Fast Break, milk chocolate, peanut butter, soft nougats, candy bar"
+            },
+            {
+                "offset": 6447,
+                "id": "19897",
+                "name": "Candies, MARS SNACKFOOD US, COCOAVIA Chocolate Covered Almonds"
+            },
+            {
+                "offset": 6448,
+                "id": "19898",
+                "name": "Ice creams, regular, low carbohydrate, vanilla"
+            },
+            {
+                "offset": 6449,
+                "id": "19899",
+                "name": "Ice creams, regular, low carbohydrate, chocolate"
+            },
+            {
+                "offset": 6450,
+                "id": "19902",
+                "name": "Chocolate, dark, 45- 59% cacao solids"
+            },
+            {
+                "offset": 6451,
+                "id": "19903",
+                "name": "Chocolate, dark, 60-69% cacao solids"
+            },
+            {
+                "offset": 6452,
+                "id": "19904",
+                "name": "Chocolate, dark, 70-85% cacao solids"
+            },
+            {
+                "offset": 6453,
+                "id": "19905",
+                "name": "Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)"
+            },
+            {
+                "offset": 6454,
+                "id": "19906",
+                "name": "Sweeteners, for baking, brown, contains sugar and sucralose"
+            },
+            {
+                "offset": 6455,
+                "id": "19907",
+                "name": "Sweeteners, for baking, contains sugar and sucralose"
+            },
+            {
+                "offset": 6456,
+                "id": "19908",
+                "name": "Sugar, turbinado"
+            },
+            {
+                "offset": 6457,
+                "id": "19909",
+                "name": "Sweeteners, sugar substitute, granulated, brown"
+            },
+            {
+                "offset": 6458,
+                "id": "19910",
+                "name": "Candies, crispy bar with peanut butter filling"
+            },
+            {
+                "offset": 6459,
+                "id": "19911",
+                "name": "Syrup, maple, Canadian"
+            },
+            {
+                "offset": 6460,
+                "id": "19912",
+                "name": "Sweetener, syrup, agave"
+            },
+            {
+                "offset": 6461,
+                "id": "19913",
+                "name": "Candies, NESTLE, BUTTERFINGER Crisp"
+            },
+            {
+                "offset": 6462,
+                "id": "19914",
+                "name": "Candies, M&M MARS 3 MUSKETEERS Truffle Crisp"
+            },
+            {
+                "offset": 6463,
+                "id": "19916",
+                "name": "Syrups, chocolate, HERSHEY'S Sugar free, Genuine Chocolate Flavored, Lite Syrup"
+            },
+            {
+                "offset": 6464,
+                "id": "19917",
+                "name": "Candies, M&M MARS Pretzel Chocolate Candies"
+            },
+            {
+                "offset": 6465,
+                "id": "19918",
+                "name": "Sweetener, herbal extract powder from Stevia leaf"
+            },
+            {
+                "offset": 6466,
+                "id": "19919",
+                "name": "Candies, fruit snacks, with high vitamin C"
+            },
+            {
+                "offset": 6467,
+                "id": "19920",
+                "name": "Jams, preserves, marmalades, sweetened with fruit juice"
+            },
+            {
+                "offset": 6468,
+                "id": "19921",
+                "name": "Candies, Tamarind"
+            },
+            {
+                "offset": 6469,
+                "id": "19922",
+                "name": "Candies, coconut bar, not chocolate covered"
+            },
+            {
+                "offset": 6470,
+                "id": "19923",
+                "name": "Candies, HERSHEYS, PAYDAY Bar"
+            },
+            {
+                "offset": 6471,
+                "id": "19924",
+                "name": "Syrup, NESTLE, chocolate"
+            },
+            {
+                "offset": 6472,
+                "id": "20001",
+                "name": "Amaranth grain, uncooked"
+            },
+            {
+                "offset": 6473,
+                "id": "20002",
+                "name": "Amaranth grain, cooked"
+            },
+            {
+                "offset": 6474,
+                "id": "20003",
+                "name": "Arrowroot flour"
+            },
+            {
+                "offset": 6475,
+                "id": "20004",
+                "name": "Barley, hulled"
+            },
+            {
+                "offset": 6476,
+                "id": "20005",
+                "name": "Barley, pearled, raw"
+            },
+            {
+                "offset": 6477,
+                "id": "20006",
+                "name": "Barley, pearled, cooked"
+            },
+            {
+                "offset": 6478,
+                "id": "20008",
+                "name": "Buckwheat"
+            },
+            {
+                "offset": 6479,
+                "id": "20009",
+                "name": "Buckwheat groats, roasted, dry"
+            },
+            {
+                "offset": 6480,
+                "id": "20010",
+                "name": "Buckwheat groats, roasted, cooked"
+            },
+            {
+                "offset": 6481,
+                "id": "20011",
+                "name": "Buckwheat flour, whole-groat"
+            },
+            {
+                "offset": 6482,
+                "id": "20012",
+                "name": "Bulgur, dry"
+            },
+            {
+                "offset": 6483,
+                "id": "20013",
+                "name": "Bulgur, cooked"
+            },
+            {
+                "offset": 6484,
+                "id": "20014",
+                "name": "Corn grain, yellow"
+            },
+            {
+                "offset": 6485,
+                "id": "20015",
+                "name": "Corn bran, crude"
+            },
+            {
+                "offset": 6486,
+                "id": "20016",
+                "name": "Corn flour, whole-grain, yellow"
+            },
+            {
+                "offset": 6487,
+                "id": "20017",
+                "name": "Corn flour, masa, enriched, white"
+            },
+            {
+                "offset": 6488,
+                "id": "20018",
+                "name": "Corn flour, yellow, degermed, unenriched"
+            },
+            {
+                "offset": 6489,
+                "id": "20019",
+                "name": "Corn flour, masa, unenriched, white"
+            },
+            {
+                "offset": 6490,
+                "id": "20020",
+                "name": "Cornmeal, whole-grain, yellow"
+            },
+            {
+                "offset": 6491,
+                "id": "20022",
+                "name": "Cornmeal, degermed, enriched, yellow"
+            },
+            {
+                "offset": 6492,
+                "id": "20023",
+                "name": "Cornmeal, yellow, self-rising, bolted, plain, enriched"
+            },
+            {
+                "offset": 6493,
+                "id": "20024",
+                "name": "Cornmeal, yellow, self-rising, bolted, with wheat flour added, enriched"
+            },
+            {
+                "offset": 6494,
+                "id": "20025",
+                "name": "Cornmeal, yellow, self-rising, degermed, enriched"
+            },
+            {
+                "offset": 6495,
+                "id": "20027",
+                "name": "Cornstarch"
+            },
+            {
+                "offset": 6496,
+                "id": "20028",
+                "name": "Couscous, dry"
+            },
+            {
+                "offset": 6497,
+                "id": "20029",
+                "name": "Couscous, cooked"
+            },
+            {
+                "offset": 6498,
+                "id": "20030",
+                "name": "Hominy, canned, white"
+            },
+            {
+                "offset": 6499,
+                "id": "20031",
+                "name": "Millet, raw"
+            }
+        ]
+    }
+}

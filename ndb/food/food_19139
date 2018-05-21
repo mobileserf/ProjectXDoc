@@ -1,0 +1,475 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Full",
+        "food": {
+            "ndbno": "19139",
+            "name": "Baking chocolate, MARS SNACKFOOD US, M&M's Semisweet Chocolate Mini Baking Bits",
+            "sd": "BAK CHOC,MARS SNACKFOOD US,M&M'S SEMISWT CHOC MINI BAK BITS",
+            "fg": "Sweets",
+            "sn": "",
+            "cn": "",
+            "manu": "Masterfoods USA",
+            "nf": 0.0,
+            "cf": 0.0,
+            "ff": 0.0,
+            "pf": 0.0,
+            "r": "0%",
+            "rd": "",
+            "nutrients": [
+                {
+                    "nutrient_id": 255,
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 1.27,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.18
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 4.32
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 208,
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": 517.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 72.0
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 1758.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 268,
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kJ",
+                    "value": 2163.0,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 303.0
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 7354.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 203,
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 4.44,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.62
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 15.1
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 204,
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 26.15,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 3.66
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 88.91
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 207,
+                    "name": "Ash",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 2.07,
+                    "sourcecode": "",
+                    "dp": "",
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.29
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 7.04
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 205,
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 65.96,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 9.23
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 224.26
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 291,
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 6.7,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.9
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 22.8
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 269,
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": 53.07,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 7.43
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 180.44
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 301,
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 34.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 5.0
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 116.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 303,
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 2.91,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.41
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 9.89
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 307,
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": 2.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 7.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 401,
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": 0.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 318,
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": 74.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 10.0
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 252.0
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 606,
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 15.618,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 2.187
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 53.101
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 605,
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": 0.042,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.006
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 0.143
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": 601,
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": 3.0,
+                    "sourcecode": [
+                        1
+                    ],
+                    "dp": 1,
+                    "se": "",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "qty": 1.0,
+                            "value": 0.0
+                        },
+                        {
+                            "label": "package (net weight, 12 oz)",
+                            "eqv": 340.0,
+                            "qty": 1.0,
+                            "value": 10.0
+                        }
+                    ]
+                }
+            ]
+        },
+        "sources": [
+            {
+                "id": 1,
+                "title": "MASTERFOODS USA 2006",
+                "authors": "Masterfoods USA",
+                "vol": "Hackettstown",
+                "iss": "NJ",
+                "year": "2006"
+            }
+        ],
+        "footnotes": [
+            
+        ],
+        "langual": [
+            
+        ]
+    }
+}

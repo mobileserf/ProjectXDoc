@@ -1,0 +1,212 @@
+{
+    "list": {
+        "lt": "ns",
+        "start": 0,
+        "end": 40,
+        "total": 40,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 0,
+                "id": "710",
+                "name": "Daidzein"
+            },
+            {
+                "offset": 1,
+                "id": "711",
+                "name": "Genistein"
+            },
+            {
+                "offset": 2,
+                "id": "712",
+                "name": "Glycitein"
+            },
+            {
+                "offset": 3,
+                "id": "713",
+                "name": "Total isoflavones"
+            },
+            {
+                "offset": 4,
+                "id": "714",
+                "name": "Biochanin A"
+            },
+            {
+                "offset": 5,
+                "id": "715",
+                "name": "Formononetin"
+            },
+            {
+                "offset": 6,
+                "id": "716",
+                "name": "Coumestrol"
+            },
+            {
+                "offset": 7,
+                "id": "731",
+                "name": "Cyanidin"
+            },
+            {
+                "offset": 8,
+                "id": "733",
+                "name": "Proanthocyanidin monomers"
+            },
+            {
+                "offset": 9,
+                "id": "734",
+                "name": "Proanthocyanidin dimers"
+            },
+            {
+                "offset": 10,
+                "id": "735",
+                "name": "Proanthocyanidin trimers"
+            },
+            {
+                "offset": 11,
+                "id": "736",
+                "name": "Proanthocyanidin 4-6mers"
+            },
+            {
+                "offset": 12,
+                "id": "737",
+                "name": "Proanthocyanidin 7-10mers"
+            },
+            {
+                "offset": 13,
+                "id": "738",
+                "name": "Proanthocyanidin polymers (>10mers)"
+            },
+            {
+                "offset": 14,
+                "id": "740",
+                "name": "Petunidin"
+            },
+            {
+                "offset": 15,
+                "id": "741",
+                "name": "Delphinidin"
+            },
+            {
+                "offset": 16,
+                "id": "742",
+                "name": "Malvidin"
+            },
+            {
+                "offset": 17,
+                "id": "743",
+                "name": "Pelargonidin"
+            },
+            {
+                "offset": 18,
+                "id": "745",
+                "name": "Peonidin"
+            },
+            {
+                "offset": 19,
+                "id": "749",
+                "name": "(+)-Catechin"
+            },
+            {
+                "offset": 20,
+                "id": "750",
+                "name": "(-)-Epigallocatechin"
+            },
+            {
+                "offset": 21,
+                "id": "751",
+                "name": "(-)-Epicatechin"
+            },
+            {
+                "offset": 22,
+                "id": "752",
+                "name": "(-)-Epicatechin 3-gallate"
+            },
+            {
+                "offset": 23,
+                "id": "753",
+                "name": "(-)-Epigallocatechin 3-gallate"
+            },
+            {
+                "offset": 24,
+                "id": "755",
+                "name": "Theaflavin"
+            },
+            {
+                "offset": 25,
+                "id": "756",
+                "name": "Thearubigins"
+            },
+            {
+                "offset": 26,
+                "id": "758",
+                "name": "Eriodictyol"
+            },
+            {
+                "offset": 27,
+                "id": "759",
+                "name": "Hesperetin"
+            },
+            {
+                "offset": 28,
+                "id": "762",
+                "name": "Naringenin"
+            },
+            {
+                "offset": 29,
+                "id": "770",
+                "name": "Apigenin"
+            },
+            {
+                "offset": 30,
+                "id": "773",
+                "name": "Luteolin"
+            },
+            {
+                "offset": 31,
+                "id": "785",
+                "name": "Isorhamnetin"
+            },
+            {
+                "offset": 32,
+                "id": "786",
+                "name": "Kaempferol"
+            },
+            {
+                "offset": 33,
+                "id": "788",
+                "name": "Myricetin"
+            },
+            {
+                "offset": 34,
+                "id": "789",
+                "name": "Quercetin"
+            },
+            {
+                "offset": 35,
+                "id": "791",
+                "name": "Theaflavin-3,3'-digallate"
+            },
+            {
+                "offset": 36,
+                "id": "792",
+                "name": "Theaflavin-3'-gallate"
+            },
+            {
+                "offset": 37,
+                "id": "793",
+                "name": "Theaflavin-3-gallate"
+            },
+            {
+                "offset": 38,
+                "id": "794",
+                "name": "(+)-Gallocatechin"
+            },
+            {
+                "offset": 39,
+                "id": "796",
+                "name": "(+)-Gallocatechin 3-gallate"
+            }
+        ]
+    }
+}
