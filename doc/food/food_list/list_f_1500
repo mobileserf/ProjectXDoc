@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 1500,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 1500,
+                "id": "06504",
+                "name": "CAMPBELL'S Red and White - Microwaveable Bowls, Tomato Soup"
+            },
+            {
+                "offset": 1501,
+                "id": "06505",
+                "name": "CAMPBELL'S Red and White - Microwaveable Bowls, Vegetable Beef Soup"
+            },
+            {
+                "offset": 1502,
+                "id": "06509",
+                "name": "CAMPBELL'S Homestyle Butternut Squash Bisque"
+            },
+            {
+                "offset": 1503,
+                "id": "06528",
+                "name": "Soup, chicken noodle, dry, mix, prepared with water"
+            },
+            {
+                "offset": 1504,
+                "id": "06529",
+                "name": "CAMPBELL'S Homestyle Light New England Clam Chowder"
+            },
+            {
+                "offset": 1505,
+                "id": "06537",
+                "name": "CAMPBELL'S Homestyle HEALTHY REQUEST Mexican Style Chicken Tortilla"
+            },
+            {
+                "offset": 1506,
+                "id": "06541",
+                "name": "CAMPBELL'S Homestyle Italian-Style Wedding Soup"
+            },
+            {
+                "offset": 1507,
+                "id": "06543",
+                "name": "CAMPBELL'S Homestyle Mexican Style Chicken Tortilla Soup"
+            },
+            {
+                "offset": 1508,
+                "id": "06544",
+                "name": "CAMPBELL'S Homestyle Minestrone Soup"
+            },
+            {
+                "offset": 1509,
+                "id": "06545",
+                "name": "CAMPBELL'S Homestyle New England Clam Chowder"
+            },
+            {
+                "offset": 1510,
+                "id": "06546",
+                "name": "CAMPBELL'S Homestyle Potato Broccoli Cheese Soup"
+            },
+            {
+                "offset": 1511,
+                "id": "06547",
+                "name": "Soup, beef mushroom, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1512,
+                "id": "06548",
+                "name": "CAMPBELL'S Homestyle Chicken with White & Wild Rice Soup"
+            },
+            {
+                "offset": 1513,
+                "id": "06549",
+                "name": "Soup, chicken mushroom, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1514,
+                "id": "06558",
+                "name": "Soup, tomato bisque, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1515,
+                "id": "06559",
+                "name": "Soup, tomato, canned, prepared with equal volume water, commercial"
+            },
+            {
+                "offset": 1516,
+                "id": "06580",
+                "name": "CAMPBELL'S Homestyle Vegetable Medley Soup"
+            },
+            {
+                "offset": 1517,
+                "id": "06583",
+                "name": "Soup, ramen noodle, any flavor, dry"
+            },
+            {
+                "offset": 1518,
+                "id": "06584",
+                "name": "Soup, broccoli cheese, canned, condensed, commercial"
+            },
+            {
+                "offset": 1519,
+                "id": "06585",
+                "name": "CAMPBELL'S Soup on the Go, Vegetable with Mini Round Noodles Soup"
+            },
+            {
+                "offset": 1520,
+                "id": "06586",
+                "name": "CAMPBELL'S Soup on the Go, Chicken & Stars Soup"
+            },
+            {
+                "offset": 1521,
+                "id": "06587",
+                "name": "CAMPBELL'S Soup on the Go, Chicken with Mini Noodles Soup"
+            },
+            {
+                "offset": 1522,
+                "id": "06588",
+                "name": "CAMPBELL'S Soup on the Go, Classic Tomato Soup"
+            },
+            {
+                "offset": 1523,
+                "id": "06589",
+                "name": "CAMPBELL'S Soup on the Go, Creamy Broccoli Soup"
+            },
+            {
+                "offset": 1524,
+                "id": "06590",
+                "name": "CAMPBELL'S Soup on the Go, Creamy Chicken Soup"
+            },
+            {
+                "offset": 1525,
+                "id": "06592",
+                "name": "CAMPBELL'S Soup on the Go, Creamy Tomato Soup"
+            },
+            {
+                "offset": 1526,
+                "id": "06594",
+                "name": "CAMPBELL'S Soup on the Go, New England Clam Chowder"
+            },
+            {
+                "offset": 1527,
+                "id": "06595",
+                "name": "CAMPBELL'S Soup on the Go, Vegetable Beef Soup"
+            },
+            {
+                "offset": 1528,
+                "id": "06596",
+                "name": "CAMPBELL'S Soup on the Go, Cheesy Potato with Bacon Flavor Soup"
+            },
+            {
+                "offset": 1529,
+                "id": "06597",
+                "name": "PACE, Chipotle Chunky Salsa"
+            },
+            {
+                "offset": 1530,
+                "id": "06598",
+                "name": "PACE, Cilantro Chunky Salsa"
+            },
+            {
+                "offset": 1531,
+                "id": "06599",
+                "name": "PACE, Enchilada Sauce"
+            },
+            {
+                "offset": 1532,
+                "id": "06600",
+                "name": "PACE, Green Taco Sauce"
+            },
+            {
+                "offset": 1533,
+                "id": "06601",
+                "name": "PACE, Lime & Garlic Chunky Salsa"
+            },
+            {
+                "offset": 1534,
+                "id": "06602",
+                "name": "PACE, Organic Picante Sauce"
+            },
+            {
+                "offset": 1535,
+                "id": "06603",
+                "name": "PACE, Picante Sauce"
+            },
+            {
+                "offset": 1536,
+                "id": "06604",
+                "name": "PACE, Red Taco Sauce"
+            },
+            {
+                "offset": 1537,
+                "id": "06605",
+                "name": "PACE, Thick & Chunky Salsa"
+            },
+            {
+                "offset": 1538,
+                "id": "06609",
+                "name": "SWANSON BROTH, Certified Organic Vegetable Broth"
+            },
+            {
+                "offset": 1539,
+                "id": "06611",
+                "name": "Soup, SWANSON, beef broth, lower sodium"
+            },
+            {
+                "offset": 1540,
+                "id": "06615",
+                "name": "Soup, SWANSON, vegetable broth"
+            },
+            {
+                "offset": 1541,
+                "id": "06617",
+                "name": "CAMPBELL'S Homestyle Light Italian-Style Wedding Soup"
+            },
+            {
+                "offset": 1542,
+                "id": "06618",
+                "name": "Sauce, peanut, made from coconut, water, sugar, peanuts"
+            },
+            {
+                "offset": 1543,
+                "id": "06619",
+                "name": "SMART SOUP, Santa Fe Corn Chowder"
+            },
+            {
+                "offset": 1544,
+                "id": "06620",
+                "name": "SMART SOUP, French Lentil"
+            },
+            {
+                "offset": 1545,
+                "id": "06621",
+                "name": "SMART SOUP, Greek Minestrone"
+            },
+            {
+                "offset": 1546,
+                "id": "06622",
+                "name": "SMART SOUP, Indian Bean Masala"
+            },
+            {
+                "offset": 1547,
+                "id": "06623",
+                "name": "SMART SOUP, Moroccan Chick Pea"
+            },
+            {
+                "offset": 1548,
+                "id": "06624",
+                "name": "SMART SOUP, Thai Coconut Curry"
+            },
+            {
+                "offset": 1549,
+                "id": "06625",
+                "name": "SMART SOUP, Vietnamese Carrot Lemongrass"
+            },
+            {
+                "offset": 1550,
+                "id": "06626",
+                "name": "Sauce, pesto, ready-to-serve, refrigerated"
+            },
+            {
+                "offset": 1551,
+                "id": "06627",
+                "name": "Sauce, pesto, ready-to-serve, shelf stable"
+            },
+            {
+                "offset": 1552,
+                "id": "06628",
+                "name": "Sauce, pesto, BUITONI, pesto with basil, ready-to-serve, refrigerated"
+            },
+            {
+                "offset": 1553,
+                "id": "06629",
+                "name": "Sauce, pesto, CLASSICO, basil pesto, ready-to-serve"
+            },
+            {
+                "offset": 1554,
+                "id": "06630",
+                "name": "Sauce, pesto, MEZZETTA, NAPA VALLEY BISTRO, basil pesto, ready-to-serve"
+            },
+            {
+                "offset": 1555,
+                "id": "06631",
+                "name": "Sauce, hot chile, sriracha"
+            },
+            {
+                "offset": 1556,
+                "id": "06632",
+                "name": "Sauce, hot chile, sriracha, CHA! BY TEXAS PETE"
+            },
+            {
+                "offset": 1557,
+                "id": "06633",
+                "name": "Sauce, hot chile, sriracha, TUONG OT SRIRACHA"
+            },
+            {
+                "offset": 1558,
+                "id": "06700",
+                "name": "Soup, vegetable broth, ready to serve"
+            },
+            {
+                "offset": 1559,
+                "id": "06720",
+                "name": "Sauce, cheese sauce mix, dry"
+            },
+            {
+                "offset": 1560,
+                "id": "06725",
+                "name": "Soup, chicken corn chowder, chunky, ready-to-serve, single brand"
+            },
+            {
+                "offset": 1561,
+                "id": "06726",
+                "name": "Soup, chicken mushroom chowder, chunky, ready-to-serve, single brand"
+            },
+            {
+                "offset": 1562,
+                "id": "06728",
+                "name": "Soup, potato ham chowder, chunky, ready-to-serve, single brand"
+            },
+            {
+                "offset": 1563,
+                "id": "06729",
+                "name": "Soup, sirloin burger with vegetables, ready-to-serve, single brand"
+            },
+            {
+                "offset": 1564,
+                "id": "06730",
+                "name": "Soup, split pea with ham, chunky, reduced fat, reduced sodium, ready-to-serve, single brand"
+            },
+            {
+                "offset": 1565,
+                "id": "06731",
+                "name": "Soup, bean with bacon, condensed, single brand"
+            },
+            {
+                "offset": 1566,
+                "id": "06733",
+                "name": "Soup, beef with vegetables and barley, canned, condensed, single brand"
+            },
+            {
+                "offset": 1567,
+                "id": "06734",
+                "name": "Soup, chicken with star-shaped pasta, canned, condensed, single brand"
+            },
+            {
+                "offset": 1568,
+                "id": "06736",
+                "name": "Soup, cream of chicken, canned, condensed, single brand"
+            },
+            {
+                "offset": 1569,
+                "id": "06738",
+                "name": "Soup, split pea with ham and bacon, canned, condensed, single brand"
+            },
+            {
+                "offset": 1570,
+                "id": "06739",
+                "name": "Soup, vegetable beef, canned, condensed, single brand"
+            },
+            {
+                "offset": 1571,
+                "id": "06740",
+                "name": "Soup, chicken vegetable, chunky, reduced fat, reduced sodium, ready-to-serve, single brand"
+            },
+            {
+                "offset": 1572,
+                "id": "06742",
+                "name": "Soup, vegetable beef, microwavable, ready-to-serve, single brand"
+            },
+            {
+                "offset": 1573,
+                "id": "06748",
+                "name": "Soup, PROGRESSO, beef barley, traditional, ready to serve"
+            },
+            {
+                "offset": 1574,
+                "id": "06749",
+                "name": "Soup, beef and vegetables, canned, ready-to-serve"
+            },
+            {
+                "offset": 1575,
+                "id": "06930",
+                "name": "Sauce, cheese, ready-to-serve"
+            },
+            {
+                "offset": 1576,
+                "id": "06931",
+                "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve"
+            },
+            {
+                "offset": 1577,
+                "id": "06932",
+                "name": "PREGO Pasta, Traditional Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1578,
+                "id": "06955",
+                "name": "Soup, cream of chicken, canned, condensed, reduced sodium"
+            },
+            {
+                "offset": 1579,
+                "id": "06956",
+                "name": "Soup, tomato, canned, condensed, reduced sodium"
+            },
+            {
+                "offset": 1580,
+                "id": "06957",
+                "name": "Gravy, brown instant, dry"
+            },
+            {
+                "offset": 1581,
+                "id": "06958",
+                "name": "Gravy, instant beef, dry"
+            },
+            {
+                "offset": 1582,
+                "id": "06959",
+                "name": "Gravy, instant turkey, dry"
+            },
+            {
+                "offset": 1583,
+                "id": "06960",
+                "name": "Sauce, alfredo mix, dry"
+            },
+            {
+                "offset": 1584,
+                "id": "06961",
+                "name": "Sauce, peppers, hot, chili, mature red, canned"
+            },
+            {
+                "offset": 1585,
+                "id": "06962",
+                "name": "Sauce, chili, peppers, hot, immature green, canned"
+            },
+            {
+                "offset": 1586,
+                "id": "06963",
+                "name": "Fish broth"
+            },
+            {
+                "offset": 1587,
+                "id": "06964",
+                "name": "Soup, tomato, low sodium, with water"
+            },
+            {
+                "offset": 1588,
+                "id": "06965",
+                "name": "Soup, pea, low sodium, prepared with equal volume water"
+            },
+            {
+                "offset": 1589,
+                "id": "06966",
+                "name": "Soup, chicken noodle, low sodium, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1590,
+                "id": "06967",
+                "name": "Soup, vegetable soup, condensed, low sodium, prepared with equal volume water"
+            },
+            {
+                "offset": 1591,
+                "id": "06968",
+                "name": "Soup, cream of mushroom, low sodium, ready-to-serve, canned"
+            },
+            {
+                "offset": 1592,
+                "id": "06969",
+                "name": "Potato soup, instant, dry mix"
+            },
+            {
+                "offset": 1593,
+                "id": "06970",
+                "name": "Soup, chicken broth, low sodium, canned"
+            },
+            {
+                "offset": 1594,
+                "id": "06971",
+                "name": "Sauce, worcestershire"
+            },
+            {
+                "offset": 1595,
+                "id": "06972",
+                "name": "Sauce, tomato chili sauce, bottled, with salt"
+            },
+            {
+                "offset": 1596,
+                "id": "06974",
+                "name": "Soup, vegetable chicken, canned, prepared with water, low sodium"
+            },
+            {
+                "offset": 1597,
+                "id": "06976",
+                "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium"
+            },
+            {
+                "offset": 1598,
+                "id": "06977",
+                "name": "Gravy, meat or poultry, low sodium, prepared"
+            },
+            {
+                "offset": 1599,
+                "id": "06978",
+                "name": "Soup, beef and mushroom, low sodium, chunk style"
+            },
+            {
+                "offset": 1600,
+                "id": "06980",
+                "name": "Soup, beef stroganoff, canned, chunky style, ready-to-serve"
+            },
+            {
+                "offset": 1601,
+                "id": "06981",
+                "name": "Soup, bouillon cubes and granules, low sodium, dry"
+            },
+            {
+                "offset": 1602,
+                "id": "06982",
+                "name": "Soup, ramen noodle, beef flavor, dry"
+            },
+            {
+                "offset": 1603,
+                "id": "06983",
+                "name": "Soup, ramen noodle, chicken flavor, dry"
+            },
+            {
+                "offset": 1604,
+                "id": "06984",
+                "name": "Soup, SWANSON Chicken Broth 99% Fat Free"
+            },
+            {
+                "offset": 1605,
+                "id": "06985",
+                "name": "Gravy, HEINZ Home Style, savory beef"
+            },
+            {
+                "offset": 1606,
+                "id": "06986",
+                "name": "CAMPBELL'S HEALTHY REQUEST, Chicken Noodle Soup, condensed"
+            },
+            {
+                "offset": 1607,
+                "id": "06987",
+                "name": "HEALTHY REQUEST, Cream of Celery Soup, condensed"
+            },
+            {
+                "offset": 1608,
+                "id": "06988",
+                "name": "CAMPBELL'S HEALTHY REQUEST, Cream of Mushroom Soup, condensed"
+            },
+            {
+                "offset": 1609,
+                "id": "06989",
+                "name": "CAMPBELL'S HEALTHY REQUEST, Homestyle Chicken Noodle Soup, condensed"
+            },
+            {
+                "offset": 1610,
+                "id": "06990",
+                "name": "HEALTHY REQUEST, Minestrone Soup, condensed"
+            },
+            {
+                "offset": 1611,
+                "id": "06991",
+                "name": "HEALTHY REQUEST, Tomato Soup, condensed"
+            },
+            {
+                "offset": 1612,
+                "id": "06992",
+                "name": "HEALTHY REQUEST, Vegetable Soup, condensed"
+            },
+            {
+                "offset": 1613,
+                "id": "06994",
+                "name": "PREGO Pasta, Chunky Garden Combination Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1614,
+                "id": "06995",
+                "name": "PREGO Pasta, Chunky Garden Tomato, Onion and Garlic Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1615,
+                "id": "06996",
+                "name": "Gravy, CAMPBELL'S, au jus"
+            },
+            {
+                "offset": 1616,
+                "id": "06997",
+                "name": "Gravy, CAMPBELL'S, beef"
+            },
+            {
+                "offset": 1617,
+                "id": "06998",
+                "name": "Gravy, CAMPBELL'S, brown with onions"
+            },
+            {
+                "offset": 1618,
+                "id": "06999",
+                "name": "Gravy, CAMPBELL'S, chicken"
+            },
+            {
+                "offset": 1619,
+                "id": "07001",
+                "name": "Barbecue loaf, pork, beef"
+            },
+            {
+                "offset": 1620,
+                "id": "07002",
+                "name": "Beerwurst, beer salami, pork and beef"
+            },
+            {
+                "offset": 1621,
+                "id": "07003",
+                "name": "Beerwurst, beer salami, pork"
+            },
+            {
+                "offset": 1622,
+                "id": "07004",
+                "name": "Sausage, Berliner, pork, beef"
+            },
+            {
+                "offset": 1623,
+                "id": "07005",
+                "name": "Blood sausage"
+            },
+            {
+                "offset": 1624,
+                "id": "07006",
+                "name": "Bockwurst, pork, veal, raw"
+            },
+            {
+                "offset": 1625,
+                "id": "07007",
+                "name": "Bologna, beef"
+            },
+            {
+                "offset": 1626,
+                "id": "07008",
+                "name": "Bologna, beef and pork"
+            },
+            {
+                "offset": 1627,
+                "id": "07010",
+                "name": "Bologna, pork"
+            },
+            {
+                "offset": 1628,
+                "id": "07011",
+                "name": "Bologna, turkey"
+            },
+            {
+                "offset": 1629,
+                "id": "07013",
+                "name": "Bratwurst, pork, cooked"
+            },
+            {
+                "offset": 1630,
+                "id": "07014",
+                "name": "Braunschweiger (a liver sausage), pork"
+            },
+            {
+                "offset": 1631,
+                "id": "07015",
+                "name": "Brotwurst, pork, beef, link"
+            },
+            {
+                "offset": 1632,
+                "id": "07016",
+                "name": "Cheesefurter, cheese smokie, pork, beef"
+            },
+            {
+                "offset": 1633,
+                "id": "07018",
+                "name": "Chicken spread"
+            },
+            {
+                "offset": 1634,
+                "id": "07019",
+                "name": "Chorizo, pork and beef"
+            },
+            {
+                "offset": 1635,
+                "id": "07020",
+                "name": "Corned beef loaf, jellied"
+            },
+            {
+                "offset": 1636,
+                "id": "07021",
+                "name": "Dutch brand loaf, chicken, pork and beef"
+            },
+            {
+                "offset": 1637,
+                "id": "07022",
+                "name": "Frankfurter, beef, unheated"
+            },
+            {
+                "offset": 1638,
+                "id": "07024",
+                "name": "Frankfurter, chicken"
+            },
+            {
+                "offset": 1639,
+                "id": "07025",
+                "name": "Frankfurter, turkey"
+            },
+            {
+                "offset": 1640,
+                "id": "07026",
+                "name": "Ham, chopped, canned"
+            },
+            {
+                "offset": 1641,
+                "id": "07027",
+                "name": "Ham, chopped, not canned"
+            },
+            {
+                "offset": 1642,
+                "id": "07028",
+                "name": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)"
+            },
+            {
+                "offset": 1643,
+                "id": "07029",
+                "name": "Ham, sliced, regular (approximately 11% fat)"
+            },
+            {
+                "offset": 1644,
+                "id": "07030",
+                "name": "Ham, minced"
+            },
+            {
+                "offset": 1645,
+                "id": "07031",
+                "name": "Ham salad spread"
+            },
+            {
+                "offset": 1646,
+                "id": "07032",
+                "name": "Ham and cheese loaf or roll"
+            },
+            {
+                "offset": 1647,
+                "id": "07033",
+                "name": "Ham and cheese spread"
+            },
+            {
+                "offset": 1648,
+                "id": "07034",
+                "name": "Headcheese, pork"
+            },
+            {
+                "offset": 1649,
+                "id": "07036",
+                "name": "Sausage, Italian, pork, raw"
+            },
+            {
+                "offset": 1650,
+                "id": "07038",
+                "name": "Knackwurst, knockwurst, pork, beef"
+            },
+            {
+                "offset": 1651,
+                "id": "07039",
+                "name": "Lebanon bologna, beef"
+            },
+            {
+                "offset": 1652,
+                "id": "07040",
+                "name": "Liver cheese, pork"
+            },
+            {
+                "offset": 1653,
+                "id": "07041",
+                "name": "Liver sausage, liverwurst, pork"
+            },
+            {
+                "offset": 1654,
+                "id": "07043",
+                "name": "Roast beef, deli style, prepackaged, sliced"
+            },
+            {
+                "offset": 1655,
+                "id": "07044",
+                "name": "USDA Commodity, luncheon meat, canned"
+            },
+            {
+                "offset": 1656,
+                "id": "07045",
+                "name": "Luncheon meat, pork, canned"
+            },
+            {
+                "offset": 1657,
+                "id": "07046",
+                "name": "Turkey breast, low salt, prepackaged or deli, luncheon meat"
+            },
+            {
+                "offset": 1658,
+                "id": "07050",
+                "name": "Mortadella, beef, pork"
+            },
+            {
+                "offset": 1659,
+                "id": "07051",
+                "name": "Olive loaf, pork"
+            },
+            {
+                "offset": 1660,
+                "id": "07052",
+                "name": "Pastrami, turkey"
+            },
+            {
+                "offset": 1661,
+                "id": "07053",
+                "name": "Pate, chicken liver, canned"
+            },
+            {
+                "offset": 1662,
+                "id": "07054",
+                "name": "Pate, goose liver, smoked, canned"
+            },
+            {
+                "offset": 1663,
+                "id": "07055",
+                "name": "Pate, liver, not specified, canned"
+            },
+            {
+                "offset": 1664,
+                "id": "07056",
+                "name": "Peppered loaf, pork, beef"
+            },
+            {
+                "offset": 1665,
+                "id": "07057",
+                "name": "Pepperoni, beef and pork, sliced"
+            },
+            {
+                "offset": 1666,
+                "id": "07058",
+                "name": "Pickle and pimiento loaf, pork"
+            },
+            {
+                "offset": 1667,
+                "id": "07059",
+                "name": "Polish sausage, pork"
+            },
+            {
+                "offset": 1668,
+                "id": "07060",
+                "name": "Luxury loaf, pork"
+            },
+            {
+                "offset": 1669,
+                "id": "07061",
+                "name": "Mother's loaf, pork"
+            },
+            {
+                "offset": 1670,
+                "id": "07062",
+                "name": "Picnic loaf, pork, beef"
+            },
+            {
+                "offset": 1671,
+                "id": "07063",
+                "name": "Pork sausage, link/patty, unprepared"
+            },
+            {
+                "offset": 1672,
+                "id": "07064",
+                "name": "Pork sausage, link/patty, cooked, pan-fried"
+            },
+            {
+                "offset": 1673,
+                "id": "07065",
+                "name": "Pork and beef sausage, fresh, cooked"
+            },
+            {
+                "offset": 1674,
+                "id": "07066",
+                "name": "Turkey sausage, reduced fat, brown and serve, cooked (include BUTTERBALL breakfast links turkey sausage)"
+            },
+            {
+                "offset": 1675,
+                "id": "07067",
+                "name": "Poultry salad sandwich spread"
+            },
+            {
+                "offset": 1676,
+                "id": "07068",
+                "name": "Salami, cooked, beef"
+            },
+            {
+                "offset": 1677,
+                "id": "07069",
+                "name": "Salami, cooked, beef and pork"
+            },
+            {
+                "offset": 1678,
+                "id": "07070",
+                "name": "Salami, cooked, turkey"
+            },
+            {
+                "offset": 1679,
+                "id": "07071",
+                "name": "Salami, dry or hard, pork"
+            },
+            {
+                "offset": 1680,
+                "id": "07072",
+                "name": "Salami, dry or hard, pork, beef"
+            },
+            {
+                "offset": 1681,
+                "id": "07073",
+                "name": "Sandwich spread, pork, beef"
+            },
+            {
+                "offset": 1682,
+                "id": "07074",
+                "name": "Smoked link sausage, pork"
+            },
+            {
+                "offset": 1683,
+                "id": "07075",
+                "name": "Sausage, smoked link sausage, pork and beef"
+            },
+            {
+                "offset": 1684,
+                "id": "07077",
+                "name": "Smoked link sausage, pork and beef, nonfat dry milk added"
+            },
+            {
+                "offset": 1685,
+                "id": "07078",
+                "name": "Thuringer, cervelat, summer sausage, beef, pork"
+            },
+            {
+                "offset": 1686,
+                "id": "07081",
+                "name": "Turkey breast, sliced, prepackaged"
+            },
+            {
+                "offset": 1687,
+                "id": "07083",
+                "name": "Sausage, Vienna, canned, chicken, beef, pork"
+            },
+            {
+                "offset": 1688,
+                "id": "07088",
+                "name": "Honey roll sausage, beef"
+            },
+            {
+                "offset": 1689,
+                "id": "07089",
+                "name": "Sausage, Italian, pork, cooked"
+            },
+            {
+                "offset": 1690,
+                "id": "07090",
+                "name": "Luncheon sausage, pork and beef"
+            },
+            {
+                "offset": 1691,
+                "id": "07091",
+                "name": "New england brand sausage, pork, beef"
+            },
+            {
+                "offset": 1692,
+                "id": "07201",
+                "name": "OSCAR MAYER, Bologna (beef)"
+            },
+            {
+                "offset": 1693,
+                "id": "07207",
+                "name": "OSCAR MAYER, Braunschweiger Liver Sausage (sliced)"
+            },
+            {
+                "offset": 1694,
+                "id": "07209",
+                "name": "OSCAR MAYER, Chicken Breast (honey glazed)"
+            },
+            {
+                "offset": 1695,
+                "id": "07212",
+                "name": "OSCAR MAYER, Ham (chopped with natural juice)"
+            },
+            {
+                "offset": 1696,
+                "id": "07230",
+                "name": "OSCAR MAYER, Salami (hard)"
+            },
+            {
+                "offset": 1697,
+                "id": "07236",
+                "name": "OSCAR MAYER, Smokies Sausage Little Cheese (pork, turkey)"
+            },
+            {
+                "offset": 1698,
+                "id": "07241",
+                "name": "OSCAR MAYER, Wieners (beef franks)"
+            },
+            {
+                "offset": 1699,
+                "id": "07254",
+                "name": "Turkey bacon, unprepared"
+            },
+            {
+                "offset": 1700,
+                "id": "07278",
+                "name": "HORMEL Pillow Pak Sliced Turkey Pepperoni"
+            },
+            {
+                "offset": 1701,
+                "id": "07900",
+                "name": "Turkey, pork, and beef sausage, low fat, smoked"
+            },
+            {
+                "offset": 1702,
+                "id": "07901",
+                "name": "USDA Commodity, pork, sausage, bulk/links/patties, frozen, cooked"
+            },
+            {
+                "offset": 1703,
+                "id": "07905",
+                "name": "Frankfurter, beef, pork, and turkey, fat free"
+            },
+            {
+                "offset": 1704,
+                "id": "07906",
+                "name": "Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium"
+            },
+            {
+                "offset": 1705,
+                "id": "07907",
+                "name": "USDA Commodity, pork sausage, bulk/links/patties, frozen, raw"
+            },
+            {
+                "offset": 1706,
+                "id": "07908",
+                "name": "Luncheon meat, pork with ham, minced, canned, includes SPAM (Hormel)"
+            },
+            {
+                "offset": 1707,
+                "id": "07909",
+                "name": "Luncheon meat, pork and chicken, minced, canned, includes SPAM Lite"
+            },
+            {
+                "offset": 1708,
+                "id": "07910",
+                "name": "Bratwurst, veal, cooked"
+            },
+            {
+                "offset": 1709,
+                "id": "07911",
+                "name": "Liverwurst spread"
+            },
+            {
+                "offset": 1710,
+                "id": "07912",
+                "name": "Roast beef spread"
+            },
+            {
+                "offset": 1711,
+                "id": "07913",
+                "name": "Salami, pork, beef, less sodium"
+            },
+            {
+                "offset": 1712,
+                "id": "07914",
+                "name": "Sausage, Italian, sweet, links"
+            },
+            {
+                "offset": 1713,
+                "id": "07915",
+                "name": "Sausage, Polish, beef with chicken, hot"
+            },
+            {
+                "offset": 1714,
+                "id": "07916",
+                "name": "Sausage, Polish, pork and beef, smoked"
+            },
+            {
+                "offset": 1715,
+                "id": "07917",
+                "name": "Sausage, pork and beef, with cheddar cheese, smoked"
+            },
+            {
+                "offset": 1716,
+                "id": "07918",
+                "name": "Sausage, summer, pork and beef, sticks, with cheddar cheese"
+            },
+            {
+                "offset": 1717,
+                "id": "07919",
+                "name": "Sausage, turkey, breakfast links, mild"
+            },
+            {
+                "offset": 1718,
+                "id": "07920",
+                "name": "Swisswurst, pork and beef, with swiss cheese, smoked"
+            },
+            {
+                "offset": 1719,
+                "id": "07921",
+                "name": "Bacon and beef sticks"
+            },
+            {
+                "offset": 1720,
+                "id": "07922",
+                "name": "Bratwurst, beef and pork, smoked"
+            },
+            {
+                "offset": 1721,
+                "id": "07923",
+                "name": "Bratwurst, chicken, cooked"
+            },
+            {
+                "offset": 1722,
+                "id": "07924",
+                "name": "Bratwurst, pork, beef and turkey, lite, smoked"
+            },
+            {
+                "offset": 1723,
+                "id": "07925",
+                "name": "Pastrami, beef, 98% fat-free"
+            },
+            {
+                "offset": 1724,
+                "id": "07926",
+                "name": "Salami, Italian, pork"
+            },
+            {
+                "offset": 1725,
+                "id": "07927",
+                "name": "Sausage, Italian, turkey, smoked"
+            },
+            {
+                "offset": 1726,
+                "id": "07928",
+                "name": "Sausage, chicken, beef, pork, skinless, smoked"
+            },
+            {
+                "offset": 1727,
+                "id": "07929",
+                "name": "Sausage, turkey, hot, smoked"
+            },
+            {
+                "offset": 1728,
+                "id": "07930",
+                "name": "Yachtwurst, with pistachio nuts, cooked"
+            },
+            {
+                "offset": 1729,
+                "id": "07931",
+                "name": "Beerwurst, pork and beef"
+            },
+            {
+                "offset": 1730,
+                "id": "07932",
+                "name": "Chicken breast, fat-free, mesquite flavor, sliced"
+            },
+            {
+                "offset": 1731,
+                "id": "07933",
+                "name": "Chicken breast, oven-roasted, fat-free, sliced"
+            },
+            {
+                "offset": 1732,
+                "id": "07934",
+                "name": "Kielbasa, Polish, turkey and beef, smoked"
+            },
+            {
+                "offset": 1733,
+                "id": "07935",
+                "name": "Oven-roasted chicken breast roll"
+            },
+            {
+                "offset": 1734,
+                "id": "07936",
+                "name": "Bologna, pork and turkey, lite"
+            },
+            {
+                "offset": 1735,
+                "id": "07937",
+                "name": "Bologna, pork, turkey and beef"
+            },
+            {
+                "offset": 1736,
+                "id": "07938",
+                "name": "Ham, honey, smoked, cooked"
+            },
+            {
+                "offset": 1737,
+                "id": "07939",
+                "name": "Frankfurter, pork"
+            },
+            {
+                "offset": 1738,
+                "id": "07940",
+                "name": "Macaroni and cheese loaf, chicken, pork and beef"
+            },
+            {
+                "offset": 1739,
+                "id": "07941",
+                "name": "Salami, Italian, pork and beef, dry, sliced, 50% less sodium"
+            },
+            {
+                "offset": 1740,
+                "id": "07942",
+                "name": "Pate, truffle flavor"
+            },
+            {
+                "offset": 1741,
+                "id": "07943",
+                "name": "Turkey, breast, smoked, lemon pepper flavor, 97% fat-free"
+            },
+            {
+                "offset": 1742,
+                "id": "07944",
+                "name": "Turkey, white, rotisserie, deli cut"
+            },
+            {
+                "offset": 1743,
+                "id": "07945",
+                "name": "Frankfurter, beef, heated"
+            },
+            {
+                "offset": 1744,
+                "id": "07949",
+                "name": "Frankfurter, meat, heated"
+            },
+            {
+                "offset": 1745,
+                "id": "07950",
+                "name": "Frankfurter, meat"
+            },
+            {
+                "offset": 1746,
+                "id": "07951",
+                "name": "Scrapple, pork"
+            },
+            {
+                "offset": 1747,
+                "id": "07952",
+                "name": "Bologna, chicken, turkey, pork"
+            },
+            {
+                "offset": 1748,
+                "id": "07953",
+                "name": "Pork sausage, link/patty, fully cooked, microwaved"
+            },
+            {
+                "offset": 1749,
+                "id": "07954",
+                "name": "Beef sausage, pre-cooked"
+            },
+            {
+                "offset": 1750,
+                "id": "07955",
+                "name": "Turkey sausage, fresh, raw"
+            },
+            {
+                "offset": 1751,
+                "id": "07956",
+                "name": "Beef sausage, fresh, cooked"
+            },
+            {
+                "offset": 1752,
+                "id": "07957",
+                "name": "Pork and turkey sausage, pre-cooked"
+            },
+            {
+                "offset": 1753,
+                "id": "07958",
+                "name": "Turkey sausage, fresh, cooked"
+            },
+            {
+                "offset": 1754,
+                "id": "07959",
+                "name": "Bologna, chicken, pork, beef"
+            },
+            {
+                "offset": 1755,
+                "id": "07960",
+                "name": "Bologna, chicken, pork"
+            },
+            {
+                "offset": 1756,
+                "id": "07961",
+                "name": "Chicken breast, deli, rotisserie seasoned, sliced, prepackaged"
+            },
+            {
+                "offset": 1757,
+                "id": "07962",
+                "name": "Frankfurter, meat and poultry, unheated"
+            },
+            {
+                "offset": 1758,
+                "id": "07963",
+                "name": "Frankfurter, meat and poultry, cooked, boiled"
+            },
+            {
+                "offset": 1759,
+                "id": "07964",
+                "name": "Frankfurter, meat and poultry, cooked, grilled"
+            },
+            {
+                "offset": 1760,
+                "id": "07965",
+                "name": "Pork sausage, link/patty, reduced fat, unprepared"
+            },
+            {
+                "offset": 1761,
+                "id": "07966",
+                "name": "Pork sausage, link/patty, reduced fat, cooked, pan-fried"
+            },
+            {
+                "offset": 1762,
+                "id": "07967",
+                "name": "Pork sausage, link/patty, fully cooked, unheated"
+            },
+            {
+                "offset": 1763,
+                "id": "07968",
+                "name": "Kielbasa, fully cooked, grilled"
+            },
+            {
+                "offset": 1764,
+                "id": "07969",
+                "name": "Kielbasa, fully cooked, pan-fried"
+            },
+            {
+                "offset": 1765,
+                "id": "07970",
+                "name": "Kielbasa, fully cooked, unheated"
+            },
+            {
+                "offset": 1766,
+                "id": "07971",
+                "name": "Bologna, meat and poultry"
+            },
+            {
+                "offset": 1767,
+                "id": "07972",
+                "name": "Meatballs, frozen, Italian style"
+            },
+            {
+                "offset": 1768,
+                "id": "07973",
+                "name": "Turkey bacon, microwaved"
+            },
+            {
+                "offset": 1769,
+                "id": "07974",
+                "name": "Bacon, turkey, low sodium"
+            },
+            {
+                "offset": 1770,
+                "id": "07976",
+                "name": "Sausage, chicken or turkey, Italian style,  lower sodium"
+            },
+            {
+                "offset": 1771,
+                "id": "07977",
+                "name": "Ham, smoked, extra lean, low sodium"
+            },
+            {
+                "offset": 1772,
+                "id": "07978",
+                "name": "Pork sausage, reduced sodium, cooked"
+            },
+            {
+                "offset": 1773,
+                "id": "07979",
+                "name": "Sausage, pork, turkey, and beef, reduced sodium"
+            },
+            {
+                "offset": 1774,
+                "id": "08001",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN Original"
+            },
+            {
+                "offset": 1775,
+                "id": "08002",
+                "name": "Cereals ready-to-eat, POST, ALPHA-BITS"
+            },
+            {
+                "offset": 1776,
+                "id": "08003",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S APPLE JACKS"
+            },
+            {
+                "offset": 1777,
+                "id": "08005",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN BRAN BUDS"
+            },
+            {
+                "offset": 1778,
+                "id": "08010",
+                "name": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH"
+            },
+            {
+                "offset": 1779,
+                "id": "08011",
+                "name": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH with CRUNCHBERRIES"
+            },
+            {
+                "offset": 1780,
+                "id": "08012",
+                "name": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH"
+            },
+            {
+                "offset": 1781,
+                "id": "08013",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS"
+            },
+            {
+                "offset": 1782,
+                "id": "08014",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S COCOA KRISPIES"
+            },
+            {
+                "offset": 1783,
+                "id": "08015",
+                "name": "Cereals ready-to-eat, POST, COCOA PEBBLES"
+            },
+            {
+                "offset": 1784,
+                "id": "08017",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, COOKIE CRISP"
+            },
+            {
+                "offset": 1785,
+                "id": "08018",
+                "name": "Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN"
+            },
+            {
+                "offset": 1786,
+                "id": "08019",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Corn CHEX"
+            },
+            {
+                "offset": 1787,
+                "id": "08020",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S Corn Flakes"
+            },
+            {
+                "offset": 1788,
+                "id": "08023",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CRACKLIN' OAT BRAN"
+            },
+            {
+                "offset": 1789,
+                "id": "08025",
+                "name": "Cereals ready-to-eat, RALSTON CRISP RICE"
+            },
+            {
+                "offset": 1790,
+                "id": "08028",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN COMPLETE Wheat Flakes"
+            },
+            {
+                "offset": 1791,
+                "id": "08029",
+                "name": "Cereals ready-to-eat, POST Bran Flakes"
+            },
+            {
+                "offset": 1792,
+                "id": "08030",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROOT LOOPS"
+            },
+            {
+                "offset": 1793,
+                "id": "08031",
+                "name": "Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS, Big Bite"
+            },
+            {
+                "offset": 1794,
+                "id": "08032",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED RICE KRISPIES"
+            },
+            {
+                "offset": 1795,
+                "id": "08034",
+                "name": "Cereals ready-to-eat, POST, FRUITY PEBBLES"
+            },
+            {
+                "offset": 1796,
+                "id": "08035",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, GOLDEN GRAHAMS"
+            },
+            {
+                "offset": 1797,
+                "id": "08037",
+                "name": "Cereals ready-to-eat, granola, homemade"
+            },
+            {
+                "offset": 1798,
+                "id": "08038",
+                "name": "Cereals ready-to-eat, POST, GRAPE-NUTS Cereal"
+            },
+            {
+                "offset": 1799,
+                "id": "08039",
+                "name": "Cereals ready-to-eat, POST, GRAPE-NUTS Flakes"
+            },
+            {
+                "offset": 1800,
+                "id": "08045",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CHEERIOS"
+            },
+            {
+                "offset": 1801,
+                "id": "08046",
+                "name": "Cereals ready-to-eat, POST, Honeycomb Cereal"
+            },
+            {
+                "offset": 1802,
+                "id": "08047",
+                "name": "Cereals ready-to-eat, QUAKER, KING VITAMAN"
+            },
+            {
+                "offset": 1803,
+                "id": "08048",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, KIX"
+            },
+            {
+                "offset": 1804,
+                "id": "08049",
+                "name": "Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain"
+            },
+            {
+                "offset": 1805,
+                "id": "08050",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, LUCKY CHARMS"
+            },
+            {
+                "offset": 1806,
+                "id": "08054",
+                "name": "Cereals ready-to-eat, QUAKER, 100% Natural Granola, Oats, Wheat and Honey"
+            },
+            {
+                "offset": 1807,
+                "id": "08057",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Honey Nut CHEX"
+            },
+            {
+                "offset": 1808,
+                "id": "08058",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S PRODUCT 19"
+            },
+            {
+                "offset": 1809,
+                "id": "08059",
+                "name": "Cereals ready-to-eat, QUAKER, SWEET CRUNCH/QUISP"
+            },
+            {
+                "offset": 1810,
+                "id": "08060",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN"
+            },
+            {
+                "offset": 1811,
+                "id": "08061",
+                "name": "Cereals ready-to-eat, POST Raisin Bran Cereal"
+            },
+            {
+                "offset": 1812,
+                "id": "08064",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Rice CHEX"
+            },
+            {
+                "offset": 1813,
+                "id": "08065",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES"
+            },
+            {
+                "offset": 1814,
+                "id": "08066",
+                "name": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Rice"
+            },
+            {
+                "offset": 1815,
+                "id": "08067",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K"
+            },
+            {
+                "offset": 1816,
+                "id": "08068",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CORN POPS"
+            },
+            {
+                "offset": 1817,
+                "id": "08069",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED FLAKES"
+            },
+            {
+                "offset": 1818,
+                "id": "08071",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY SMACKS"
+            },
+            {
+                "offset": 1819,
+                "id": "08073",
+                "name": "Cereals ready-to-eat, POST, GOLDEN CRISP"
+            },
+            {
+                "offset": 1820,
+                "id": "08074",
+                "name": "Cereals ready-to-eat, RALSTON TASTEEOS"
+            },
+            {
+                "offset": 1821,
+                "id": "08077",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Whole Grain TOTAL"
+            },
+            {
+                "offset": 1822,
+                "id": "08078",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, TRIX"
+            },
+            {
+                "offset": 1823,
+                "id": "08081",
+                "name": "Cereals ready-to-eat, POST, Honey Nut Shredded Wheat"
+            },
+            {
+                "offset": 1824,
+                "id": "08082",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Wheat CHEX"
+            },
+            {
+                "offset": 1825,
+                "id": "08083",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, CORN BURSTS"
+            },
+            {
+                "offset": 1826,
+                "id": "08084",
+                "name": "Cereals ready-to-eat, wheat germ, toasted, plain"
+            },
+            {
+                "offset": 1827,
+                "id": "08085",
+                "name": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Honey Crunch Wheat Germ"
+            },
+            {
+                "offset": 1828,
+                "id": "08087",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Multi-Grain CHEERIOS"
+            },
+            {
+                "offset": 1829,
+                "id": "08089",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, WHEATIES"
+            },
+            {
+                "offset": 1830,
+                "id": "08090",
+                "name": "Cereals, corn grits, white, regular and quick, enriched, dry"
+            },
+            {
+                "offset": 1831,
+                "id": "08091",
+                "name": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt"
+            },
+            {
+                "offset": 1832,
+                "id": "08092",
+                "name": "Cereals, QUAKER, corn grits, instant, plain, dry"
+            },
+            {
+                "offset": 1833,
+                "id": "08093",
+                "name": "Cereals, QUAKER, corn grits, instant, plain, prepared (microwaved or boiling water added), without salt"
+            },
+            {
+                "offset": 1834,
+                "id": "08094",
+                "name": "Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry"
+            },
+            {
+                "offset": 1835,
+                "id": "08096",
+                "name": "Cereals, QUAKER, Instant Grits, Country Bacon flavor, dry"
+            },
+            {
+                "offset": 1836,
+                "id": "08100",
+                "name": "Cereals, CREAM OF RICE, dry"
+            },
+            {
+                "offset": 1837,
+                "id": "08101",
+                "name": "Cereals, CREAM OF RICE, cooked with water, without salt"
+            },
+            {
+                "offset": 1838,
+                "id": "08102",
+                "name": "Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry"
+            },
+            {
+                "offset": 1839,
+                "id": "08103",
+                "name": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt"
+            },
+            {
+                "offset": 1840,
+                "id": "08104",
+                "name": "Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), dry"
+            },
+            {
+                "offset": 1841,
+                "id": "08105",
+                "name": "Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt"
+            },
+            {
+                "offset": 1842,
+                "id": "08106",
+                "name": "Cereals, CREAM OF WHEAT, instant, dry"
+            },
+            {
+                "offset": 1843,
+                "id": "08107",
+                "name": "Cereals, CREAM OF WHEAT, instant, prepared with water, without salt"
+            },
+            {
+                "offset": 1844,
+                "id": "08113",
+                "name": "Cereals, farina, enriched, cooked with water, without salt"
+            },
+            {
+                "offset": 1845,
+                "id": "08116",
+                "name": "Cereals, MALT-O-MEAL, original, plain, dry"
+            },
+            {
+                "offset": 1846,
+                "id": "08120",
+                "name": "Cereals, oats, regular and quick, not fortified, dry"
+            },
+            {
+                "offset": 1847,
+                "id": "08121",
+                "name": "Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt"
+            },
+            {
+                "offset": 1848,
+                "id": "08122",
+                "name": "Cereals, oats, instant, fortified, plain, dry"
+            },
+            {
+                "offset": 1849,
+                "id": "08123",
+                "name": "Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)"
+            },
+            {
+                "offset": 1850,
+                "id": "08124",
+                "name": "Cereals, QUAKER, Instant Oatmeal, apples and cinnamon, dry"
+            },
+            {
+                "offset": 1851,
+                "id": "08128",
+                "name": "Cereals, oats, instant, fortified, with cinnamon and spice, dry"
+            },
+            {
+                "offset": 1852,
+                "id": "08129",
+                "name": "Cereals, oats, instant, fortified, with cinnamon and spice, prepared with water"
+            },
+            {
+                "offset": 1853,
+                "id": "08130",
+                "name": "Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry"
+            },
+            {
+                "offset": 1854,
+                "id": "08132",
+                "name": "Cereals, oats, instant, fortified, with raisins and spice, dry"
+            },
+            {
+                "offset": 1855,
+                "id": "08133",
+                "name": "Cereals, oats, instant, fortified, with raisins and spice, prepared with water"
+            },
+            {
+                "offset": 1856,
+                "id": "08138",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, MARSHMALLOW MATEYS"
+            },
+            {
+                "offset": 1857,
+                "id": "08142",
+                "name": "Cereals, WHEATENA, dry"
+            },
+            {
+                "offset": 1858,
+                "id": "08143",
+                "name": "Cereals, WHEATENA, cooked with water"
+            },
+            {
+                "offset": 1859,
+                "id": "08144",
+                "name": "Cereals, whole wheat hot natural cereal, dry"
+            },
+            {
+                "offset": 1860,
+                "id": "08145",
+                "name": "Cereals, whole wheat hot natural cereal, cooked with water, without salt"
+            },
+            {
+                "offset": 1861,
+                "id": "08146",
+                "name": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat"
+            },
+            {
+                "offset": 1862,
+                "id": "08147",
+                "name": "Cereals ready-to-eat, POST, Shredded Wheat, original big biscuit"
+            },
+            {
+                "offset": 1863,
+                "id": "08148",
+                "name": "Cereals ready-to-eat, POST, Shredded Wheat, original spoon-size"
+            },
+            {
+                "offset": 1864,
+                "id": "08156",
+                "name": "Cereals ready-to-eat, rice, puffed, fortified"
+            },
+            {
+                "offset": 1865,
+                "id": "08157",
+                "name": "Cereals ready-to-eat, wheat, puffed, fortified"
+            },
+            {
+                "offset": 1866,
+                "id": "08159",
+                "name": "Cereals, corn grits, yellow, regular and quick, enriched, dry"
+            },
+            {
+                "offset": 1867,
+                "id": "08160",
+                "name": "Cereals, corn grits, yellow, regular and quick, unenriched, dry"
+            },
+            {
+                "offset": 1868,
+                "id": "08161",
+                "name": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt"
+            },
+            {
+                "offset": 1869,
+                "id": "08164",
+                "name": "Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt"
+            },
+            {
+                "offset": 1870,
+                "id": "08165",
+                "name": "Cereals, corn grits, yellow, regular, quick, enriched, cooked with water, with salt"
+            },
+            {
+                "offset": 1871,
+                "id": "08168",
+                "name": "Cereals, CREAM OF RICE, cooked with water, with salt"
+            },
+            {
+                "offset": 1872,
+                "id": "08169",
+                "name": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, with salt"
+            },
+            {
+                "offset": 1873,
+                "id": "08172",
+                "name": "Cereals, farina, unenriched, dry"
+            },
+            {
+                "offset": 1874,
+                "id": "08173",
+                "name": "Cereals, farina, enriched, cooked with water, with salt"
+            },
+            {
+                "offset": 1875,
+                "id": "08177",
+                "name": "Cereals, MALT-O-MEAL, chocolate, dry"
+            },
+            {
+                "offset": 1876,
+                "id": "08180",
+                "name": "Cereals, oats, regular and quick and instant, unenriched, cooked with water (includes boiling and microwaving), with salt"
+            },
+            {
+                "offset": 1877,
+                "id": "08182",
+                "name": "Cereals, WHEATENA, cooked with water, with salt"
+            },
+            {
+                "offset": 1878,
+                "id": "08183",
+                "name": "Cereals, whole wheat hot natural cereal, cooked with water, with salt"
+            },
+            {
+                "offset": 1879,
+                "id": "08189",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola without Raisins"
+            },
+            {
+                "offset": 1880,
+                "id": "08191",
+                "name": "Cereals ready-to-eat, POST, Shredded Wheat, lightly frosted, spoon-size"
+            },
+            {
+                "offset": 1881,
+                "id": "08192",
+                "name": "Cereals ready-to-eat, POST SELECTS Blueberry Morning"
+            },
+            {
+                "offset": 1882,
+                "id": "08194",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, REESE'S PUFFS"
+            },
+            {
+                "offset": 1883,
+                "id": "08200",
+                "name": "Cereals, QUAKER, QUAKER MultiGrain Oatmeal, dry"
+            },
+            {
+                "offset": 1884,
+                "id": "08202",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP, Crunchy Almond"
+            },
+            {
+                "offset": 1885,
+                "id": "08204",
+                "name": "Cereals ready-to-eat, chocolate-flavored frosted puffed corn"
+            },
+            {
+                "offset": 1886,
+                "id": "08206",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, COCO-ROOS"
+            },
+            {
+                "offset": 1887,
+                "id": "08210",
+                "name": "Cereals ready-to-eat, QUAKER, QUAKER OAT CINNAMON LIFE"
+            },
+            {
+                "offset": 1888,
+                "id": "08211",
+                "name": "Cereals ready-to-eat, QUAKER, HONEY GRAHAM OH!S"
+            },
+            {
+                "offset": 1889,
+                "id": "08214",
+                "name": "Cereals ready-to-eat, QUAKER, Oatmeal Squares"
+            },
+            {
+                "offset": 1890,
+                "id": "08215",
+                "name": "Cereals ready-to-eat, QUAKER, Oatmeal Squares, cinnamon"
+            },
+            {
+                "offset": 1891,
+                "id": "08216",
+                "name": "Cereals ready-to-eat, QUAKER, Toasted Multigrain Crisps"
+            },
+            {
+                "offset": 1892,
+                "id": "08218",
+                "name": "Cereals ready-to-eat, QUAKER, QUAKER 100% Natural Granola with Oats, Wheat, Honey, and Raisins"
+            },
+            {
+                "offset": 1893,
+                "id": "08220",
+                "name": "Cereals ready-to-eat, QUAKER, Low Fat 100% Natural Granola with Raisins"
+            },
+            {
+                "offset": 1894,
+                "id": "08221",
+                "name": "Cereals, QUAKER, Instant Grits, Butter flavor, dry"
+            },
+            {
+                "offset": 1895,
+                "id": "08225",
+                "name": "Cereals, QUAKER, Instant Oatmeal, fruit and cream variety, dry"
+            },
+            {
+                "offset": 1896,
+                "id": "08228",
+                "name": "Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry"
+            },
+            {
+                "offset": 1897,
+                "id": "08231",
+                "name": "Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, dry"
+            },
+            {
+                "offset": 1898,
+                "id": "08236",
+                "name": "Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, prepared with water, no salt"
+            },
+            {
+                "offset": 1899,
+                "id": "08239",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Berry Burst CHEERIOS, Triple Berry"
+            },
+            {
+                "offset": 1900,
+                "id": "08240",
+                "name": "Cereals, Oat Bran, QUAKER, QUAKER/MOTHER'S Oat Bran, prepared with water, salt"
+            },
+            {
+                "offset": 1901,
+                "id": "08243",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CLUSTERS"
+            },
+            {
+                "offset": 1902,
+                "id": "08244",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE Bran Cereal"
+            },
+            {
+                "offset": 1903,
+                "id": "08245",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP, Hearty Raisin"
+            },
+            {
+                "offset": 1904,
+                "id": "08247",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, TOTAL Raisin Bran"
+            },
+            {
+                "offset": 1905,
+                "id": "08249",
+                "name": "Cereals, QUAKER, QUAKER MultiGrain Oatmeal, prepared with water, no salt"
+            },
+            {
+                "offset": 1906,
+                "id": "08252",
+                "name": "Cereals, QUAKER, QUAKER MultiGrain Oatmeal, prepared with water, salt"
+            },
+            {
+                "offset": 1907,
+                "id": "08259",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CRISPIX"
+            },
+            {
+                "offset": 1908,
+                "id": "08261",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, RAISIN NUT BRAN"
+            },
+            {
+                "offset": 1909,
+                "id": "08262",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, BASIC 4"
+            },
+            {
+                "offset": 1910,
+                "id": "08263",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, APPLE CINNAMON CHEERIOS"
+            },
+            {
+                "offset": 1911,
+                "id": "08267",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FROSTED CHEERIOS"
+            },
+            {
+                "offset": 1912,
+                "id": "08268",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FRANKENBERRY"
+            },
+            {
+                "offset": 1913,
+                "id": "08270",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, COUNT CHOCULA"
+            },
+            {
+                "offset": 1914,
+                "id": "08271",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS"
+            },
+            {
+                "offset": 1915,
+                "id": "08272",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, CINNAMON TOAST CRUNCH"
+            },
+            {
+                "offset": 1916,
+                "id": "08273",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, BOO BERRY"
+            },
+            {
+                "offset": 1917,
+                "id": "08274",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, BERRY BERRY KIX"
+            },
+            {
+                "offset": 1918,
+                "id": "08277",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, NATURE VALLEY LOW FAT FRUIT GRANOLA"
+            },
+            {
+                "offset": 1919,
+                "id": "08284",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola with Raisins"
+            },
+            {
+                "offset": 1920,
+                "id": "08286",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S MUESLIX"
+            },
+            {
+                "offset": 1921,
+                "id": "08288",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Cereal"
+            },
+            {
+                "offset": 1922,
+                "id": "08290",
+                "name": "Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 Flakes"
+            },
+            {
+                "offset": 1923,
+                "id": "08305",
+                "name": "Cereals ready-to-eat, Post, Waffle Crisp"
+            },
+            {
+                "offset": 1924,
+                "id": "08309",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY CRUNCH CORN FLAKES"
+            },
+            {
+                "offset": 1925,
+                "id": "08314",
+                "name": "Cereals, QUAKER, hominy grits, white, quick, dry"
+            },
+            {
+                "offset": 1926,
+                "id": "08316",
+                "name": "Cereals, QUAKER, hominy grits, white, regular, dry"
+            },
+            {
+                "offset": 1927,
+                "id": "08318",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SMART START Strong Heart Antioxidants Cereal"
+            },
+            {
+                "offset": 1928,
+                "id": "08319",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED MINI-WHEATS, bite size"
+            },
+            {
+                "offset": 1929,
+                "id": "08346",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, COLOSSAL CRUNCH"
+            },
+            {
+                "offset": 1930,
+                "id": "08347",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, BERRY COLOSSAL CRUNCH"
+            },
+            {
+                "offset": 1931,
+                "id": "08348",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Crispy Rice"
+            },
+            {
+                "offset": 1932,
+                "id": "08349",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, TOOTIE FRUITIES"
+            },
+            {
+                "offset": 1933,
+                "id": "08351",
+                "name": "Cereals ready-to-eat, QUAKER, MOTHER'S PEANUT BUTTER BUMPERS Cereal"
+            },
+            {
+                "offset": 1934,
+                "id": "08352",
+                "name": "Cereals ready-to-eat, QUAKER, MOTHER'S Toasted Oat Bran cereal"
+            },
+            {
+                "offset": 1935,
+                "id": "08353",
+                "name": "Cereals ready-to-eat, QUAKER, MOTHER'S Cinnamon Oat Crunch"
+            },
+            {
+                "offset": 1936,
+                "id": "08354",
+                "name": "Cereals ready-to-eat, QUAKER, MOTHER'S GRAHAM BUMPERS"
+            },
+            {
+                "offset": 1937,
+                "id": "08355",
+                "name": "Cereals ready-to-eat, QUAKER, MOTHER'S COCOA BUMPERS"
+            },
+            {
+                "offset": 1938,
+                "id": "08363",
+                "name": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Toasted Wheat Bran"
+            },
+            {
+                "offset": 1939,
+                "id": "08365",
+                "name": "Cereals ready-to-eat, QUAKER, Shredded Wheat, bagged cereal"
+            },
+            {
+                "offset": 1940,
+                "id": "08366",
+                "name": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Wheat Germ, Regular"
+            },
+            {
+                "offset": 1941,
+                "id": "08370",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, RICE CRUNCHINS"
+            },
+            {
+                "offset": 1942,
+                "id": "08376",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S MARSHMALLOW FROOT LOOPS"
+            },
+            {
+                "offset": 1943,
+                "id": "08380",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S, RAISIN BRAN CRUNCH"
+            },
+            {
+                "offset": 1944,
+                "id": "08383",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Red Berries"
+            },
+            {
+                "offset": 1945,
+                "id": "08384",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S MINI-WHEATS, unfrosted bite size"
+            },
+            {
+                "offset": 1946,
+                "id": "08386",
+                "name": "Cereals ready-to-eat, KASHI GOLEAN CRUNCH!"
+            },
+            {
+                "offset": 1947,
+                "id": "08387",
+                "name": "Cereals ready-to-eat, KASHI HEART TO HEART, Honey Toasted Oat"
+            },
+            {
+                "offset": 1948,
+                "id": "08388",
+                "name": "Cereals ready-to-eat, KASHI 7 Whole Grain Puffs"
+            },
+            {
+                "offset": 1949,
+                "id": "08389",
+                "name": "Cereals ready-to-eat, KASHI 7 Whole Grain Honey Puffs"
+            },
+            {
+                "offset": 1950,
+                "id": "08390",
+                "name": "Cereals ready-to-eat, KASHI GOOD FRIENDS"
+            },
+            {
+                "offset": 1951,
+                "id": "08393",
+                "name": "Cereals ready-to-eat, KASHI GOLEAN"
+            },
+            {
+                "offset": 1952,
+                "id": "08402",
+                "name": "Cereals, QUAKER, Quick Oats, Dry"
+            },
+            {
+                "offset": 1953,
+                "id": "08409",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes"
+            },
+            {
+                "offset": 1954,
+                "id": "08410",
+                "name": "Cereals, QUAKER, Instant Oatmeal, Cinnamon-Spice, dry"
+            },
+            {
+                "offset": 1955,
+                "id": "08411",
+                "name": "Cereals, QUAKER, Instant Oatmeal, DINOSAUR EGGS, Brown Sugar, dry"
+            },
+            {
+                "offset": 1956,
+                "id": "08417",
+                "name": "Cereals, QUAKER, Instant Oatmeal, Banana Bread, dry"
+            },
+            {
+                "offset": 1957,
+                "id": "08435",
+                "name": "Cereals ready-to-eat, UNCLE SAM CEREAL"
+            },
+            {
+                "offset": 1958,
+                "id": "08436",
+                "name": "Cereals, QUAKER, Instant Oatmeal, Raisin and Spice, dry"
+            },
+            {
+                "offset": 1959,
+                "id": "08444",
+                "name": "Cereals, QUAKER, Instant Grits, Redeye Gravy & Country Ham flavor, dry"
+            },
+            {
+                "offset": 1960,
+                "id": "08449",
+                "name": "Cereals, QUAKER, Instant Grits Product with American Cheese Flavor, dry"
+            },
+            {
+                "offset": 1961,
+                "id": "08450",
+                "name": "Cereals, QUAKER, Instant Grits, Ham 'n' Cheese flavor, dry"
+            },
+            {
+                "offset": 1962,
+                "id": "08451",
+                "name": "Cereals, QUAKER, Quick Oats with Iron, Dry"
+            },
+            {
+                "offset": 1963,
+                "id": "08452",
+                "name": "Cereals, QUAKER, Whole Wheat Natural Cereal, dry"
+            },
+            {
+                "offset": 1964,
+                "id": "08453",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Chocolatey Strawberry"
+            },
+            {
+                "offset": 1965,
+                "id": "08459",
+                "name": "Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-WHEATS, Maple & Brown Sugar, Bite Size"
+            },
+            {
+                "offset": 1966,
+                "id": "08462",
+                "name": "Cereals ready-to-eat, KASHI, ORGANIC PROMISE Autumn Wheat"
+            },
+            {
+                "offset": 1967,
+                "id": "08463",
+                "name": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, STRAWBERRY FIELDS"
+            },
+            {
+                "offset": 1968,
+                "id": "08469",
+                "name": "Cereals ready-to-eat, KELLOGG'S, Reduced Sugar Frosted Flakes Cereal"
+            },
+            {
+                "offset": 1969,
+                "id": "08471",
+                "name": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K Protein Plus"
+            },
+            {
+                "offset": 1970,
+                "id": "08476",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Honey BUZZERS"
+            },
+            {
+                "offset": 1971,
+                "id": "08478",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, GOLDEN PUFFS"
+            },
+            {
+                "offset": 1972,
+                "id": "08481",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, HONEY GRAHAM SQUARES"
+            },
+            {
+                "offset": 1973,
+                "id": "08484",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Raisin Bran Cereal"
+            },
+            {
+                "offset": 1974,
+                "id": "08487",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Blueberry MUFFIN TOPS Cereal"
+            },
+            {
+                "offset": 1975,
+                "id": "08488",
+                "name": "Cereals, MALT-O-MEAL, Farina Hot Wheat Cereal, dry"
+            },
+            {
+                "offset": 1976,
+                "id": "08489",
+                "name": "Cereals, MALT-O-MEAL, Maple & Brown Sugar Hot Wheat Cereal, dry"
+            },
+            {
+                "offset": 1977,
+                "id": "08491",
+                "name": "Cereals ready-to-eat, MOM'S BEST, Honey Nut TOASTY O'S"
+            },
+            {
+                "offset": 1978,
+                "id": "08493",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Apple ZINGS"
+            },
+            {
+                "offset": 1979,
+                "id": "08494",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, CINNAMON TOASTERS"
+            },
+            {
+                "offset": 1980,
+                "id": "08495",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Cocoa DYNO-BITES"
+            },
+            {
+                "offset": 1981,
+                "id": "08500",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS"
+            },
+            {
+                "offset": 1982,
+                "id": "08501",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Fruity DYNO-BITES"
+            },
+            {
+                "offset": 1983,
+                "id": "08504",
+                "name": "Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes"
+            },
+            {
+                "offset": 1984,
+                "id": "08505",
+                "name": "Cereals ready-to-eat, RALSTON Corn Biscuits"
+            },
+            {
+                "offset": 1985,
+                "id": "08506",
+                "name": "Cereals ready-to-eat, RALSTON Corn Flakes"
+            },
+            {
+                "offset": 1986,
+                "id": "08507",
+                "name": "Cereals ready-to-eat, RALSTON Crispy Hexagons"
+            },
+            {
+                "offset": 1987,
+                "id": "08508",
+                "name": "Cereals ready-to-eat, USDA Commodity Corn and Rice (includes all commodity brands)"
+            },
+            {
+                "offset": 1988,
+                "id": "08509",
+                "name": "Cereals ready-to-eat, USDA Commodity Rice Crisps (includes all commodity brands)"
+            },
+            {
+                "offset": 1989,
+                "id": "08510",
+                "name": "Milk and cereal bar"
+            },
+            {
+                "offset": 1990,
+                "id": "08511",
+                "name": "Cereals, MALT-O-MEAL, original, plain, prepared with water, without salt"
+            },
+            {
+                "offset": 1991,
+                "id": "08512",
+                "name": "Cereals, MALT-O-MEAL, chocolate, prepared with water, without salt"
+            },
+            {
+                "offset": 1992,
+                "id": "08513",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, CHOCOLATE LUCKY CHARMS"
+            },
+            {
+                "offset": 1993,
+                "id": "08531",
+                "name": "Cereals ready-to-eat, KELLOGG, SPECIAL K, Fruit & Yogurt"
+            },
+            {
+                "offset": 1994,
+                "id": "08537",
+                "name": "Cereals ready-to-eat, KASHI 7 Whole Grain Flakes"
+            },
+            {
+                "offset": 1995,
+                "id": "08538",
+                "name": "Cereals ready-to-eat, KASHI, HEART TO HEART, Oat Flakes & Blueberry Clusters"
+            },
+            {
+                "offset": 1996,
+                "id": "08539",
+                "name": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, CINNAMON HARVEST"
+            },
+            {
+                "offset": 1997,
+                "id": "08542",
+                "name": "Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-WHEATS Bite Size Strawberry Delight"
+            },
+            {
+                "offset": 1998,
+                "id": "08543",
+                "name": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K Vanilla Almond"
+            },
+            {
+                "offset": 1999,
+                "id": "08544",
+                "name": "Cereals ready-to-eat, POST GREAT GRAINS Cranberry Almond Crunch"
+            }
+        ]
+    }
+}

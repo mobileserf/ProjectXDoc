@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 2000,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 2000,
+                "id": "08546",
+                "name": "Rice and Wheat cereal bar"
+            },
+            {
+                "offset": 2001,
+                "id": "08549",
+                "name": "Cereals ready-to-eat, QUAKER, QUAKER Honey Graham LIFE Cereal"
+            },
+            {
+                "offset": 2002,
+                "id": "08550",
+                "name": "Cereals ready-to-eat, QUAKER, Christmas Crunch"
+            },
+            {
+                "offset": 2003,
+                "id": "08553",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Yogurt Burst, strawberry"
+            },
+            {
+                "offset": 2004,
+                "id": "08554",
+                "name": "Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch"
+            },
+            {
+                "offset": 2005,
+                "id": "08560",
+                "name": "Cereals ready-to-eat, KASHI GO LEAN CRUNCH!, Honey Almond Flax"
+            },
+            {
+                "offset": 2006,
+                "id": "08561",
+                "name": "Cereals, KASHI GO LEAN Hot Cereal, Hearty Honey & Cinnamon, dry"
+            },
+            {
+                "offset": 2007,
+                "id": "08562",
+                "name": "Cereals, KASHI GO LEAN Hot Cereal, Creamy TRULY VANILLA, dry"
+            },
+            {
+                "offset": 2008,
+                "id": "08567",
+                "name": "Cereals ready-to-eat, KASHI 7 Whole Grain Nuggets"
+            },
+            {
+                "offset": 2009,
+                "id": "08568",
+                "name": "Cereals, KASHI HEART TO HEART, Instant Oatmeal, Apple Cinnamon, dry"
+            },
+            {
+                "offset": 2010,
+                "id": "08569",
+                "name": "Cereals, KASHI HEART TO HEART, Instant Oatmeal, golden brown maple, dry"
+            },
+            {
+                "offset": 2011,
+                "id": "08571",
+                "name": "Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS, Pumpkin Granola"
+            },
+            {
+                "offset": 2012,
+                "id": "08573",
+                "name": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, dry"
+            },
+            {
+                "offset": 2013,
+                "id": "08574",
+                "name": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, stove-top, without salt"
+            },
+            {
+                "offset": 2014,
+                "id": "08575",
+                "name": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, microwaved, without salt"
+            },
+            {
+                "offset": 2015,
+                "id": "08576",
+                "name": "Cereals, CREAM OF WHEAT, 1 minute cook time, dry"
+            },
+            {
+                "offset": 2016,
+                "id": "08577",
+                "name": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, stove-top, without salt"
+            },
+            {
+                "offset": 2017,
+                "id": "08578",
+                "name": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, microwaved, without salt"
+            },
+            {
+                "offset": 2018,
+                "id": "08579",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, 25% Less Sugar CINNAMON TOAST CRUNCH"
+            },
+            {
+                "offset": 2019,
+                "id": "08580",
+                "name": "Incaparina, dry mix (corn and soy flours), unprepared"
+            },
+            {
+                "offset": 2020,
+                "id": "08582",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, DORA THE EXPLORER"
+            },
+            {
+                "offset": 2021,
+                "id": "08583",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Fruity CHEERIOS"
+            },
+            {
+                "offset": 2022,
+                "id": "08584",
+                "name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight"
+            },
+            {
+                "offset": 2023,
+                "id": "08586",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, 25% Less Sugar TRIX"
+            },
+            {
+                "offset": 2024,
+                "id": "08587",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Low Fat Granola"
+            },
+            {
+                "offset": 2025,
+                "id": "08588",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CINNABON cereal"
+            },
+            {
+                "offset": 2026,
+                "id": "08589",
+                "name": "Cereals ready-to-eat, KASHI GOLEAN CRISP Toasted Berry Crumble"
+            },
+            {
+                "offset": 2027,
+                "id": "08590",
+                "name": "Cereals ready-to-eat, KASHI HEART TO HEART, Warm Cinnamon"
+            },
+            {
+                "offset": 2028,
+                "id": "08591",
+                "name": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, ISLAND VANILLA"
+            },
+            {
+                "offset": 2029,
+                "id": "08592",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Banana Nut"
+            },
+            {
+                "offset": 2030,
+                "id": "08593",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Chocolate"
+            },
+            {
+                "offset": 2031,
+                "id": "08594",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Chocolate CHEX"
+            },
+            {
+                "offset": 2032,
+                "id": "08595",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Cinnamon CHEX"
+            },
+            {
+                "offset": 2033,
+                "id": "08596",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Caramel Delight"
+            },
+            {
+                "offset": 2034,
+                "id": "08598",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, HONEY CLUSTERS"
+            },
+            {
+                "offset": 2035,
+                "id": "08599",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, RAISIN BRAN CLUSTERS"
+            },
+            {
+                "offset": 2036,
+                "id": "08602",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K, Cinnamon Pecan"
+            },
+            {
+                "offset": 2037,
+                "id": "08603",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Blueberry"
+            },
+            {
+                "offset": 2038,
+                "id": "08608",
+                "name": "Cereals ready-to-eat, KASHI Berry Blossom"
+            },
+            {
+                "offset": 2039,
+                "id": "08610",
+                "name": "Cereals ready-to-eat, KASHI Honey Sunshine"
+            },
+            {
+                "offset": 2040,
+                "id": "08613",
+                "name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Multigrain Oats and Honey"
+            },
+            {
+                "offset": 2041,
+                "id": "08615",
+                "name": "Cereals ready-to-eat, KELLOGG'S CRUNCHY NUT Golden Honey Nut flakes"
+            },
+            {
+                "offset": 2042,
+                "id": "08617",
+                "name": "Cereals ready-to-eat, KELLOGG's FROSTED MINI-WHEATS Bite Size Blueberry Muffin"
+            },
+            {
+                "offset": 2043,
+                "id": "08625",
+                "name": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S Halloween Crunch"
+            },
+            {
+                "offset": 2044,
+                "id": "08627",
+                "name": "Cereals ready-to-eat, QUAKER, Natural Granola Apple Cranberry Almond"
+            },
+            {
+                "offset": 2045,
+                "id": "08628",
+                "name": "Cereals ready-to-eat, QUAKER, Maple Brown Sugar LIFE Cereal"
+            },
+            {
+                "offset": 2046,
+                "id": "08629",
+                "name": "Cereals ready-to-eat, QUAKER, Cap'n Crunch's OOPS! All Berries Cereal"
+            },
+            {
+                "offset": 2047,
+                "id": "08631",
+                "name": "Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS LITTLE BITES, chocolate"
+            },
+            {
+                "offset": 2048,
+                "id": "08632",
+                "name": "Cereals ready-to-eat, QUAKER Oatmeal Squares, Golden Maple"
+            },
+            {
+                "offset": 2049,
+                "id": "08633",
+                "name": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches"
+            },
+            {
+                "offset": 2050,
+                "id": "08634",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, PEANUT BUTTER TOAST CRUNCH"
+            },
+            {
+                "offset": 2051,
+                "id": "08635",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS, 25% Reduced Sugar"
+            },
+            {
+                "offset": 2052,
+                "id": "08637",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Oat Cluster CHEERIOS Crunch"
+            },
+            {
+                "offset": 2053,
+                "id": "08639",
+                "name": "Cereals, QUAKER, Instant Oatmeal, Cinnamon Spice, reduced sugar"
+            },
+            {
+                "offset": 2054,
+                "id": "08640",
+                "name": "Cereals, QUAKER, Instant Oatmeal Organic, Regular"
+            },
+            {
+                "offset": 2055,
+                "id": "08641",
+                "name": "Cereals, QUAKER, Instant Oatmeal, fruit and cream, variety of flavors, reduced sugar"
+            },
+            {
+                "offset": 2056,
+                "id": "08642",
+                "name": "Cereals, QUAKER, Instant Oatmeal, Apple and Cinnamon, reduced sugar"
+            },
+            {
+                "offset": 2057,
+                "id": "08643",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Honey KIX"
+            },
+            {
+                "offset": 2058,
+                "id": "08647",
+                "name": "Cereals ready-to-eat, KASHI INDIGO MORNING"
+            },
+            {
+                "offset": 2059,
+                "id": "08648",
+                "name": "Cereals ready-to-eat, KASHI Simply Maize"
+            },
+            {
+                "offset": 2060,
+                "id": "08649",
+                "name": "Cereals ready-to-eat, KASHI GOLEAN CRISP Cinnamon Crumble"
+            },
+            {
+                "offset": 2061,
+                "id": "08651",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE 80 Calories, Honey Squares"
+            },
+            {
+                "offset": 2062,
+                "id": "08652",
+                "name": "Cereals ready-to-eat, KELLOGG'S KRAVE chocolate cereal"
+            },
+            {
+                "offset": 2063,
+                "id": "08653",
+                "name": "Cereals ready-to-eat, KELLOGG'S RICE KRISPIES, Gluten Free"
+            },
+            {
+                "offset": 2064,
+                "id": "08655",
+                "name": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, pecan bunches"
+            },
+            {
+                "offset": 2065,
+                "id": "08656",
+                "name": "Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS flakes"
+            },
+            {
+                "offset": 2066,
+                "id": "08657",
+                "name": "Cereals ready-to-eat, BARBARA'S PUFFINS, original"
+            },
+            {
+                "offset": 2067,
+                "id": "08658",
+                "name": "Cereals ready-to-eat, KELLOGG'S KRAVE double chocolate cereal"
+            },
+            {
+                "offset": 2068,
+                "id": "08659",
+                "name": "Cereals ready-to-eat, KELLOGG'S FROSTED FLAKES, CHOCO ZUCARITAS"
+            },
+            {
+                "offset": 2069,
+                "id": "08660",
+                "name": "Cereals ready-to-eat, KELLOGG'S APPLE JACKS with marshmallows"
+            },
+            {
+                "offset": 2070,
+                "id": "08661",
+                "name": "Cereals ready-to-eat, KELLOGG'S CINNAMON JACKS"
+            },
+            {
+                "offset": 2071,
+                "id": "08662",
+                "name": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with real strawberries"
+            },
+            {
+                "offset": 2072,
+                "id": "08663",
+                "name": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, Berry Fruitful"
+            },
+            {
+                "offset": 2073,
+                "id": "08665",
+                "name": "Cereals ready-to-eat, POST HONEY BUNCHES OF OATS with cinnamon bunches"
+            },
+            {
+                "offset": 2074,
+                "id": "08666",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Cinnamon Burst CHEERIOS"
+            },
+            {
+                "offset": 2075,
+                "id": "08668",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Nutty Clusters & Almonds"
+            },
+            {
+                "offset": 2076,
+                "id": "08669",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE 80 Calories, Chocolate Squares"
+            },
+            {
+                "offset": 2077,
+                "id": "08670",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CHEERIOS, MEDLEY CRUNCH"
+            },
+            {
+                "offset": 2078,
+                "id": "08671",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Dulce De Leche CHEERIOS"
+            },
+            {
+                "offset": 2079,
+                "id": "08672",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS"
+            },
+            {
+                "offset": 2080,
+                "id": "08673",
+                "name": "Cereals, ready-to-eat, MALT-O-MEAL, Blueberry Mini SPOONERS"
+            },
+            {
+                "offset": 2081,
+                "id": "08674",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDERS with honey"
+            },
+            {
+                "offset": 2082,
+                "id": "08675",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDERS with honey & almonds"
+            },
+            {
+                "offset": 2083,
+                "id": "08676",
+                "name": "Cereals ready-to-eat, MALT-O-MEAL, Honey Nut SCOOTERS"
+            },
+            {
+                "offset": 2084,
+                "id": "08677",
+                "name": "Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS Touch of Fruit in the Middle, Raspberry"
+            },
+            {
+                "offset": 2085,
+                "id": "08678",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Apple Cinnamon CHEX"
+            },
+            {
+                "offset": 2086,
+                "id": "08679",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, FROSTED TOAST CRUNCH"
+            },
+            {
+                "offset": 2087,
+                "id": "08680",
+                "name": "Cereals, oats, instant, fortified, maple and brown sugar, dry"
+            },
+            {
+                "offset": 2088,
+                "id": "08681",
+                "name": "Cereals ready-to-eat, CASCADIAN FARM, Cinnamon Crunch"
+            },
+            {
+                "offset": 2089,
+                "id": "08682",
+                "name": "Cereals ready-to-eat, GENERAL MILLS, Multi Grain CHEERIOS, Peanut Butter"
+            },
+            {
+                "offset": 2090,
+                "id": "08683",
+                "name": "Cereals ready-to-eat, CASCADIAN FARM, Multi-Grain Squares"
+            },
+            {
+                "offset": 2091,
+                "id": "08684",
+                "name": "Cereals ready-to-eat, CASCADIAN FARM, Honey Nut O's"
+            },
+            {
+                "offset": 2092,
+                "id": "08685",
+                "name": "Cereals ready-to-eat, QUAKER WHOLE HEARTS oat cereal"
+            },
+            {
+                "offset": 2093,
+                "id": "08686",
+                "name": "Cereals, QUAKER, Weight Control Instant Oatmeal, maple and brown sugar"
+            },
+            {
+                "offset": 2094,
+                "id": "08687",
+                "name": "Cereals, QUAKER, Weight Control Instant Oatmeal, banana bread"
+            },
+            {
+                "offset": 2095,
+                "id": "08688",
+                "name": "Cereals, QUAKER, Instant Oatmeal, Cinnamon Swirl, high fiber"
+            },
+            {
+                "offset": 2096,
+                "id": "08689",
+                "name": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, blueberry hazelnut, dry"
+            },
+            {
+                "offset": 2097,
+                "id": "08690",
+                "name": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, apple walnut, dry"
+            },
+            {
+                "offset": 2098,
+                "id": "08691",
+                "name": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, summer berry, dry"
+            },
+            {
+                "offset": 2099,
+                "id": "08692",
+                "name": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, peach almond, dry"
+            },
+            {
+                "offset": 2100,
+                "id": "08693",
+                "name": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, cherry pistachio, dry"
+            },
+            {
+                "offset": 2101,
+                "id": "08694",
+                "name": "Cereals, QUAKER, Instant Oatmeal, weight control, cinnamon"
+            },
+            {
+                "offset": 2102,
+                "id": "08695",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED MINI-WHEATS, little bites"
+            },
+            {
+                "offset": 2103,
+                "id": "08696",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN, Cinnamon Almond"
+            },
+            {
+                "offset": 2104,
+                "id": "08697",
+                "name": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, RAISIN VINEYARD"
+            },
+            {
+                "offset": 2105,
+                "id": "08699",
+                "name": "Cereals ready-to-eat, KELLOGG'S KRAVE Smores"
+            },
+            {
+                "offset": 2106,
+                "id": "08700",
+                "name": "Cereals ready-to-eat, KELLOGG RAISIN BRAN with Omega-3 from flaxseed"
+            },
+            {
+                "offset": 2107,
+                "id": "08701",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Multi-grain"
+            },
+            {
+                "offset": 2108,
+                "id": "08702",
+                "name": "Cereals, KELLOGG'S SPECIAL K NOURISH, Cinnamon Raisin Pecan, dry"
+            },
+            {
+                "offset": 2109,
+                "id": "08703",
+                "name": "Cereals, KELLOGG'S SPECIAL K NOURISH, Cranberry Almond, dry"
+            },
+            {
+                "offset": 2110,
+                "id": "08704",
+                "name": "Cereals, KELLOGG'S SPECIAL K NOURISH, Maple Brown Sugar Crunch, dry"
+            },
+            {
+                "offset": 2111,
+                "id": "08705",
+                "name": "Cereals ready-to-eat, KASHI GOLEAN Vanilla Graham Clusters"
+            },
+            {
+                "offset": 2112,
+                "id": "08706",
+                "name": "Cereals ready-to-eat, KELLOGG SCOOBY-DOO! cereal"
+            },
+            {
+                "offset": 2113,
+                "id": "08707",
+                "name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolate Almond"
+            },
+            {
+                "offset": 2114,
+                "id": "08708",
+                "name": "Cereals ready-to-eat, KELLOGG's FROSTED MINI-WHEATS Touch of Fruit in the Middle, raisin"
+            },
+            {
+                "offset": 2115,
+                "id": "08709",
+                "name": "Cereals ready-to-eat, MOM'S BEST, Sweetened WHEAT-FULS"
+            },
+            {
+                "offset": 2116,
+                "id": "08710",
+                "name": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K gluten free, touch of brown sugar"
+            },
+            {
+                "offset": 2117,
+                "id": "08711",
+                "name": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K protein, cinnamon brown sugar crunch"
+            },
+            {
+                "offset": 2118,
+                "id": "08712",
+                "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN with cranberries"
+            },
+            {
+                "offset": 2119,
+                "id": "09001",
+                "name": "Acerola, (west indian cherry), raw"
+            },
+            {
+                "offset": 2120,
+                "id": "09002",
+                "name": "Acerola juice, raw"
+            },
+            {
+                "offset": 2121,
+                "id": "09003",
+                "name": "Apples, raw, with skin"
+            },
+            {
+                "offset": 2122,
+                "id": "09004",
+                "name": "Apples, raw, without skin"
+            },
+            {
+                "offset": 2123,
+                "id": "09005",
+                "name": "Apples, raw, without skin, cooked, boiled"
+            },
+            {
+                "offset": 2124,
+                "id": "09006",
+                "name": "Apples, raw, without skin, cooked, microwave"
+            },
+            {
+                "offset": 2125,
+                "id": "09007",
+                "name": "Apples, canned, sweetened, sliced, drained, unheated"
+            },
+            {
+                "offset": 2126,
+                "id": "09008",
+                "name": "Apples, canned, sweetened, sliced, drained, heated"
+            },
+            {
+                "offset": 2127,
+                "id": "09009",
+                "name": "Apples, dehydrated (low moisture), sulfured, uncooked"
+            },
+            {
+                "offset": 2128,
+                "id": "09010",
+                "name": "Apples, dehydrated (low moisture), sulfured, stewed"
+            },
+            {
+                "offset": 2129,
+                "id": "09011",
+                "name": "Apples, dried, sulfured, uncooked"
+            },
+            {
+                "offset": 2130,
+                "id": "09012",
+                "name": "Apples, dried, sulfured, stewed, without added sugar"
+            },
+            {
+                "offset": 2131,
+                "id": "09013",
+                "name": "Apples, dried, sulfured, stewed, with added sugar"
+            },
+            {
+                "offset": 2132,
+                "id": "09014",
+                "name": "Apples, frozen, unsweetened, unheated"
+            },
+            {
+                "offset": 2133,
+                "id": "09015",
+                "name": "Apples, frozen, unsweetened, heated"
+            },
+            {
+                "offset": 2134,
+                "id": "09016",
+                "name": "Apple juice, canned or bottled, unsweetened, without added ascorbic acid"
+            },
+            {
+                "offset": 2135,
+                "id": "09017",
+                "name": "Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid"
+            },
+            {
+                "offset": 2136,
+                "id": "09018",
+                "name": "Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water without added ascorbic acid"
+            },
+            {
+                "offset": 2137,
+                "id": "09019",
+                "name": "Applesauce, canned, unsweetened, without added ascorbic acid (includes USDA commodity)"
+            },
+            {
+                "offset": 2138,
+                "id": "09020",
+                "name": "Applesauce, canned, sweetened, without salt (includes USDA commodity)"
+            },
+            {
+                "offset": 2139,
+                "id": "09021",
+                "name": "Apricots, raw"
+            },
+            {
+                "offset": 2140,
+                "id": "09022",
+                "name": "Apricots, canned, water pack, with skin, solids and liquids"
+            },
+            {
+                "offset": 2141,
+                "id": "09023",
+                "name": "Apricots, canned, water pack, without skin, solids and liquids"
+            },
+            {
+                "offset": 2142,
+                "id": "09024",
+                "name": "Apricots, canned, juice pack, with skin, solids and liquids"
+            },
+            {
+                "offset": 2143,
+                "id": "09025",
+                "name": "Apricots, canned, extra light syrup pack, with skin, solids and liquids"
+            },
+            {
+                "offset": 2144,
+                "id": "09026",
+                "name": "Apricots, canned, light syrup pack, with skin, solids and liquids"
+            },
+            {
+                "offset": 2145,
+                "id": "09027",
+                "name": "Apricots, canned, heavy syrup pack, with skin, solids and liquids"
+            },
+            {
+                "offset": 2146,
+                "id": "09028",
+                "name": "Apricots, canned, heavy syrup pack, without skin, solids and liquids"
+            },
+            {
+                "offset": 2147,
+                "id": "09029",
+                "name": "Apricots, canned, extra heavy syrup pack, without skin, solids and liquids"
+            },
+            {
+                "offset": 2148,
+                "id": "09030",
+                "name": "Apricots, dehydrated (low-moisture), sulfured, uncooked"
+            },
+            {
+                "offset": 2149,
+                "id": "09031",
+                "name": "Apricots, dehydrated (low-moisture), sulfured, stewed"
+            },
+            {
+                "offset": 2150,
+                "id": "09032",
+                "name": "Apricots, dried, sulfured, uncooked"
+            },
+            {
+                "offset": 2151,
+                "id": "09033",
+                "name": "Apricots, dried, sulfured, stewed, without added sugar"
+            },
+            {
+                "offset": 2152,
+                "id": "09034",
+                "name": "Apricots, dried, sulfured, stewed, with added sugar"
+            },
+            {
+                "offset": 2153,
+                "id": "09035",
+                "name": "Apricots, frozen, sweetened"
+            },
+            {
+                "offset": 2154,
+                "id": "09036",
+                "name": "Apricot nectar, canned, without added ascorbic acid"
+            },
+            {
+                "offset": 2155,
+                "id": "09037",
+                "name": "Avocados, raw, all commercial varieties"
+            },
+            {
+                "offset": 2156,
+                "id": "09038",
+                "name": "Avocados, raw, California"
+            },
+            {
+                "offset": 2157,
+                "id": "09039",
+                "name": "Avocados, raw, Florida"
+            },
+            {
+                "offset": 2158,
+                "id": "09040",
+                "name": "Bananas, raw"
+            },
+            {
+                "offset": 2159,
+                "id": "09041",
+                "name": "Bananas, dehydrated, or banana powder"
+            },
+            {
+                "offset": 2160,
+                "id": "09042",
+                "name": "Blackberries, raw"
+            },
+            {
+                "offset": 2161,
+                "id": "09043",
+                "name": "Blackberry juice, canned"
+            },
+            {
+                "offset": 2162,
+                "id": "09044",
+                "name": "Cherries, tart, dried, sweetened"
+            },
+            {
+                "offset": 2163,
+                "id": "09046",
+                "name": "Blackberries, canned, heavy syrup, solids and liquids"
+            },
+            {
+                "offset": 2164,
+                "id": "09048",
+                "name": "Blackberries, frozen, unsweetened"
+            },
+            {
+                "offset": 2165,
+                "id": "09050",
+                "name": "Blueberries, raw"
+            },
+            {
+                "offset": 2166,
+                "id": "09052",
+                "name": "Blueberries, canned, heavy syrup, solids and liquids"
+            },
+            {
+                "offset": 2167,
+                "id": "09053",
+                "name": "Blueberries, wild, frozen"
+            },
+            {
+                "offset": 2168,
+                "id": "09054",
+                "name": "Blueberries, frozen, unsweetened"
+            },
+            {
+                "offset": 2169,
+                "id": "09055",
+                "name": "Blueberries, frozen, sweetened"
+            },
+            {
+                "offset": 2170,
+                "id": "09056",
+                "name": "Boysenberries, canned, heavy syrup"
+            },
+            {
+                "offset": 2171,
+                "id": "09057",
+                "name": "Boysenberries, frozen, unsweetened"
+            },
+            {
+                "offset": 2172,
+                "id": "09059",
+                "name": "Breadfruit, raw"
+            },
+            {
+                "offset": 2173,
+                "id": "09060",
+                "name": "Carambola, (starfruit), raw"
+            },
+            {
+                "offset": 2174,
+                "id": "09061",
+                "name": "Carissa, (natal-plum), raw"
+            },
+            {
+                "offset": 2175,
+                "id": "09062",
+                "name": "Cherimoya, raw"
+            },
+            {
+                "offset": 2176,
+                "id": "09063",
+                "name": "Cherries, sour, red, raw"
+            },
+            {
+                "offset": 2177,
+                "id": "09064",
+                "name": "Cherries, sour, red, canned, water pack, solids and liquids (includes USDA commodity red tart cherries, canned)"
+            },
+            {
+                "offset": 2178,
+                "id": "09065",
+                "name": "Cherries, sour, red, canned, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2179,
+                "id": "09066",
+                "name": "Cherries, sour, red, canned, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2180,
+                "id": "09067",
+                "name": "Cherries, sour, red, canned, extra heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2181,
+                "id": "09068",
+                "name": "Cherries, sour, red, frozen, unsweetened"
+            },
+            {
+                "offset": 2182,
+                "id": "09070",
+                "name": "Cherries, sweet, raw"
+            },
+            {
+                "offset": 2183,
+                "id": "09071",
+                "name": "Cherries, sweet, canned, water pack, solids and liquids"
+            },
+            {
+                "offset": 2184,
+                "id": "09072",
+                "name": "Cherries, sweet, canned, juice pack, solids and liquids"
+            },
+            {
+                "offset": 2185,
+                "id": "09073",
+                "name": "Cherries, sweet, canned, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2186,
+                "id": "09074",
+                "name": "Cherries, sweet, canned, pitted, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2187,
+                "id": "09075",
+                "name": "Cherries, sweet, canned, extra heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2188,
+                "id": "09076",
+                "name": "Cherries, sweet, frozen, sweetened"
+            },
+            {
+                "offset": 2189,
+                "id": "09077",
+                "name": "Crabapples, raw"
+            },
+            {
+                "offset": 2190,
+                "id": "09078",
+                "name": "Cranberries, raw"
+            },
+            {
+                "offset": 2191,
+                "id": "09079",
+                "name": "Cranberries, dried, sweetened"
+            },
+            {
+                "offset": 2192,
+                "id": "09081",
+                "name": "Cranberry sauce, canned, sweetened"
+            },
+            {
+                "offset": 2193,
+                "id": "09082",
+                "name": "Cranberry-orange relish, canned"
+            },
+            {
+                "offset": 2194,
+                "id": "09083",
+                "name": "Currants, european black, raw"
+            },
+            {
+                "offset": 2195,
+                "id": "09084",
+                "name": "Currants, red and white, raw"
+            },
+            {
+                "offset": 2196,
+                "id": "09085",
+                "name": "Currants, zante, dried"
+            },
+            {
+                "offset": 2197,
+                "id": "09086",
+                "name": "Custard-apple, (bullock's-heart), raw"
+            },
+            {
+                "offset": 2198,
+                "id": "09087",
+                "name": "Dates, deglet noor"
+            },
+            {
+                "offset": 2199,
+                "id": "09088",
+                "name": "Elderberries, raw"
+            },
+            {
+                "offset": 2200,
+                "id": "09089",
+                "name": "Figs, raw"
+            },
+            {
+                "offset": 2201,
+                "id": "09090",
+                "name": "Figs, canned, water pack, solids and liquids"
+            },
+            {
+                "offset": 2202,
+                "id": "09091",
+                "name": "Figs, canned, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2203,
+                "id": "09092",
+                "name": "Figs, canned, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2204,
+                "id": "09093",
+                "name": "Figs, canned, extra heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2205,
+                "id": "09094",
+                "name": "Figs, dried, uncooked"
+            },
+            {
+                "offset": 2206,
+                "id": "09095",
+                "name": "Figs, dried, stewed"
+            },
+            {
+                "offset": 2207,
+                "id": "09096",
+                "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids"
+            },
+            {
+                "offset": 2208,
+                "id": "09097",
+                "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, juice pack, solids and liquids"
+            },
+            {
+                "offset": 2209,
+                "id": "09098",
+                "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra light syrup, solids and liquids"
+            },
+            {
+                "offset": 2210,
+                "id": "09099",
+                "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, light syrup, solids and liquids"
+            },
+            {
+                "offset": 2211,
+                "id": "09100",
+                "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids"
+            },
+            {
+                "offset": 2212,
+                "id": "09101",
+                "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra heavy syrup, solids and liquids"
+            },
+            {
+                "offset": 2213,
+                "id": "09102",
+                "name": "Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, water pack, solids and liquids"
+            },
+            {
+                "offset": 2214,
+                "id": "09103",
+                "name": "Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, juice pack, solids and liquids"
+            },
+            {
+                "offset": 2215,
+                "id": "09104",
+                "name": "Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, light syrup, solids and liquids"
+            },
+            {
+                "offset": 2216,
+                "id": "09105",
+                "name": "Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, heavy syrup, solids and liquids"
+            },
+            {
+                "offset": 2217,
+                "id": "09106",
+                "name": "Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, extra heavy syrup, solids and liquids"
+            },
+            {
+                "offset": 2218,
+                "id": "09107",
+                "name": "Gooseberries, raw"
+            },
+            {
+                "offset": 2219,
+                "id": "09109",
+                "name": "Gooseberries, canned, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2220,
+                "id": "09110",
+                "name": "Goji berries, dried"
+            },
+            {
+                "offset": 2221,
+                "id": "09111",
+                "name": "Grapefruit, raw, pink and red and white, all areas"
+            },
+            {
+                "offset": 2222,
+                "id": "09112",
+                "name": "Grapefruit, raw, pink and red, all areas"
+            },
+            {
+                "offset": 2223,
+                "id": "09113",
+                "name": "Grapefruit, raw, pink and red, California and Arizona"
+            },
+            {
+                "offset": 2224,
+                "id": "09114",
+                "name": "Grapefruit, raw, pink and red, Florida"
+            },
+            {
+                "offset": 2225,
+                "id": "09116",
+                "name": "Grapefruit, raw, white, all areas"
+            },
+            {
+                "offset": 2226,
+                "id": "09117",
+                "name": "Grapefruit, raw, white, California"
+            },
+            {
+                "offset": 2227,
+                "id": "09118",
+                "name": "Grapefruit, raw, white, Florida"
+            },
+            {
+                "offset": 2228,
+                "id": "09119",
+                "name": "Grapefruit, sections, canned, water pack, solids and liquids"
+            },
+            {
+                "offset": 2229,
+                "id": "09120",
+                "name": "Grapefruit, sections, canned, juice pack, solids and liquids"
+            },
+            {
+                "offset": 2230,
+                "id": "09121",
+                "name": "Grapefruit, sections, canned, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2231,
+                "id": "09123",
+                "name": "Grapefruit juice, white, canned or bottled, unsweetened"
+            },
+            {
+                "offset": 2232,
+                "id": "09124",
+                "name": "Grapefruit juice, white, canned, sweetened"
+            },
+            {
+                "offset": 2233,
+                "id": "09125",
+                "name": "Grapefruit juice, white, frozen concentrate, unsweetened, undiluted"
+            },
+            {
+                "offset": 2234,
+                "id": "09126",
+                "name": "Grapefruit juice, white, frozen concentrate, unsweetened, diluted with 3 volume water"
+            },
+            {
+                "offset": 2235,
+                "id": "09127",
+                "name": "Grapefruit juice, pink or red, with added calcium"
+            },
+            {
+                "offset": 2236,
+                "id": "09128",
+                "name": "Grapefruit juice, white, raw"
+            },
+            {
+                "offset": 2237,
+                "id": "09129",
+                "name": "Grapes, muscadine, raw"
+            },
+            {
+                "offset": 2238,
+                "id": "09130",
+                "name": "Grape juice, canned or bottled, unsweetened, with added ascorbic acid"
+            },
+            {
+                "offset": 2239,
+                "id": "09131",
+                "name": "Grapes, american type (slip skin), raw"
+            },
+            {
+                "offset": 2240,
+                "id": "09132",
+                "name": "Grapes, red or green (European type, such as Thompson seedless), raw"
+            },
+            {
+                "offset": 2241,
+                "id": "09133",
+                "name": "Grapes, canned, thompson seedless, water pack, solids and liquids"
+            },
+            {
+                "offset": 2242,
+                "id": "09134",
+                "name": "Grapes, canned, thompson seedless, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2243,
+                "id": "09135",
+                "name": "Grape juice, canned or bottled, unsweetened, without added ascorbic acid"
+            },
+            {
+                "offset": 2244,
+                "id": "09138",
+                "name": "Groundcherries, (cape-gooseberries or poha), raw"
+            },
+            {
+                "offset": 2245,
+                "id": "09139",
+                "name": "Guavas, common, raw"
+            },
+            {
+                "offset": 2246,
+                "id": "09140",
+                "name": "Guavas, strawberry, raw"
+            },
+            {
+                "offset": 2247,
+                "id": "09143",
+                "name": "Guava sauce, cooked"
+            },
+            {
+                "offset": 2248,
+                "id": "09144",
+                "name": "Jackfruit, raw"
+            },
+            {
+                "offset": 2249,
+                "id": "09145",
+                "name": "Java-plum, (jambolan), raw"
+            },
+            {
+                "offset": 2250,
+                "id": "09146",
+                "name": "Jujube, raw"
+            },
+            {
+                "offset": 2251,
+                "id": "09147",
+                "name": "Jujube, Chinese, fresh, dried"
+            },
+            {
+                "offset": 2252,
+                "id": "09148",
+                "name": "Kiwifruit, green, raw"
+            },
+            {
+                "offset": 2253,
+                "id": "09149",
+                "name": "Kumquats, raw"
+            },
+            {
+                "offset": 2254,
+                "id": "09150",
+                "name": "Lemons, raw, without peel"
+            },
+            {
+                "offset": 2255,
+                "id": "09152",
+                "name": "Lemon juice, raw"
+            },
+            {
+                "offset": 2256,
+                "id": "09153",
+                "name": "Lemon juice from concentrate, canned or bottled"
+            },
+            {
+                "offset": 2257,
+                "id": "09154",
+                "name": "Lemon juice, frozen, unsweetened, single strength"
+            },
+            {
+                "offset": 2258,
+                "id": "09156",
+                "name": "Lemon peel, raw"
+            },
+            {
+                "offset": 2259,
+                "id": "09159",
+                "name": "Limes, raw"
+            },
+            {
+                "offset": 2260,
+                "id": "09160",
+                "name": "Lime juice, raw"
+            },
+            {
+                "offset": 2261,
+                "id": "09161",
+                "name": "Lime juice, canned or bottled, unsweetened"
+            },
+            {
+                "offset": 2262,
+                "id": "09163",
+                "name": "Blueberries, dried, sweetened"
+            },
+            {
+                "offset": 2263,
+                "id": "09164",
+                "name": "Litchis, raw"
+            },
+            {
+                "offset": 2264,
+                "id": "09165",
+                "name": "Litchis, dried"
+            },
+            {
+                "offset": 2265,
+                "id": "09167",
+                "name": "Loganberries, frozen"
+            },
+            {
+                "offset": 2266,
+                "id": "09172",
+                "name": "Longans, raw"
+            },
+            {
+                "offset": 2267,
+                "id": "09173",
+                "name": "Longans, dried"
+            },
+            {
+                "offset": 2268,
+                "id": "09174",
+                "name": "Loquats, raw"
+            },
+            {
+                "offset": 2269,
+                "id": "09175",
+                "name": "Mammy-apple, (mamey), raw"
+            },
+            {
+                "offset": 2270,
+                "id": "09176",
+                "name": "Mangos, raw"
+            },
+            {
+                "offset": 2271,
+                "id": "09177",
+                "name": "Mangosteen, canned, syrup pack"
+            },
+            {
+                "offset": 2272,
+                "id": "09178",
+                "name": "Mango, dried, sweetened"
+            },
+            {
+                "offset": 2273,
+                "id": "09181",
+                "name": "Melons, cantaloupe, raw"
+            },
+            {
+                "offset": 2274,
+                "id": "09183",
+                "name": "Melons, casaba, raw"
+            },
+            {
+                "offset": 2275,
+                "id": "09184",
+                "name": "Melons, honeydew, raw"
+            },
+            {
+                "offset": 2276,
+                "id": "09185",
+                "name": "Melon balls, frozen"
+            },
+            {
+                "offset": 2277,
+                "id": "09190",
+                "name": "Mulberries, raw"
+            },
+            {
+                "offset": 2278,
+                "id": "09191",
+                "name": "Nectarines, raw"
+            },
+            {
+                "offset": 2279,
+                "id": "09192",
+                "name": "Oheloberries, raw"
+            },
+            {
+                "offset": 2280,
+                "id": "09193",
+                "name": "Olives, ripe, canned (small-extra large)"
+            },
+            {
+                "offset": 2281,
+                "id": "09194",
+                "name": "Olives, ripe, canned (jumbo-super colossal)"
+            },
+            {
+                "offset": 2282,
+                "id": "09195",
+                "name": "Olives, pickled, canned or bottled, green"
+            },
+            {
+                "offset": 2283,
+                "id": "09200",
+                "name": "Oranges, raw, all commercial varieties"
+            },
+            {
+                "offset": 2284,
+                "id": "09201",
+                "name": "Oranges, raw, California, valencias"
+            },
+            {
+                "offset": 2285,
+                "id": "09202",
+                "name": "Oranges, raw, navels"
+            },
+            {
+                "offset": 2286,
+                "id": "09203",
+                "name": "Oranges, raw, Florida"
+            },
+            {
+                "offset": 2287,
+                "id": "09205",
+                "name": "Oranges, raw, with peel"
+            },
+            {
+                "offset": 2288,
+                "id": "09206",
+                "name": "Orange juice, raw"
+            },
+            {
+                "offset": 2289,
+                "id": "09207",
+                "name": "Orange juice, canned, unsweetened"
+            },
+            {
+                "offset": 2290,
+                "id": "09209",
+                "name": "Orange juice, chilled, includes from concentrate"
+            },
+            {
+                "offset": 2291,
+                "id": "09210",
+                "name": "Orange juice, chilled, includes from concentrate, with added calcium and vitamin D"
+            },
+            {
+                "offset": 2292,
+                "id": "09211",
+                "name": "Orange juice, chilled, includes from concentrate, with added calcium"
+            },
+            {
+                "offset": 2293,
+                "id": "09212",
+                "name": "Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added calcium"
+            },
+            {
+                "offset": 2294,
+                "id": "09213",
+                "name": "Orange juice, frozen concentrate, unsweetened, undiluted, with added calcium"
+            },
+            {
+                "offset": 2295,
+                "id": "09214",
+                "name": "Orange juice, frozen concentrate, unsweetened, undiluted"
+            },
+            {
+                "offset": 2296,
+                "id": "09215",
+                "name": "Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water"
+            },
+            {
+                "offset": 2297,
+                "id": "09216",
+                "name": "Orange peel, raw"
+            },
+            {
+                "offset": 2298,
+                "id": "09217",
+                "name": "Orange-grapefruit juice, canned or bottled, unsweetened"
+            },
+            {
+                "offset": 2299,
+                "id": "09218",
+                "name": "Tangerines, (mandarin oranges), raw"
+            },
+            {
+                "offset": 2300,
+                "id": "09219",
+                "name": "Tangerines, (mandarin oranges), canned, juice pack"
+            },
+            {
+                "offset": 2301,
+                "id": "09220",
+                "name": "Tangerines, (mandarin oranges), canned, light syrup pack"
+            },
+            {
+                "offset": 2302,
+                "id": "09221",
+                "name": "Tangerine juice, raw"
+            },
+            {
+                "offset": 2303,
+                "id": "09223",
+                "name": "Tangerine juice, canned, sweetened"
+            },
+            {
+                "offset": 2304,
+                "id": "09226",
+                "name": "Papayas, raw"
+            },
+            {
+                "offset": 2305,
+                "id": "09228",
+                "name": "Papaya, canned, heavy syrup, drained"
+            },
+            {
+                "offset": 2306,
+                "id": "09229",
+                "name": "Papaya nectar, canned"
+            },
+            {
+                "offset": 2307,
+                "id": "09231",
+                "name": "Passion-fruit, (granadilla), purple, raw"
+            },
+            {
+                "offset": 2308,
+                "id": "09232",
+                "name": "Passion-fruit juice, purple, raw"
+            },
+            {
+                "offset": 2309,
+                "id": "09233",
+                "name": "Passion-fruit juice, yellow, raw"
+            },
+            {
+                "offset": 2310,
+                "id": "09236",
+                "name": "Peaches, yellow, raw"
+            },
+            {
+                "offset": 2311,
+                "id": "09237",
+                "name": "Peaches, canned, water pack, solids and liquids"
+            },
+            {
+                "offset": 2312,
+                "id": "09238",
+                "name": "Peaches, canned, juice pack, solids and liquids"
+            },
+            {
+                "offset": 2313,
+                "id": "09239",
+                "name": "Peaches, canned, extra light syrup, solids and liquids"
+            },
+            {
+                "offset": 2314,
+                "id": "09240",
+                "name": "Peaches, canned, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2315,
+                "id": "09241",
+                "name": "Peaches, canned, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2316,
+                "id": "09242",
+                "name": "Peaches, canned, extra heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2317,
+                "id": "09243",
+                "name": "Peaches, spiced, canned, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2318,
+                "id": "09244",
+                "name": "Peaches, dehydrated (low-moisture), sulfured, uncooked"
+            },
+            {
+                "offset": 2319,
+                "id": "09245",
+                "name": "Peaches, dehydrated (low-moisture), sulfured, stewed"
+            },
+            {
+                "offset": 2320,
+                "id": "09246",
+                "name": "Peaches, dried, sulfured, uncooked"
+            },
+            {
+                "offset": 2321,
+                "id": "09247",
+                "name": "Peaches, dried, sulfured, stewed, without added sugar"
+            },
+            {
+                "offset": 2322,
+                "id": "09248",
+                "name": "Peaches, dried, sulfured, stewed, with added sugar"
+            },
+            {
+                "offset": 2323,
+                "id": "09250",
+                "name": "Peaches, frozen, sliced, sweetened"
+            },
+            {
+                "offset": 2324,
+                "id": "09251",
+                "name": "Peach nectar, canned, without added ascorbic acid"
+            },
+            {
+                "offset": 2325,
+                "id": "09252",
+                "name": "Pears, raw"
+            },
+            {
+                "offset": 2326,
+                "id": "09253",
+                "name": "Pears, canned, water pack, solids and liquids"
+            },
+            {
+                "offset": 2327,
+                "id": "09254",
+                "name": "Pears, canned, juice pack, solids and liquids"
+            },
+            {
+                "offset": 2328,
+                "id": "09255",
+                "name": "Pears, canned, extra light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2329,
+                "id": "09256",
+                "name": "Pears, canned, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2330,
+                "id": "09257",
+                "name": "Pears, canned, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2331,
+                "id": "09258",
+                "name": "Pears, canned, extra heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2332,
+                "id": "09259",
+                "name": "Pears, dried, sulfured, uncooked"
+            },
+            {
+                "offset": 2333,
+                "id": "09260",
+                "name": "Pears, dried, sulfured, stewed, without added sugar"
+            },
+            {
+                "offset": 2334,
+                "id": "09261",
+                "name": "Pears, dried, sulfured, stewed, with added sugar"
+            },
+            {
+                "offset": 2335,
+                "id": "09262",
+                "name": "Pear nectar, canned, without added ascorbic acid"
+            },
+            {
+                "offset": 2336,
+                "id": "09263",
+                "name": "Persimmons, japanese, raw"
+            },
+            {
+                "offset": 2337,
+                "id": "09264",
+                "name": "Persimmons, japanese, dried"
+            },
+            {
+                "offset": 2338,
+                "id": "09265",
+                "name": "Persimmons, native, raw"
+            },
+            {
+                "offset": 2339,
+                "id": "09266",
+                "name": "Pineapple, raw, all varieties"
+            },
+            {
+                "offset": 2340,
+                "id": "09267",
+                "name": "Pineapple, canned, water pack, solids and liquids"
+            },
+            {
+                "offset": 2341,
+                "id": "09268",
+                "name": "Pineapple, canned, juice pack, solids and liquids"
+            },
+            {
+                "offset": 2342,
+                "id": "09269",
+                "name": "Pineapple, canned, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2343,
+                "id": "09270",
+                "name": "Pineapple, canned, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2344,
+                "id": "09271",
+                "name": "Pineapple, canned, extra heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2345,
+                "id": "09272",
+                "name": "Pineapple, frozen, chunks, sweetened"
+            },
+            {
+                "offset": 2346,
+                "id": "09273",
+                "name": "Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid"
+            },
+            {
+                "offset": 2347,
+                "id": "09274",
+                "name": "Pineapple juice, frozen concentrate, unsweetened, undiluted"
+            },
+            {
+                "offset": 2348,
+                "id": "09275",
+                "name": "Pineapple juice, frozen concentrate, unsweetened, diluted with 3 volume water"
+            },
+            {
+                "offset": 2349,
+                "id": "09276",
+                "name": "Pitanga, (surinam-cherry), raw"
+            },
+            {
+                "offset": 2350,
+                "id": "09277",
+                "name": "Plantains, raw"
+            },
+            {
+                "offset": 2351,
+                "id": "09278",
+                "name": "Plantains, cooked"
+            },
+            {
+                "offset": 2352,
+                "id": "09279",
+                "name": "Plums, raw"
+            },
+            {
+                "offset": 2353,
+                "id": "09281",
+                "name": "Plums, canned, purple, water pack, solids and liquids"
+            },
+            {
+                "offset": 2354,
+                "id": "09282",
+                "name": "Plums, canned, purple, juice pack, solids and liquids"
+            },
+            {
+                "offset": 2355,
+                "id": "09283",
+                "name": "Plums, canned, purple, light syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2356,
+                "id": "09284",
+                "name": "Plums, canned, purple, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2357,
+                "id": "09285",
+                "name": "Plums, canned, purple, extra heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2358,
+                "id": "09286",
+                "name": "Pomegranates, raw"
+            },
+            {
+                "offset": 2359,
+                "id": "09287",
+                "name": "Prickly pears, raw"
+            },
+            {
+                "offset": 2360,
+                "id": "09288",
+                "name": "Prunes, canned, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2361,
+                "id": "09289",
+                "name": "Prunes, dehydrated (low-moisture), uncooked"
+            },
+            {
+                "offset": 2362,
+                "id": "09290",
+                "name": "Prunes, dehydrated (low-moisture), stewed"
+            },
+            {
+                "offset": 2363,
+                "id": "09291",
+                "name": "Plums, dried (prunes), uncooked"
+            },
+            {
+                "offset": 2364,
+                "id": "09292",
+                "name": "Plums, dried (prunes), stewed, without added sugar"
+            },
+            {
+                "offset": 2365,
+                "id": "09293",
+                "name": "Plums, dried (prunes), stewed, with added sugar"
+            },
+            {
+                "offset": 2366,
+                "id": "09294",
+                "name": "Prune juice, canned"
+            },
+            {
+                "offset": 2367,
+                "id": "09295",
+                "name": "Pummelo, raw"
+            },
+            {
+                "offset": 2368,
+                "id": "09296",
+                "name": "Quinces, raw"
+            },
+            {
+                "offset": 2369,
+                "id": "09297",
+                "name": "Raisins, golden seedless"
+            },
+            {
+                "offset": 2370,
+                "id": "09298",
+                "name": "Raisins, seedless"
+            },
+            {
+                "offset": 2371,
+                "id": "09299",
+                "name": "Raisins, seeded"
+            },
+            {
+                "offset": 2372,
+                "id": "09301",
+                "name": "Rambutan, canned, syrup pack"
+            },
+            {
+                "offset": 2373,
+                "id": "09302",
+                "name": "Raspberries, raw"
+            },
+            {
+                "offset": 2374,
+                "id": "09304",
+                "name": "Raspberries, canned, red, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2375,
+                "id": "09306",
+                "name": "Raspberries, frozen, red, sweetened"
+            },
+            {
+                "offset": 2376,
+                "id": "09307",
+                "name": "Rhubarb, raw"
+            },
+            {
+                "offset": 2377,
+                "id": "09309",
+                "name": "Rhubarb, frozen, uncooked"
+            },
+            {
+                "offset": 2378,
+                "id": "09310",
+                "name": "Rhubarb, frozen, cooked, with sugar"
+            },
+            {
+                "offset": 2379,
+                "id": "09311",
+                "name": "Roselle, raw"
+            },
+            {
+                "offset": 2380,
+                "id": "09312",
+                "name": "Rose-apples, raw"
+            },
+            {
+                "offset": 2381,
+                "id": "09313",
+                "name": "Sapodilla, raw"
+            },
+            {
+                "offset": 2382,
+                "id": "09314",
+                "name": "Sapote, mamey, raw"
+            },
+            {
+                "offset": 2383,
+                "id": "09315",
+                "name": "Soursop, raw"
+            },
+            {
+                "offset": 2384,
+                "id": "09316",
+                "name": "Strawberries, raw"
+            },
+            {
+                "offset": 2385,
+                "id": "09317",
+                "name": "Strawberries, canned, heavy syrup pack, solids and liquids"
+            },
+            {
+                "offset": 2386,
+                "id": "09318",
+                "name": "Strawberries, frozen, unsweetened"
+            },
+            {
+                "offset": 2387,
+                "id": "09319",
+                "name": "Strawberries, frozen, sweetened, whole"
+            },
+            {
+                "offset": 2388,
+                "id": "09320",
+                "name": "Strawberries, frozen, sweetened, sliced"
+            },
+            {
+                "offset": 2389,
+                "id": "09321",
+                "name": "Sugar-apples, (sweetsop), raw"
+            },
+            {
+                "offset": 2390,
+                "id": "09322",
+                "name": "Tamarinds, raw"
+            },
+            {
+                "offset": 2391,
+                "id": "09325",
+                "name": "Fruit salad, (pineapple and papaya and banana and guava), tropical, canned, heavy syrup, solids and liquids"
+            },
+            {
+                "offset": 2392,
+                "id": "09326",
+                "name": "Watermelon, raw"
+            },
+            {
+                "offset": 2393,
+                "id": "09328",
+                "name": "Maraschino cherries, canned, drained"
+            },
+            {
+                "offset": 2394,
+                "id": "09334",
+                "name": "Feijoa, raw"
+            },
+            {
+                "offset": 2395,
+                "id": "09340",
+                "name": "Pears, asian, raw"
+            },
+            {
+                "offset": 2396,
+                "id": "09351",
+                "name": "Fruit cocktail, canned, heavy syrup, drained"
+            },
+            {
+                "offset": 2397,
+                "id": "09352",
+                "name": "Blueberries, canned, light syrup, drained"
+            },
+            {
+                "offset": 2398,
+                "id": "09353",
+                "name": "Blueberries, wild, canned, heavy syrup, drained"
+            },
+            {
+                "offset": 2399,
+                "id": "09354",
+                "name": "Pineapple, canned, juice pack, drained"
+            },
+            {
+                "offset": 2400,
+                "id": "09357",
+                "name": "Apricots, canned, heavy syrup, drained"
+            },
+            {
+                "offset": 2401,
+                "id": "09362",
+                "name": "Cherries, sour, canned, water pack, drained"
+            },
+            {
+                "offset": 2402,
+                "id": "09367",
+                "name": "Cherries, sweet, canned, pitted, heavy syrup, drained"
+            },
+            {
+                "offset": 2403,
+                "id": "09370",
+                "name": "Peaches, canned, heavy syrup, drained"
+            },
+            {
+                "offset": 2404,
+                "id": "09374",
+                "name": "Pears, canned, heavy syrup, drained"
+            },
+            {
+                "offset": 2405,
+                "id": "09379",
+                "name": "Plums, canned, heavy syrup, drained"
+            },
+            {
+                "offset": 2406,
+                "id": "09383",
+                "name": "Tangerines, (mandarin oranges), canned, juice pack, drained"
+            },
+            {
+                "offset": 2407,
+                "id": "09400",
+                "name": "Apple juice, canned or bottled, unsweetened, with added ascorbic acid"
+            },
+            {
+                "offset": 2408,
+                "id": "09401",
+                "name": "Applesauce, canned, unsweetened, with added ascorbic acid"
+            },
+            {
+                "offset": 2409,
+                "id": "09402",
+                "name": "Applesauce, canned, sweetened, with salt"
+            },
+            {
+                "offset": 2410,
+                "id": "09403",
+                "name": "Apricot nectar, canned, with added ascorbic acid"
+            },
+            {
+                "offset": 2411,
+                "id": "09404",
+                "name": "Grapefruit juice, pink, raw"
+            },
+            {
+                "offset": 2412,
+                "id": "09407",
+                "name": "Peach nectar, canned, with added ascorbic acid"
+            },
+            {
+                "offset": 2413,
+                "id": "09408",
+                "name": "Pear nectar, canned, with added ascorbic acid"
+            },
+            {
+                "offset": 2414,
+                "id": "09409",
+                "name": "Pineapple juice, canned or bottled, unsweetened, with added ascorbic acid"
+            },
+            {
+                "offset": 2415,
+                "id": "09410",
+                "name": "Apple juice, frozen concentrate, unsweetened, undiluted, with added ascorbic acid"
+            },
+            {
+                "offset": 2416,
+                "id": "09411",
+                "name": "Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added ascorbic acid"
+            },
+            {
+                "offset": 2417,
+                "id": "09412",
+                "name": "Pears, raw, bartlett"
+            },
+            {
+                "offset": 2418,
+                "id": "09413",
+                "name": "Pears, raw, red anjou"
+            },
+            {
+                "offset": 2419,
+                "id": "09414",
+                "name": "Pears, raw, bosc"
+            },
+            {
+                "offset": 2420,
+                "id": "09415",
+                "name": "Pears, raw, green anjou"
+            },
+            {
+                "offset": 2421,
+                "id": "09416",
+                "name": "Grapefruit juice, white, bottled, unsweetened, OCEAN SPRAY"
+            },
+            {
+                "offset": 2422,
+                "id": "09420",
+                "name": "Jackfruit, canned, syrup pack"
+            },
+            {
+                "offset": 2423,
+                "id": "09421",
+                "name": "Dates, medjool"
+            },
+            {
+                "offset": 2424,
+                "id": "09422",
+                "name": "Durian, raw or frozen"
+            },
+            {
+                "offset": 2425,
+                "id": "09423",
+                "name": "Prune puree"
+            },
+            {
+                "offset": 2426,
+                "id": "09426",
+                "name": "Candied fruit"
+            },
+            {
+                "offset": 2427,
+                "id": "09427",
+                "name": "Abiyuch, raw"
+            },
+            {
+                "offset": 2428,
+                "id": "09428",
+                "name": "Rowal, raw"
+            },
+            {
+                "offset": 2429,
+                "id": "09429",
+                "name": "Pineapple, raw, traditional varieties"
+            },
+            {
+                "offset": 2430,
+                "id": "09430",
+                "name": "Pineapple, raw, extra sweet variety"
+            },
+            {
+                "offset": 2431,
+                "id": "09431",
+                "name": "USDA Commodity, mixed fruit (peaches, pears, grapes), canned, light syrup, drained"
+            },
+            {
+                "offset": 2432,
+                "id": "09432",
+                "name": "USDA Commodity, mixed fruit (peaches, pears, grapes), canned, light syrup, solids and liquids"
+            },
+            {
+                "offset": 2433,
+                "id": "09433",
+                "name": "Clementines, raw"
+            },
+            {
+                "offset": 2434,
+                "id": "09434",
+                "name": "Guanabana nectar, canned"
+            },
+            {
+                "offset": 2435,
+                "id": "09435",
+                "name": "Guava nectar, canned, with added ascorbic acid"
+            },
+            {
+                "offset": 2436,
+                "id": "09436",
+                "name": "Mango nectar, canned"
+            },
+            {
+                "offset": 2437,
+                "id": "09437",
+                "name": "Tamarind nectar, canned"
+            },
+            {
+                "offset": 2438,
+                "id": "09438",
+                "name": "USDA Commodity peaches, canned, light syrup, drained"
+            },
+            {
+                "offset": 2439,
+                "id": "09439",
+                "name": "USDA Commodity pears, canned, juice pack, drained"
+            },
+            {
+                "offset": 2440,
+                "id": "09440",
+                "name": "USDA Commodity pears, canned, light syrup, drained"
+            },
+            {
+                "offset": 2441,
+                "id": "09442",
+                "name": "Pomegranate juice, bottled"
+            },
+            {
+                "offset": 2442,
+                "id": "09443",
+                "name": "Juice, apple and grape blend, with added ascorbic acid"
+            },
+            {
+                "offset": 2443,
+                "id": "09444",
+                "name": "Juice, apple, grape and pear blend, with added ascorbic acid and calcium"
+            },
+            {
+                "offset": 2444,
+                "id": "09446",
+                "name": "Plantains, green, fried"
+            },
+            {
+                "offset": 2445,
+                "id": "09447",
+                "name": "Plantains, yellow, fried, Latino restaurant"
+            },
+            {
+                "offset": 2446,
+                "id": "09448",
+                "name": "Nance, canned, syrup, drained"
+            },
+            {
+                "offset": 2447,
+                "id": "09449",
+                "name": "Nance, frozen, unsweetened"
+            },
+            {
+                "offset": 2448,
+                "id": "09450",
+                "name": "Naranjilla (lulo) pulp, frozen, unsweetened"
+            },
+            {
+                "offset": 2449,
+                "id": "09451",
+                "name": "Horned melon (Kiwano)"
+            },
+            {
+                "offset": 2450,
+                "id": "09452",
+                "name": "Orange Pineapple Juice Blend"
+            },
+            {
+                "offset": 2451,
+                "id": "09500",
+                "name": "Apples, raw, red delicious, with skin"
+            },
+            {
+                "offset": 2452,
+                "id": "09501",
+                "name": "Apples, raw, golden delicious, with skin"
+            },
+            {
+                "offset": 2453,
+                "id": "09502",
+                "name": "Apples, raw, granny smith, with skin"
+            },
+            {
+                "offset": 2454,
+                "id": "09503",
+                "name": "Apples, raw, gala, with skin"
+            },
+            {
+                "offset": 2455,
+                "id": "09504",
+                "name": "Apples, raw, fuji, with skin"
+            },
+            {
+                "offset": 2456,
+                "id": "09506",
+                "name": "Orange juice, chilled, includes from concentrate, with added calcium and vitamins A, D, E"
+            },
+            {
+                "offset": 2457,
+                "id": "09507",
+                "name": "Fruit juice smoothie, NAKED JUICE, MIGHTY MANGO"
+            },
+            {
+                "offset": 2458,
+                "id": "09508",
+                "name": "Fruit juice smoothie, NAKED JUICE, GREEN MACHINE"
+            },
+            {
+                "offset": 2459,
+                "id": "09510",
+                "name": "Pineapple juice, canned, not from concentrate, unsweetened, with added vitamins A, C and E"
+            },
+            {
+                "offset": 2460,
+                "id": "09511",
+                "name": "Fruit juice smoothie, NAKED JUICE, BLUE MACHINE"
+            },
+            {
+                "offset": 2461,
+                "id": "09512",
+                "name": "Grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium"
+            },
+            {
+                "offset": 2462,
+                "id": "09513",
+                "name": "Fruit juice smoothie, ODWALLA, ORIGINAL SUPERFOOD"
+            },
+            {
+                "offset": 2463,
+                "id": "09514",
+                "name": "Fruit juice smoothie, BOLTHOUSE FARMS, BERRY BOOST"
+            },
+            {
+                "offset": 2464,
+                "id": "09515",
+                "name": "Fruit juice smoothie, BOLTHOUSE FARMS, GREEN GOODNESS"
+            },
+            {
+                "offset": 2465,
+                "id": "09516",
+                "name": "Fruit juice smoothie, BOLTHOUSE FARMS, strawberry banana"
+            },
+            {
+                "offset": 2466,
+                "id": "09517",
+                "name": "Apple juice, canned or bottled, unsweetened, with added ascorbic acid, calcium, and potassium"
+            },
+            {
+                "offset": 2467,
+                "id": "09518",
+                "name": "Raspberries, frozen, unsweetened"
+            },
+            {
+                "offset": 2468,
+                "id": "09519",
+                "name": "Guava nectar, with sucralose, canned"
+            },
+            {
+                "offset": 2469,
+                "id": "09520",
+                "name": "Kiwifruit, ZESPRI SunGold, raw"
+            },
+            {
+                "offset": 2470,
+                "id": "09522",
+                "name": "Cranberry juice blend, 100% juice, bottled, with added vitamin C and calcium"
+            },
+            {
+                "offset": 2471,
+                "id": "09523",
+                "name": "Lemon juice from concentrate, bottled, CONCORD"
+            },
+            {
+                "offset": 2472,
+                "id": "09524",
+                "name": "Lemon juice from concentrate, bottled, REAL LEMON"
+            },
+            {
+                "offset": 2473,
+                "id": "09525",
+                "name": "Cranberry sauce, whole, canned, OCEAN SPRAY"
+            },
+            {
+                "offset": 2474,
+                "id": "09526",
+                "name": "Cranberry sauce, jellied, canned, OCEAN SPRAY"
+            },
+            {
+                "offset": 2475,
+                "id": "09528",
+                "name": "Ruby Red grapefruit juice blend (grapefruit, grape, apple), OCEAN SPRAY, bottled, with added vitamin C"
+            },
+            {
+                "offset": 2476,
+                "id": "09530",
+                "name": "Fruit juice smoothie, ODWALLA, strawberry banana"
+            },
+            {
+                "offset": 2477,
+                "id": "09531",
+                "name": "Fruit juice smoothie, NAKED JUICE, strawberry banana"
+            },
+            {
+                "offset": 2478,
+                "id": "10000",
+                "name": "Pork, fresh, composite of separable fat, with added solution, cooked"
+            },
+            {
+                "offset": 2479,
+                "id": "10001",
+                "name": "Pork, fresh, carcass, separable lean and fat, raw"
+            },
+            {
+                "offset": 2480,
+                "id": "10002",
+                "name": "Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw"
+            },
+            {
+                "offset": 2481,
+                "id": "10003",
+                "name": "Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw"
+            },
+            {
+                "offset": 2482,
+                "id": "10004",
+                "name": "Pork, fresh, backfat, raw"
+            },
+            {
+                "offset": 2483,
+                "id": "10005",
+                "name": "Pork, fresh, belly, raw"
+            },
+            {
+                "offset": 2484,
+                "id": "10006",
+                "name": "Pork, fresh, separable fat, raw"
+            },
+            {
+                "offset": 2485,
+                "id": "10007",
+                "name": "Pork, fresh, separable fat, cooked"
+            },
+            {
+                "offset": 2486,
+                "id": "10008",
+                "name": "Pork, fresh, leg (ham), whole, separable lean and fat, raw"
+            },
+            {
+                "offset": 2487,
+                "id": "10009",
+                "name": "Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2488,
+                "id": "10010",
+                "name": "Pork, fresh, leg (ham), whole, separable lean only, raw"
+            },
+            {
+                "offset": 2489,
+                "id": "10011",
+                "name": "Pork, fresh, leg (ham), whole, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2490,
+                "id": "10012",
+                "name": "Pork, fresh, leg (ham), rump half, separable lean and fat, raw"
+            },
+            {
+                "offset": 2491,
+                "id": "10013",
+                "name": "Pork, fresh, leg (ham), rump half, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2492,
+                "id": "10014",
+                "name": "Pork, fresh, leg (ham), rump half, separable lean only, raw"
+            },
+            {
+                "offset": 2493,
+                "id": "10015",
+                "name": "Pork, fresh, leg (ham), rump half, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2494,
+                "id": "10016",
+                "name": "Pork, fresh, leg (ham), shank half, separable lean and fat, raw"
+            },
+            {
+                "offset": 2495,
+                "id": "10017",
+                "name": "Pork, fresh, leg (ham), shank half, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2496,
+                "id": "10018",
+                "name": "Pork, fresh, leg (ham), shank half, separable lean only, raw"
+            },
+            {
+                "offset": 2497,
+                "id": "10019",
+                "name": "Pork, fresh, leg (ham), shank half, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2498,
+                "id": "10020",
+                "name": "Pork, fresh, loin, whole, separable lean and fat, raw"
+            },
+            {
+                "offset": 2499,
+                "id": "10021",
+                "name": "Pork, fresh, loin, whole, separable lean and fat, cooked, braised"
+            }
+        ]
+    }
+}

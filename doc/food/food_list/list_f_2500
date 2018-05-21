@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 2500,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 2500,
+                "id": "10022",
+                "name": "Pork, fresh, loin, whole, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2501,
+                "id": "10023",
+                "name": "Pork, fresh, loin, whole, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2502,
+                "id": "10024",
+                "name": "Pork, fresh, loin, whole, separable lean only, raw"
+            },
+            {
+                "offset": 2503,
+                "id": "10025",
+                "name": "Pork, fresh, loin, whole, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2504,
+                "id": "10026",
+                "name": "Pork, fresh, loin, whole, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2505,
+                "id": "10027",
+                "name": "Pork, fresh, loin, whole, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2506,
+                "id": "10028",
+                "name": "Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean and fat, raw"
+            },
+            {
+                "offset": 2507,
+                "id": "10029",
+                "name": "Pork, fresh, loin, blade (chops), bone-in, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2508,
+                "id": "10030",
+                "name": "Pork, fresh, loin, blade (chops), bone-in, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2509,
+                "id": "10031",
+                "name": "Pork, fresh, loin, blade (roasts), bone-in, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2510,
+                "id": "10032",
+                "name": "Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean only, raw"
+            },
+            {
+                "offset": 2511,
+                "id": "10033",
+                "name": "Pork, fresh, loin, blade (chops), bone-in, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2512,
+                "id": "10034",
+                "name": "Pork, fresh, loin, blade (chops), bone-in, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2513,
+                "id": "10035",
+                "name": "Pork, fresh, loin, blade (roasts), bone-in, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2514,
+                "id": "10036",
+                "name": "Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, raw"
+            },
+            {
+                "offset": 2515,
+                "id": "10037",
+                "name": "Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2516,
+                "id": "10038",
+                "name": "Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2517,
+                "id": "10039",
+                "name": "Pork, fresh, loin, center loin (roasts), bone-in, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2518,
+                "id": "10040",
+                "name": "Pork, fresh, loin, center loin (chops), bone-in, separable lean only, raw"
+            },
+            {
+                "offset": 2519,
+                "id": "10041",
+                "name": "Pork, fresh, loin, center loin (chops), bone-in, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2520,
+                "id": "10042",
+                "name": "Pork, fresh, loin, center loin (chops), bone-in, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2521,
+                "id": "10043",
+                "name": "Pork, fresh, loin, center loin (roasts), bone-in, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2522,
+                "id": "10044",
+                "name": "Pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean and fat, raw"
+            },
+            {
+                "offset": 2523,
+                "id": "10045",
+                "name": "Pork, fresh, loin, center rib (chops), bone-in, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2524,
+                "id": "10046",
+                "name": "Pork, fresh, loin, center rib (chops), bone-in, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2525,
+                "id": "10047",
+                "name": "Pork, fresh, loin, center rib (roasts), bone-in, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2526,
+                "id": "10048",
+                "name": "Pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean only, raw"
+            },
+            {
+                "offset": 2527,
+                "id": "10049",
+                "name": "Pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2528,
+                "id": "10050",
+                "name": "Pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2529,
+                "id": "10051",
+                "name": "Pork, fresh, loin, center rib (roasts), bone-in, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2530,
+                "id": "10052",
+                "name": "Pork, fresh, loin, sirloin (chops or roasts), bone-in, separable lean and fat, raw"
+            },
+            {
+                "offset": 2531,
+                "id": "10053",
+                "name": "Pork, fresh, loin, sirloin (chops), bone-in, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2532,
+                "id": "10054",
+                "name": "Pork, fresh, loin, sirloin (chops), bone-in, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2533,
+                "id": "10055",
+                "name": "Pork, fresh, loin, sirloin (roasts), bone-in, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2534,
+                "id": "10056",
+                "name": "Pork, fresh, loin, sirloin (chops or roasts), bone-in, separable lean only, raw"
+            },
+            {
+                "offset": 2535,
+                "id": "10057",
+                "name": "Pork, fresh, loin, sirloin (chops), bone-in, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2536,
+                "id": "10058",
+                "name": "Pork, fresh, loin, sirloin (chops), bone-in, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2537,
+                "id": "10059",
+                "name": "Pork, fresh, loin, sirloin (roasts), bone-in, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2538,
+                "id": "10060",
+                "name": "Pork, fresh, loin, tenderloin, separable lean only, raw"
+            },
+            {
+                "offset": 2539,
+                "id": "10061",
+                "name": "Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2540,
+                "id": "10062",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2541,
+                "id": "10063",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2542,
+                "id": "10064",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2543,
+                "id": "10065",
+                "name": "Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2544,
+                "id": "10066",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw"
+            },
+            {
+                "offset": 2545,
+                "id": "10067",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2546,
+                "id": "10068",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2547,
+                "id": "10069",
+                "name": "Pork, fresh, loin, top loin (roasts), boneless, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2548,
+                "id": "10070",
+                "name": "Pork, fresh, shoulder, whole, separable lean and fat, raw"
+            },
+            {
+                "offset": 2549,
+                "id": "10071",
+                "name": "Pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2550,
+                "id": "10072",
+                "name": "Pork, fresh, shoulder, whole, separable lean only, raw"
+            },
+            {
+                "offset": 2551,
+                "id": "10073",
+                "name": "Pork, fresh, shoulder, whole, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2552,
+                "id": "10074",
+                "name": "Pork, fresh, shoulder, arm picnic, separable lean and fat, raw"
+            },
+            {
+                "offset": 2553,
+                "id": "10075",
+                "name": "Pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2554,
+                "id": "10076",
+                "name": "Pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2555,
+                "id": "10077",
+                "name": "Pork, fresh, shoulder, arm picnic, separable lean only, raw"
+            },
+            {
+                "offset": 2556,
+                "id": "10078",
+                "name": "Pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2557,
+                "id": "10079",
+                "name": "Pork, fresh, shoulder, arm picnic, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2558,
+                "id": "10080",
+                "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, raw"
+            },
+            {
+                "offset": 2559,
+                "id": "10081",
+                "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2560,
+                "id": "10082",
+                "name": "Pork, fresh, shoulder, blade, boston (steaks), separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2561,
+                "id": "10083",
+                "name": "Pork, fresh, shoulder, blade, boston (roasts), separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2562,
+                "id": "10084",
+                "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, raw"
+            },
+            {
+                "offset": 2563,
+                "id": "10085",
+                "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2564,
+                "id": "10086",
+                "name": "Pork, fresh, shoulder, blade, boston (steaks), separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2565,
+                "id": "10087",
+                "name": "Pork, fresh, shoulder, blade, boston (roasts), separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2566,
+                "id": "10088",
+                "name": "Pork, fresh, spareribs, separable lean and fat, raw"
+            },
+            {
+                "offset": 2567,
+                "id": "10089",
+                "name": "Pork, fresh, spareribs, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2568,
+                "id": "10093",
+                "name": "Pork, fresh, composite of trimmed retail cuts (leg, loin, and shoulder), separable lean only, cooked"
+            },
+            {
+                "offset": 2569,
+                "id": "10094",
+                "name": "Pork, fresh, loin, center loin (chops), boneless, separable lean only, raw"
+            },
+            {
+                "offset": 2570,
+                "id": "10096",
+                "name": "Pork, fresh, variety meats and by-products, brain, raw"
+            },
+            {
+                "offset": 2571,
+                "id": "10097",
+                "name": "Pork, fresh, variety meats and by-products, brain, cooked, braised"
+            },
+            {
+                "offset": 2572,
+                "id": "10098",
+                "name": "Pork, fresh, variety meats and by-products, chitterlings, raw"
+            },
+            {
+                "offset": 2573,
+                "id": "10099",
+                "name": "Pork, fresh, variety meats and by-products, chitterlings, cooked, simmered"
+            },
+            {
+                "offset": 2574,
+                "id": "10100",
+                "name": "Pork, fresh, variety meats and by-products, ears, frozen, raw"
+            },
+            {
+                "offset": 2575,
+                "id": "10101",
+                "name": "Pork, fresh, variety meats and by-products, ears, frozen, cooked, simmered"
+            },
+            {
+                "offset": 2576,
+                "id": "10102",
+                "name": "Pork, fresh, variety meats and by-products, feet, raw"
+            },
+            {
+                "offset": 2577,
+                "id": "10103",
+                "name": "Pork, fresh, variety meats and by-products, heart, raw"
+            },
+            {
+                "offset": 2578,
+                "id": "10104",
+                "name": "Pork, fresh, variety meats and by-products, heart, cooked, braised"
+            },
+            {
+                "offset": 2579,
+                "id": "10105",
+                "name": "Pork, fresh, variety meats and by-products, jowl, raw"
+            },
+            {
+                "offset": 2580,
+                "id": "10106",
+                "name": "Pork, fresh, variety meats and by-products, kidneys, raw"
+            },
+            {
+                "offset": 2581,
+                "id": "10107",
+                "name": "Pork, fresh, variety meats and by-products, kidneys, cooked, braised"
+            },
+            {
+                "offset": 2582,
+                "id": "10109",
+                "name": "Pork, fresh, variety meats and by-products, leaf fat, raw"
+            },
+            {
+                "offset": 2583,
+                "id": "10110",
+                "name": "Pork, fresh, variety meats and by-products, liver, raw"
+            },
+            {
+                "offset": 2584,
+                "id": "10111",
+                "name": "Pork, fresh, variety meats and by-products, liver, cooked, braised"
+            },
+            {
+                "offset": 2585,
+                "id": "10112",
+                "name": "Pork, fresh, variety meats and by-products, lungs, raw"
+            },
+            {
+                "offset": 2586,
+                "id": "10113",
+                "name": "Pork, fresh, variety meats and by-products, lungs, cooked, braised"
+            },
+            {
+                "offset": 2587,
+                "id": "10114",
+                "name": "Pork, fresh, variety meats and by-products, mechanically separated, raw"
+            },
+            {
+                "offset": 2588,
+                "id": "10115",
+                "name": "Pork, fresh, variety meats and by-products, pancreas, raw"
+            },
+            {
+                "offset": 2589,
+                "id": "10116",
+                "name": "Pork, fresh, variety meats and by-products, pancreas, cooked, braised"
+            },
+            {
+                "offset": 2590,
+                "id": "10117",
+                "name": "Pork, fresh, variety meats and by-products, spleen, raw"
+            },
+            {
+                "offset": 2591,
+                "id": "10118",
+                "name": "Pork, fresh, variety meats and by-products, spleen, cooked, braised"
+            },
+            {
+                "offset": 2592,
+                "id": "10119",
+                "name": "Pork, fresh, variety meats and by-products, stomach, raw"
+            },
+            {
+                "offset": 2593,
+                "id": "10120",
+                "name": "Pork, fresh, loin, blade (chops), bone-in, separable lean only, cooked, pan-fried"
+            },
+            {
+                "offset": 2594,
+                "id": "10121",
+                "name": "Pork, fresh, variety meats and by-products, tongue, raw"
+            },
+            {
+                "offset": 2595,
+                "id": "10122",
+                "name": "Pork, fresh, variety meats and by-products, tongue, cooked, braised"
+            },
+            {
+                "offset": 2596,
+                "id": "10123",
+                "name": "Pork, cured, bacon, unprepared"
+            },
+            {
+                "offset": 2597,
+                "id": "10128",
+                "name": "Pork, cured, breakfast strips, raw or unheated"
+            },
+            {
+                "offset": 2598,
+                "id": "10130",
+                "name": "Canadian bacon, unprepared"
+            },
+            {
+                "offset": 2599,
+                "id": "10132",
+                "name": "Pork, cured, feet, pickled"
+            },
+            {
+                "offset": 2600,
+                "id": "10134",
+                "name": "Pork, cured, ham, boneless, extra lean (approximately 5% fat), roasted"
+            },
+            {
+                "offset": 2601,
+                "id": "10136",
+                "name": "Pork, cured, ham, boneless, regular (approximately 11% fat), roasted"
+            },
+            {
+                "offset": 2602,
+                "id": "10137",
+                "name": "Pork, cured, ham, extra lean (approximately 4% fat), canned, unheated"
+            },
+            {
+                "offset": 2603,
+                "id": "10138",
+                "name": "Pork, cured, ham, extra lean (approximately 4% fat), canned, roasted"
+            },
+            {
+                "offset": 2604,
+                "id": "10140",
+                "name": "Pork, cured, ham, regular (approximately 13% fat), canned, roasted"
+            },
+            {
+                "offset": 2605,
+                "id": "10141",
+                "name": "Pork, cured, ham, center slice, country-style, separable lean only, raw"
+            },
+            {
+                "offset": 2606,
+                "id": "10142",
+                "name": "Pork, cured, ham, center slice, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2607,
+                "id": "10146",
+                "name": "Pork, cured, ham, patties, unheated"
+            },
+            {
+                "offset": 2608,
+                "id": "10149",
+                "name": "Pork, cured, ham, steak, boneless, extra lean, unheated"
+            },
+            {
+                "offset": 2609,
+                "id": "10150",
+                "name": "Pork, cured, ham, whole, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2610,
+                "id": "10152",
+                "name": "Pork, cured, ham, whole, separable lean only, unheated"
+            },
+            {
+                "offset": 2611,
+                "id": "10153",
+                "name": "Pork, cured, ham, whole, separable lean only, roasted"
+            },
+            {
+                "offset": 2612,
+                "id": "10158",
+                "name": "USDA Commodity, pork, canned"
+            },
+            {
+                "offset": 2613,
+                "id": "10163",
+                "name": "Pork, fresh, loin, center loin (chops), boneless, separable lean only, cooked, pan-broiled"
+            },
+            {
+                "offset": 2614,
+                "id": "10164",
+                "name": "Pork, fresh, loin, center loin (chops), boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2615,
+                "id": "10165",
+                "name": "Pork, cured, salt pork, raw"
+            },
+            {
+                "offset": 2616,
+                "id": "10166",
+                "name": "Pork, cured, separable fat (from ham and arm picnic), unheated"
+            },
+            {
+                "offset": 2617,
+                "id": "10167",
+                "name": "Pork, cured, separable fat (from ham and arm picnic), roasted"
+            },
+            {
+                "offset": 2618,
+                "id": "10168",
+                "name": "Pork, cured, shoulder, arm picnic, separable lean and fat, roasted"
+            },
+            {
+                "offset": 2619,
+                "id": "10169",
+                "name": "Pork, cured, shoulder, arm picnic, separable lean only, roasted"
+            },
+            {
+                "offset": 2620,
+                "id": "10170",
+                "name": "Pork, cured, shoulder, blade roll, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2621,
+                "id": "10171",
+                "name": "Pork, cured, shoulder, blade roll, separable lean and fat, roasted"
+            },
+            {
+                "offset": 2622,
+                "id": "10173",
+                "name": "Pork, fresh, variety meats and by-products, feet, cooked, simmered"
+            },
+            {
+                "offset": 2623,
+                "id": "10174",
+                "name": "Pork, fresh, variety meats and by-products, tail, raw"
+            },
+            {
+                "offset": 2624,
+                "id": "10175",
+                "name": "Pork, fresh, variety meats and by-products, tail, cooked, simmered"
+            },
+            {
+                "offset": 2625,
+                "id": "10176",
+                "name": "Pork, fresh, loin, center loin (chops), bone-in, separable lean only, cooked, pan-fried"
+            },
+            {
+                "offset": 2626,
+                "id": "10177",
+                "name": "Pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, pan-fried"
+            },
+            {
+                "offset": 2627,
+                "id": "10178",
+                "name": "Pork, fresh, loin, blade (chops), bone-in, separable lean and fat, cooked, pan-fried"
+            },
+            {
+                "offset": 2628,
+                "id": "10179",
+                "name": "Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, cooked, pan-fried"
+            },
+            {
+                "offset": 2629,
+                "id": "10180",
+                "name": "Pork, fresh, loin, center rib (chops), bone-in, separable lean and fat, cooked, pan-fried"
+            },
+            {
+                "offset": 2630,
+                "id": "10181",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, pan-fried"
+            },
+            {
+                "offset": 2631,
+                "id": "10182",
+                "name": "Pork, cured, ham, boneless, extra lean and regular, unheated"
+            },
+            {
+                "offset": 2632,
+                "id": "10183",
+                "name": "Pork, cured, ham, boneless, extra lean and regular, roasted"
+            },
+            {
+                "offset": 2633,
+                "id": "10184",
+                "name": "Pork, cured, ham, extra lean and regular, canned, unheated"
+            },
+            {
+                "offset": 2634,
+                "id": "10185",
+                "name": "Pork, cured, ham, extra lean and regular, canned, roasted"
+            },
+            {
+                "offset": 2635,
+                "id": "10186",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, cooked, pan-fried"
+            },
+            {
+                "offset": 2636,
+                "id": "10187",
+                "name": "Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, raw"
+            },
+            {
+                "offset": 2637,
+                "id": "10188",
+                "name": "Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, cooked"
+            },
+            {
+                "offset": 2638,
+                "id": "10189",
+                "name": "Pork, fresh, loin, center loin (chops), boneless, separable lean and fat, cooked, pan-broiled"
+            },
+            {
+                "offset": 2639,
+                "id": "10192",
+                "name": "Pork, fresh, backribs, separable lean and fat, raw"
+            },
+            {
+                "offset": 2640,
+                "id": "10193",
+                "name": "Pork, fresh, backribs, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2641,
+                "id": "10194",
+                "name": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2642,
+                "id": "10195",
+                "name": "Pork, fresh, loin, center rib (chops), boneless, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2643,
+                "id": "10196",
+                "name": "Pork, fresh, loin, center rib (chops), boneless, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2644,
+                "id": "10197",
+                "name": "Pork, fresh, loin, center rib (chops), boneless, separable lean and fat, cooked, pan-fried"
+            },
+            {
+                "offset": 2645,
+                "id": "10198",
+                "name": "Pork, fresh, loin, center rib (roasts), boneless, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2646,
+                "id": "10199",
+                "name": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw"
+            },
+            {
+                "offset": 2647,
+                "id": "10200",
+                "name": "Pork, fresh, loin, center rib (chops), boneless, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2648,
+                "id": "10201",
+                "name": "Pork, fresh, loin, center rib (chops), boneless, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2649,
+                "id": "10202",
+                "name": "Pork, fresh, loin, center rib (chops), boneless, separable lean only, cooked, pan-fried"
+            },
+            {
+                "offset": 2650,
+                "id": "10203",
+                "name": "Pork, fresh, loin, center rib (roasts), boneless, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2651,
+                "id": "10204",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean and fat, raw"
+            },
+            {
+                "offset": 2652,
+                "id": "10205",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2653,
+                "id": "10206",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean and fat, bone-in, cooked, roasted"
+            },
+            {
+                "offset": 2654,
+                "id": "10207",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean only, raw"
+            },
+            {
+                "offset": 2655,
+                "id": "10208",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2656,
+                "id": "10209",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean only, bone-in, cooked, roasted"
+            },
+            {
+                "offset": 2657,
+                "id": "10210",
+                "name": "Pork, fresh, loin, sirloin (chops or roasts), boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2658,
+                "id": "10211",
+                "name": "Pork, fresh, loin, sirloin (chops), boneless, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2659,
+                "id": "10212",
+                "name": "Pork, fresh, loin, sirloin (chops), boneless, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2660,
+                "id": "10213",
+                "name": "Pork, fresh, loin, sirloin (roasts), boneless, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2661,
+                "id": "10214",
+                "name": "Pork, fresh, loin, sirloin (chops or roasts), boneless, separable lean only, raw"
+            },
+            {
+                "offset": 2662,
+                "id": "10215",
+                "name": "Pork, fresh, loin, sirloin (chops), boneless, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 2663,
+                "id": "10216",
+                "name": "Pork, fresh, loin, sirloin (chops), boneless, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2664,
+                "id": "10217",
+                "name": "Pork, fresh, loin, sirloin (roasts), boneless, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2665,
+                "id": "10218",
+                "name": "Pork, fresh, loin, tenderloin, separable lean and fat, raw"
+            },
+            {
+                "offset": 2666,
+                "id": "10219",
+                "name": "Pork, fresh, ground, raw"
+            },
+            {
+                "offset": 2667,
+                "id": "10220",
+                "name": "Pork, fresh, ground, cooked"
+            },
+            {
+                "offset": 2668,
+                "id": "10221",
+                "name": "Pork, fresh, loin, tenderloin, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2669,
+                "id": "10222",
+                "name": "Pork, fresh, loin, tenderloin, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2670,
+                "id": "10223",
+                "name": "Pork, fresh, loin, tenderloin, separable lean only, cooked, broiled"
+            },
+            {
+                "offset": 2671,
+                "id": "10224",
+                "name": "Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2672,
+                "id": "10225",
+                "name": "Pork, fresh, loin, top loin (roasts), boneless, separable lean only, raw"
+            },
+            {
+                "offset": 2673,
+                "id": "10226",
+                "name": "Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean and fat, raw"
+            },
+            {
+                "offset": 2674,
+                "id": "10227",
+                "name": "Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean and fat, cooked"
+            },
+            {
+                "offset": 2675,
+                "id": "10228",
+                "name": "Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean only, raw"
+            },
+            {
+                "offset": 2676,
+                "id": "10229",
+                "name": "Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean only, cooked"
+            },
+            {
+                "offset": 2677,
+                "id": "10802",
+                "name": "USDA Commodity, pork, cured, ham, boneless, cooked, heated"
+            },
+            {
+                "offset": 2678,
+                "id": "10803",
+                "name": "USDA Commodity, pork, ground, fine/coarse, frozen, cooked"
+            },
+            {
+                "offset": 2679,
+                "id": "10804",
+                "name": "USDA Commodity, pork, cured, ham, boneless, cooked, unheated"
+            },
+            {
+                "offset": 2680,
+                "id": "10805",
+                "name": "USDA Commodity, pork, ground, fine/coarse, frozen, raw"
+            },
+            {
+                "offset": 2681,
+                "id": "10851",
+                "name": "HORMEL, Cure 81 Ham"
+            },
+            {
+                "offset": 2682,
+                "id": "10852",
+                "name": "HORMEL ALWAYS TENDER, Pork Tenderloin, Teriyaki-Flavored"
+            },
+            {
+                "offset": 2683,
+                "id": "10853",
+                "name": "HORMEL ALWAYS TENDER, Pork Tenderloin, Peppercorn-Flavored"
+            },
+            {
+                "offset": 2684,
+                "id": "10854",
+                "name": "HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored"
+            },
+            {
+                "offset": 2685,
+                "id": "10855",
+                "name": "HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork"
+            },
+            {
+                "offset": 2686,
+                "id": "10856",
+                "name": "HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork"
+            },
+            {
+                "offset": 2687,
+                "id": "10857",
+                "name": "HORMEL Canadian Style Bacon"
+            },
+            {
+                "offset": 2688,
+                "id": "10858",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, cooked, pan-broiled"
+            },
+            {
+                "offset": 2689,
+                "id": "10859",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, cooked, pan-broiled"
+            },
+            {
+                "offset": 2690,
+                "id": "10860",
+                "name": "Pork, cured, bacon, cooked, baked"
+            },
+            {
+                "offset": 2691,
+                "id": "10861",
+                "name": "Pork, cured, bacon, cooked, microwaved"
+            },
+            {
+                "offset": 2692,
+                "id": "10862",
+                "name": "Pork, cured, bacon, pre-sliced, cooked, pan-fried"
+            },
+            {
+                "offset": 2693,
+                "id": "10863",
+                "name": "Pork, fresh, variety meats and by-products, stomach, cooked, simmered"
+            },
+            {
+                "offset": 2694,
+                "id": "10864",
+                "name": "Pork, bacon, rendered fat, cooked"
+            },
+            {
+                "offset": 2695,
+                "id": "10865",
+                "name": "Pork, cured, ham -- water added, rump, bone-in, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2696,
+                "id": "10866",
+                "name": "Pork, cured, ham -- water added, rump, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2697,
+                "id": "10867",
+                "name": "Pork, cured, ham -- water added, shank, bone-in, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2698,
+                "id": "10868",
+                "name": "Pork, cured, ham -- water added, slice, bone-in, separable lean only, heated, pan-broil"
+            },
+            {
+                "offset": 2699,
+                "id": "10869",
+                "name": "Pork, cured, ham and water product, slice, bone-in, separable lean only, heated, pan-broil"
+            },
+            {
+                "offset": 2700,
+                "id": "10870",
+                "name": "Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil"
+            },
+            {
+                "offset": 2701,
+                "id": "10871",
+                "name": "Pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2702,
+                "id": "10872",
+                "name": "Pork, cured, ham and water product, whole, boneless, separable lean only, unheated"
+            },
+            {
+                "offset": 2703,
+                "id": "10873",
+                "name": "Pork, cured, ham with natural juices, rump, bone-in, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2704,
+                "id": "10874",
+                "name": "Pork, cured, ham with natural juices, shank, bone-in, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2705,
+                "id": "10875",
+                "name": "Pork, cured, ham with natural juices, slice, bone-in, separable lean only, heated, pan-broil"
+            },
+            {
+                "offset": 2706,
+                "id": "10876",
+                "name": "Pork, cured, ham with natural juices, spiral slice, meat only, boneless, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2707,
+                "id": "10877",
+                "name": "Pork, cured, ham and water product, rump, bone-in, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2708,
+                "id": "10878",
+                "name": "Pork, cured, ham -- water added, slice, boneless, separable lean only, heated, pan-broil"
+            },
+            {
+                "offset": 2709,
+                "id": "10879",
+                "name": "Pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2710,
+                "id": "10880",
+                "name": "Pork, cured, ham -- water added, whole, boneless, separable lean only, unheated"
+            },
+            {
+                "offset": 2711,
+                "id": "10881",
+                "name": "Pork, cured, ham and water product, shank, bone-in, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2712,
+                "id": "10882",
+                "name": "Pork, cured, ham with natural juices, slice, boneless, separable lean only, heated, pan-broil"
+            },
+            {
+                "offset": 2713,
+                "id": "10883",
+                "name": "Pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2714,
+                "id": "10884",
+                "name": "Pork, cured, ham with natural juices, whole, boneless, separable lean only, unheated"
+            },
+            {
+                "offset": 2715,
+                "id": "10885",
+                "name": "Pork, cured, ham -- water added, shank, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2716,
+                "id": "10886",
+                "name": "Pork, cured, ham -- water added, slice, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2717,
+                "id": "10887",
+                "name": "Pork, cured, ham and water product, rump, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2718,
+                "id": "10888",
+                "name": "Pork, cured, ham and water product, slice, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2719,
+                "id": "10889",
+                "name": "Pork, cured, ham and water product, shank, bone-in, unheated, separable lean only"
+            },
+            {
+                "offset": 2720,
+                "id": "10890",
+                "name": "Pork, cured, ham with natural juices, rump, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2721,
+                "id": "10891",
+                "name": "Pork, cured, ham with natural juices, shank, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2722,
+                "id": "10892",
+                "name": "Pork, cured, ham with natural juices, slice, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2723,
+                "id": "10893",
+                "name": "Pork, cured, ham with natural juices, spiral slice, boneless, separable lean only, unheated"
+            },
+            {
+                "offset": 2724,
+                "id": "10894",
+                "name": "Pork, cured, ham, separable fat, boneless, heated"
+            },
+            {
+                "offset": 2725,
+                "id": "10895",
+                "name": "Pork, cured, ham, separable fat, boneless, unheated"
+            },
+            {
+                "offset": 2726,
+                "id": "10898",
+                "name": "Pork, pickled pork hocks"
+            },
+            {
+                "offset": 2727,
+                "id": "10899",
+                "name": "Pork, cured, ham, slice, bone-in, separable lean only, heated, pan-broil"
+            },
+            {
+                "offset": 2728,
+                "id": "10900",
+                "name": "Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2729,
+                "id": "10901",
+                "name": "Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2730,
+                "id": "10902",
+                "name": "Pork, cured, ham with natural juices, slice, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2731,
+                "id": "10903",
+                "name": "Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2732,
+                "id": "10904",
+                "name": "Pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2733,
+                "id": "10905",
+                "name": "Pork, cured, ham and water product, whole, boneless, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2734,
+                "id": "10906",
+                "name": "Pork, cured, ham and water product, slice, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2735,
+                "id": "10907",
+                "name": "Pork, cured, ham and water product, shank, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2736,
+                "id": "10908",
+                "name": "Pork, cured, ham and water product, rump, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2737,
+                "id": "10909",
+                "name": "Pork, cured, ham -- water added, whole, boneless, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2738,
+                "id": "10910",
+                "name": "Pork, cured, ham -- water added, slice, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2739,
+                "id": "10911",
+                "name": "Pork, cured, ham -- water added, shank, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2740,
+                "id": "10912",
+                "name": "Pork, cured, ham -- water added, rump, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2741,
+                "id": "10913",
+                "name": "Pork, cured, ham -- water added, rump, bone-in, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2742,
+                "id": "10914",
+                "name": "Pork, cured, ham -- water added, shank, bone-in, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2743,
+                "id": "10915",
+                "name": "Pork, cured, ham -- water added, slice, bone-in, separable lean and fat, heated, pan-broil"
+            },
+            {
+                "offset": 2744,
+                "id": "10916",
+                "name": "Pork, cured, ham -- water added, slice, boneless, separable lean and fat, heated, pan-broil"
+            },
+            {
+                "offset": 2745,
+                "id": "10917",
+                "name": "Pork, cured, ham -- water added, whole, boneless, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2746,
+                "id": "10918",
+                "name": "Pork, cured, ham and water product, rump, bone-in, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2747,
+                "id": "10919",
+                "name": "Pork, cured, ham and water product, shank, bone-in, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2748,
+                "id": "10920",
+                "name": "Pork, cured, ham and water product, slice, bone-in, separable lean and fat, heated, pan-broil"
+            },
+            {
+                "offset": 2749,
+                "id": "10921",
+                "name": "Pork, cured, ham and water product, slice, boneless, separable lean and fat, heated, pan-broil"
+            },
+            {
+                "offset": 2750,
+                "id": "10922",
+                "name": "Pork, cured, ham and water product, whole, boneless, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2751,
+                "id": "10923",
+                "name": "Pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2752,
+                "id": "10924",
+                "name": "Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2753,
+                "id": "10925",
+                "name": "Pork, cured, ham with natural juices, slice, bone-in, separable lean and fat, heated, pan-broil"
+            },
+            {
+                "offset": 2754,
+                "id": "10926",
+                "name": "Pork, cured, ham with natural juices, slice, boneless, separable lean and fat, heated, pan-broil"
+            },
+            {
+                "offset": 2755,
+                "id": "10927",
+                "name": "Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2756,
+                "id": "10928",
+                "name": "Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2757,
+                "id": "10929",
+                "name": "Pork, cured, ham, rump, bone-in, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2758,
+                "id": "10931",
+                "name": "Pork, cured, ham, rump, bone-in, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2759,
+                "id": "10932",
+                "name": "Pork, cured, ham, rump, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2760,
+                "id": "10933",
+                "name": "Pork, cured, ham, shank, bone-in, separable lean only, heated, roasted"
+            },
+            {
+                "offset": 2761,
+                "id": "10934",
+                "name": "Pork, cured, ham, shank, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2762,
+                "id": "10935",
+                "name": "Pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted"
+            },
+            {
+                "offset": 2763,
+                "id": "10936",
+                "name": "Pork, cured, ham, shank, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2764,
+                "id": "10937",
+                "name": "Pork, cured, ham, slice, bone-in, separable lean and fat, heated, pan-broil"
+            },
+            {
+                "offset": 2765,
+                "id": "10938",
+                "name": "Pork, cured, ham, slice, bone-in, separable lean only, unheated"
+            },
+            {
+                "offset": 2766,
+                "id": "10939",
+                "name": "Pork, cured, ham, slice, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2767,
+                "id": "10940",
+                "name": "Pork, fresh, spareribs, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2768,
+                "id": "10942",
+                "name": "Pork, fresh, composite of separable fat, with added solution, raw"
+            },
+            {
+                "offset": 2769,
+                "id": "10943",
+                "name": "Pork, fresh, loin, tenderloin, separable lean only, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 2770,
+                "id": "10944",
+                "name": "Pork, fresh, enhanced, loin, tenderloin, separable lean only, raw"
+            },
+            {
+                "offset": 2771,
+                "id": "10945",
+                "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, with added solution cooked, braised"
+            },
+            {
+                "offset": 2772,
+                "id": "10946",
+                "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, with added solution, raw"
+            },
+            {
+                "offset": 2773,
+                "id": "10947",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, cooked, broiled"
+            },
+            {
+                "offset": 2774,
+                "id": "10948",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, raw"
+            },
+            {
+                "offset": 2775,
+                "id": "10949",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, raw"
+            },
+            {
+                "offset": 2776,
+                "id": "10950",
+                "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, cooked, broiled"
+            },
+            {
+                "offset": 2777,
+                "id": "10951",
+                "name": "Pork, fresh, loin, tenderloin, separable lean and fat, with added solution, raw"
+            },
+            {
+                "offset": 2778,
+                "id": "10952",
+                "name": "Pork, fresh, loin, tenderloin, separable lean and fat, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 2779,
+                "id": "10953",
+                "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat,with added solution, raw"
+            },
+            {
+                "offset": 2780,
+                "id": "10954",
+                "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, with added solution, cooked, braised"
+            },
+            {
+                "offset": 2781,
+                "id": "10955",
+                "name": "Pork, cured, ham, rump, bone-in, separable lean and fat, unheated"
+            },
+            {
+                "offset": 2782,
+                "id": "10956",
+                "name": "Pork, loin, leg cap steak, boneless, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2783,
+                "id": "10957",
+                "name": "Pork, Leg Cap Steak, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2784,
+                "id": "10958",
+                "name": "Pork, Shoulder breast, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2785,
+                "id": "10959",
+                "name": "Pork, Shoulder breast, boneless, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2786,
+                "id": "10960",
+                "name": "Pork, shoulder, petite tender, boneless, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2787,
+                "id": "10961",
+                "name": "Pork, Shoulder petite tender, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2788,
+                "id": "10962",
+                "name": "Pork, Leg sirloin tip roast, boneless, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 2789,
+                "id": "10963",
+                "name": "Pork, Leg sirloin tip roast, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 2790,
+                "id": "10972",
+                "name": "Pork, ground, 84% lean / 16% fat, raw"
+            },
+            {
+                "offset": 2791,
+                "id": "10973",
+                "name": "Pork, ground, 96% lean / 4% fat, raw"
+            },
+            {
+                "offset": 2792,
+                "id": "10974",
+                "name": "Pork, ground, 72% lean / 28% fat, cooked, crumbles"
+            },
+            {
+                "offset": 2793,
+                "id": "10975",
+                "name": "Pork, ground, 84% lean / 16% fat, cooked, crumbles"
+            },
+            {
+                "offset": 2794,
+                "id": "10976",
+                "name": "Pork, ground, 96% lean / 4% fat, cooked, crumbles"
+            },
+            {
+                "offset": 2795,
+                "id": "10977",
+                "name": "Pork, ground, 72% lean / 28% fat, cooked, pan-broiled"
+            },
+            {
+                "offset": 2796,
+                "id": "10978",
+                "name": "Pork, ground, 84% lean / 16% fat, cooked, pan-broiled"
+            },
+            {
+                "offset": 2797,
+                "id": "10979",
+                "name": "Pork, ground, 96% lean / 4% fat, cooked, pan-broiled"
+            },
+            {
+                "offset": 2798,
+                "id": "10980",
+                "name": "Pork loin, fresh, backribs, bone-in, raw, lean only"
+            },
+            {
+                "offset": 2799,
+                "id": "10981",
+                "name": "Pork loin, fresh, backribs, bone-in, cooked-roasted, lean only"
+            },
+            {
+                "offset": 2800,
+                "id": "10982",
+                "name": "Pork, fresh, loin, blade (chops or roasts), boneless, separable lean only, raw"
+            },
+            {
+                "offset": 2801,
+                "id": "10983",
+                "name": "Pork, fresh, loin, blade (roasts), boneless, separable lean only, cooked, roasted"
+            },
+            {
+                "offset": 2802,
+                "id": "10984",
+                "name": "Pork, fresh, loin, blade (chops), boneless, separable lean only, boneless, cooked, broiled"
+            },
+            {
+                "offset": 2803,
+                "id": "10985",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean only, boneless, cooked, broiled"
+            },
+            {
+                "offset": 2804,
+                "id": "10986",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean only, bone-in, cooked, broiled"
+            },
+            {
+                "offset": 2805,
+                "id": "10987",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean only, boneless, cooked, roasted"
+            },
+            {
+                "offset": 2806,
+                "id": "10988",
+                "name": "Pork, fresh, blade, (chops), boneless, separable lean and fat, cooked, broiled"
+            },
+            {
+                "offset": 2807,
+                "id": "10989",
+                "name": "Pork, fresh, loin, blade (chops or roasts), boneless, separable lean and fat only, raw"
+            },
+            {
+                "offset": 2808,
+                "id": "10990",
+                "name": "Pork, fresh, loin, blade (roasts), boneless, separable lean and fat, cooked, roasted"
+            },
+            {
+                "offset": 2809,
+                "id": "10991",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean and fat, boneless, cooked, broiled"
+            },
+            {
+                "offset": 2810,
+                "id": "10992",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean and fat, bone-in, cooked, broiled"
+            },
+            {
+                "offset": 2811,
+                "id": "10993",
+                "name": "Pork, fresh, loin, country-style ribs, separable lean and fat, boneless, cooked, roasted"
+            },
+            {
+                "offset": 2812,
+                "id": "10994",
+                "name": "Bacon, pre-sliced, reduced/low sodium, unprepared"
+            },
+            {
+                "offset": 2813,
+                "id": "10998",
+                "name": "Canadian bacon, cooked, pan-fried"
+            },
+            {
+                "offset": 2814,
+                "id": "11001",
+                "name": "Alfalfa seeds, sprouted, raw"
+            },
+            {
+                "offset": 2815,
+                "id": "11003",
+                "name": "Amaranth leaves, raw"
+            },
+            {
+                "offset": 2816,
+                "id": "11004",
+                "name": "Amaranth leaves, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2817,
+                "id": "11005",
+                "name": "Arrowhead, raw"
+            },
+            {
+                "offset": 2818,
+                "id": "11006",
+                "name": "Arrowhead, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2819,
+                "id": "11007",
+                "name": "Artichokes, (globe or french), raw"
+            },
+            {
+                "offset": 2820,
+                "id": "11008",
+                "name": "Artichokes, (globe or french), cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2821,
+                "id": "11009",
+                "name": "Artichokes, (globe or french), frozen, unprepared"
+            },
+            {
+                "offset": 2822,
+                "id": "11010",
+                "name": "Artichokes, (globe or french), frozen, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2823,
+                "id": "11011",
+                "name": "Asparagus, raw"
+            },
+            {
+                "offset": 2824,
+                "id": "11012",
+                "name": "Asparagus, cooked, boiled, drained"
+            },
+            {
+                "offset": 2825,
+                "id": "11013",
+                "name": "Asparagus, canned, regular pack, solids and liquids"
+            },
+            {
+                "offset": 2826,
+                "id": "11015",
+                "name": "Asparagus, canned, drained solids"
+            },
+            {
+                "offset": 2827,
+                "id": "11018",
+                "name": "Asparagus, frozen, unprepared"
+            },
+            {
+                "offset": 2828,
+                "id": "11019",
+                "name": "Asparagus, frozen, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2829,
+                "id": "11022",
+                "name": "Balsam-pear (bitter gourd), leafy tips, raw"
+            },
+            {
+                "offset": 2830,
+                "id": "11023",
+                "name": "Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2831,
+                "id": "11024",
+                "name": "Balsam-pear (bitter gourd), pods, raw"
+            },
+            {
+                "offset": 2832,
+                "id": "11025",
+                "name": "Balsam-pear (bitter gourd), pods, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2833,
+                "id": "11026",
+                "name": "Bamboo shoots, raw"
+            },
+            {
+                "offset": 2834,
+                "id": "11027",
+                "name": "Bamboo shoots, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2835,
+                "id": "11028",
+                "name": "Bamboo shoots, canned, drained solids"
+            },
+            {
+                "offset": 2836,
+                "id": "11029",
+                "name": "Beans, kidney, mature seeds, sprouted, raw"
+            },
+            {
+                "offset": 2837,
+                "id": "11030",
+                "name": "Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2838,
+                "id": "11031",
+                "name": "Lima beans, immature seeds, raw"
+            },
+            {
+                "offset": 2839,
+                "id": "11032",
+                "name": "Lima beans, immature seeds, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2840,
+                "id": "11033",
+                "name": "Lima beans, immature seeds, canned, regular pack, solids and liquids"
+            },
+            {
+                "offset": 2841,
+                "id": "11037",
+                "name": "Lima beans, immature seeds, frozen, fordhook, unprepared"
+            },
+            {
+                "offset": 2842,
+                "id": "11038",
+                "name": "Lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2843,
+                "id": "11039",
+                "name": "Lima beans, immature seeds, frozen, baby, unprepared"
+            },
+            {
+                "offset": 2844,
+                "id": "11040",
+                "name": "Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2845,
+                "id": "11043",
+                "name": "Mung beans, mature seeds, sprouted, raw"
+            },
+            {
+                "offset": 2846,
+                "id": "11044",
+                "name": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2847,
+                "id": "11045",
+                "name": "Mung beans, mature seeds, sprouted, cooked, stir-fried"
+            },
+            {
+                "offset": 2848,
+                "id": "11046",
+                "name": "Beans, navy, mature seeds, sprouted, raw"
+            },
+            {
+                "offset": 2849,
+                "id": "11047",
+                "name": "Beans, navy, mature seeds, sprouted, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2850,
+                "id": "11048",
+                "name": "Beans, pinto, immature seeds, frozen, unprepared"
+            },
+            {
+                "offset": 2851,
+                "id": "11049",
+                "name": "Beans, pinto, immature seeds, frozen, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2852,
+                "id": "11050",
+                "name": "Beans, shellie, canned, solids and liquids"
+            },
+            {
+                "offset": 2853,
+                "id": "11052",
+                "name": "Beans, snap, green, raw"
+            },
+            {
+                "offset": 2854,
+                "id": "11053",
+                "name": "Beans, snap, green, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2855,
+                "id": "11054",
+                "name": "Beans, snap, green, canned, regular pack, solids and liquids"
+            },
+            {
+                "offset": 2856,
+                "id": "11056",
+                "name": "Beans, snap, green, canned, regular pack, drained solids"
+            },
+            {
+                "offset": 2857,
+                "id": "11058",
+                "name": "Beans, snap, canned, all styles, seasoned, solids and liquids"
+            },
+            {
+                "offset": 2858,
+                "id": "11060",
+                "name": "Beans, snap, green, frozen, all styles, unprepared"
+            },
+            {
+                "offset": 2859,
+                "id": "11061",
+                "name": "Beans, snap, green, frozen, cooked, boiled, drained without salt"
+            },
+            {
+                "offset": 2860,
+                "id": "11062",
+                "name": "Beans, snap, green, frozen, all styles, microwaved"
+            },
+            {
+                "offset": 2861,
+                "id": "11063",
+                "name": "Beans, snap, green, microwaved"
+            },
+            {
+                "offset": 2862,
+                "id": "11080",
+                "name": "Beets, raw"
+            },
+            {
+                "offset": 2863,
+                "id": "11081",
+                "name": "Beets, cooked, boiled, drained"
+            },
+            {
+                "offset": 2864,
+                "id": "11082",
+                "name": "Beets, canned, regular pack, solids and liquids"
+            },
+            {
+                "offset": 2865,
+                "id": "11084",
+                "name": "Beets, canned, drained solids"
+            },
+            {
+                "offset": 2866,
+                "id": "11086",
+                "name": "Beet greens, raw"
+            },
+            {
+                "offset": 2867,
+                "id": "11087",
+                "name": "Beet greens, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2868,
+                "id": "11088",
+                "name": "Broadbeans, immature seeds, raw"
+            },
+            {
+                "offset": 2869,
+                "id": "11089",
+                "name": "Broadbeans, immature seeds, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2870,
+                "id": "11090",
+                "name": "Broccoli, raw"
+            },
+            {
+                "offset": 2871,
+                "id": "11091",
+                "name": "Broccoli, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2872,
+                "id": "11092",
+                "name": "Broccoli, frozen, chopped, unprepared"
+            },
+            {
+                "offset": 2873,
+                "id": "11093",
+                "name": "Broccoli, frozen, chopped, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2874,
+                "id": "11094",
+                "name": "Broccoli, frozen, spears, unprepared"
+            },
+            {
+                "offset": 2875,
+                "id": "11095",
+                "name": "Broccoli, frozen, spears, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2876,
+                "id": "11096",
+                "name": "Broccoli raab, raw"
+            },
+            {
+                "offset": 2877,
+                "id": "11097",
+                "name": "Broccoli raab, cooked"
+            },
+            {
+                "offset": 2878,
+                "id": "11098",
+                "name": "Brussels sprouts, raw"
+            },
+            {
+                "offset": 2879,
+                "id": "11099",
+                "name": "Brussels sprouts, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2880,
+                "id": "11100",
+                "name": "Brussels sprouts, frozen, unprepared"
+            },
+            {
+                "offset": 2881,
+                "id": "11101",
+                "name": "Brussels sprouts, frozen, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2882,
+                "id": "11104",
+                "name": "Burdock root, raw"
+            },
+            {
+                "offset": 2883,
+                "id": "11105",
+                "name": "Burdock root, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2884,
+                "id": "11106",
+                "name": "Butterbur, (fuki), raw"
+            },
+            {
+                "offset": 2885,
+                "id": "11107",
+                "name": "Butterbur, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2886,
+                "id": "11108",
+                "name": "Butterbur, canned"
+            },
+            {
+                "offset": 2887,
+                "id": "11109",
+                "name": "Cabbage, raw"
+            },
+            {
+                "offset": 2888,
+                "id": "11110",
+                "name": "Cabbage, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2889,
+                "id": "11112",
+                "name": "Cabbage, red, raw"
+            },
+            {
+                "offset": 2890,
+                "id": "11113",
+                "name": "Cabbage, red, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2891,
+                "id": "11114",
+                "name": "Cabbage, savoy, raw"
+            },
+            {
+                "offset": 2892,
+                "id": "11115",
+                "name": "Cabbage, savoy, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2893,
+                "id": "11116",
+                "name": "Cabbage, chinese (pak-choi), raw"
+            },
+            {
+                "offset": 2894,
+                "id": "11117",
+                "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2895,
+                "id": "11118",
+                "name": "Cabbage, kimchi"
+            },
+            {
+                "offset": 2896,
+                "id": "11119",
+                "name": "Cabbage, chinese (pe-tsai), raw"
+            },
+            {
+                "offset": 2897,
+                "id": "11120",
+                "name": "Cabbage, chinese (pe-tsai), cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2898,
+                "id": "11122",
+                "name": "Cardoon, raw"
+            },
+            {
+                "offset": 2899,
+                "id": "11123",
+                "name": "Cardoon, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2900,
+                "id": "11124",
+                "name": "Carrots, raw"
+            },
+            {
+                "offset": 2901,
+                "id": "11125",
+                "name": "Carrots, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2902,
+                "id": "11126",
+                "name": "Carrots, canned, regular pack, solids and liquids"
+            },
+            {
+                "offset": 2903,
+                "id": "11128",
+                "name": "Carrots, canned, regular pack, drained solids"
+            },
+            {
+                "offset": 2904,
+                "id": "11130",
+                "name": "Carrots, frozen, unprepared"
+            },
+            {
+                "offset": 2905,
+                "id": "11131",
+                "name": "Carrots, frozen, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2906,
+                "id": "11134",
+                "name": "Cassava, raw"
+            },
+            {
+                "offset": 2907,
+                "id": "11135",
+                "name": "Cauliflower, raw"
+            },
+            {
+                "offset": 2908,
+                "id": "11136",
+                "name": "Cauliflower, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2909,
+                "id": "11137",
+                "name": "Cauliflower, frozen, unprepared"
+            },
+            {
+                "offset": 2910,
+                "id": "11138",
+                "name": "Cauliflower, frozen, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2911,
+                "id": "11141",
+                "name": "Celeriac, raw"
+            },
+            {
+                "offset": 2912,
+                "id": "11142",
+                "name": "Celeriac, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2913,
+                "id": "11143",
+                "name": "Celery, raw"
+            },
+            {
+                "offset": 2914,
+                "id": "11144",
+                "name": "Celery, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2915,
+                "id": "11145",
+                "name": "Celtuce, raw"
+            },
+            {
+                "offset": 2916,
+                "id": "11147",
+                "name": "Chard, swiss, raw"
+            },
+            {
+                "offset": 2917,
+                "id": "11148",
+                "name": "Chard, swiss, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2918,
+                "id": "11149",
+                "name": "Chayote, fruit, raw"
+            },
+            {
+                "offset": 2919,
+                "id": "11150",
+                "name": "Chayote, fruit, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2920,
+                "id": "11151",
+                "name": "Chicory, witloof, raw"
+            },
+            {
+                "offset": 2921,
+                "id": "11152",
+                "name": "Chicory greens, raw"
+            },
+            {
+                "offset": 2922,
+                "id": "11154",
+                "name": "Chicory roots, raw"
+            },
+            {
+                "offset": 2923,
+                "id": "11156",
+                "name": "Chives, raw"
+            },
+            {
+                "offset": 2924,
+                "id": "11157",
+                "name": "Chrysanthemum, garland, raw"
+            },
+            {
+                "offset": 2925,
+                "id": "11158",
+                "name": "Chrysanthemum, garland, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2926,
+                "id": "11161",
+                "name": "Collards, raw"
+            },
+            {
+                "offset": 2927,
+                "id": "11162",
+                "name": "Collards, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2928,
+                "id": "11163",
+                "name": "Collards, frozen, chopped, unprepared"
+            },
+            {
+                "offset": 2929,
+                "id": "11164",
+                "name": "Collards, frozen, chopped, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2930,
+                "id": "11165",
+                "name": "Coriander (cilantro) leaves, raw"
+            },
+            {
+                "offset": 2931,
+                "id": "11167",
+                "name": "Corn, sweet, yellow, raw"
+            },
+            {
+                "offset": 2932,
+                "id": "11168",
+                "name": "Corn, sweet, yellow, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2933,
+                "id": "11170",
+                "name": "Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids"
+            },
+            {
+                "offset": 2934,
+                "id": "11172",
+                "name": "Corn, sweet, yellow, canned, whole kernel, drained solids"
+            },
+            {
+                "offset": 2935,
+                "id": "11174",
+                "name": "Corn, sweet, yellow, canned, cream style, regular pack"
+            },
+            {
+                "offset": 2936,
+                "id": "11176",
+                "name": "Corn, sweet, yellow, canned, vacuum pack, regular pack"
+            },
+            {
+                "offset": 2937,
+                "id": "11177",
+                "name": "Corn, sweet, yellow, canned, drained solids, rinsed with tap water"
+            },
+            {
+                "offset": 2938,
+                "id": "11178",
+                "name": "Corn, sweet, yellow, frozen, kernels cut off cob, unprepared"
+            },
+            {
+                "offset": 2939,
+                "id": "11179",
+                "name": "Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt"
+            },
+            {
+                "offset": 2940,
+                "id": "11180",
+                "name": "Corn, sweet, yellow, frozen, kernels on cob, unprepared"
+            },
+            {
+                "offset": 2941,
+                "id": "11181",
+                "name": "Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2942,
+                "id": "11182",
+                "name": "Corn, yellow, whole kernel, frozen, microwaved"
+            },
+            {
+                "offset": 2943,
+                "id": "11184",
+                "name": "Corn with red and green peppers, canned, solids and liquids"
+            },
+            {
+                "offset": 2944,
+                "id": "11190",
+                "name": "Cornsalad, raw"
+            },
+            {
+                "offset": 2945,
+                "id": "11191",
+                "name": "Cowpeas (blackeyes), immature seeds, raw"
+            },
+            {
+                "offset": 2946,
+                "id": "11192",
+                "name": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2947,
+                "id": "11195",
+                "name": "Cowpeas (blackeyes), immature seeds, frozen, unprepared"
+            },
+            {
+                "offset": 2948,
+                "id": "11196",
+                "name": "Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2949,
+                "id": "11197",
+                "name": "Cowpeas, young pods with seeds, raw"
+            },
+            {
+                "offset": 2950,
+                "id": "11198",
+                "name": "Cowpeas, young pods with seeds, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2951,
+                "id": "11199",
+                "name": "Yardlong bean, raw"
+            },
+            {
+                "offset": 2952,
+                "id": "11200",
+                "name": "Yardlong bean, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2953,
+                "id": "11201",
+                "name": "Cowpeas, leafy tips, raw"
+            },
+            {
+                "offset": 2954,
+                "id": "11202",
+                "name": "Cowpeas, leafy tips, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2955,
+                "id": "11203",
+                "name": "Cress, garden, raw"
+            },
+            {
+                "offset": 2956,
+                "id": "11204",
+                "name": "Cress, garden, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2957,
+                "id": "11205",
+                "name": "Cucumber, with peel, raw"
+            },
+            {
+                "offset": 2958,
+                "id": "11206",
+                "name": "Cucumber, peeled, raw"
+            },
+            {
+                "offset": 2959,
+                "id": "11207",
+                "name": "Dandelion greens, raw"
+            },
+            {
+                "offset": 2960,
+                "id": "11208",
+                "name": "Dandelion greens, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2961,
+                "id": "11209",
+                "name": "Eggplant, raw"
+            },
+            {
+                "offset": 2962,
+                "id": "11210",
+                "name": "Eggplant, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2963,
+                "id": "11211",
+                "name": "Edamame, frozen, unprepared"
+            },
+            {
+                "offset": 2964,
+                "id": "11212",
+                "name": "Edamame, frozen, prepared"
+            },
+            {
+                "offset": 2965,
+                "id": "11213",
+                "name": "Endive, raw"
+            },
+            {
+                "offset": 2966,
+                "id": "11214",
+                "name": "Escarole, cooked, boiled, drained, no salt added"
+            },
+            {
+                "offset": 2967,
+                "id": "11215",
+                "name": "Garlic, raw"
+            },
+            {
+                "offset": 2968,
+                "id": "11216",
+                "name": "Ginger root, raw"
+            },
+            {
+                "offset": 2969,
+                "id": "11218",
+                "name": "Gourd, white-flowered (calabash), raw"
+            },
+            {
+                "offset": 2970,
+                "id": "11219",
+                "name": "Gourd, white-flowered (calabash), cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2971,
+                "id": "11220",
+                "name": "Gourd, dishcloth (towelgourd), raw"
+            },
+            {
+                "offset": 2972,
+                "id": "11221",
+                "name": "Gourd, dishcloth (towelgourd), cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2973,
+                "id": "11222",
+                "name": "Drumstick leaves, raw"
+            },
+            {
+                "offset": 2974,
+                "id": "11223",
+                "name": "Drumstick leaves, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2975,
+                "id": "11224",
+                "name": "Hyacinth-beans, immature seeds, raw"
+            },
+            {
+                "offset": 2976,
+                "id": "11225",
+                "name": "Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2977,
+                "id": "11226",
+                "name": "Jerusalem-artichokes, raw"
+            },
+            {
+                "offset": 2978,
+                "id": "11228",
+                "name": "Jew's ear, (pepeao), raw"
+            },
+            {
+                "offset": 2979,
+                "id": "11230",
+                "name": "Pepeao, dried"
+            },
+            {
+                "offset": 2980,
+                "id": "11231",
+                "name": "Jute, potherb, raw"
+            },
+            {
+                "offset": 2981,
+                "id": "11232",
+                "name": "Jute, potherb, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2982,
+                "id": "11233",
+                "name": "Kale, raw"
+            },
+            {
+                "offset": 2983,
+                "id": "11234",
+                "name": "Kale, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2984,
+                "id": "11235",
+                "name": "Kale, frozen, unprepared"
+            },
+            {
+                "offset": 2985,
+                "id": "11236",
+                "name": "Kale, frozen, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2986,
+                "id": "11237",
+                "name": "Kanpyo, (dried gourd strips)"
+            },
+            {
+                "offset": 2987,
+                "id": "11238",
+                "name": "Mushrooms, shiitake, raw"
+            },
+            {
+                "offset": 2988,
+                "id": "11239",
+                "name": "Mushrooms, Chanterelle, raw"
+            },
+            {
+                "offset": 2989,
+                "id": "11240",
+                "name": "Mushrooms, morel, raw"
+            },
+            {
+                "offset": 2990,
+                "id": "11241",
+                "name": "Kohlrabi, raw"
+            },
+            {
+                "offset": 2991,
+                "id": "11242",
+                "name": "Kohlrabi, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2992,
+                "id": "11243",
+                "name": "Mushrooms, portabella, grilled"
+            },
+            {
+                "offset": 2993,
+                "id": "11244",
+                "name": "Lambsquarters, raw"
+            },
+            {
+                "offset": 2994,
+                "id": "11245",
+                "name": "Lambsquarters, cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2995,
+                "id": "11246",
+                "name": "Leeks, (bulb and lower leaf-portion), raw"
+            },
+            {
+                "offset": 2996,
+                "id": "11247",
+                "name": "Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, without salt"
+            },
+            {
+                "offset": 2997,
+                "id": "11248",
+                "name": "Lentils, sprouted, raw"
+            },
+            {
+                "offset": 2998,
+                "id": "11249",
+                "name": "Lentils, sprouted, cooked, stir-fried, without salt"
+            },
+            {
+                "offset": 2999,
+                "id": "11250",
+                "name": "Lettuce, butterhead (includes boston and bibb types), raw"
+            }
+        ]
+    }
+}

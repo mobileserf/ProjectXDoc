@@ -33,3 +33,11 @@ Review
 checkout - already present change id to storeId
 
 food - ???
+
+REVIEW - add total review
+       - user specific thumps up & down
+        - favourite, like and useful - need to be changed to same field
+
+LIKE
+====
+  if user liked and then not liked - then "like" firld in json won't be present - This is for undoing like or dislike, todo this in server

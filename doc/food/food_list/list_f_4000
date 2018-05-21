@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 4000,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 4000,
+                "id": "13849",
+                "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, prime, cooked, roasted"
+            },
+            {
+                "offset": 4001,
+                "id": "13850",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 4002,
+                "id": "13851",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 4003,
+                "id": "13852",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 4004,
+                "id": "13853",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4005,
+                "id": "13854",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 4006,
+                "id": "13855",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 4007,
+                "id": "13856",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4008,
+                "id": "13857",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4009,
+                "id": "13858",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 4010,
+                "id": "13859",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, prime, raw"
+            },
+            {
+                "offset": 4011,
+                "id": "13860",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled"
+            },
+            {
+                "offset": 4012,
+                "id": "13861",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, prime, cooked, roasted"
+            },
+            {
+                "offset": 4013,
+                "id": "13862",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 4014,
+                "id": "13863",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 4015,
+                "id": "13864",
+                "name": "Beef, round, full cut, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4016,
+                "id": "13865",
+                "name": "Beef, round, full cut, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 4017,
+                "id": "13866",
+                "name": "Beef, round, full cut, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4018,
+                "id": "13867",
+                "name": "Beef, round, full cut, separable lean and fat, trimmed to 1/8\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4019,
+                "id": "13868",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 4020,
+                "id": "13869",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 4021,
+                "id": "13870",
+                "name": "Beef, round, bottom round, roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 4022,
+                "id": "13871",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4023,
+                "id": "13872",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 4024,
+                "id": "13873",
+                "name": "Beef, round, bottom round, roast, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 4025,
+                "id": "13874",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4026,
+                "id": "13875",
+                "name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 4027,
+                "id": "13876",
+                "name": "Beef, round, bottom round, roast, separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 4028,
+                "id": "13877",
+                "name": "Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 4029,
+                "id": "13878",
+                "name": "Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 4030,
+                "id": "13879",
+                "name": "Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4031,
+                "id": "13880",
+                "name": "Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 4032,
+                "id": "13881",
+                "name": "Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4033,
+                "id": "13882",
+                "name": "Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 4034,
+                "id": "13883",
+                "name": "Beef, round, tip round, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 4035,
+                "id": "13884",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 4036,
+                "id": "13885",
+                "name": "Beef, round, tip round, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4037,
+                "id": "13886",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 4038,
+                "id": "13887",
+                "name": "Beef, round, tip round, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4039,
+                "id": "13888",
+                "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 4040,
+                "id": "13889",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 4041,
+                "id": "13890",
+                "name": "Beef, round, top round, separable lean only, trimmed to 1/8\" fat, choice, cooked, pan-fried"
+            },
+            {
+                "offset": 4042,
+                "id": "13891",
+                "name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 4043,
+                "id": "13892",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 4044,
+                "id": "13893",
+                "name": "Beef, round, top round steak, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 4045,
+                "id": "13894",
+                "name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4046,
+                "id": "13895",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 4047,
+                "id": "13896",
+                "name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 4048,
+                "id": "13897",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, pan-fried"
+            },
+            {
+                "offset": 4049,
+                "id": "13898",
+                "name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4050,
+                "id": "13899",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 4051,
+                "id": "13900",
+                "name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4052,
+                "id": "13901",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 1/8\" fat, prime, raw"
+            },
+            {
+                "offset": 4053,
+                "id": "13902",
+                "name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled"
+            },
+            {
+                "offset": 4054,
+                "id": "13903",
+                "name": "Beef, shoulder top blade steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 4055,
+                "id": "13904",
+                "name": "Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 4056,
+                "id": "13905",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4057,
+                "id": "13906",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 4058,
+                "id": "13907",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4059,
+                "id": "13908",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 4060,
+                "id": "13909",
+                "name": "Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 4061,
+                "id": "13910",
+                "name": "Beef, loin, top loin, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 4062,
+                "id": "13911",
+                "name": "Beef, loin, top loin, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4063,
+                "id": "13912",
+                "name": "Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 4064,
+                "id": "13913",
+                "name": "Beef, loin, top loin, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4065,
+                "id": "13914",
+                "name": "Beef, loin, top loin, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 4066,
+                "id": "13915",
+                "name": "Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8\" fat, prime, raw"
+            },
+            {
+                "offset": 4067,
+                "id": "13916",
+                "name": "Beef, short loin, top loin, separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled"
+            },
+            {
+                "offset": 4068,
+                "id": "13917",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 4069,
+                "id": "13918",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 4070,
+                "id": "13919",
+                "name": "Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 4071,
+                "id": "13920",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4072,
+                "id": "13921",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 4073,
+                "id": "13922",
+                "name": "Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 4074,
+                "id": "13923",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4075,
+                "id": "13924",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4076,
+                "id": "13925",
+                "name": "Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 4077,
+                "id": "13926",
+                "name": "Beef, tenderloin, separable lean and fat, trimmed to 1/8\" fat, prime, raw"
+            },
+            {
+                "offset": 4078,
+                "id": "13927",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled"
+            },
+            {
+                "offset": 4079,
+                "id": "13928",
+                "name": "Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8\" fat, prime, cooked, roasted"
+            },
+            {
+                "offset": 4080,
+                "id": "13929",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 4081,
+                "id": "13930",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 4082,
+                "id": "13931",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 4083,
+                "id": "13932",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 4084,
+                "id": "13933",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, pan-fried"
+            },
+            {
+                "offset": 4085,
+                "id": "13934",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 4086,
+                "id": "13935",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4087,
+                "id": "13937",
+                "name": "Beef, chuck, clod roast, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 4088,
+                "id": "13940",
+                "name": "Beef, chuck, clod roast, separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 4089,
+                "id": "13943",
+                "name": "Beef, shoulder steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 4090,
+                "id": "13946",
+                "name": "Beef, shoulder steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 4091,
+                "id": "13948",
+                "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 4092,
+                "id": "13949",
+                "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4093,
+                "id": "13950",
+                "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 4094,
+                "id": "13951",
+                "name": "Beef, rib eye, small end (ribs 10-12), separable lean and fat, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4095,
+                "id": "13952",
+                "name": "Beef, rib eye, small end (ribs 10-12), separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 4096,
+                "id": "13953",
+                "name": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 4097,
+                "id": "13954",
+                "name": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 4098,
+                "id": "13955",
+                "name": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 4099,
+                "id": "13956",
+                "name": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 4100,
+                "id": "13957",
+                "name": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 4101,
+                "id": "13958",
+                "name": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 4102,
+                "id": "13959",
+                "name": "Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 4103,
+                "id": "13961",
+                "name": "Beef, chuck, mock tender steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 4104,
+                "id": "13963",
+                "name": "Beef, chuck, mock tender steak, separable lean only, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4105,
+                "id": "13965",
+                "name": "Beef, chuck, top blade, separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+            },
+            {
+                "offset": 4106,
+                "id": "13967",
+                "name": "Beef, chuck, top blade, separable lean only, trimmed to 0\" fat, select, cooked, broiled"
+            },
+            {
+                "offset": 4107,
+                "id": "13968",
+                "name": "Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 4108,
+                "id": "13969",
+                "name": "Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 4109,
+                "id": "13970",
+                "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 4110,
+                "id": "13971",
+                "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 4111,
+                "id": "13972",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 4112,
+                "id": "13973",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 4113,
+                "id": "13974",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 4114,
+                "id": "13975",
+                "name": "Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 4115,
+                "id": "13977",
+                "name": "Beef, plate, inside skirt steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 4116,
+                "id": "13979",
+                "name": "Beef, plate, outside skirt steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled"
+            },
+            {
+                "offset": 4117,
+                "id": "13980",
+                "name": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 4118,
+                "id": "13981",
+                "name": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 4119,
+                "id": "13982",
+                "name": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 4120,
+                "id": "13983",
+                "name": "Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 4121,
+                "id": "13985",
+                "name": "Beef, loin, bottom sirloin butt, tri-tip roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 4122,
+                "id": "14003",
+                "name": "Alcoholic beverage, beer, regular, all"
+            },
+            {
+                "offset": 4123,
+                "id": "14004",
+                "name": "Alcoholic beverage, beer, regular, BUDWEISER"
+            },
+            {
+                "offset": 4124,
+                "id": "14005",
+                "name": "Alcoholic beverage, beer, light, BUDWEISER SELECT"
+            },
+            {
+                "offset": 4125,
+                "id": "14006",
+                "name": "Alcoholic beverage, beer, light"
+            },
+            {
+                "offset": 4126,
+                "id": "14007",
+                "name": "Alcoholic beverage, beer, light, BUD LIGHT"
+            },
+            {
+                "offset": 4127,
+                "id": "14009",
+                "name": "Alcoholic beverage, daiquiri, canned"
+            },
+            {
+                "offset": 4128,
+                "id": "14010",
+                "name": "Alcoholic beverage, daiquiri, prepared-from-recipe"
+            },
+            {
+                "offset": 4129,
+                "id": "14013",
+                "name": "Alcoholic beverage, beer, light, low carb"
+            },
+            {
+                "offset": 4130,
+                "id": "14015",
+                "name": "Alcoholic beverage, pina colada, canned"
+            },
+            {
+                "offset": 4131,
+                "id": "14016",
+                "name": "Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink"
+            },
+            {
+                "offset": 4132,
+                "id": "14017",
+                "name": "Alcoholic beverage, pina colada, prepared-from-recipe"
+            },
+            {
+                "offset": 4133,
+                "id": "14019",
+                "name": "Alcoholic beverage, tequila sunrise, canned"
+            },
+            {
+                "offset": 4134,
+                "id": "14021",
+                "name": "Beverages,  Energy drink, Citrus"
+            },
+            {
+                "offset": 4135,
+                "id": "14022",
+                "name": "Beverages, MONSTER energy drink, low carb"
+            },
+            {
+                "offset": 4136,
+                "id": "14024",
+                "name": "Beverages, Whiskey sour mix, powder"
+            },
+            {
+                "offset": 4137,
+                "id": "14025",
+                "name": "Alcoholic beverage, whiskey sour, prepared with water, whiskey and powder mix"
+            },
+            {
+                "offset": 4138,
+                "id": "14026",
+                "name": "Beverages, THE COCA-COLA COMPANY, NOS Zero, energy drink, sugar-free with guarana, fortified with vitamins B6 and B12"
+            },
+            {
+                "offset": 4139,
+                "id": "14027",
+                "name": "Alcoholic beverage, whiskey sour, canned"
+            },
+            {
+                "offset": 4140,
+                "id": "14028",
+                "name": "Beverages, Whiskey sour mix, bottled"
+            },
+            {
+                "offset": 4141,
+                "id": "14029",
+                "name": "Alcoholic beverage, whiskey sour, prepared from item 14028"
+            },
+            {
+                "offset": 4142,
+                "id": "14030",
+                "name": "Beverages, THE COCA-COLA COMPANY, NOS energy drink, Original, grape, loaded cherry, charged citrus, fortified with vitamins B6 and B12"
+            },
+            {
+                "offset": 4143,
+                "id": "14031",
+                "name": "Beverages, water, bottled, yumberry, pomegranate with anti-oxidants, zero calories"
+            },
+            {
+                "offset": 4144,
+                "id": "14033",
+                "name": "Beverages, ABBOTT, EAS whey protein powder"
+            },
+            {
+                "offset": 4145,
+                "id": "14034",
+                "name": "Alcoholic beverage, creme de menthe, 72 proof"
+            },
+            {
+                "offset": 4146,
+                "id": "14035",
+                "name": "Beverages, ABBOTT, EAS soy protein powder"
+            },
+            {
+                "offset": 4147,
+                "id": "14036",
+                "name": "Beverages, CYTOSPORT, Muscle Milk, ready-to-drink"
+            },
+            {
+                "offset": 4148,
+                "id": "14037",
+                "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof"
+            },
+            {
+                "offset": 4149,
+                "id": "14038",
+                "name": "Beverages, OCEAN SPRAY, Cran-Energy, Cranberry Energy Juice Drink"
+            },
+            {
+                "offset": 4150,
+                "id": "14041",
+                "name": "Beverages, NESTLE, Boost plus, nutritional drink, ready-to-drink"
+            },
+            {
+                "offset": 4151,
+                "id": "14044",
+                "name": "Beverages, SLIMFAST, Meal replacement,  High Protein Shake, Ready-To-Drink, 3-2-1 plan"
+            },
+            {
+                "offset": 4152,
+                "id": "14045",
+                "name": "Beverages, UNILEVER, SLIMFAST, meal replacement, regular, ready-to-drink,  3-2-1 Plan"
+            },
+            {
+                "offset": 4153,
+                "id": "14047",
+                "name": "Beverages, UNILEVER, SLIMFAST Shake Mix, powder, 3-2-1 Plan"
+            },
+            {
+                "offset": 4154,
+                "id": "14048",
+                "name": "Beverages, FUZE, orange mango, fortified with vitamins A, C, E, B6"
+            },
+            {
+                "offset": 4155,
+                "id": "14049",
+                "name": "Alcoholic beverage, distilled, gin, 90 proof"
+            },
+            {
+                "offset": 4156,
+                "id": "14050",
+                "name": "Alcoholic beverage, distilled, rum, 80 proof"
+            },
+            {
+                "offset": 4157,
+                "id": "14051",
+                "name": "Alcoholic beverage, distilled, vodka, 80 proof"
+            },
+            {
+                "offset": 4158,
+                "id": "14052",
+                "name": "Alcoholic beverage, distilled, whiskey, 86 proof"
+            },
+            {
+                "offset": 4159,
+                "id": "14054",
+                "name": "Beverages, almond milk, chocolate, ready-to-drink"
+            },
+            {
+                "offset": 4160,
+                "id": "14055",
+                "name": "Beverages, UNILEVER, SLIMFAST Shake Mix, high protein, whey powder, 3-2-1 Plan,"
+            },
+            {
+                "offset": 4161,
+                "id": "14056",
+                "name": "Beverages, Acai berry drink, fortified"
+            },
+            {
+                "offset": 4162,
+                "id": "14057",
+                "name": "Alcoholic beverage, wine, dessert, sweet"
+            },
+            {
+                "offset": 4163,
+                "id": "14058",
+                "name": "Beverages, Whey protein powder isolate"
+            },
+            {
+                "offset": 4164,
+                "id": "14059",
+                "name": "Beverages, KELLOGG'S, SPECIAL K Protein Shake"
+            },
+            {
+                "offset": 4165,
+                "id": "14060",
+                "name": "Beverages, Energy Drink with carbonated water and high fructose corn syrup"
+            },
+            {
+                "offset": 4166,
+                "id": "14061",
+                "name": "Beverages, Energy Drink, sugar free"
+            },
+            {
+                "offset": 4167,
+                "id": "14062",
+                "name": "Beverages, ABBOTT, ENSURE, Nutritional Shake, Ready-to-Drink"
+            },
+            {
+                "offset": 4168,
+                "id": "14063",
+                "name": "Beverages, chocolate powder, no sugar added"
+            },
+            {
+                "offset": 4169,
+                "id": "14064",
+                "name": "Beverages, Orange juice, light, No pulp"
+            },
+            {
+                "offset": 4170,
+                "id": "14065",
+                "name": "Beverages, The COCA-COLA company, Hi-C Flashin' Fruit Punch"
+            },
+            {
+                "offset": 4171,
+                "id": "14066",
+                "name": "Beverages, Protein powder whey based"
+            },
+            {
+                "offset": 4172,
+                "id": "14067",
+                "name": "Beverages, Protein powder soy based"
+            },
+            {
+                "offset": 4173,
+                "id": "14068",
+                "name": "Beverages, KELLOGG'S SPECIAL K20 protein powder"
+            },
+            {
+                "offset": 4174,
+                "id": "14073",
+                "name": "Beverages, ZEVIA, cola"
+            },
+            {
+                "offset": 4175,
+                "id": "14074",
+                "name": "Beverages, ZEVIA, cola, caffeine free"
+            },
+            {
+                "offset": 4176,
+                "id": "14075",
+                "name": "Beverages, GEROLSTEINER BRUNNEN GmbH & Co. KG,Gerolsteiner naturally sparkling mineral water,"
+            },
+            {
+                "offset": 4177,
+                "id": "14076",
+                "name": "Beverages, ICELANDIC, Glacial Natural spring water"
+            },
+            {
+                "offset": 4178,
+                "id": "14079",
+                "name": "Beverages, yellow green colored citrus soft drink with caffeine"
+            },
+            {
+                "offset": 4179,
+                "id": "14080",
+                "name": "Beverages, rich chocolate, powder"
+            },
+            {
+                "offset": 4180,
+                "id": "14082",
+                "name": "Beverages, GEROLSTEINER BRUNNEN GmbH & Co. KG (Gerolsteiner), naturally sparkling, mineral bottled water"
+            },
+            {
+                "offset": 4181,
+                "id": "14083",
+                "name": "Beverages, chocolate malt, powder, prepared with fat free milk"
+            },
+            {
+                "offset": 4182,
+                "id": "14084",
+                "name": "Alcoholic beverage, wine, table, all"
+            },
+            {
+                "offset": 4183,
+                "id": "14086",
+                "name": "Beverages, V8 SPLASH Smoothies, Peach Mango"
+            },
+            {
+                "offset": 4184,
+                "id": "14087",
+                "name": "Beverages, V8 SPLASH Smoothies, Strawberry Banana"
+            },
+            {
+                "offset": 4185,
+                "id": "14088",
+                "name": "Beverages, V8 SPLASH Smoothies, Tropical Colada"
+            },
+            {
+                "offset": 4186,
+                "id": "14090",
+                "name": "Beverages, Coconut water, ready-to-drink, unsweetened"
+            },
+            {
+                "offset": 4187,
+                "id": "14091",
+                "name": "Beverages, almond milk, unsweetened, shelf stable"
+            },
+            {
+                "offset": 4188,
+                "id": "14092",
+                "name": "Beverages, chocolate almond milk, unsweetened, shelf-stable, fortified with vitamin D2 and E"
+            },
+            {
+                "offset": 4189,
+                "id": "14093",
+                "name": "Beverages, The COCA-COLA company, Glaceau Vitamin Water, Revive Fruit Punch, fortified"
+            },
+            {
+                "offset": 4190,
+                "id": "14095",
+                "name": "Beverages, MINUTE MAID, Lemonada, Limeade"
+            },
+            {
+                "offset": 4191,
+                "id": "14096",
+                "name": "Alcoholic beverage, wine, table, red"
+            },
+            {
+                "offset": 4192,
+                "id": "14097",
+                "name": "Alcoholic Beverage, wine, table, red, Cabernet Sauvignon"
+            },
+            {
+                "offset": 4193,
+                "id": "14098",
+                "name": "Alcoholic Beverage, wine, table, red, Cabernet Franc"
+            },
+            {
+                "offset": 4194,
+                "id": "14099",
+                "name": "Alcoholic Beverage, wine, table, red, Pinot Noir"
+            },
+            {
+                "offset": 4195,
+                "id": "14100",
+                "name": "Alcoholic Beverage, wine, table, red, Syrah"
+            },
+            {
+                "offset": 4196,
+                "id": "14101",
+                "name": "Alcoholic Beverage, wine, table, red, Barbera"
+            },
+            {
+                "offset": 4197,
+                "id": "14102",
+                "name": "Alcoholic Beverage, wine, table, red, Zinfandel"
+            },
+            {
+                "offset": 4198,
+                "id": "14103",
+                "name": "Alcoholic Beverage, wine, table, red, Petite Sirah"
+            },
+            {
+                "offset": 4199,
+                "id": "14105",
+                "name": "Alcoholic Beverage, wine, table, red, Claret"
+            },
+            {
+                "offset": 4200,
+                "id": "14106",
+                "name": "Alcoholic beverage, wine, table, white"
+            },
+            {
+                "offset": 4201,
+                "id": "14107",
+                "name": "Alcoholic Beverage, wine, table, red, Lemberger"
+            },
+            {
+                "offset": 4202,
+                "id": "14108",
+                "name": "Alcoholic Beverage, wine, table, red, Sangiovese"
+            },
+            {
+                "offset": 4203,
+                "id": "14109",
+                "name": "Alcoholic Beverage, wine, table, red, Carignane"
+            },
+            {
+                "offset": 4204,
+                "id": "14113",
+                "name": "Alcoholic beverage, wine, table, white, Pinot Gris (Grigio)"
+            },
+            {
+                "offset": 4205,
+                "id": "14116",
+                "name": "Alcoholic beverage, wine, table, white, Chenin Blanc"
+            },
+            {
+                "offset": 4206,
+                "id": "14117",
+                "name": "Alcoholic beverage, wine, table, white, Fume Blanc"
+            },
+            {
+                "offset": 4207,
+                "id": "14119",
+                "name": "Beverages, Mixed vegetable and fruit juice drink, with added nutrients"
+            },
+            {
+                "offset": 4208,
+                "id": "14120",
+                "name": "Alcoholic beverage, wine, table, white, Muller Thurgau"
+            },
+            {
+                "offset": 4209,
+                "id": "14121",
+                "name": "Beverages, carbonated, club soda"
+            },
+            {
+                "offset": 4210,
+                "id": "14124",
+                "name": "Alcoholic beverage, wine, table, white, Gewurztraminer"
+            },
+            {
+                "offset": 4211,
+                "id": "14125",
+                "name": "Alcoholic beverage, wine, table, white, late harvest, Gewurztraminer"
+            },
+            {
+                "offset": 4212,
+                "id": "14126",
+                "name": "Alcoholic beverage, wine, table, white, Semillon"
+            },
+            {
+                "offset": 4213,
+                "id": "14130",
+                "name": "Carbonated beverage, cream soda"
+            },
+            {
+                "offset": 4214,
+                "id": "14132",
+                "name": "Alcoholic beverage, wine, table, white, Riesling"
+            },
+            {
+                "offset": 4215,
+                "id": "14134",
+                "name": "Alcoholic beverage, wine, table, white, Sauvignon Blanc"
+            },
+            {
+                "offset": 4216,
+                "id": "14135",
+                "name": "Alcoholic beverage, wine, table, white, late harvest"
+            },
+            {
+                "offset": 4217,
+                "id": "14136",
+                "name": "Beverages, carbonated, ginger ale"
+            },
+            {
+                "offset": 4218,
+                "id": "14137",
+                "name": "Beverages, NESTEA, tea, black, ready-to-drink, lemon"
+            },
+            {
+                "offset": 4219,
+                "id": "14138",
+                "name": "Alcoholic beverage, wine, table, white, Pinot Blanc"
+            },
+            {
+                "offset": 4220,
+                "id": "14140",
+                "name": "Alcoholic beverage, wine, table, white, Muscat"
+            },
+            {
+                "offset": 4221,
+                "id": "14142",
+                "name": "Beverages, carbonated, grape soda"
+            },
+            {
+                "offset": 4222,
+                "id": "14143",
+                "name": "Beverages, carbonated, low calorie, other than cola or pepper,  without caffeine"
+            },
+            {
+                "offset": 4223,
+                "id": "14144",
+                "name": "Beverages, carbonated, lemon-lime soda, no caffeine"
+            },
+            {
+                "offset": 4224,
+                "id": "14145",
+                "name": "Beverages, carbonated, SPRITE, lemon-lime, without caffeine"
+            },
+            {
+                "offset": 4225,
+                "id": "14146",
+                "name": "Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine"
+            },
+            {
+                "offset": 4226,
+                "id": "14147",
+                "name": "Beverages, carbonated, cola, without caffeine"
+            },
+            {
+                "offset": 4227,
+                "id": "14148",
+                "name": "Beverages, carbonated, cola, regular"
+            },
+            {
+                "offset": 4228,
+                "id": "14149",
+                "name": "Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners"
+            },
+            {
+                "offset": 4229,
+                "id": "14150",
+                "name": "Beverages, carbonated, orange"
+            },
+            {
+                "offset": 4230,
+                "id": "14151",
+                "name": "Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine"
+            },
+            {
+                "offset": 4231,
+                "id": "14152",
+                "name": "Alcoholic Beverage, wine, table, red, Burgundy"
+            },
+            {
+                "offset": 4232,
+                "id": "14153",
+                "name": "Beverages, carbonated, pepper-type, contains caffeine"
+            },
+            {
+                "offset": 4233,
+                "id": "14154",
+                "name": "Beverages, Energy drink, RED BULL"
+            },
+            {
+                "offset": 4234,
+                "id": "14155",
+                "name": "Beverages, carbonated, tonic water"
+            },
+            {
+                "offset": 4235,
+                "id": "14156",
+                "name": "Beverages, Energy drink, RED BULL, sugar free, with added caffeine, niacin, pantothenic acid, vitamins B6 and B12"
+            },
+            {
+                "offset": 4236,
+                "id": "14157",
+                "name": "Beverages, carbonated, root beer"
+            },
+            {
+                "offset": 4237,
+                "id": "14158",
+                "name": "Alcoholic Beverage, wine, table, red, Gamay"
+            },
+            {
+                "offset": 4238,
+                "id": "14159",
+                "name": "Alcoholic Beverage, wine, table, red, Mouvedre"
+            },
+            {
+                "offset": 4239,
+                "id": "14160",
+                "name": "Alcoholic beverage, wine, table, white, Chardonnay"
+            },
+            {
+                "offset": 4240,
+                "id": "14161",
+                "name": "Beverages, Kiwi Strawberry Juice Drink"
+            },
+            {
+                "offset": 4241,
+                "id": "14162",
+                "name": "Beverages, Apple juice drink, light, fortified with vitamin C"
+            },
+            {
+                "offset": 4242,
+                "id": "14163",
+                "name": "Beverages, chocolate drink, milk and soy based, ready to drink, fortified"
+            },
+            {
+                "offset": 4243,
+                "id": "14164",
+                "name": "Beverages, chocolate malt powder, prepared with 1% milk, fortified"
+            },
+            {
+                "offset": 4244,
+                "id": "14165",
+                "name": "Beverages, carbonated, limeade, high caffeine"
+            },
+            {
+                "offset": 4245,
+                "id": "14166",
+                "name": "Beverages, carbonated, low calorie, cola or pepper-types, with sodium saccharin, contains caffeine"
+            },
+            {
+                "offset": 4246,
+                "id": "14167",
+                "name": "Beverages, POWERADE, Zero, Mixed Berry"
+            },
+            {
+                "offset": 4247,
+                "id": "14168",
+                "name": "Beverages, Carob-flavor beverage mix, powder"
+            },
+            {
+                "offset": 4248,
+                "id": "14169",
+                "name": "Beverages, Carob-flavor beverage mix, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4249,
+                "id": "14171",
+                "name": "Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2"
+            },
+            {
+                "offset": 4250,
+                "id": "14173",
+                "name": "Beverages, coffee, ready to drink, vanilla, light, milk based, sweetened"
+            },
+            {
+                "offset": 4251,
+                "id": "14174",
+                "name": "Beverages, Lemonade fruit juice drink light, fortified with vitamin E and C"
+            },
+            {
+                "offset": 4252,
+                "id": "14177",
+                "name": "Beverages, chocolate-flavor beverage mix, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4253,
+                "id": "14179",
+                "name": "Beverages, coffee, ready to drink, milk based, sweetened"
+            },
+            {
+                "offset": 4254,
+                "id": "14180",
+                "name": "Beverages, coffee, brewed, breakfast blend"
+            },
+            {
+                "offset": 4255,
+                "id": "14181",
+                "name": "Beverages, chocolate syrup"
+            },
+            {
+                "offset": 4256,
+                "id": "14182",
+                "name": "Beverages, chocolate syrup, prepared with whole milk"
+            },
+            {
+                "offset": 4257,
+                "id": "14183",
+                "name": "Beverages, coffee, ready to drink, iced, mocha, milk based"
+            },
+            {
+                "offset": 4258,
+                "id": "14185",
+                "name": "Beverages, tea, Oolong, brewed"
+            },
+            {
+                "offset": 4259,
+                "id": "14187",
+                "name": "Beverages, Clam and tomato juice, canned"
+            },
+            {
+                "offset": 4260,
+                "id": "14188",
+                "name": "Beverages, tea, green, ready to drink, ginseng and honey, sweetened"
+            },
+            {
+                "offset": 4261,
+                "id": "14189",
+                "name": "Beverages, The COCA-COLA company, Minute Maid, Lemonade"
+            },
+            {
+                "offset": 4262,
+                "id": "14190",
+                "name": "Beverages, tea, green, ready-to-drink, diet"
+            },
+            {
+                "offset": 4263,
+                "id": "14191",
+                "name": "Beverages, tea, green, ready-to-drink, citrus, diet, fortified with vitamin C"
+            },
+            {
+                "offset": 4264,
+                "id": "14192",
+                "name": "Beverages, Cocoa mix, powder"
+            },
+            {
+                "offset": 4265,
+                "id": "14194",
+                "name": "Beverages, Cocoa mix, powder, prepared with water"
+            },
+            {
+                "offset": 4266,
+                "id": "14195",
+                "name": "Beverages, Cocoa mix, NESTLE, Hot Cocoa Mix Rich Chocolate With Marshmallows"
+            },
+            {
+                "offset": 4267,
+                "id": "14196",
+                "name": "Beverages, Cocoa mix, no sugar added, powder"
+            },
+            {
+                "offset": 4268,
+                "id": "14197",
+                "name": "Cocoa mix, NESTLE, Rich Chocolate Hot Cocoa Mix"
+            },
+            {
+                "offset": 4269,
+                "id": "14199",
+                "name": "Beverages, tea, black, ready-to-drink, lemon, sweetened"
+            },
+            {
+                "offset": 4270,
+                "id": "14201",
+                "name": "Beverages, coffee, brewed, prepared with tap water, decaffeinated"
+            },
+            {
+                "offset": 4271,
+                "id": "14202",
+                "name": "Beverages, coffee, brewed, espresso, restaurant-prepared, decaffeinated"
+            },
+            {
+                "offset": 4272,
+                "id": "14203",
+                "name": "Beverages, coffee, instant, regular, half the caffeine"
+            },
+            {
+                "offset": 4273,
+                "id": "14204",
+                "name": "Beverages, coffee and cocoa, instant, decaffeinated, with whitener and low calorie sweetener"
+            },
+            {
+                "offset": 4274,
+                "id": "14206",
+                "name": "Beverages, tea, green, ready-to-drink, sweetened"
+            },
+            {
+                "offset": 4275,
+                "id": "14207",
+                "name": "Beverages, tea, ready-to-drink, lemon, diet"
+            },
+            {
+                "offset": 4276,
+                "id": "14209",
+                "name": "Beverages, coffee, brewed, prepared with tap water"
+            },
+            {
+                "offset": 4277,
+                "id": "14210",
+                "name": "Beverages, coffee, brewed, espresso, restaurant-prepared"
+            },
+            {
+                "offset": 4278,
+                "id": "14211",
+                "name": "Beverages, tea, black, ready-to-drink, lemon, diet"
+            },
+            {
+                "offset": 4279,
+                "id": "14214",
+                "name": "Beverages, coffee, instant, regular, powder"
+            },
+            {
+                "offset": 4280,
+                "id": "14215",
+                "name": "Beverages, coffee, instant, regular, prepared with water"
+            },
+            {
+                "offset": 4281,
+                "id": "14216",
+                "name": "Beverages, aloe vera juice drink, fortified with Vitamin C"
+            },
+            {
+                "offset": 4282,
+                "id": "14217",
+                "name": "Beverages, OCEAN SPRAY, Cran Grape"
+            },
+            {
+                "offset": 4283,
+                "id": "14218",
+                "name": "Beverages, coffee, instant, decaffeinated, powder"
+            },
+            {
+                "offset": 4284,
+                "id": "14219",
+                "name": "Beverages, coffee, instant, decaffeinated, prepared with water"
+            },
+            {
+                "offset": 4285,
+                "id": "14220",
+                "name": "Beverages, OCEAN SPRAY, Cranberry-Apple Juice Drink, bottled"
+            },
+            {
+                "offset": 4286,
+                "id": "14221",
+                "name": "Beverages, OCEAN SPRAY, Diet Cranberry Juice"
+            },
+            {
+                "offset": 4287,
+                "id": "14222",
+                "name": "Beverages, coffee, instant, with chicory"
+            },
+            {
+                "offset": 4288,
+                "id": "14223",
+                "name": "Beverages, coffee, instant, chicory"
+            },
+            {
+                "offset": 4289,
+                "id": "14224",
+                "name": "Beverages, coffee, instant, mocha, sweetened"
+            },
+            {
+                "offset": 4290,
+                "id": "14226",
+                "name": "Beverages, OCEAN SPRAY, Light Cranberry and Raspberry Flavored Juice"
+            },
+            {
+                "offset": 4291,
+                "id": "14227",
+                "name": "Beverages, OCEAN SPRAY, White Cranberry Strawberry Flavored Juice Drink"
+            },
+            {
+                "offset": 4292,
+                "id": "14231",
+                "name": "Beverages, KRAFT, coffee, instant, French Vanilla Cafe"
+            },
+            {
+                "offset": 4293,
+                "id": "14233",
+                "name": "Beverages, OCEAN SPRAY, Cran Raspberry Juice Drink"
+            },
+            {
+                "offset": 4294,
+                "id": "14234",
+                "name": "Beverages, OCEAN SPRAY, Cran Lemonade"
+            },
+            {
+                "offset": 4295,
+                "id": "14235",
+                "name": "Beverages, OCEAN SPRAY, Diet Cran Cherry"
+            },
+            {
+                "offset": 4296,
+                "id": "14236",
+                "name": "Beverages, coffee substitute, cereal grain beverage, powder"
+            },
+            {
+                "offset": 4297,
+                "id": "14237",
+                "name": "Beverages, coffee substitute, cereal grain beverage, prepared with water"
+            },
+            {
+                "offset": 4298,
+                "id": "14238",
+                "name": "Beverages, cranberry-apple juice drink, bottled"
+            },
+            {
+                "offset": 4299,
+                "id": "14239",
+                "name": "Alcoholic beverage, malt beer, hard lemonade"
+            },
+            {
+                "offset": 4300,
+                "id": "14240",
+                "name": "Beverages, cranberry-apricot juice drink, bottled"
+            },
+            {
+                "offset": 4301,
+                "id": "14241",
+                "name": "Beverages, cranberry-grape juice drink, bottled"
+            },
+            {
+                "offset": 4302,
+                "id": "14242",
+                "name": "Cranberry juice cocktail, bottled"
+            },
+            {
+                "offset": 4303,
+                "id": "14243",
+                "name": "Cranberry juice cocktail, bottled, low calorie, with calcium, saccharin and corn sweetener"
+            },
+            {
+                "offset": 4304,
+                "id": "14245",
+                "name": "Beverages, Eggnog-flavor mix, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4305,
+                "id": "14246",
+                "name": "Beverages, tea, green, instant, decaffeinated, lemon, unsweetened, fortified with vitamin C"
+            },
+            {
+                "offset": 4306,
+                "id": "14247",
+                "name": "Beverages, tea, black, ready to drink"
+            },
+            {
+                "offset": 4307,
+                "id": "14248",
+                "name": "Alcoholic beverage, beer, light, higher alcohol"
+            },
+            {
+                "offset": 4308,
+                "id": "14250",
+                "name": "Beverages, AMBER, hard cider"
+            },
+            {
+                "offset": 4309,
+                "id": "14251",
+                "name": "Alcoholic beverages, beer, higher alcohol"
+            },
+            {
+                "offset": 4310,
+                "id": "14252",
+                "name": "Beverages, Malt liquor beverage"
+            },
+            {
+                "offset": 4311,
+                "id": "14253",
+                "name": "Alcoholic beverages, wine, rose"
+            },
+            {
+                "offset": 4312,
+                "id": "14255",
+                "name": "Beverages, OCEAN SPRAY, Cran Pomegranate"
+            },
+            {
+                "offset": 4313,
+                "id": "14256",
+                "name": "Beverages, OCEAN SPRAY, Cran Cherry"
+            },
+            {
+                "offset": 4314,
+                "id": "14257",
+                "name": "Beverages, OCEAN SPRAY, Light Cranberry"
+            },
+            {
+                "offset": 4315,
+                "id": "14258",
+                "name": "Beverages, OCEAN SPRAY, White Cranberry Peach"
+            },
+            {
+                "offset": 4316,
+                "id": "14259",
+                "name": "Beverages, OCEAN SPRAY, Light Cranberry, Concord Grape"
+            },
+            {
+                "offset": 4317,
+                "id": "14260",
+                "name": "Beverages, tea, green, brewed, decaffeinated"
+            },
+            {
+                "offset": 4318,
+                "id": "14261",
+                "name": "Beverages, tea, green, ready to drink, unsweetened"
+            },
+            {
+                "offset": 4319,
+                "id": "14262",
+                "name": "Beverages, citrus fruit juice drink, frozen concentrate"
+            },
+            {
+                "offset": 4320,
+                "id": "14263",
+                "name": "Beverages, citrus fruit juice drink, frozen concentrate, prepared with water"
+            },
+            {
+                "offset": 4321,
+                "id": "14264",
+                "name": "Beverages, fruit punch drink, without added nutrients, canned"
+            },
+            {
+                "offset": 4322,
+                "id": "14267",
+                "name": "Beverages, Fruit punch drink, with added nutrients, canned"
+            },
+            {
+                "offset": 4323,
+                "id": "14268",
+                "name": "Beverages, Fruit punch drink, frozen concentrate"
+            },
+            {
+                "offset": 4324,
+                "id": "14269",
+                "name": "Beverages, Fruit punch drink, frozen concentrate, prepared with water"
+            },
+            {
+                "offset": 4325,
+                "id": "14270",
+                "name": "Beverages, coffee, instant, vanilla, sweetened, decaffeinated, with non dairy creamer"
+            },
+            {
+                "offset": 4326,
+                "id": "14276",
+                "name": "Beverages, Tropical Punch, ready-to-drink"
+            },
+            {
+                "offset": 4327,
+                "id": "14277",
+                "name": "Beverages, grape drink, canned"
+            },
+            {
+                "offset": 4328,
+                "id": "14278",
+                "name": "Beverages, tea, green, brewed, regular"
+            },
+            {
+                "offset": 4329,
+                "id": "14279",
+                "name": "Beverages, tea, black, ready-to-drink, peach, diet"
+            },
+            {
+                "offset": 4330,
+                "id": "14280",
+                "name": "Beverages, tea, black, ready to drink, decaffeinated, diet"
+            },
+            {
+                "offset": 4331,
+                "id": "14281",
+                "name": "Beverages, tea, black, ready to drink, decaffeinated"
+            },
+            {
+                "offset": 4332,
+                "id": "14282",
+                "name": "Beverages, grape juice drink, canned"
+            },
+            {
+                "offset": 4333,
+                "id": "14284",
+                "name": "Beverages, Cranberry juice cocktail"
+            },
+            {
+                "offset": 4334,
+                "id": "14285",
+                "name": "Beverages, OCEAN SPRAY, Ruby Red cranberry"
+            },
+            {
+                "offset": 4335,
+                "id": "14286",
+                "name": "Beverages, MOTTS, Apple juice light, fortified with vitamin C"
+            },
+            {
+                "offset": 4336,
+                "id": "14287",
+                "name": "Beverages, Lemonade, powder"
+            },
+            {
+                "offset": 4337,
+                "id": "14288",
+                "name": "Lemonade, powder, prepared with water"
+            },
+            {
+                "offset": 4338,
+                "id": "14291",
+                "name": "Beverages, SNAPPLE, tea, black and green, ready to drink, peach, diet"
+            },
+            {
+                "offset": 4339,
+                "id": "14292",
+                "name": "Lemonade, frozen concentrate, white"
+            },
+            {
+                "offset": 4340,
+                "id": "14293",
+                "name": "Lemonade, frozen concentrate, white, prepared with water"
+            },
+            {
+                "offset": 4341,
+                "id": "14294",
+                "name": "Beverages, SNAPPLE, tea, black and green, ready to drink, lemon, diet"
+            },
+            {
+                "offset": 4342,
+                "id": "14296",
+                "name": "Beverages, lemonade-flavor drink, powder"
+            },
+            {
+                "offset": 4343,
+                "id": "14297",
+                "name": "Beverages, lemonade-flavor drink, powder, prepared with water"
+            },
+            {
+                "offset": 4344,
+                "id": "14303",
+                "name": "Limeade, frozen concentrate, prepared with water"
+            },
+            {
+                "offset": 4345,
+                "id": "14305",
+                "name": "Malt beverage, includes non-alcoholic beer"
+            },
+            {
+                "offset": 4346,
+                "id": "14309",
+                "name": "Beverages, OVALTINE, Classic Malt powder"
+            },
+            {
+                "offset": 4347,
+                "id": "14310",
+                "name": "Beverages, Malted drink mix, natural, with added nutrients, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4348,
+                "id": "14311",
+                "name": "Beverages, Malted drink mix, natural, powder, dairy based."
+            },
+            {
+                "offset": 4349,
+                "id": "14312",
+                "name": "Beverages, Malted drink mix, natural, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4350,
+                "id": "14315",
+                "name": "Beverages, OVALTINE, chocolate malt powder"
+            },
+            {
+                "offset": 4351,
+                "id": "14316",
+                "name": "Beverages, Malted drink mix, chocolate, with added nutrients, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4352,
+                "id": "14317",
+                "name": "Beverages, malted drink mix, chocolate, powder"
+            },
+            {
+                "offset": 4353,
+                "id": "14318",
+                "name": "Beverages, Malted drink mix, chocolate, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4354,
+                "id": "14323",
+                "name": "Beverages, orange drink, canned, with added vitamin C"
+            },
+            {
+                "offset": 4355,
+                "id": "14327",
+                "name": "Beverages, orange and apricot juice drink, canned"
+            },
+            {
+                "offset": 4356,
+                "id": "14334",
+                "name": "Beverages, pineapple and grapefruit juice drink, canned"
+            },
+            {
+                "offset": 4357,
+                "id": "14341",
+                "name": "Beverages, pineapple and orange juice drink, canned"
+            },
+            {
+                "offset": 4358,
+                "id": "14347",
+                "name": "Shake, fast food, vanilla"
+            },
+            {
+                "offset": 4359,
+                "id": "14350",
+                "name": "Strawberry-flavor beverage mix, powder"
+            },
+            {
+                "offset": 4360,
+                "id": "14351",
+                "name": "Beverages, Strawberry-flavor beverage mix, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4361,
+                "id": "14352",
+                "name": "Beverages, tea, black, brewed, prepared with tap water, decaffeinated"
+            },
+            {
+                "offset": 4362,
+                "id": "14353",
+                "name": "Beverages, tea, instant, decaffeinated, unsweetened"
+            },
+            {
+                "offset": 4363,
+                "id": "14355",
+                "name": "Beverages, tea, black, brewed, prepared with tap water"
+            },
+            {
+                "offset": 4364,
+                "id": "14356",
+                "name": "Beverages, tea, instant, decaffeinated, lemon, diet"
+            },
+            {
+                "offset": 4365,
+                "id": "14357",
+                "name": "Beverages, tea, instant, decaffeinated, lemon, sweetened"
+            },
+            {
+                "offset": 4366,
+                "id": "14366",
+                "name": "Beverages, tea, instant, unsweetened, powder"
+            },
+            {
+                "offset": 4367,
+                "id": "14367",
+                "name": "Beverages, tea, instant, unsweetened, prepared with water"
+            },
+            {
+                "offset": 4368,
+                "id": "14368",
+                "name": "Beverages, tea, instant, lemon, unsweetened"
+            },
+            {
+                "offset": 4369,
+                "id": "14370",
+                "name": "Beverages, tea, instant, lemon, sweetened, powder"
+            },
+            {
+                "offset": 4370,
+                "id": "14371",
+                "name": "Beverages, tea, instant, lemon, sweetened, prepared with water"
+            },
+            {
+                "offset": 4371,
+                "id": "14375",
+                "name": "Beverages, tea, instant, sweetened with sodium saccharin, lemon-flavored, powder"
+            },
+            {
+                "offset": 4372,
+                "id": "14376",
+                "name": "Beverages, tea, instant, lemon, diet"
+            },
+            {
+                "offset": 4373,
+                "id": "14381",
+                "name": "Beverages, tea, herb, other than chamomile, brewed"
+            },
+            {
+                "offset": 4374,
+                "id": "14384",
+                "name": "Beverages, water, bottled, PERRIER"
+            },
+            {
+                "offset": 4375,
+                "id": "14385",
+                "name": "Beverages, water, bottled, POLAND SPRING"
+            },
+            {
+                "offset": 4376,
+                "id": "14390",
+                "name": "Beverages, cocoa mix, with aspartame, powder, prepared with water"
+            },
+            {
+                "offset": 4377,
+                "id": "14400",
+                "name": "Beverages, carbonated, cola, fast-food cola"
+            },
+            {
+                "offset": 4378,
+                "id": "14405",
+                "name": "Beverages, fruit punch juice drink, frozen concentrate"
+            },
+            {
+                "offset": 4379,
+                "id": "14406",
+                "name": "Beverages, fruit punch juice drink, frozen concentrate, prepared with water"
+            },
+            {
+                "offset": 4380,
+                "id": "14407",
+                "name": "Beverages, orange-flavor drink, breakfast type, powder"
+            },
+            {
+                "offset": 4381,
+                "id": "14408",
+                "name": "Beverages, orange-flavor drink, breakfast type, powder, prepared with water"
+            },
+            {
+                "offset": 4382,
+                "id": "14409",
+                "name": "Beverages, Orange-flavor drink, breakfast type, low calorie, powder"
+            },
+            {
+                "offset": 4383,
+                "id": "14411",
+                "name": "Beverages, water, tap, drinking"
+            },
+            {
+                "offset": 4384,
+                "id": "14412",
+                "name": "Beverages, water, tap, well"
+            },
+            {
+                "offset": 4385,
+                "id": "14414",
+                "name": "Alcoholic beverage, liqueur, coffee, 53 proof"
+            },
+            {
+                "offset": 4386,
+                "id": "14415",
+                "name": "Alcoholic beverage, liqueur, coffee with cream, 34 proof"
+            },
+            {
+                "offset": 4387,
+                "id": "14416",
+                "name": "Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine"
+            },
+            {
+                "offset": 4388,
+                "id": "14421",
+                "name": "Beverages, coffee substitute, cereal grain beverage, powder, prepared with whole milk"
+            },
+            {
+                "offset": 4389,
+                "id": "14422",
+                "name": "Beverages, Dairy drink mix, chocolate, reduced calorie, with low-calorie sweeteners, powder"
+            },
+            {
+                "offset": 4390,
+                "id": "14423",
+                "name": "Beverages, dairy drink mix, chocolate, reduced calorie, with aspartame, powder, prepared with water and ice"
+            },
+            {
+                "offset": 4391,
+                "id": "14424",
+                "name": "Beverages, Orange-flavor drink, breakfast type, with pulp, frozen concentrate. Not manufactured anymore."
+            },
+            {
+                "offset": 4392,
+                "id": "14425",
+                "name": "Beverages, Orange-flavor drink, breakfast type, with pulp, frozen concentrate, prepared with water"
+            },
+            {
+                "offset": 4393,
+                "id": "14426",
+                "name": "Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate"
+            },
+            {
+                "offset": 4394,
+                "id": "14427",
+                "name": "Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate, prepared with water"
+            },
+            {
+                "offset": 4395,
+                "id": "14428",
+                "name": "Beverages, shake, fast food, strawberry"
+            },
+            {
+                "offset": 4396,
+                "id": "14429",
+                "name": "Beverages, water, tap, municipal"
+            },
+            {
+                "offset": 4397,
+                "id": "14430",
+                "name": "Cranberry juice cocktail, frozen concentrate"
+            },
+            {
+                "offset": 4398,
+                "id": "14431",
+                "name": "Cranberry juice cocktail, frozen concentrate, prepared with water"
+            },
+            {
+                "offset": 4399,
+                "id": "14432",
+                "name": "Beverages, water, bottled, non-carbonated, DANNON"
+            },
+            {
+                "offset": 4400,
+                "id": "14433",
+                "name": "Beverages, water, bottled, non-carbonated, PEPSI, AQUAFINA"
+            },
+            {
+                "offset": 4401,
+                "id": "14434",
+                "name": "Beverages, The COCA-COLA company, DASANI, water, bottled, non-carbonated"
+            },
+            {
+                "offset": 4402,
+                "id": "14436",
+                "name": "Beverages, orange breakfast drink, ready-to-drink, with added nutrients"
+            },
+            {
+                "offset": 4403,
+                "id": "14437",
+                "name": "Beverages, water, bottled, non-carbonated, CALISTOGA"
+            },
+            {
+                "offset": 4404,
+                "id": "14438",
+                "name": "Beverages, water, bottled, non-carbonated, CRYSTAL GEYSER"
+            },
+            {
+                "offset": 4405,
+                "id": "14439",
+                "name": "Water, bottled, non-carbonated, NAYA"
+            },
+            {
+                "offset": 4406,
+                "id": "14440",
+                "name": "Beverages, water, bottled, non-carbonated, DANNON Fluoride To Go"
+            },
+            {
+                "offset": 4407,
+                "id": "14450",
+                "name": "Beverages, drink mix, QUAKER OATS, GATORADE, orange flavor, powder"
+            },
+            {
+                "offset": 4408,
+                "id": "14460",
+                "name": "Beverages, PEPSICO QUAKER, Gatorade, G performance O 2, ready-to-drink."
+            },
+            {
+                "offset": 4409,
+                "id": "14461",
+                "name": "Beverages, COCA-COLA, POWERADE, lemon-lime flavored, ready-to-drink"
+            },
+            {
+                "offset": 4410,
+                "id": "14462",
+                "name": "Beverages, Propel Zero, fruit-flavored, non-carbonated"
+            },
+            {
+                "offset": 4411,
+                "id": "14475",
+                "name": "Beverages, ARIZONA, tea, ready-to-drink, lemon"
+            },
+            {
+                "offset": 4412,
+                "id": "14476",
+                "name": "Beverages, LIPTON BRISK, tea, black, ready-to-drink, lemon"
+            },
+            {
+                "offset": 4413,
+                "id": "14530",
+                "name": "Whiskey sour mix, bottled, with added potassium and sodium"
+            },
+            {
+                "offset": 4414,
+                "id": "14531",
+                "name": "Alcoholic beverage, whiskey sour"
+            },
+            {
+                "offset": 4415,
+                "id": "14532",
+                "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 94 proof"
+            },
+            {
+                "offset": 4416,
+                "id": "14533",
+                "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 100 proof"
+            },
+            {
+                "offset": 4417,
+                "id": "14534",
+                "name": "Alcoholic beverage, liqueur, coffee, 63 proof"
+            },
+            {
+                "offset": 4418,
+                "id": "14536",
+                "name": "Alcoholic beverage, wine, dessert, dry"
+            },
+            {
+                "offset": 4419,
+                "id": "14537",
+                "name": "Carbonated beverage, low calorie, other than cola or pepper, with sodium saccharin, without caffeine"
+            },
+            {
+                "offset": 4420,
+                "id": "14538",
+                "name": "Beverages, Cocoa mix, low calorie, powder, with added calcium, phosphorus, aspartame, without added sodium or vitamin A"
+            },
+            {
+                "offset": 4421,
+                "id": "14541",
+                "name": "Beverages, fruit punch-flavor drink, powder, without added sodium, prepared with water"
+            },
+            {
+                "offset": 4422,
+                "id": "14542",
+                "name": "Lemonade, frozen concentrate, pink"
+            },
+            {
+                "offset": 4423,
+                "id": "14543",
+                "name": "Beverages, lemonade, frozen concentrate, pink, prepared with water"
+            },
+            {
+                "offset": 4424,
+                "id": "14544",
+                "name": "Beverages, tea, black, brewed, prepared with distilled water"
+            },
+            {
+                "offset": 4425,
+                "id": "14545",
+                "name": "Beverages, tea, herb, brewed, chamomile"
+            },
+            {
+                "offset": 4426,
+                "id": "14548",
+                "name": "Beverages, tea, instant, lemon, with added ascorbic acid"
+            },
+            {
+                "offset": 4427,
+                "id": "14550",
+                "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof"
+            },
+            {
+                "offset": 4428,
+                "id": "14551",
+                "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 90 proof"
+            },
+            {
+                "offset": 4429,
+                "id": "14552",
+                "name": "Carbonated beverage, chocolate-flavored soda"
+            },
+            {
+                "offset": 4430,
+                "id": "14553",
+                "name": "Beverages, Wine, non-alcoholic"
+            },
+            {
+                "offset": 4431,
+                "id": "14555",
+                "name": "Water, bottled, generic"
+            },
+            {
+                "offset": 4432,
+                "id": "14557",
+                "name": "Beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients"
+            },
+            {
+                "offset": 4433,
+                "id": "14558",
+                "name": "Beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients, prepared with whole milk"
+            },
+            {
+                "offset": 4434,
+                "id": "14559",
+                "name": "Beverages, water, bottled, non-carbonated, EVIAN"
+            },
+            {
+                "offset": 4435,
+                "id": "14599",
+                "name": "Beverages, Powerade Zero Ion4, calorie-free, assorted flavors"
+            },
+            {
+                "offset": 4436,
+                "id": "14601",
+                "name": "Beverages, WENDY'S, tea, ready-to-drink, unsweetened"
+            },
+            {
+                "offset": 4437,
+                "id": "14602",
+                "name": "Alcoholic Beverage, wine, table, red, Merlot"
+            },
+            {
+                "offset": 4438,
+                "id": "14604",
+                "name": "Water, non-carbonated, bottles, natural fruit flavors, sweetened with low calorie sweetener"
+            },
+            {
+                "offset": 4439,
+                "id": "14605",
+                "name": "Beverages, Water with added vitamins and minerals, bottles, sweetened, assorted fruit flavors"
+            },
+            {
+                "offset": 4440,
+                "id": "14607",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Diet Berry Blend"
+            },
+            {
+                "offset": 4441,
+                "id": "14608",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Diet Fruit Medley"
+            },
+            {
+                "offset": 4442,
+                "id": "14609",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Diet Strawberry Kiwi"
+            },
+            {
+                "offset": 4443,
+                "id": "14610",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Diet Tropical Blend"
+            },
+            {
+                "offset": 4444,
+                "id": "14611",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Berry Blend"
+            },
+            {
+                "offset": 4445,
+                "id": "14612",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Fruit Medley"
+            },
+            {
+                "offset": 4446,
+                "id": "14613",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Guava Passion Fruit"
+            },
+            {
+                "offset": 4447,
+                "id": "14614",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Mango Peach"
+            },
+            {
+                "offset": 4448,
+                "id": "14615",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Orange Pineapple"
+            },
+            {
+                "offset": 4449,
+                "id": "14616",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Orchard Blend"
+            },
+            {
+                "offset": 4450,
+                "id": "14617",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Strawberry Banana"
+            },
+            {
+                "offset": 4451,
+                "id": "14618",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Strawberry Kiwi"
+            },
+            {
+                "offset": 4452,
+                "id": "14619",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Tropical Blend"
+            },
+            {
+                "offset": 4453,
+                "id": "14620",
+                "name": "Beverages, V8 V-FUSION Juices, Peach Mango"
+            },
+            {
+                "offset": 4454,
+                "id": "14621",
+                "name": "Beverages, V8 V-FUSION Juices, Strawberry Banana"
+            },
+            {
+                "offset": 4455,
+                "id": "14622",
+                "name": "Beverages, V8 V-FUSION Juices, Tropical"
+            },
+            {
+                "offset": 4456,
+                "id": "14623",
+                "name": "Beverages, V8 V- FUSION Juices, Acai Berry"
+            },
+            {
+                "offset": 4457,
+                "id": "14625",
+                "name": "Beverages, Energy drink, AMP"
+            },
+            {
+                "offset": 4458,
+                "id": "14626",
+                "name": "Beverages, Energy drink, FULL THROTTLE"
+            },
+            {
+                "offset": 4459,
+                "id": "14627",
+                "name": "Beverages, Energy Drink, Monster, fortified with vitamins C, B2, B3, B6, B12"
+            },
+            {
+                "offset": 4460,
+                "id": "14628",
+                "name": "Beverages, Energy drink, AMP, sugar free"
+            },
+            {
+                "offset": 4461,
+                "id": "14629",
+                "name": "Beverages, Energy drink, ROCKSTAR"
+            },
+            {
+                "offset": 4462,
+                "id": "14630",
+                "name": "Beverages, Energy drink, ROCKSTAR, sugar free"
+            },
+            {
+                "offset": 4463,
+                "id": "14631",
+                "name": "Beverages, Horchata, dry mix, unprepared, variety of brands, all with morro seeds"
+            },
+            {
+                "offset": 4464,
+                "id": "14632",
+                "name": "Beverages, Meal supplement drink, canned, peanut flavor"
+            },
+            {
+                "offset": 4465,
+                "id": "14633",
+                "name": "Beverages, Vegetable and fruit juice drink, reduced calorie, with low-calorie sweetener, added vitamin C"
+            },
+            {
+                "offset": 4466,
+                "id": "14634",
+                "name": "Beverages, milk beverage, reduced fat, flavored and sweetened, Ready-to-drink,  added calcium, vitamin A and vitamin D"
+            },
+            {
+                "offset": 4467,
+                "id": "14635",
+                "name": "Beverages, vegetable and fruit juice blend, 100% juice, with added vitamins A, C, E"
+            },
+            {
+                "offset": 4468,
+                "id": "14636",
+                "name": "Beverages, fruit juice drink, reduced sugar, with vitamin E added"
+            },
+            {
+                "offset": 4469,
+                "id": "14637",
+                "name": "Water, with corn syrup and/or sugar and low calorie sweetener, fruit flavored"
+            },
+            {
+                "offset": 4470,
+                "id": "14638",
+                "name": "Beverages, Horchata, as served in restaurant"
+            },
+            {
+                "offset": 4471,
+                "id": "14639",
+                "name": "Beverages, rice milk, unsweetened"
+            },
+            {
+                "offset": 4472,
+                "id": "14640",
+                "name": "Beverages, Energy drink, VAULT, citrus flavor"
+            },
+            {
+                "offset": 4473,
+                "id": "14641",
+                "name": "Beverages, Energy drink, VAULT Zero, sugar-free, citrus flavor"
+            },
+            {
+                "offset": 4474,
+                "id": "14644",
+                "name": "Beverages, PEPSICO QUAKER, Gatorade G2, low calorie"
+            },
+            {
+                "offset": 4475,
+                "id": "14645",
+                "name": "Beverages, Fruit flavored drink, less than 3% juice, not fortified with vitamin C"
+            },
+            {
+                "offset": 4476,
+                "id": "14646",
+                "name": "Beverages, Fruit flavored drink containing less than 3% fruit juice, with high vitamin C"
+            },
+            {
+                "offset": 4477,
+                "id": "14647",
+                "name": "Beverages, Fruit flavored drink, reduced sugar, greater than 3% fruit juice, high vitamin C, added calcium"
+            },
+            {
+                "offset": 4478,
+                "id": "14648",
+                "name": "Beverages, fruit juice drink, greater than 3% fruit juice, high vitamin C and added thiamin"
+            },
+            {
+                "offset": 4479,
+                "id": "14649",
+                "name": "Beverages, tea, hibiscus, brewed"
+            },
+            {
+                "offset": 4480,
+                "id": "14651",
+                "name": "Beverages, fruit juice drink, greater than 3% juice, high vitamin C"
+            },
+            {
+                "offset": 4481,
+                "id": "14654",
+                "name": "Beverages, nutritional shake mix, high protein, powder"
+            },
+            {
+                "offset": 4482,
+                "id": "15001",
+                "name": "Fish, anchovy, european, raw"
+            },
+            {
+                "offset": 4483,
+                "id": "15002",
+                "name": "Fish, anchovy, european, canned in oil, drained solids"
+            },
+            {
+                "offset": 4484,
+                "id": "15003",
+                "name": "Fish, bass, fresh water, mixed species, raw"
+            },
+            {
+                "offset": 4485,
+                "id": "15004",
+                "name": "Fish, bass, striped, raw"
+            },
+            {
+                "offset": 4486,
+                "id": "15005",
+                "name": "Fish, bluefish, raw"
+            },
+            {
+                "offset": 4487,
+                "id": "15006",
+                "name": "Fish, burbot, raw"
+            },
+            {
+                "offset": 4488,
+                "id": "15007",
+                "name": "Fish, butterfish, raw"
+            },
+            {
+                "offset": 4489,
+                "id": "15008",
+                "name": "Fish, carp, raw"
+            },
+            {
+                "offset": 4490,
+                "id": "15009",
+                "name": "Fish, carp, cooked, dry heat"
+            },
+            {
+                "offset": 4491,
+                "id": "15010",
+                "name": "Fish, catfish, channel, wild, raw"
+            },
+            {
+                "offset": 4492,
+                "id": "15011",
+                "name": "Fish, catfish, channel, cooked, breaded and fried"
+            },
+            {
+                "offset": 4493,
+                "id": "15012",
+                "name": "Fish, caviar, black and red, granular"
+            },
+            {
+                "offset": 4494,
+                "id": "15013",
+                "name": "Fish, cisco, raw"
+            },
+            {
+                "offset": 4495,
+                "id": "15014",
+                "name": "Fish, cisco, smoked"
+            },
+            {
+                "offset": 4496,
+                "id": "15015",
+                "name": "Fish, cod, Atlantic, raw"
+            },
+            {
+                "offset": 4497,
+                "id": "15016",
+                "name": "Fish, cod, Atlantic, cooked, dry heat"
+            },
+            {
+                "offset": 4498,
+                "id": "15017",
+                "name": "Fish, cod, Atlantic, canned, solids and liquid"
+            },
+            {
+                "offset": 4499,
+                "id": "15018",
+                "name": "Fish, cod, Atlantic, dried and salted"
+            }
+        ]
+    }
+}

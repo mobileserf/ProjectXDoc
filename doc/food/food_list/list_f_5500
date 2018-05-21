@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 5500,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 5500,
+                "id": "17403",
+                "name": "Lamb, New Zealand, imported, hind-shank, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5501,
+                "id": "17404",
+                "name": "Lamb, New Zealand, imported, hind-shank, separable lean and fat, raw"
+            },
+            {
+                "offset": 5502,
+                "id": "17405",
+                "name": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean and fat, cooked, fast fried"
+            },
+            {
+                "offset": 5503,
+                "id": "17406",
+                "name": "Lamb, New Zealand, imported, loin chop, separable lean and fat, cooked, fast fried"
+            },
+            {
+                "offset": 5504,
+                "id": "17407",
+                "name": "Lamb, New Zealand, imported, loin saddle, separable lean and fat, cooked, fast roasted"
+            },
+            {
+                "offset": 5505,
+                "id": "17408",
+                "name": "Lamb, New Zealand, imported, loin saddle, separable lean and fat, raw"
+            },
+            {
+                "offset": 5506,
+                "id": "17409",
+                "name": "Lamb, New Zealand, imported, loin, boneless, separable lean and fat, cooked, fast roasted"
+            },
+            {
+                "offset": 5507,
+                "id": "17410",
+                "name": "Lamb, New Zealand, imported, loin, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 5508,
+                "id": "17411",
+                "name": "Lamb, New Zealand, imported, neck chops, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5509,
+                "id": "17412",
+                "name": "Lamb, New Zealand, imported, neck chops, separable lean and fat, raw"
+            },
+            {
+                "offset": 5510,
+                "id": "17413",
+                "name": "Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean and fat, cooked, slow roasted"
+            },
+            {
+                "offset": 5511,
+                "id": "17414",
+                "name": "Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 5512,
+                "id": "17415",
+                "name": "Lamb, New Zealand, imported, square-cut shoulder chops, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5513,
+                "id": "17416",
+                "name": "Lamb, New Zealand, imported, square-cut shoulder chops, separable lean and fat, raw"
+            },
+            {
+                "offset": 5514,
+                "id": "17417",
+                "name": "Lamb, New Zealand, imported, square-cut shoulder, separable lean and fat, cooked, slow roasted"
+            },
+            {
+                "offset": 5515,
+                "id": "17418",
+                "name": "Lamb, New Zealand, imported, tenderloin, separable lean and fat, cooked, fast fried"
+            },
+            {
+                "offset": 5516,
+                "id": "17419",
+                "name": "Lamb, New Zealand, imported, rack - fully frenched, separable lean and fat, cooked, fast roasted"
+            },
+            {
+                "offset": 5517,
+                "id": "17420",
+                "name": "Lamb, New Zealand, imported, rack - fully frenched, separable lean and fat, raw"
+            },
+            {
+                "offset": 5518,
+                "id": "17421",
+                "name": "Lamb, New Zealand, imported, tunnel-boned leg, chump off, shank off, separable lean and fat, cooked, slow roasted"
+            },
+            {
+                "offset": 5519,
+                "id": "17422",
+                "name": "Lamb, New Zealand, imported, tunnel-boned leg, chump off, shank off, separable lean and fat, raw"
+            },
+            {
+                "offset": 5520,
+                "id": "17423",
+                "name": "Lamb, New Zealand, imported, tenderloin, separable lean and fat, raw"
+            },
+            {
+                "offset": 5521,
+                "id": "17424",
+                "name": "Veal, ground, cooked, pan-fried"
+            },
+            {
+                "offset": 5522,
+                "id": "17425",
+                "name": "Veal, leg, top round, cap off, cutlet, boneless, cooked, grilled"
+            },
+            {
+                "offset": 5523,
+                "id": "17426",
+                "name": "Veal, leg, top round, cap off, cutlet, boneless, raw"
+            },
+            {
+                "offset": 5524,
+                "id": "17427",
+                "name": "Veal, loin, chop, separable lean only, cooked, grilled"
+            },
+            {
+                "offset": 5525,
+                "id": "17428",
+                "name": "Veal, shank, separable lean only, raw"
+            },
+            {
+                "offset": 5526,
+                "id": "17429",
+                "name": "Veal, foreshank, osso buco, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 5527,
+                "id": "17430",
+                "name": "Veal, shoulder, blade chop, separable lean only, cooked, grilled"
+            },
+            {
+                "offset": 5528,
+                "id": "17431",
+                "name": "Veal, external fat only, raw"
+            },
+            {
+                "offset": 5529,
+                "id": "17432",
+                "name": "Veal, external fat only, cooked"
+            },
+            {
+                "offset": 5530,
+                "id": "17433",
+                "name": "Veal, seam fat only, raw"
+            },
+            {
+                "offset": 5531,
+                "id": "17434",
+                "name": "Veal, seam fat only, cooked"
+            },
+            {
+                "offset": 5532,
+                "id": "17435",
+                "name": "Veal, shank, separable lean and fat, raw"
+            },
+            {
+                "offset": 5533,
+                "id": "17436",
+                "name": "Veal, foreshank, osso buco, separable lean and fat, cooked, braised"
+            },
+            {
+                "offset": 5534,
+                "id": "17437",
+                "name": "Veal, loin, chop, separable lean and fat, cooked, grilled"
+            },
+            {
+                "offset": 5535,
+                "id": "17438",
+                "name": "Veal, shoulder, blade chop, separable lean and fat, cooked, grilled"
+            },
+            {
+                "offset": 5536,
+                "id": "17439",
+                "name": "Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5537,
+                "id": "17440",
+                "name": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5538,
+                "id": "17441",
+                "name": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5539,
+                "id": "17442",
+                "name": "Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean only, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5540,
+                "id": "17443",
+                "name": "Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5541,
+                "id": "17444",
+                "name": "Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5542,
+                "id": "17445",
+                "name": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5543,
+                "id": "17446",
+                "name": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5544,
+                "id": "17447",
+                "name": "Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean only, trimmed to 0\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5545,
+                "id": "17448",
+                "name": "Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5546,
+                "id": "17449",
+                "name": "Lamb, Australian, imported, fresh, external fat, cooked"
+            },
+            {
+                "offset": 5547,
+                "id": "17450",
+                "name": "Lamb, Australian, imported, fresh, external fat, raw"
+            },
+            {
+                "offset": 5548,
+                "id": "17451",
+                "name": "Lamb, Australian, imported, fresh, seam fat, cooked"
+            },
+            {
+                "offset": 5549,
+                "id": "17452",
+                "name": "Lamb, Australian, imported, fresh, seam fat, raw"
+            },
+            {
+                "offset": 5550,
+                "id": "17453",
+                "name": "Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5551,
+                "id": "17454",
+                "name": "Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5552,
+                "id": "17455",
+                "name": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, braised"
+            },
+            {
+                "offset": 5553,
+                "id": "17456",
+                "name": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5554,
+                "id": "17457",
+                "name": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5555,
+                "id": "17458",
+                "name": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5556,
+                "id": "17459",
+                "name": "Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5557,
+                "id": "17460",
+                "name": "Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8\" fat, raw"
+            },
+            {
+                "offset": 5558,
+                "id": "17461",
+                "name": "Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean only, trimmed to 0\" fat, cooked, grilled"
+            },
+            {
+                "offset": 5559,
+                "id": "17462",
+                "name": "Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean and fat, trimmed to 0\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5560,
+                "id": "17463",
+                "name": "Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted"
+            },
+            {
+                "offset": 5561,
+                "id": "17464",
+                "name": "Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean and fat, trimmed to 0\" fat, cooked, grilled"
+            },
+            {
+                "offset": 5562,
+                "id": "18001",
+                "name": "Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)"
+            },
+            {
+                "offset": 5563,
+                "id": "18002",
+                "name": "Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame), toasted"
+            },
+            {
+                "offset": 5564,
+                "id": "18003",
+                "name": "Bagels, egg"
+            },
+            {
+                "offset": 5565,
+                "id": "18005",
+                "name": "Bagels, cinnamon-raisin"
+            },
+            {
+                "offset": 5566,
+                "id": "18006",
+                "name": "Bagels, cinnamon-raisin, toasted"
+            },
+            {
+                "offset": 5567,
+                "id": "18007",
+                "name": "Bagels, oat bran"
+            },
+            {
+                "offset": 5568,
+                "id": "18009",
+                "name": "Biscuits, plain or buttermilk, frozen, baked"
+            },
+            {
+                "offset": 5569,
+                "id": "18010",
+                "name": "Biscuits, plain or buttermilk, dry mix"
+            },
+            {
+                "offset": 5570,
+                "id": "18011",
+                "name": "Biscuits, plain or buttermilk, dry mix, prepared"
+            },
+            {
+                "offset": 5571,
+                "id": "18012",
+                "name": "Biscuits, plain or buttermilk, refrigerated dough, lower fat"
+            },
+            {
+                "offset": 5572,
+                "id": "18013",
+                "name": "Biscuits, plain or buttermilk, refrigerated dough, lower fat, baked"
+            },
+            {
+                "offset": 5573,
+                "id": "18014",
+                "name": "Biscuits, plain or buttermilk, refrigerated dough, higher fat"
+            },
+            {
+                "offset": 5574,
+                "id": "18015",
+                "name": "Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked"
+            },
+            {
+                "offset": 5575,
+                "id": "18016",
+                "name": "Biscuits, plain or buttermilk, prepared from recipe"
+            },
+            {
+                "offset": 5576,
+                "id": "18017",
+                "name": "Biscuits, mixed grain, refrigerated dough"
+            },
+            {
+                "offset": 5577,
+                "id": "18019",
+                "name": "Bread, banana, prepared from recipe, made with margarine"
+            },
+            {
+                "offset": 5578,
+                "id": "18021",
+                "name": "Bread, boston brown, canned"
+            },
+            {
+                "offset": 5579,
+                "id": "18022",
+                "name": "Bread, cornbread, dry mix, enriched (includes corn muffin mix)"
+            },
+            {
+                "offset": 5580,
+                "id": "18023",
+                "name": "Bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs"
+            },
+            {
+                "offset": 5581,
+                "id": "18024",
+                "name": "Bread, cornbread, prepared from recipe, made with low fat (2%) milk"
+            },
+            {
+                "offset": 5582,
+                "id": "18025",
+                "name": "Bread, cracked-wheat"
+            },
+            {
+                "offset": 5583,
+                "id": "18027",
+                "name": "Bread, egg"
+            },
+            {
+                "offset": 5584,
+                "id": "18028",
+                "name": "Bread, egg, toasted"
+            },
+            {
+                "offset": 5585,
+                "id": "18029",
+                "name": "Bread, french or vienna (includes sourdough)"
+            },
+            {
+                "offset": 5586,
+                "id": "18030",
+                "name": "Bread, french or vienna, toasted (includes sourdough)"
+            },
+            {
+                "offset": 5587,
+                "id": "18032",
+                "name": "Bread, irish soda, prepared from recipe"
+            },
+            {
+                "offset": 5588,
+                "id": "18033",
+                "name": "Bread, italian"
+            },
+            {
+                "offset": 5589,
+                "id": "18036",
+                "name": "Bread, multi-grain, toasted (includes whole-grain)"
+            },
+            {
+                "offset": 5590,
+                "id": "18037",
+                "name": "Bread, oat bran"
+            },
+            {
+                "offset": 5591,
+                "id": "18038",
+                "name": "Bread, oat bran, toasted"
+            },
+            {
+                "offset": 5592,
+                "id": "18039",
+                "name": "Bread, oatmeal"
+            },
+            {
+                "offset": 5593,
+                "id": "18040",
+                "name": "Bread, oatmeal, toasted"
+            },
+            {
+                "offset": 5594,
+                "id": "18041",
+                "name": "Bread, pita, white, enriched"
+            },
+            {
+                "offset": 5595,
+                "id": "18042",
+                "name": "Bread, pita, whole-wheat"
+            },
+            {
+                "offset": 5596,
+                "id": "18043",
+                "name": "Bread, protein (includes gluten)"
+            },
+            {
+                "offset": 5597,
+                "id": "18044",
+                "name": "Bread, pumpernickel"
+            },
+            {
+                "offset": 5598,
+                "id": "18045",
+                "name": "Bread, pumpernickel, toasted"
+            },
+            {
+                "offset": 5599,
+                "id": "18047",
+                "name": "Bread, raisin, enriched"
+            },
+            {
+                "offset": 5600,
+                "id": "18048",
+                "name": "Bread, raisin, enriched, toasted"
+            },
+            {
+                "offset": 5601,
+                "id": "18049",
+                "name": "Bread, reduced-calorie, oat bran"
+            },
+            {
+                "offset": 5602,
+                "id": "18050",
+                "name": "Bread, reduced-calorie, oat bran, toasted"
+            },
+            {
+                "offset": 5603,
+                "id": "18051",
+                "name": "Bread, reduced-calorie, oatmeal"
+            },
+            {
+                "offset": 5604,
+                "id": "18053",
+                "name": "Bread, reduced-calorie, rye"
+            },
+            {
+                "offset": 5605,
+                "id": "18055",
+                "name": "Bread, reduced-calorie, wheat"
+            },
+            {
+                "offset": 5606,
+                "id": "18057",
+                "name": "Bread, reduced-calorie, white"
+            },
+            {
+                "offset": 5607,
+                "id": "18059",
+                "name": "Bread, rice bran"
+            },
+            {
+                "offset": 5608,
+                "id": "18060",
+                "name": "Bread, rye"
+            },
+            {
+                "offset": 5609,
+                "id": "18061",
+                "name": "Bread, rye, toasted"
+            },
+            {
+                "offset": 5610,
+                "id": "18064",
+                "name": "Bread, wheat"
+            },
+            {
+                "offset": 5611,
+                "id": "18065",
+                "name": "Bread, wheat, toasted"
+            },
+            {
+                "offset": 5612,
+                "id": "18066",
+                "name": "Bread, wheat bran"
+            },
+            {
+                "offset": 5613,
+                "id": "18069",
+                "name": "Bread, white, commercially prepared (includes soft bread crumbs)"
+            },
+            {
+                "offset": 5614,
+                "id": "18070",
+                "name": "Bread, white, commercially prepared, toasted"
+            },
+            {
+                "offset": 5615,
+                "id": "18071",
+                "name": "Bread, white, prepared from recipe, made with nonfat dry milk"
+            },
+            {
+                "offset": 5616,
+                "id": "18073",
+                "name": "Bread, white, prepared from recipe, made with low fat (2%) milk"
+            },
+            {
+                "offset": 5617,
+                "id": "18075",
+                "name": "Bread, whole-wheat, commercially prepared"
+            },
+            {
+                "offset": 5618,
+                "id": "18076",
+                "name": "Bread, whole-wheat, commercially prepared, toasted"
+            },
+            {
+                "offset": 5619,
+                "id": "18077",
+                "name": "Bread, whole-wheat, prepared from recipe"
+            },
+            {
+                "offset": 5620,
+                "id": "18078",
+                "name": "Bread, whole-wheat, prepared from recipe, toasted"
+            },
+            {
+                "offset": 5621,
+                "id": "18079",
+                "name": "Bread crumbs, dry, grated, plain"
+            },
+            {
+                "offset": 5622,
+                "id": "18080",
+                "name": "Bread sticks, plain"
+            },
+            {
+                "offset": 5623,
+                "id": "18081",
+                "name": "Bread stuffing, bread, dry mix"
+            },
+            {
+                "offset": 5624,
+                "id": "18082",
+                "name": "Bread stuffing, bread, dry mix, prepared"
+            },
+            {
+                "offset": 5625,
+                "id": "18084",
+                "name": "Bread stuffing, cornbread, dry mix"
+            },
+            {
+                "offset": 5626,
+                "id": "18085",
+                "name": "Bread stuffing, cornbread, dry mix, prepared"
+            },
+            {
+                "offset": 5627,
+                "id": "18086",
+                "name": "Cake, angelfood, commercially prepared"
+            },
+            {
+                "offset": 5628,
+                "id": "18087",
+                "name": "Cake, angelfood, dry mix"
+            },
+            {
+                "offset": 5629,
+                "id": "18088",
+                "name": "Cake, angelfood, dry mix, prepared"
+            },
+            {
+                "offset": 5630,
+                "id": "18090",
+                "name": "Cake, boston cream pie, commercially prepared"
+            },
+            {
+                "offset": 5631,
+                "id": "18092",
+                "name": "Cake, pudding-type, carrot, dry mix"
+            },
+            {
+                "offset": 5632,
+                "id": "18095",
+                "name": "Cake, cherry fudge with chocolate frosting"
+            },
+            {
+                "offset": 5633,
+                "id": "18096",
+                "name": "Cake, chocolate, commercially prepared with chocolate frosting, in-store bakery"
+            },
+            {
+                "offset": 5634,
+                "id": "18097",
+                "name": "Cake, pudding-type, chocolate, dry mix"
+            },
+            {
+                "offset": 5635,
+                "id": "18101",
+                "name": "Cake, chocolate, prepared from recipe without frosting"
+            },
+            {
+                "offset": 5636,
+                "id": "18102",
+                "name": "Cake, white, prepared from recipe with coconut frosting"
+            },
+            {
+                "offset": 5637,
+                "id": "18103",
+                "name": "Coffeecake, cheese"
+            },
+            {
+                "offset": 5638,
+                "id": "18104",
+                "name": "Coffeecake, cinnamon with crumb topping, commercially prepared, enriched"
+            },
+            {
+                "offset": 5639,
+                "id": "18105",
+                "name": "Coffeecake, creme-filled with chocolate frosting"
+            },
+            {
+                "offset": 5640,
+                "id": "18106",
+                "name": "Coffeecake, fruit"
+            },
+            {
+                "offset": 5641,
+                "id": "18107",
+                "name": "Coffeecake, cinnamon with crumb topping, dry mix"
+            },
+            {
+                "offset": 5642,
+                "id": "18108",
+                "name": "Coffeecake, cinnamon with crumb topping, dry mix, prepared"
+            },
+            {
+                "offset": 5643,
+                "id": "18110",
+                "name": "Cake, fruitcake, commercially prepared"
+            },
+            {
+                "offset": 5644,
+                "id": "18112",
+                "name": "Cake, pudding-type, german chocolate, dry mix"
+            },
+            {
+                "offset": 5645,
+                "id": "18114",
+                "name": "Cake, gingerbread, dry mix"
+            },
+            {
+                "offset": 5646,
+                "id": "18116",
+                "name": "Cake, gingerbread, prepared from recipe"
+            },
+            {
+                "offset": 5647,
+                "id": "18117",
+                "name": "Cake, pudding-type, marble, dry mix"
+            },
+            {
+                "offset": 5648,
+                "id": "18119",
+                "name": "Cake, pineapple upside-down, prepared from recipe"
+            },
+            {
+                "offset": 5649,
+                "id": "18120",
+                "name": "Cake, pound, commercially prepared, butter (includes fresh and frozen)"
+            },
+            {
+                "offset": 5650,
+                "id": "18121",
+                "name": "Cake, pound, commercially prepared, other than all butter, enriched"
+            },
+            {
+                "offset": 5651,
+                "id": "18126",
+                "name": "Cake, shortcake, biscuit-type, prepared from recipe"
+            },
+            {
+                "offset": 5652,
+                "id": "18127",
+                "name": "Cake, snack cakes, creme-filled, chocolate with frosting"
+            },
+            {
+                "offset": 5653,
+                "id": "18128",
+                "name": "Cake, snack cakes, creme-filled, sponge"
+            },
+            {
+                "offset": 5654,
+                "id": "18131",
+                "name": "Cake, white, dry mix, special dietary (includes lemon-flavored)"
+            },
+            {
+                "offset": 5655,
+                "id": "18133",
+                "name": "Cake, sponge, commercially prepared"
+            },
+            {
+                "offset": 5656,
+                "id": "18134",
+                "name": "Cake, sponge, prepared from recipe"
+            },
+            {
+                "offset": 5657,
+                "id": "18135",
+                "name": "Cake, pudding-type, white, enriched, dry mix"
+            },
+            {
+                "offset": 5658,
+                "id": "18139",
+                "name": "Cake, white, prepared from recipe without frosting"
+            },
+            {
+                "offset": 5659,
+                "id": "18140",
+                "name": "Cake, yellow, commercially prepared, with chocolate frosting, in-store bakery"
+            },
+            {
+                "offset": 5660,
+                "id": "18141",
+                "name": "Cake, yellow, commercially prepared, with vanilla frosting"
+            },
+            {
+                "offset": 5661,
+                "id": "18142",
+                "name": "Cake, pudding-type, yellow, dry mix"
+            },
+            {
+                "offset": 5662,
+                "id": "18144",
+                "name": "Cake, yellow, enriched, dry mix"
+            },
+            {
+                "offset": 5663,
+                "id": "18146",
+                "name": "Cake, yellow, prepared from recipe without frosting"
+            },
+            {
+                "offset": 5664,
+                "id": "18147",
+                "name": "Cheesecake commercially prepared"
+            },
+            {
+                "offset": 5665,
+                "id": "18148",
+                "name": "Cheesecake prepared from mix, no-bake type"
+            },
+            {
+                "offset": 5666,
+                "id": "18151",
+                "name": "Cookies, brownies, commercially prepared"
+            },
+            {
+                "offset": 5667,
+                "id": "18152",
+                "name": "Cookies, brownies, dry mix, regular"
+            },
+            {
+                "offset": 5668,
+                "id": "18154",
+                "name": "Cookies, brownies, prepared from recipe"
+            },
+            {
+                "offset": 5669,
+                "id": "18155",
+                "name": "Cookies, butter, commercially prepared, enriched"
+            },
+            {
+                "offset": 5670,
+                "id": "18156",
+                "name": "Cookies, fudge, cake-type (includes trolley cakes)"
+            },
+            {
+                "offset": 5671,
+                "id": "18157",
+                "name": "Cookies, chocolate wafers"
+            },
+            {
+                "offset": 5672,
+                "id": "18158",
+                "name": "Cookies, chocolate chip, commercially prepared, regular, lower fat"
+            },
+            {
+                "offset": 5673,
+                "id": "18159",
+                "name": "Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched"
+            },
+            {
+                "offset": 5674,
+                "id": "18160",
+                "name": "Cookies, chocolate chip, commercially prepared, soft-type"
+            },
+            {
+                "offset": 5675,
+                "id": "18161",
+                "name": "Cookies, chocolate chip, dry mix"
+            },
+            {
+                "offset": 5676,
+                "id": "18163",
+                "name": "Cookies, chocolate chip, refrigerated dough"
+            },
+            {
+                "offset": 5677,
+                "id": "18164",
+                "name": "Cookies, chocolate chip, refrigerated dough, baked"
+            },
+            {
+                "offset": 5678,
+                "id": "18165",
+                "name": "Cookies, chocolate chip, prepared from recipe, made with margarine"
+            },
+            {
+                "offset": 5679,
+                "id": "18166",
+                "name": "Cookies, chocolate sandwich, with creme filling, regular"
+            },
+            {
+                "offset": 5680,
+                "id": "18167",
+                "name": "Cookies, chocolate sandwich, with creme filling, regular, chocolate-coated"
+            },
+            {
+                "offset": 5681,
+                "id": "18168",
+                "name": "Cookies, chocolate sandwich, with extra creme filling"
+            },
+            {
+                "offset": 5682,
+                "id": "18170",
+                "name": "Cookies, fig bars"
+            },
+            {
+                "offset": 5683,
+                "id": "18171",
+                "name": "Cookies, fortune"
+            },
+            {
+                "offset": 5684,
+                "id": "18172",
+                "name": "Cookies, gingersnaps"
+            },
+            {
+                "offset": 5685,
+                "id": "18173",
+                "name": "Cookies, graham crackers, plain or honey (includes cinnamon)"
+            },
+            {
+                "offset": 5686,
+                "id": "18174",
+                "name": "Cookies, graham crackers, chocolate-coated"
+            },
+            {
+                "offset": 5687,
+                "id": "18175",
+                "name": "Cookies, ladyfingers, with lemon juice and rind"
+            },
+            {
+                "offset": 5688,
+                "id": "18176",
+                "name": "Cookies, marshmallow, chocolate-coated (includes marshmallow pies)"
+            },
+            {
+                "offset": 5689,
+                "id": "18177",
+                "name": "Cookies, molasses"
+            },
+            {
+                "offset": 5690,
+                "id": "18178",
+                "name": "Cookies, oatmeal, commercially prepared, regular"
+            },
+            {
+                "offset": 5691,
+                "id": "18179",
+                "name": "Cookies, oatmeal, commercially prepared, soft-type"
+            },
+            {
+                "offset": 5692,
+                "id": "18180",
+                "name": "Cookies, oatmeal, dry mix"
+            },
+            {
+                "offset": 5693,
+                "id": "18182",
+                "name": "Cookies, oatmeal, refrigerated dough"
+            },
+            {
+                "offset": 5694,
+                "id": "18183",
+                "name": "Cookies, oatmeal, refrigerated dough, baked"
+            },
+            {
+                "offset": 5695,
+                "id": "18184",
+                "name": "Cookies, oatmeal, prepared from recipe, with raisins"
+            },
+            {
+                "offset": 5696,
+                "id": "18185",
+                "name": "Cookies, peanut butter, commercially prepared, regular"
+            },
+            {
+                "offset": 5697,
+                "id": "18186",
+                "name": "Cookies, peanut butter, commercially prepared, soft-type"
+            },
+            {
+                "offset": 5698,
+                "id": "18187",
+                "name": "Cookies, peanut butter, refrigerated dough"
+            },
+            {
+                "offset": 5699,
+                "id": "18188",
+                "name": "Cookies, peanut butter, refrigerated dough, baked"
+            },
+            {
+                "offset": 5700,
+                "id": "18189",
+                "name": "Cookies, peanut butter, prepared from recipe"
+            },
+            {
+                "offset": 5701,
+                "id": "18190",
+                "name": "Cookies, peanut butter sandwich, regular"
+            },
+            {
+                "offset": 5702,
+                "id": "18191",
+                "name": "Cookies, raisin, soft-type"
+            },
+            {
+                "offset": 5703,
+                "id": "18192",
+                "name": "Cookies, shortbread, commercially prepared, plain"
+            },
+            {
+                "offset": 5704,
+                "id": "18193",
+                "name": "Cookies, shortbread, commercially prepared, pecan"
+            },
+            {
+                "offset": 5705,
+                "id": "18196",
+                "name": "Cookies, brownies, dry mix, sugar free"
+            },
+            {
+                "offset": 5706,
+                "id": "18198",
+                "name": "Cookies, chocolate chip, commercially prepared, special dietary"
+            },
+            {
+                "offset": 5707,
+                "id": "18199",
+                "name": "Cookies, chocolate sandwich, with creme filling, special dietary"
+            },
+            {
+                "offset": 5708,
+                "id": "18200",
+                "name": "Cookies, oatmeal, commercially prepared, special dietary"
+            },
+            {
+                "offset": 5709,
+                "id": "18201",
+                "name": "Cookies, peanut butter sandwich, special dietary"
+            },
+            {
+                "offset": 5710,
+                "id": "18202",
+                "name": "Cookies, sugar wafer, with creme filling, sugar free"
+            },
+            {
+                "offset": 5711,
+                "id": "18204",
+                "name": "Cookies, sugar, commercially prepared, regular (includes vanilla)"
+            },
+            {
+                "offset": 5712,
+                "id": "18205",
+                "name": "Cookies, sugar, refrigerated dough"
+            },
+            {
+                "offset": 5713,
+                "id": "18206",
+                "name": "Cookies, sugar, refrigerated dough, baked"
+            },
+            {
+                "offset": 5714,
+                "id": "18208",
+                "name": "Cookies, sugar, prepared from recipe, made with margarine"
+            },
+            {
+                "offset": 5715,
+                "id": "18209",
+                "name": "Cookies, sugar wafers with creme filling, regular"
+            },
+            {
+                "offset": 5716,
+                "id": "18210",
+                "name": "Cookies, vanilla sandwich with creme filling"
+            },
+            {
+                "offset": 5717,
+                "id": "18211",
+                "name": "Puff pastry, frozen, ready-to-bake, baked"
+            },
+            {
+                "offset": 5718,
+                "id": "18212",
+                "name": "Cookies, vanilla wafers, lower fat"
+            },
+            {
+                "offset": 5719,
+                "id": "18213",
+                "name": "Cookies, vanilla wafers, higher fat"
+            },
+            {
+                "offset": 5720,
+                "id": "18214",
+                "name": "Crackers, cheese, regular"
+            },
+            {
+                "offset": 5721,
+                "id": "18215",
+                "name": "Crackers, cheese, sandwich-type with peanut butter filling"
+            },
+            {
+                "offset": 5722,
+                "id": "18216",
+                "name": "Crackers, crispbread, rye"
+            },
+            {
+                "offset": 5723,
+                "id": "18217",
+                "name": "Crackers, matzo, plain"
+            },
+            {
+                "offset": 5724,
+                "id": "18218",
+                "name": "Crackers, matzo, egg"
+            },
+            {
+                "offset": 5725,
+                "id": "18219",
+                "name": "Crackers, matzo, whole-wheat"
+            },
+            {
+                "offset": 5726,
+                "id": "18220",
+                "name": "Crackers, melba toast, plain"
+            },
+            {
+                "offset": 5727,
+                "id": "18221",
+                "name": "Crackers, melba toast, rye (includes pumpernickel)"
+            },
+            {
+                "offset": 5728,
+                "id": "18222",
+                "name": "Crackers, melba toast, wheat"
+            },
+            {
+                "offset": 5729,
+                "id": "18223",
+                "name": "Crackers, milk"
+            },
+            {
+                "offset": 5730,
+                "id": "18224",
+                "name": "Crackers, rusk toast"
+            },
+            {
+                "offset": 5731,
+                "id": "18225",
+                "name": "Crackers, rye, sandwich-type with cheese filling"
+            },
+            {
+                "offset": 5732,
+                "id": "18226",
+                "name": "Crackers, rye, wafers, plain"
+            },
+            {
+                "offset": 5733,
+                "id": "18227",
+                "name": "Crackers, rye, wafers, seasoned"
+            },
+            {
+                "offset": 5734,
+                "id": "18228",
+                "name": "Crackers, saltines (includes oyster, soda, soup)"
+            },
+            {
+                "offset": 5735,
+                "id": "18229",
+                "name": "Crackers, standard snack-type, regular"
+            },
+            {
+                "offset": 5736,
+                "id": "18230",
+                "name": "Crackers, standard snack-type, sandwich, with cheese filling"
+            },
+            {
+                "offset": 5737,
+                "id": "18231",
+                "name": "Crackers, standard snack-type, sandwich, with peanut butter filling"
+            },
+            {
+                "offset": 5738,
+                "id": "18232",
+                "name": "Crackers, wheat, regular"
+            },
+            {
+                "offset": 5739,
+                "id": "18233",
+                "name": "Crackers, wheat, sandwich, with cheese filling"
+            },
+            {
+                "offset": 5740,
+                "id": "18234",
+                "name": "Crackers, wheat, sandwich, with peanut butter filling"
+            },
+            {
+                "offset": 5741,
+                "id": "18235",
+                "name": "Crackers, whole-wheat"
+            },
+            {
+                "offset": 5742,
+                "id": "18236",
+                "name": "Cracker meal"
+            },
+            {
+                "offset": 5743,
+                "id": "18237",
+                "name": "Cream puff shell, prepared from recipe"
+            },
+            {
+                "offset": 5744,
+                "id": "18239",
+                "name": "Croissants, butter"
+            },
+            {
+                "offset": 5745,
+                "id": "18240",
+                "name": "Croissants, apple"
+            },
+            {
+                "offset": 5746,
+                "id": "18241",
+                "name": "Croissants, cheese"
+            },
+            {
+                "offset": 5747,
+                "id": "18242",
+                "name": "Croutons, plain"
+            },
+            {
+                "offset": 5748,
+                "id": "18243",
+                "name": "Croutons, seasoned"
+            },
+            {
+                "offset": 5749,
+                "id": "18244",
+                "name": "Danish pastry, cinnamon, enriched"
+            },
+            {
+                "offset": 5750,
+                "id": "18245",
+                "name": "Danish pastry, cheese"
+            },
+            {
+                "offset": 5751,
+                "id": "18246",
+                "name": "Danish pastry, fruit, enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry)"
+            },
+            {
+                "offset": 5752,
+                "id": "18247",
+                "name": "Danish pastry, nut (includes almond, raisin nut, cinnamon nut)"
+            },
+            {
+                "offset": 5753,
+                "id": "18248",
+                "name": "Doughnuts, cake-type, plain (includes unsugared, old-fashioned)"
+            },
+            {
+                "offset": 5754,
+                "id": "18249",
+                "name": "Doughnuts, cake-type, plain, chocolate-coated or frosted"
+            },
+            {
+                "offset": 5755,
+                "id": "18250",
+                "name": "Doughnuts, cake-type, plain, sugared or glazed"
+            },
+            {
+                "offset": 5756,
+                "id": "18251",
+                "name": "Doughnuts, cake-type, chocolate, sugared or glazed"
+            },
+            {
+                "offset": 5757,
+                "id": "18253",
+                "name": "Doughnuts, french crullers, glazed"
+            },
+            {
+                "offset": 5758,
+                "id": "18254",
+                "name": "Doughnuts, yeast-leavened, with creme filling"
+            },
+            {
+                "offset": 5759,
+                "id": "18255",
+                "name": "Doughnuts, yeast-leavened, glazed, enriched (includes honey buns)"
+            },
+            {
+                "offset": 5760,
+                "id": "18256",
+                "name": "Doughnuts, yeast-leavened, with jelly filling"
+            },
+            {
+                "offset": 5761,
+                "id": "18258",
+                "name": "English muffins, plain, enriched, with ca prop (includes sourdough)"
+            },
+            {
+                "offset": 5762,
+                "id": "18259",
+                "name": "English muffins, plain, toasted, enriched, with calcium propionate (includes sourdough)"
+            },
+            {
+                "offset": 5763,
+                "id": "18260",
+                "name": "English muffins, mixed-grain (includes granola)"
+            },
+            {
+                "offset": 5764,
+                "id": "18261",
+                "name": "English muffins, mixed-grain, toasted (includes granola)"
+            },
+            {
+                "offset": 5765,
+                "id": "18262",
+                "name": "English muffins, raisin-cinnamon (includes apple-cinnamon)"
+            },
+            {
+                "offset": 5766,
+                "id": "18263",
+                "name": "English muffins, raisin-cinnamon, toasted (includes apple-cinnamon)"
+            },
+            {
+                "offset": 5767,
+                "id": "18264",
+                "name": "English muffins, wheat"
+            },
+            {
+                "offset": 5768,
+                "id": "18265",
+                "name": "English muffins, wheat, toasted"
+            },
+            {
+                "offset": 5769,
+                "id": "18266",
+                "name": "English muffins, whole-wheat"
+            },
+            {
+                "offset": 5770,
+                "id": "18267",
+                "name": "English muffins, whole-wheat, toasted"
+            },
+            {
+                "offset": 5771,
+                "id": "18268",
+                "name": "French toast, frozen, ready-to-heat"
+            },
+            {
+                "offset": 5772,
+                "id": "18269",
+                "name": "French toast, prepared from recipe, made with low fat (2%) milk"
+            },
+            {
+                "offset": 5773,
+                "id": "18270",
+                "name": "Hush puppies, prepared from recipe"
+            },
+            {
+                "offset": 5774,
+                "id": "18271",
+                "name": "Ice cream cones, cake or wafer-type"
+            },
+            {
+                "offset": 5775,
+                "id": "18272",
+                "name": "Ice cream cones, sugar, rolled-type"
+            },
+            {
+                "offset": 5776,
+                "id": "18273",
+                "name": "Muffins, plain, prepared from recipe, made with low fat (2%) milk"
+            },
+            {
+                "offset": 5777,
+                "id": "18274",
+                "name": "Muffins, blueberry, commercially prepared (Includes mini-muffins)"
+            },
+            {
+                "offset": 5778,
+                "id": "18275",
+                "name": "Muffins, blueberry, dry mix"
+            },
+            {
+                "offset": 5779,
+                "id": "18277",
+                "name": "Muffins, blueberry, toaster-type"
+            },
+            {
+                "offset": 5780,
+                "id": "18278",
+                "name": "Muffins, blueberry, prepared from recipe, made with low fat (2%) milk"
+            },
+            {
+                "offset": 5781,
+                "id": "18279",
+                "name": "Muffins, corn, commercially prepared"
+            },
+            {
+                "offset": 5782,
+                "id": "18280",
+                "name": "Muffins, corn, dry mix, prepared"
+            },
+            {
+                "offset": 5783,
+                "id": "18281",
+                "name": "Muffins, corn, toaster-type"
+            },
+            {
+                "offset": 5784,
+                "id": "18282",
+                "name": "Muffins, corn, prepared from recipe, made with low fat (2%) milk"
+            },
+            {
+                "offset": 5785,
+                "id": "18283",
+                "name": "Muffins, oat bran"
+            },
+            {
+                "offset": 5786,
+                "id": "18284",
+                "name": "Muffins, wheat bran, dry mix"
+            },
+            {
+                "offset": 5787,
+                "id": "18288",
+                "name": "Pancakes plain, frozen, ready-to-heat (includes buttermilk)"
+            },
+            {
+                "offset": 5788,
+                "id": "18289",
+                "name": "Pancakes, plain, dry mix, complete (includes buttermilk)"
+            },
+            {
+                "offset": 5789,
+                "id": "18290",
+                "name": "Pancakes, plain, dry mix, complete, prepared"
+            },
+            {
+                "offset": 5790,
+                "id": "18291",
+                "name": "Pancakes, plain, dry mix, incomplete (includes buttermilk)"
+            },
+            {
+                "offset": 5791,
+                "id": "18292",
+                "name": "Pancakes, plain, dry mix, incomplete, prepared"
+            },
+            {
+                "offset": 5792,
+                "id": "18293",
+                "name": "Pancakes, plain, prepared from recipe"
+            },
+            {
+                "offset": 5793,
+                "id": "18294",
+                "name": "Pancakes, blueberry, prepared from recipe"
+            },
+            {
+                "offset": 5794,
+                "id": "18295",
+                "name": "Pancakes, buckwheat, dry mix, incomplete"
+            },
+            {
+                "offset": 5795,
+                "id": "18297",
+                "name": "Pancakes, special dietary, dry mix"
+            },
+            {
+                "offset": 5796,
+                "id": "18299",
+                "name": "Pancakes, whole-wheat, dry mix, incomplete"
+            },
+            {
+                "offset": 5797,
+                "id": "18300",
+                "name": "Pancakes, whole-wheat, dry mix, incomplete, prepared"
+            },
+            {
+                "offset": 5798,
+                "id": "18301",
+                "name": "Pie, apple, commercially prepared, enriched flour"
+            },
+            {
+                "offset": 5799,
+                "id": "18302",
+                "name": "Pie, apple, prepared from recipe"
+            },
+            {
+                "offset": 5800,
+                "id": "18303",
+                "name": "Pie, banana cream, prepared from mix, no-bake type"
+            },
+            {
+                "offset": 5801,
+                "id": "18304",
+                "name": "Pie, banana cream, prepared from recipe"
+            },
+            {
+                "offset": 5802,
+                "id": "18305",
+                "name": "Pie, blueberry, commercially prepared"
+            },
+            {
+                "offset": 5803,
+                "id": "18306",
+                "name": "Pie, blueberry, prepared from recipe"
+            },
+            {
+                "offset": 5804,
+                "id": "18308",
+                "name": "Pie, cherry, commercially prepared"
+            },
+            {
+                "offset": 5805,
+                "id": "18309",
+                "name": "Pie, cherry, prepared from recipe"
+            },
+            {
+                "offset": 5806,
+                "id": "18310",
+                "name": "Pie, chocolate creme, commercially prepared"
+            },
+            {
+                "offset": 5807,
+                "id": "18312",
+                "name": "Pie, chocolate mousse, prepared from mix, no-bake type"
+            },
+            {
+                "offset": 5808,
+                "id": "18313",
+                "name": "Pie, coconut creme, commercially prepared"
+            },
+            {
+                "offset": 5809,
+                "id": "18314",
+                "name": "Pie, coconut cream, prepared from mix, no-bake type"
+            },
+            {
+                "offset": 5810,
+                "id": "18316",
+                "name": "Pie, coconut custard, commercially prepared"
+            },
+            {
+                "offset": 5811,
+                "id": "18317",
+                "name": "Pie, egg custard, commercially prepared"
+            },
+            {
+                "offset": 5812,
+                "id": "18319",
+                "name": "Pie, fried pies, fruit"
+            },
+            {
+                "offset": 5813,
+                "id": "18320",
+                "name": "Pie, lemon meringue, commercially prepared"
+            },
+            {
+                "offset": 5814,
+                "id": "18321",
+                "name": "Pie, lemon meringue, prepared from recipe"
+            },
+            {
+                "offset": 5815,
+                "id": "18322",
+                "name": "Pie, mince, prepared from recipe"
+            },
+            {
+                "offset": 5816,
+                "id": "18323",
+                "name": "Pie, peach"
+            },
+            {
+                "offset": 5817,
+                "id": "18324",
+                "name": "Pie, pecan, commercially prepared"
+            },
+            {
+                "offset": 5818,
+                "id": "18325",
+                "name": "Pie, pecan, prepared from recipe"
+            },
+            {
+                "offset": 5819,
+                "id": "18326",
+                "name": "Pie, pumpkin, commercially prepared"
+            },
+            {
+                "offset": 5820,
+                "id": "18327",
+                "name": "Pie, pumpkin, prepared from recipe"
+            },
+            {
+                "offset": 5821,
+                "id": "18328",
+                "name": "Pie, vanilla cream, prepared from recipe"
+            },
+            {
+                "offset": 5822,
+                "id": "18332",
+                "name": "Pie crust, standard-type, dry mix"
+            },
+            {
+                "offset": 5823,
+                "id": "18333",
+                "name": "Pie crust, standard-type, dry mix, prepared, baked"
+            },
+            {
+                "offset": 5824,
+                "id": "18334",
+                "name": "Pie crust, standard-type, frozen, ready-to-bake, enriched"
+            },
+            {
+                "offset": 5825,
+                "id": "18335",
+                "name": "Pie crust, standard-type, frozen, ready-to-bake, enriched, baked"
+            },
+            {
+                "offset": 5826,
+                "id": "18336",
+                "name": "Pie crust, standard-type, prepared from recipe, baked"
+            },
+            {
+                "offset": 5827,
+                "id": "18337",
+                "name": "Puff pastry, frozen, ready-to-bake"
+            },
+            {
+                "offset": 5828,
+                "id": "18338",
+                "name": "Phyllo dough"
+            },
+            {
+                "offset": 5829,
+                "id": "18339",
+                "name": "Popovers, dry mix, enriched"
+            },
+            {
+                "offset": 5830,
+                "id": "18342",
+                "name": "Rolls, dinner, plain, commercially prepared (includes brown-and-serve)"
+            },
+            {
+                "offset": 5831,
+                "id": "18344",
+                "name": "Rolls, dinner, egg"
+            },
+            {
+                "offset": 5832,
+                "id": "18345",
+                "name": "Rolls, dinner, oat bran"
+            },
+            {
+                "offset": 5833,
+                "id": "18346",
+                "name": "Rolls, dinner, rye"
+            },
+            {
+                "offset": 5834,
+                "id": "18347",
+                "name": "Rolls, dinner, wheat"
+            },
+            {
+                "offset": 5835,
+                "id": "18348",
+                "name": "Rolls, dinner, whole-wheat"
+            },
+            {
+                "offset": 5836,
+                "id": "18349",
+                "name": "Rolls, french"
+            },
+            {
+                "offset": 5837,
+                "id": "18350",
+                "name": "Rolls, hamburger or hotdog, plain"
+            },
+            {
+                "offset": 5838,
+                "id": "18351",
+                "name": "Rolls, hamburger or hotdog, mixed-grain"
+            },
+            {
+                "offset": 5839,
+                "id": "18352",
+                "name": "Rolls, hamburger or hotdog, reduced-calorie"
+            },
+            {
+                "offset": 5840,
+                "id": "18353",
+                "name": "Rolls, hard (includes kaiser)"
+            },
+            {
+                "offset": 5841,
+                "id": "18354",
+                "name": "Strudel, apple"
+            },
+            {
+                "offset": 5842,
+                "id": "18355",
+                "name": "Sweet rolls, cheese"
+            },
+            {
+                "offset": 5843,
+                "id": "18356",
+                "name": "Sweet rolls, cinnamon, commercially prepared with raisins"
+            },
+            {
+                "offset": 5844,
+                "id": "18357",
+                "name": "Sweet rolls, cinnamon, refrigerated dough with frosting"
+            },
+            {
+                "offset": 5845,
+                "id": "18358",
+                "name": "Sweet rolls, cinnamon, refrigerated dough with frosting, baked"
+            },
+            {
+                "offset": 5846,
+                "id": "18360",
+                "name": "Taco shells, baked"
+            },
+            {
+                "offset": 5847,
+                "id": "18361",
+                "name": "Toaster pastries, brown-sugar-cinnamon"
+            },
+            {
+                "offset": 5848,
+                "id": "18362",
+                "name": "Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)"
+            },
+            {
+                "offset": 5849,
+                "id": "18363",
+                "name": "Tortillas, ready-to-bake or -fry, corn"
+            },
+            {
+                "offset": 5850,
+                "id": "18364",
+                "name": "Tortillas, ready-to-bake or -fry, flour, refrigerated"
+            },
+            {
+                "offset": 5851,
+                "id": "18365",
+                "name": "Waffles, plain, frozen, ready-to-heat"
+            },
+            {
+                "offset": 5852,
+                "id": "18367",
+                "name": "Waffles, plain, prepared from recipe"
+            },
+            {
+                "offset": 5853,
+                "id": "18368",
+                "name": "Wonton wrappers (includes egg roll wrappers)"
+            },
+            {
+                "offset": 5854,
+                "id": "18369",
+                "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+            },
+            {
+                "offset": 5855,
+                "id": "18370",
+                "name": "Leavening agents, baking powder, double-acting, straight phosphate"
+            },
+            {
+                "offset": 5856,
+                "id": "18371",
+                "name": "Leavening agents, baking powder, low-sodium"
+            },
+            {
+                "offset": 5857,
+                "id": "18372",
+                "name": "Leavening agents, baking soda"
+            },
+            {
+                "offset": 5858,
+                "id": "18373",
+                "name": "Leavening agents, cream of tartar"
+            },
+            {
+                "offset": 5859,
+                "id": "18374",
+                "name": "Leavening agents, yeast, baker's, compressed"
+            },
+            {
+                "offset": 5860,
+                "id": "18375",
+                "name": "Leavening agents, yeast, baker's, active dry"
+            },
+            {
+                "offset": 5861,
+                "id": "18376",
+                "name": "Bread crumbs, dry, grated, seasoned"
+            },
+            {
+                "offset": 5862,
+                "id": "18377",
+                "name": "Cookies, oatmeal, prepared from recipe, without raisins"
+            },
+            {
+                "offset": 5863,
+                "id": "18378",
+                "name": "Cookies, chocolate chip, prepared from recipe, made with butter"
+            },
+            {
+                "offset": 5864,
+                "id": "18383",
+                "name": "Bread, protein, (includes gluten), toasted"
+            },
+            {
+                "offset": 5865,
+                "id": "18384",
+                "name": "Bread, rice bran, toasted"
+            },
+            {
+                "offset": 5866,
+                "id": "18385",
+                "name": "Bread, wheat germ, toasted"
+            },
+            {
+                "offset": 5867,
+                "id": "18386",
+                "name": "Muffins, blueberry, toaster-type, toasted"
+            },
+            {
+                "offset": 5868,
+                "id": "18388",
+                "name": "Muffins, wheat bran, toaster-type with raisins, toasted"
+            },
+            {
+                "offset": 5869,
+                "id": "18390",
+                "name": "Pancakes, buttermilk, prepared from recipe"
+            },
+            {
+                "offset": 5870,
+                "id": "18396",
+                "name": "Rolls, dinner, plain, prepared from recipe, made with low fat (2%) milk"
+            },
+            {
+                "offset": 5871,
+                "id": "18399",
+                "name": "Pie crust, cookie-type, prepared from recipe, graham cracker, chilled"
+            },
+            {
+                "offset": 5872,
+                "id": "18400",
+                "name": "Crackers, matzo, egg and onion"
+            },
+            {
+                "offset": 5873,
+                "id": "18401",
+                "name": "Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled"
+            },
+            {
+                "offset": 5874,
+                "id": "18402",
+                "name": "Pie crust, standard-type, prepared from recipe, unbaked"
+            },
+            {
+                "offset": 5875,
+                "id": "18403",
+                "name": "Waffles, plain, frozen, ready -to-heat, toasted"
+            },
+            {
+                "offset": 5876,
+                "id": "18406",
+                "name": "Bagels, plain, enriched, without calcium propionate (includes onion, poppy, sesame)"
+            },
+            {
+                "offset": 5877,
+                "id": "18407",
+                "name": "Bagels, plain, unenriched, with calcium propionate (includes onion, poppy, sesame)"
+            },
+            {
+                "offset": 5878,
+                "id": "18408",
+                "name": "Bagels, plain, unenriched, without calcium propionate(includes onion, poppy, sesame)"
+            },
+            {
+                "offset": 5879,
+                "id": "18412",
+                "name": "Bread, cornbread, dry mix, unenriched (includes corn muffin mix)"
+            },
+            {
+                "offset": 5880,
+                "id": "18413",
+                "name": "Bread, pita, white, unenriched"
+            },
+            {
+                "offset": 5881,
+                "id": "18414",
+                "name": "Bread, raisin, unenriched"
+            },
+            {
+                "offset": 5882,
+                "id": "18416",
+                "name": "Bread, white, commercially prepared, low sodium, no salt"
+            },
+            {
+                "offset": 5883,
+                "id": "18417",
+                "name": "Coffeecake, cinnamon with crumb topping, commercially prepared, unenriched"
+            },
+            {
+                "offset": 5884,
+                "id": "18418",
+                "name": "Cake, pound, commercially prepared, other than all butter, unenriched"
+            },
+            {
+                "offset": 5885,
+                "id": "18419",
+                "name": "Cake, pudding-type, white, unenriched, dry mix"
+            },
+            {
+                "offset": 5886,
+                "id": "18420",
+                "name": "Cake, yellow, unenriched, dry mix"
+            },
+            {
+                "offset": 5887,
+                "id": "18421",
+                "name": "Cookies, butter, commercially prepared, unenriched"
+            },
+            {
+                "offset": 5888,
+                "id": "18422",
+                "name": "Cookies, chocolate chip, commercially prepared, regular, higher fat, unenriched"
+            },
+            {
+                "offset": 5889,
+                "id": "18423",
+                "name": "Cookies, ladyfingers, without lemon juice and rind"
+            },
+            {
+                "offset": 5890,
+                "id": "18424",
+                "name": "Crackers, melba toast, plain, without salt"
+            },
+            {
+                "offset": 5891,
+                "id": "18425",
+                "name": "Crackers, saltines, low salt (includes oyster, soda, soup)"
+            },
+            {
+                "offset": 5892,
+                "id": "18426",
+                "name": "Crackers, saltines, unsalted tops (includes oyster, soda, soup)"
+            },
+            {
+                "offset": 5893,
+                "id": "18427",
+                "name": "Crackers, standard snack-type, regular, low salt"
+            },
+            {
+                "offset": 5894,
+                "id": "18428",
+                "name": "Crackers, wheat, low salt"
+            },
+            {
+                "offset": 5895,
+                "id": "18429",
+                "name": "Crackers, whole-wheat, low salt"
+            },
+            {
+                "offset": 5896,
+                "id": "18430",
+                "name": "Danish pastry, cinnamon, unenriched"
+            },
+            {
+                "offset": 5897,
+                "id": "18431",
+                "name": "Danish pastry, fruit, unenriched (includes apple, cinnamon, raisin, strawberry)"
+            },
+            {
+                "offset": 5898,
+                "id": "18432",
+                "name": "Bread, white, commercially prepared, toasted, low sodium no salt"
+            },
+            {
+                "offset": 5899,
+                "id": "18433",
+                "name": "Danish pastry, lemon, unenriched"
+            },
+            {
+                "offset": 5900,
+                "id": "18434",
+                "name": "Crackers, cheese, low sodium"
+            },
+            {
+                "offset": 5901,
+                "id": "18435",
+                "name": "Danish pastry, raspberry, unenriched"
+            },
+            {
+                "offset": 5902,
+                "id": "18436",
+                "name": "Doughnuts, yeast-leavened, glazed, unenriched (includes honey buns)"
+            },
+            {
+                "offset": 5903,
+                "id": "18437",
+                "name": "English muffins, plain, enriched, without calcium propionate(includes sourdough)"
+            },
+            {
+                "offset": 5904,
+                "id": "18438",
+                "name": "English muffins, plain, unenriched, with calcium propionate (includes sourdough)"
+            },
+            {
+                "offset": 5905,
+                "id": "18439",
+                "name": "English muffins, plain, unenriched, without calcium propionate (includes sourdough)"
+            },
+            {
+                "offset": 5906,
+                "id": "18443",
+                "name": "Pie, apple, commercially prepared, unenriched flour"
+            },
+            {
+                "offset": 5907,
+                "id": "18444",
+                "name": "Pie, fried pies, cherry"
+            },
+            {
+                "offset": 5908,
+                "id": "18445",
+                "name": "Pie, fried pies, lemon"
+            },
+            {
+                "offset": 5909,
+                "id": "18446",
+                "name": "Pie crust, standard-type, frozen, ready-to-bake, unenriched"
+            },
+            {
+                "offset": 5910,
+                "id": "18447",
+                "name": "Popovers, dry mix, unenriched"
+            },
+            {
+                "offset": 5911,
+                "id": "18448",
+                "name": "Taco shells, baked, without added salt"
+            },
+            {
+                "offset": 5912,
+                "id": "18449",
+                "name": "Tortillas, ready-to-bake or -fry, corn, without added salt"
+            },
+            {
+                "offset": 5913,
+                "id": "18450",
+                "name": "Tortillas, ready-to-bake or -fry, flour, without added calcium"
+            },
+            {
+                "offset": 5914,
+                "id": "18451",
+                "name": "Cake, pound, commercially prepared, fat-free"
+            },
+            {
+                "offset": 5915,
+                "id": "18453",
+                "name": "Cake, yellow, light, dry mix"
+            },
+            {
+                "offset": 5916,
+                "id": "18457",
+                "name": "Crackers, saltines, fat-free, low-sodium"
+            },
+            {
+                "offset": 5917,
+                "id": "18459",
+                "name": "Breakfast tart, low fat"
+            },
+            {
+                "offset": 5918,
+                "id": "18476",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Blueberry"
+            },
+            {
+                "offset": 5919,
+                "id": "18477",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted blueberry"
+            },
+            {
+                "offset": 5920,
+                "id": "18478",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Brown sugar cinnamon"
+            },
+            {
+                "offset": 5921,
+                "id": "18479",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted brown sugar cinnamon"
+            },
+            {
+                "offset": 5922,
+                "id": "18481",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted cherry"
+            },
+            {
+                "offset": 5923,
+                "id": "18482",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted chocolate fudge"
+            },
+            {
+                "offset": 5924,
+                "id": "18486",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted raspberry"
+            },
+            {
+                "offset": 5925,
+                "id": "18487",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, S'mores"
+            },
+            {
+                "offset": 5926,
+                "id": "18488",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Strawberry"
+            },
+            {
+                "offset": 5927,
+                "id": "18489",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted strawberry"
+            },
+            {
+                "offset": 5928,
+                "id": "18490",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted wild berry"
+            },
+            {
+                "offset": 5929,
+                "id": "18494",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S LOW FAT POP TARTS, Frosted brown sugar cinnamon"
+            },
+            {
+                "offset": 5930,
+                "id": "18497",
+                "name": "Toaster Pastries, KELLOGG, KELLOGG'S LOW FAT POP TARTS, Frosted strawberry"
+            },
+            {
+                "offset": 5931,
+                "id": "18499",
+                "name": "KELLOGG, KELLOGG'S EGGO, Buttermilk Pancake"
+            },
+            {
+                "offset": 5932,
+                "id": "18501",
+                "name": "KELLOGG, KELLOG'S NUTRI-GRAIN CEREAL BARS, Mixed Berry"
+            },
+            {
+                "offset": 5933,
+                "id": "18505",
+                "name": "KELLOGG'S, EGGO, Waffles, Homestyle, Low Fat"
+            },
+            {
+                "offset": 5934,
+                "id": "18506",
+                "name": "KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Low Fat"
+            },
+            {
+                "offset": 5935,
+                "id": "18507",
+                "name": "KELLOGG'S EGGO Lowfat Blueberry Nutri-Grain Waffles"
+            },
+            {
+                "offset": 5936,
+                "id": "18513",
+                "name": "ARCHWAY Home Style Cookies, Sugar Free Oatmeal"
+            },
+            {
+                "offset": 5937,
+                "id": "18522",
+                "name": "ARCHWAY Home Style Cookies, Chocolate Chip Ice Box"
+            },
+            {
+                "offset": 5938,
+                "id": "18524",
+                "name": "ARCHWAY Home Style Cookies, Coconut Macaroon"
+            },
+            {
+                "offset": 5939,
+                "id": "18527",
+                "name": "ARCHWAY Home Style Cookies, Date Filled Oatmeal"
+            },
+            {
+                "offset": 5940,
+                "id": "18528",
+                "name": "ARCHWAY Home Style Cookies, Dutch Cocoa"
+            },
+            {
+                "offset": 5941,
+                "id": "18529",
+                "name": "ARCHWAY Home Style Cookies, Frosty Lemon"
+            },
+            {
+                "offset": 5942,
+                "id": "18532",
+                "name": "ARCHWAY Home Style Cookies, Iced Molasses"
+            },
+            {
+                "offset": 5943,
+                "id": "18533",
+                "name": "ARCHWAY Home Style Cookies, Iced Oatmeal"
+            },
+            {
+                "offset": 5944,
+                "id": "18535",
+                "name": "ARCHWAY Home Style Cookies, Molasses"
+            },
+            {
+                "offset": 5945,
+                "id": "18537",
+                "name": "ARCHWAY Home Style Cookies, Oatmeal"
+            },
+            {
+                "offset": 5946,
+                "id": "18538",
+                "name": "ARCHWAY Home Style Cookies, Oatmeal Raisin"
+            },
+            {
+                "offset": 5947,
+                "id": "18539",
+                "name": "ARCHWAY Home Style Cookies, Old Fashioned Molasses"
+            },
+            {
+                "offset": 5948,
+                "id": "18540",
+                "name": "ARCHWAY Home Style Cookies, Old Fashioned Windmill Cookies"
+            },
+            {
+                "offset": 5949,
+                "id": "18541",
+                "name": "ARCHWAY Home Style Cookies, Peanut Butter"
+            },
+            {
+                "offset": 5950,
+                "id": "18544",
+                "name": "ARCHWAY Home Style Cookies, Raspberry Filled"
+            },
+            {
+                "offset": 5951,
+                "id": "18547",
+                "name": "ARCHWAY Home Style Cookies, Strawberry Filled"
+            },
+            {
+                "offset": 5952,
+                "id": "18562",
+                "name": "ARCHWAY Home Style Cookies, Reduced Fat Ginger Snaps"
+            },
+            {
+                "offset": 5953,
+                "id": "18566",
+                "name": "Artificial Blueberry Muffin Mix, dry"
+            },
+            {
+                "offset": 5954,
+                "id": "18567",
+                "name": "KRAFT, STOVE TOP Stuffing Mix Chicken Flavor"
+            },
+            {
+                "offset": 5955,
+                "id": "18603",
+                "name": "GEORGE WESTON BAKERIES, Brownberry Sage and Onion Stuffing Mix, dry"
+            },
+            {
+                "offset": 5956,
+                "id": "18608",
+                "name": "KEEBLER, KEEBLER Chocolate Graham SELECTS"
+            },
+            {
+                "offset": 5957,
+                "id": "18609",
+                "name": "KEEBLER, Vanilla Wafers"
+            },
+            {
+                "offset": 5958,
+                "id": "18610",
+                "name": "CONTINENTAL MILLS, KRUSTEAZ Almond Poppyseed Muffin Mix, Artificially Flavored, dry"
+            },
+            {
+                "offset": 5959,
+                "id": "18612",
+                "name": "MCKEE BAKING, LITTLE DEBBIE NUTTY BARS, Wafers with Peanut Butter, Chocolate Covered"
+            },
+            {
+                "offset": 5960,
+                "id": "18614",
+                "name": "MARTHA WHITE FOODS, Martha White's Chewy Fudge Brownie Mix, dry"
+            },
+            {
+                "offset": 5961,
+                "id": "18615",
+                "name": "MARTHA WHITE FOODS, Martha White's Buttermilk Biscuit Mix, dry"
+            },
+            {
+                "offset": 5962,
+                "id": "18616",
+                "name": "MISSION FOODS, MISSION Flour Tortillas, Soft Taco, 8 inch"
+            },
+            {
+                "offset": 5963,
+                "id": "18617",
+                "name": "NABISCO, NABISCO GRAHAMS Crackers"
+            },
+            {
+                "offset": 5964,
+                "id": "18619",
+                "name": "NABISCO, NABISCO OREO CRUNCHIES, Cookie Crumb Topping"
+            },
+            {
+                "offset": 5965,
+                "id": "18621",
+                "name": "NABISCO, NABISCO RITZ Crackers"
+            },
+            {
+                "offset": 5966,
+                "id": "18629",
+                "name": "PILLSBURY, Buttermilk Biscuits, Artificial Flavor, refrigerated dough"
+            },
+            {
+                "offset": 5967,
+                "id": "18630",
+                "name": "PILLSBURY, Chocolate Chip Cookies, refrigerated dough"
+            },
+            {
+                "offset": 5968,
+                "id": "18631",
+                "name": "PILLSBURY, Crusty French Loaf, refrigerated dough"
+            },
+            {
+                "offset": 5969,
+                "id": "18632",
+                "name": "PILLSBURY, Traditional Fudge Brownie Mix, dry"
+            },
+            {
+                "offset": 5970,
+                "id": "18633",
+                "name": "PILLSBURY GRANDS, Buttermilk Biscuits, refrigerated dough"
+            },
+            {
+                "offset": 5971,
+                "id": "18634",
+                "name": "PILLSBURY Golden Layer Buttermilk Biscuits, Artificial Flavor, refrigerated dough"
+            },
+            {
+                "offset": 5972,
+                "id": "18635",
+                "name": "PILLSBURY, Cinnamon Rolls with Icing, refrigerated dough"
+            },
+            {
+                "offset": 5973,
+                "id": "18637",
+                "name": "KRAFT FOODS, SHAKE 'N' BAKE ORIGINAL RECIPE, Coating for Pork, dry"
+            },
+            {
+                "offset": 5974,
+                "id": "18639",
+                "name": "GEORGE WESTON BAKERIES, Thomas English Muffins"
+            },
+            {
+                "offset": 5975,
+                "id": "18640",
+                "name": "HEINZ, WEIGHT WATCHER, Chocolate Eclair, frozen"
+            },
+            {
+                "offset": 5976,
+                "id": "18641",
+                "name": "INTERSTATE BRANDS CORP, WONDER Hamburger Rolls"
+            },
+            {
+                "offset": 5977,
+                "id": "18642",
+                "name": "GENERAL MILLS, BETTY CROCKER SUPERMOIST Yellow Cake Mix, dry"
+            },
+            {
+                "offset": 5978,
+                "id": "18651",
+                "name": "NABISCO, NABISCO SNACKWELL'S Fat Free Devil's Food Cookie Cakes"
+            },
+            {
+                "offset": 5979,
+                "id": "18927",
+                "name": "Crackers, cheese, sandwich-type with cheese filling"
+            },
+            {
+                "offset": 5980,
+                "id": "18930",
+                "name": "USDA Commodity, Bakery, Flour Mix"
+            },
+            {
+                "offset": 5981,
+                "id": "18931",
+                "name": "USDA Commodity, Bakery, Flour Mix Low-fat"
+            },
+            {
+                "offset": 5982,
+                "id": "18932",
+                "name": "Waffles, buttermilk, frozen, ready-to-heat"
+            },
+            {
+                "offset": 5983,
+                "id": "18933",
+                "name": "Waffle, buttermilk, frozen, ready-to-heat, toasted"
+            },
+            {
+                "offset": 5984,
+                "id": "18934",
+                "name": "Waffle, buttermilk, frozen, ready-to-heat, microwaved"
+            },
+            {
+                "offset": 5985,
+                "id": "18935",
+                "name": "Waffle, plain, frozen, ready-to-heat, microwave"
+            },
+            {
+                "offset": 5986,
+                "id": "18936",
+                "name": "Pancakes, plain, frozen, ready-to-heat, microwave (includes buttermilk)"
+            },
+            {
+                "offset": 5987,
+                "id": "18938",
+                "name": "Toaster Pastries, fruit, frosted (include apples, blueberry, cherry, strawberry)"
+            },
+            {
+                "offset": 5988,
+                "id": "18939",
+                "name": "Toaster pastries, fruit, toasted (include apple, blueberry, cherry, strawberry)"
+            },
+            {
+                "offset": 5989,
+                "id": "18940",
+                "name": "Muffin, blueberry, commercially prepared, low-fat"
+            },
+            {
+                "offset": 5990,
+                "id": "18942",
+                "name": "Pie Crust, Cookie-type, Graham Cracker, Ready Crust"
+            },
+            {
+                "offset": 5991,
+                "id": "18943",
+                "name": "Pie Crust, Cookie-type, Chocolate, Ready Crust"
+            },
+            {
+                "offset": 5992,
+                "id": "18944",
+                "name": "Pie, Dutch Apple, Commercially Prepared"
+            },
+            {
+                "offset": 5993,
+                "id": "18945",
+                "name": "Pie crust, deep dish, frozen, unbaked, made with enriched flour"
+            },
+            {
+                "offset": 5994,
+                "id": "18946",
+                "name": "Pie crust, refrigerated, regular, baked"
+            },
+            {
+                "offset": 5995,
+                "id": "18947",
+                "name": "Pie crust, deep dish, frozen, baked, made with enriched flour"
+            },
+            {
+                "offset": 5996,
+                "id": "18948",
+                "name": "Pie crust, refrigerated, regular, unbaked"
+            },
+            {
+                "offset": 5997,
+                "id": "18949",
+                "name": "Crackers, whole-wheat, reduced fat"
+            },
+            {
+                "offset": 5998,
+                "id": "18950",
+                "name": "Crackers, wheat, reduced fat"
+            },
+            {
+                "offset": 5999,
+                "id": "18951",
+                "name": "Waffles, chocolate chip, frozen, ready-to-heat"
+            }
+        ]
+    }
+}

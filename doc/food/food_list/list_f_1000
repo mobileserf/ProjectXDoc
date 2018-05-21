@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 1000,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 1000,
+                "id": "05180",
+                "name": "Turkey from whole, neck, meat only, cooked, simmered"
+            },
+            {
+                "offset": 1001,
+                "id": "05181",
+                "name": "Turkey from whole, light meat, meat and skin, raw"
+            },
+            {
+                "offset": 1002,
+                "id": "05182",
+                "name": "Turkey from whole, light meat, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1003,
+                "id": "05183",
+                "name": "Turkey, dark meat, meat and skin, raw"
+            },
+            {
+                "offset": 1004,
+                "id": "05184",
+                "name": "Turkey, dark meat from whole, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1005,
+                "id": "05185",
+                "name": "Turkey from whole, light meat, raw"
+            },
+            {
+                "offset": 1006,
+                "id": "05186",
+                "name": "Turkey, all classes, light meat, cooked, roasted"
+            },
+            {
+                "offset": 1007,
+                "id": "05187",
+                "name": "Turkey from whole, dark meat, meat only, raw"
+            },
+            {
+                "offset": 1008,
+                "id": "05188",
+                "name": "Turkey, from whole, dark meat, cooked, roasted"
+            },
+            {
+                "offset": 1009,
+                "id": "05190",
+                "name": "Turkey, all classes, back, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1010,
+                "id": "05191",
+                "name": "Turkey, all classes, breast, meat and skin, raw"
+            },
+            {
+                "offset": 1011,
+                "id": "05192",
+                "name": "Turkey, all classes, breast, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1012,
+                "id": "05193",
+                "name": "Turkey, all classes, leg, meat and skin, raw"
+            },
+            {
+                "offset": 1013,
+                "id": "05194",
+                "name": "Turkey, all classes, leg, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1014,
+                "id": "05195",
+                "name": "Turkey, all classes, wing, meat and skin, raw"
+            },
+            {
+                "offset": 1015,
+                "id": "05196",
+                "name": "Turkey, all classes, wing, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1016,
+                "id": "05200",
+                "name": "Turkey, fryer-roasters, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1017,
+                "id": "05215",
+                "name": "Turkey, back from whole bird, meat only, raw"
+            },
+            {
+                "offset": 1018,
+                "id": "05216",
+                "name": "Turkey, back, from whole bird, meat only, roasted"
+            },
+            {
+                "offset": 1019,
+                "id": "05219",
+                "name": "Turkey, breast, from whole bird, meat only, raw"
+            },
+            {
+                "offset": 1020,
+                "id": "05220",
+                "name": "Turkey, breast, from whole bird, meat only, roasted"
+            },
+            {
+                "offset": 1021,
+                "id": "05227",
+                "name": "Turkey, wing, from whole bird, meat only, raw"
+            },
+            {
+                "offset": 1022,
+                "id": "05228",
+                "name": "Turkey, wing, from whole bird, meat only, roasted"
+            },
+            {
+                "offset": 1023,
+                "id": "05236",
+                "name": "Turkey, young hen, skin only, cooked, roasted"
+            },
+            {
+                "offset": 1024,
+                "id": "05277",
+                "name": "Chicken, canned, meat only, with broth"
+            },
+            {
+                "offset": 1025,
+                "id": "05282",
+                "name": "Pate de foie gras, canned (goose liver pate), smoked"
+            },
+            {
+                "offset": 1026,
+                "id": "05284",
+                "name": "Turkey, canned, meat only, with broth"
+            },
+            {
+                "offset": 1027,
+                "id": "05285",
+                "name": "Turkey, diced, light and dark meat, seasoned"
+            },
+            {
+                "offset": 1028,
+                "id": "05286",
+                "name": "Turkey and gravy, frozen"
+            },
+            {
+                "offset": 1029,
+                "id": "05293",
+                "name": "Turkey breast, pre-basted, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1030,
+                "id": "05294",
+                "name": "Turkey thigh, pre-basted, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1031,
+                "id": "05295",
+                "name": "Turkey roast, boneless, frozen, seasoned, light and dark meat, raw"
+            },
+            {
+                "offset": 1032,
+                "id": "05300",
+                "name": "Turkey sticks, breaded, battered, fried"
+            },
+            {
+                "offset": 1033,
+                "id": "05301",
+                "name": "Poultry, mechanically deboned, from backs and necks with skin, raw"
+            },
+            {
+                "offset": 1034,
+                "id": "05302",
+                "name": "Poultry, mechanically deboned, from backs and necks without skin, raw"
+            },
+            {
+                "offset": 1035,
+                "id": "05303",
+                "name": "Poultry, mechanically deboned, from mature hens, raw"
+            },
+            {
+                "offset": 1036,
+                "id": "05304",
+                "name": "Turkey, mechanically deboned, from turkey frames, raw"
+            },
+            {
+                "offset": 1037,
+                "id": "05305",
+                "name": "Ground turkey, raw"
+            },
+            {
+                "offset": 1038,
+                "id": "05306",
+                "name": "Ground turkey, cooked"
+            },
+            {
+                "offset": 1039,
+                "id": "05307",
+                "name": "Chicken, cornish game hens, meat and skin, raw"
+            },
+            {
+                "offset": 1040,
+                "id": "05308",
+                "name": "Chicken, cornish game hens, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1041,
+                "id": "05309",
+                "name": "Chicken, cornish game hens, meat only, raw"
+            },
+            {
+                "offset": 1042,
+                "id": "05310",
+                "name": "Chicken, cornish game hens, meat only, cooked, roasted"
+            },
+            {
+                "offset": 1043,
+                "id": "05311",
+                "name": "Chicken, canned, no broth"
+            },
+            {
+                "offset": 1044,
+                "id": "05312",
+                "name": "Chicken, wing, frozen, glazed, barbecue flavored"
+            },
+            {
+                "offset": 1045,
+                "id": "05313",
+                "name": "Chicken, wing, frozen, glazed, barbecue flavored, heated (microwave)"
+            },
+            {
+                "offset": 1046,
+                "id": "05314",
+                "name": "Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1047,
+                "id": "05315",
+                "name": "Duck, young duckling, domesticated, White Pekin, breast, meat and skin, boneless, cooked, roasted"
+            },
+            {
+                "offset": 1048,
+                "id": "05316",
+                "name": "Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled"
+            },
+            {
+                "offset": 1049,
+                "id": "05317",
+                "name": "Duck, young duckling, domesticated, White Pekin, leg, meat and skin, bone in, cooked, roasted"
+            },
+            {
+                "offset": 1050,
+                "id": "05318",
+                "name": "Duck, young duckling, domesticated, White Pekin, leg, meat only, bone in, cooked without skin, braised"
+            },
+            {
+                "offset": 1051,
+                "id": "05319",
+                "name": "Chicken, broiler, rotisserie, BBQ, drumstick, meat only"
+            },
+            {
+                "offset": 1052,
+                "id": "05320",
+                "name": "Chicken, wing, frozen, glazed, barbecue flavored, heated (conventional oven)"
+            },
+            {
+                "offset": 1053,
+                "id": "05323",
+                "name": "Chicken patty, frozen, uncooked"
+            },
+            {
+                "offset": 1054,
+                "id": "05324",
+                "name": "Chicken patty, frozen, cooked"
+            },
+            {
+                "offset": 1055,
+                "id": "05326",
+                "name": "Chicken breast tenders, breaded, cooked, microwaved"
+            },
+            {
+                "offset": 1056,
+                "id": "05327",
+                "name": "Chicken breast tenders, breaded, uncooked"
+            },
+            {
+                "offset": 1057,
+                "id": "05332",
+                "name": "Chicken, ground, raw"
+            },
+            {
+                "offset": 1058,
+                "id": "05333",
+                "name": "Chicken, ground, crumbles, cooked, pan-browned"
+            },
+            {
+                "offset": 1059,
+                "id": "05334",
+                "name": "Chicken, broiler, rotisserie, BBQ, thigh, meat only"
+            },
+            {
+                "offset": 1060,
+                "id": "05335",
+                "name": "Chicken, feet, boiled"
+            },
+            {
+                "offset": 1061,
+                "id": "05336",
+                "name": "USDA Commodity Chicken, canned, meat only, drained"
+            },
+            {
+                "offset": 1062,
+                "id": "05337",
+                "name": "USDA Commodity, Chicken, canned, meat only, with water"
+            },
+            {
+                "offset": 1063,
+                "id": "05338",
+                "name": "USDA Commodity, Chicken, canned, meat only, with broth"
+            },
+            {
+                "offset": 1064,
+                "id": "05339",
+                "name": "Chicken, broiler, rotisserie, BBQ, wing, meat only"
+            },
+            {
+                "offset": 1065,
+                "id": "05341",
+                "name": "Chicken, broilers or fryers, back, meat only, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1066,
+                "id": "05342",
+                "name": "Chicken, broilers or fryers, breast, meat only, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1067,
+                "id": "05343",
+                "name": "Chicken, broilers or fryers, drumstick, meat only, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1068,
+                "id": "05344",
+                "name": "Chicken, broilers or fryers, skin only, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1069,
+                "id": "05345",
+                "name": "Chicken, broilers or fryers, thigh, meat only, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1070,
+                "id": "05346",
+                "name": "Chicken, broilers or fryers, wing, meat only, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1071,
+                "id": "05347",
+                "name": "Chicken, broilers or fryers, back, meat and skin, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1072,
+                "id": "05348",
+                "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1073,
+                "id": "05349",
+                "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1074,
+                "id": "05351",
+                "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1075,
+                "id": "05352",
+                "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, rotisserie, original seasoning"
+            },
+            {
+                "offset": 1076,
+                "id": "05353",
+                "name": "USDA Commodity, chicken fajita strips, frozen"
+            },
+            {
+                "offset": 1077,
+                "id": "05354",
+                "name": "USDA Commodity, turkey taco meat, frozen, cooked"
+            },
+            {
+                "offset": 1078,
+                "id": "05356",
+                "name": "Chicken, broiler, rotisserie, BBQ, skin"
+            },
+            {
+                "offset": 1079,
+                "id": "05357",
+                "name": "Chicken, broiler, rotisserie, BBQ, back meat and skin"
+            },
+            {
+                "offset": 1080,
+                "id": "05358",
+                "name": "Chicken, broiler, rotisserie, BBQ, breast meat and skin"
+            },
+            {
+                "offset": 1081,
+                "id": "05359",
+                "name": "Chicken, broiler, rotisserie, BBQ, drumstick meat and skin"
+            },
+            {
+                "offset": 1082,
+                "id": "05361",
+                "name": "Chicken, broiler, rotisserie, BBQ, thigh meat and skin"
+            },
+            {
+                "offset": 1083,
+                "id": "05362",
+                "name": "Chicken, broiler, rotisserie, BBQ, wing meat and skin"
+            },
+            {
+                "offset": 1084,
+                "id": "05363",
+                "name": "Ruffed Grouse, breast meat, skinless, raw"
+            },
+            {
+                "offset": 1085,
+                "id": "05600",
+                "name": "USDA Commodity, turkey ham, dark meat, smoked, frozen"
+            },
+            {
+                "offset": 1086,
+                "id": "05621",
+                "name": "Emu, ground, raw"
+            },
+            {
+                "offset": 1087,
+                "id": "05622",
+                "name": "Emu, ground, cooked, pan-broiled"
+            },
+            {
+                "offset": 1088,
+                "id": "05623",
+                "name": "Emu, fan fillet, raw"
+            },
+            {
+                "offset": 1089,
+                "id": "05624",
+                "name": "Emu, fan fillet, cooked, broiled"
+            },
+            {
+                "offset": 1090,
+                "id": "05625",
+                "name": "Emu, flat fillet, raw"
+            },
+            {
+                "offset": 1091,
+                "id": "05626",
+                "name": "Emu, full rump, raw"
+            },
+            {
+                "offset": 1092,
+                "id": "05627",
+                "name": "Emu, full rump, cooked, broiled"
+            },
+            {
+                "offset": 1093,
+                "id": "05628",
+                "name": "Emu, inside drum, raw"
+            },
+            {
+                "offset": 1094,
+                "id": "05629",
+                "name": "Emu, inside drums, cooked, broiled"
+            },
+            {
+                "offset": 1095,
+                "id": "05630",
+                "name": "Emu, outside drum, raw"
+            },
+            {
+                "offset": 1096,
+                "id": "05631",
+                "name": "Emu, oyster, raw"
+            },
+            {
+                "offset": 1097,
+                "id": "05632",
+                "name": "Emu, top loin, cooked, broiled"
+            },
+            {
+                "offset": 1098,
+                "id": "05641",
+                "name": "Ostrich, ground, raw"
+            },
+            {
+                "offset": 1099,
+                "id": "05642",
+                "name": "Ostrich, ground, cooked, pan-broiled"
+            },
+            {
+                "offset": 1100,
+                "id": "05643",
+                "name": "Ostrich, fan, raw"
+            },
+            {
+                "offset": 1101,
+                "id": "05644",
+                "name": "Ostrich, inside leg, raw"
+            },
+            {
+                "offset": 1102,
+                "id": "05645",
+                "name": "Ostrich, inside leg, cooked"
+            },
+            {
+                "offset": 1103,
+                "id": "05646",
+                "name": "Ostrich, inside strip, raw"
+            },
+            {
+                "offset": 1104,
+                "id": "05647",
+                "name": "Ostrich, inside strip, cooked"
+            },
+            {
+                "offset": 1105,
+                "id": "05648",
+                "name": "Ostrich, outside leg, raw"
+            },
+            {
+                "offset": 1106,
+                "id": "05649",
+                "name": "Ostrich, outside strip, raw"
+            },
+            {
+                "offset": 1107,
+                "id": "05650",
+                "name": "Ostrich, outside strip, cooked"
+            },
+            {
+                "offset": 1108,
+                "id": "05651",
+                "name": "Ostrich, oyster, raw"
+            },
+            {
+                "offset": 1109,
+                "id": "05652",
+                "name": "Ostrich, oyster, cooked"
+            },
+            {
+                "offset": 1110,
+                "id": "05653",
+                "name": "Ostrich, round, raw"
+            },
+            {
+                "offset": 1111,
+                "id": "05654",
+                "name": "Ostrich, tenderloin, raw"
+            },
+            {
+                "offset": 1112,
+                "id": "05655",
+                "name": "Ostrich, tip trimmed, raw"
+            },
+            {
+                "offset": 1113,
+                "id": "05656",
+                "name": "Ostrich, tip trimmed, cooked"
+            },
+            {
+                "offset": 1114,
+                "id": "05657",
+                "name": "Ostrich, top loin, raw"
+            },
+            {
+                "offset": 1115,
+                "id": "05658",
+                "name": "Ostrich, top loin, cooked"
+            },
+            {
+                "offset": 1116,
+                "id": "05661",
+                "name": "Chicken, liver, all classes, cooked, pan-fried"
+            },
+            {
+                "offset": 1117,
+                "id": "05662",
+                "name": "Ground turkey, fat free, raw"
+            },
+            {
+                "offset": 1118,
+                "id": "05663",
+                "name": "Ground turkey, fat free, pan-broiled crumbles"
+            },
+            {
+                "offset": 1119,
+                "id": "05664",
+                "name": "Ground turkey, fat free, patties, broiled"
+            },
+            {
+                "offset": 1120,
+                "id": "05665",
+                "name": "Ground turkey, 93% lean, 7% fat, raw"
+            },
+            {
+                "offset": 1121,
+                "id": "05666",
+                "name": "Ground turkey, 93% lean, 7% fat, pan-broiled crumbles"
+            },
+            {
+                "offset": 1122,
+                "id": "05667",
+                "name": "Ground turkey, 93% lean, 7% fat, patties, broiled"
+            },
+            {
+                "offset": 1123,
+                "id": "05668",
+                "name": "Ground turkey, 85% lean, 15% fat, raw"
+            },
+            {
+                "offset": 1124,
+                "id": "05669",
+                "name": "Ground turkey, 85% lean, 15% fat, pan-broiled crumbles"
+            },
+            {
+                "offset": 1125,
+                "id": "05670",
+                "name": "Ground turkey, 85% lean, 15% fat, patties, broiled"
+            },
+            {
+                "offset": 1126,
+                "id": "05671",
+                "name": "Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, braised"
+            },
+            {
+                "offset": 1127,
+                "id": "05672",
+                "name": "Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised"
+            },
+            {
+                "offset": 1128,
+                "id": "05673",
+                "name": "Chicken, skin (drumsticks and thighs), cooked, braised"
+            },
+            {
+                "offset": 1129,
+                "id": "05674",
+                "name": "Chicken, skin (drumsticks and thighs), raw"
+            },
+            {
+                "offset": 1130,
+                "id": "05675",
+                "name": "Chicken, skin (drumsticks and thighs), cooked, roasted"
+            },
+            {
+                "offset": 1131,
+                "id": "05676",
+                "name": "Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised"
+            },
+            {
+                "offset": 1132,
+                "id": "05677",
+                "name": "Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised"
+            },
+            {
+                "offset": 1133,
+                "id": "05678",
+                "name": "Chicken, dark meat, drumstick, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1134,
+                "id": "05679",
+                "name": "Chicken, dark meat, drumstick, meat only, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1135,
+                "id": "05680",
+                "name": "Chicken, dark meat, drumstick, meat only, with added solution, cooked, braised"
+            },
+            {
+                "offset": 1136,
+                "id": "05681",
+                "name": "Chicken, dark meat, thigh, meat only, with added solution, cooked, braised"
+            },
+            {
+                "offset": 1137,
+                "id": "05682",
+                "name": "Chicken, dark meat, thigh, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1138,
+                "id": "05683",
+                "name": "Chicken, dark meat, thigh, meat only, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1139,
+                "id": "05684",
+                "name": "Chicken, skin (drumsticks and thighs), with added solution, cooked, braised"
+            },
+            {
+                "offset": 1140,
+                "id": "05685",
+                "name": "Chicken, skin (drumsticks and thighs), with added solution, raw"
+            },
+            {
+                "offset": 1141,
+                "id": "05686",
+                "name": "Chicken, skin (drumsticks and thighs), with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1142,
+                "id": "05687",
+                "name": "Chicken, dark meat, drumstick, meat and skin, with added solution, cooked, braised"
+            },
+            {
+                "offset": 1143,
+                "id": "05688",
+                "name": "Chicken, dark meat, drumstick, meat and skin, with added solution, raw"
+            },
+            {
+                "offset": 1144,
+                "id": "05689",
+                "name": "Chicken, dark meat, drumstick, meat and skin, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1145,
+                "id": "05690",
+                "name": "Chicken, dark meat, thigh, meat and skin, with added solution, cooked, braised"
+            },
+            {
+                "offset": 1146,
+                "id": "05691",
+                "name": "Chicken, dark meat, thigh, meat and skin, with added solution, raw"
+            },
+            {
+                "offset": 1147,
+                "id": "05692",
+                "name": "Chicken, dark meat, thigh, meat and skin, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1148,
+                "id": "05693",
+                "name": "Chicken, broiler, rotisserie, BBQ, back meat only"
+            },
+            {
+                "offset": 1149,
+                "id": "05694",
+                "name": "Turkey, dark meat from whole, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1150,
+                "id": "05695",
+                "name": "Turkey, dark meat, meat only, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1151,
+                "id": "05696",
+                "name": "Turkey from whole, light meat, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1152,
+                "id": "05697",
+                "name": "Turkey from whole, light meat, meat only, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1153,
+                "id": "05698",
+                "name": "Turkey, skin from whole (light and dark), with added solution, raw"
+            },
+            {
+                "offset": 1154,
+                "id": "05699",
+                "name": "Turkey, skin from whole, (light and dark), with added solution, roasted"
+            },
+            {
+                "offset": 1155,
+                "id": "05700",
+                "name": "Turkey, dark meat from whole, meat and skin, with added solution, raw"
+            },
+            {
+                "offset": 1156,
+                "id": "05701",
+                "name": "Turkey, dark meat from whole, meat and skin, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1157,
+                "id": "05702",
+                "name": "Turkey from whole, light meat, meat and skin, with added solution, raw"
+            },
+            {
+                "offset": 1158,
+                "id": "05703",
+                "name": "Turkey from whole, light meat, meat and skin, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1159,
+                "id": "05704",
+                "name": "Turkey, whole, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1160,
+                "id": "05705",
+                "name": "Turkey, whole, meat only, with added solution, roasted"
+            },
+            {
+                "offset": 1161,
+                "id": "05706",
+                "name": "Turkey, whole, meat and skin, with added solution, raw"
+            },
+            {
+                "offset": 1162,
+                "id": "05707",
+                "name": "Turkey, whole, meat and skin, with added solution, roasted"
+            },
+            {
+                "offset": 1163,
+                "id": "05708",
+                "name": "Turkey, retail parts, breast, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1164,
+                "id": "05709",
+                "name": "Turkey, retail parts, breast, meat only, with added solution, cooked, roasted"
+            },
+            {
+                "offset": 1165,
+                "id": "05710",
+                "name": "Turkey, retail parts, breast, meat only, raw"
+            },
+            {
+                "offset": 1166,
+                "id": "05711",
+                "name": "Turkey, retail parts, breast, meat only, cooked, roasted"
+            },
+            {
+                "offset": 1167,
+                "id": "05712",
+                "name": "Turkey, retail parts, wing, meat only, raw"
+            },
+            {
+                "offset": 1168,
+                "id": "05713",
+                "name": "Turkey, retail parts, wing, meat only, cooked, roasted"
+            },
+            {
+                "offset": 1169,
+                "id": "05714",
+                "name": "Turkey, skin, from retail parts, from dark meat, raw"
+            },
+            {
+                "offset": 1170,
+                "id": "05715",
+                "name": "Turkey, skin, from retail parts, from dark meat, cooked, roasted"
+            },
+            {
+                "offset": 1171,
+                "id": "05716",
+                "name": "Turkey, retail parts, drumstick, meat only, raw"
+            },
+            {
+                "offset": 1172,
+                "id": "05717",
+                "name": "Turkey, retail parts, thigh, meat only, raw"
+            },
+            {
+                "offset": 1173,
+                "id": "05718",
+                "name": "Turkey, breast, from whole bird, meat only, with added solution, roasted"
+            },
+            {
+                "offset": 1174,
+                "id": "05719",
+                "name": "Turkey, back, from whole bird, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1175,
+                "id": "05720",
+                "name": "Turkey, back, from whole bird, meat only, with added solution, roasted"
+            },
+            {
+                "offset": 1176,
+                "id": "05721",
+                "name": "Turkey, breast, from whole bird, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1177,
+                "id": "05722",
+                "name": "Turkey, retail parts, thigh, meat only, cooked, roasted"
+            },
+            {
+                "offset": 1178,
+                "id": "05723",
+                "name": "Turkey, retail parts, drumstick, meat only, cooked, roasted"
+            },
+            {
+                "offset": 1179,
+                "id": "05724",
+                "name": "Turkey, drumstick, from whole bird, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1180,
+                "id": "05725",
+                "name": "Turkey, drumstick, from whole bird, meat only, with added solution, roasted"
+            },
+            {
+                "offset": 1181,
+                "id": "05726",
+                "name": "Turkey, thigh, from whole bird, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1182,
+                "id": "05727",
+                "name": "Turkey, retail parts, breast, meat and skin, with added solution, raw"
+            },
+            {
+                "offset": 1183,
+                "id": "05728",
+                "name": "Turkey, thigh, from whole bird, meat only, with added solution, roasted"
+            },
+            {
+                "offset": 1184,
+                "id": "05729",
+                "name": "Turkey, wing, from whole bird, meat only, with added solution, raw"
+            },
+            {
+                "offset": 1185,
+                "id": "05730",
+                "name": "Turkey, wing, from whole bird, meat only, with added solution, roasted"
+            },
+            {
+                "offset": 1186,
+                "id": "05732",
+                "name": "Turkey, retail parts, breast, meat and skin, raw"
+            },
+            {
+                "offset": 1187,
+                "id": "05733",
+                "name": "Turkey, retail parts, breast, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1188,
+                "id": "05734",
+                "name": "Turkey, retail parts, wing, meat and skin, raw"
+            },
+            {
+                "offset": 1189,
+                "id": "05735",
+                "name": "Turkey, retail parts, wing, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1190,
+                "id": "05736",
+                "name": "Turkey, retail parts, drumstick, meat and skin, raw"
+            },
+            {
+                "offset": 1191,
+                "id": "05737",
+                "name": "Turkey, retail parts, drumstick, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1192,
+                "id": "05738",
+                "name": "Turkey, drumstick, from whole bird, meat only, raw"
+            },
+            {
+                "offset": 1193,
+                "id": "05739",
+                "name": "Turkey, drumstick, from whole bird, meat only, roasted"
+            },
+            {
+                "offset": 1194,
+                "id": "05740",
+                "name": "Turkey, thigh, from whole bird, meat only, raw"
+            },
+            {
+                "offset": 1195,
+                "id": "05741",
+                "name": "Turkey, thigh, from whole bird, meat only, roasted"
+            },
+            {
+                "offset": 1196,
+                "id": "05742",
+                "name": "Turkey, retail parts, thigh, meat and skin, raw"
+            },
+            {
+                "offset": 1197,
+                "id": "05743",
+                "name": "Turkey, retail parts, thigh, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 1198,
+                "id": "05744",
+                "name": "Turkey, back, from whole bird, meat and skin, with added solution, raw"
+            },
+            {
+                "offset": 1199,
+                "id": "05745",
+                "name": "Turkey, back, from whole bird, meat and skin, with added solution, roasted"
+            },
+            {
+                "offset": 1200,
+                "id": "05746",
+                "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised"
+            },
+            {
+                "offset": 1201,
+                "id": "05747",
+                "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled"
+            },
+            {
+                "offset": 1202,
+                "id": "05748",
+                "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, braised"
+            },
+            {
+                "offset": 1203,
+                "id": "05749",
+                "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, grilled"
+            },
+            {
+                "offset": 1204,
+                "id": "06001",
+                "name": "Soup, cream of asparagus, canned, condensed"
+            },
+            {
+                "offset": 1205,
+                "id": "06002",
+                "name": "Soup, black bean, canned, condensed"
+            },
+            {
+                "offset": 1206,
+                "id": "06003",
+                "name": "CAMPBELL'S Red and White, Beefy Mushroom Soup, condensed"
+            },
+            {
+                "offset": 1207,
+                "id": "06004",
+                "name": "Soup, bean with pork, canned, condensed"
+            },
+            {
+                "offset": 1208,
+                "id": "06006",
+                "name": "Soup, bean with frankfurters, canned, condensed"
+            },
+            {
+                "offset": 1209,
+                "id": "06007",
+                "name": "Soup, bean with ham, canned, chunky, ready-to-serve"
+            },
+            {
+                "offset": 1210,
+                "id": "06008",
+                "name": "Soup, beef broth or bouillon canned, ready-to-serve"
+            },
+            {
+                "offset": 1211,
+                "id": "06009",
+                "name": "Soup, beef noodle, canned, condensed"
+            },
+            {
+                "offset": 1212,
+                "id": "06010",
+                "name": "Soup, cream of celery, canned, condensed"
+            },
+            {
+                "offset": 1213,
+                "id": "06011",
+                "name": "Soup, cheese, canned, condensed"
+            },
+            {
+                "offset": 1214,
+                "id": "06013",
+                "name": "Soup, chicken broth, canned, condensed"
+            },
+            {
+                "offset": 1215,
+                "id": "06014",
+                "name": "CAMPBELL'S Red and White, Broccoli Cheese Soup, condensed"
+            },
+            {
+                "offset": 1216,
+                "id": "06015",
+                "name": "Soup, chicken, canned, chunky, ready-to-serve"
+            },
+            {
+                "offset": 1217,
+                "id": "06016",
+                "name": "Soup, cream of chicken, canned, condensed"
+            },
+            {
+                "offset": 1218,
+                "id": "06017",
+                "name": "Soup, chicken gumbo, canned, condensed"
+            },
+            {
+                "offset": 1219,
+                "id": "06018",
+                "name": "Soup, chunky chicken noodle, canned, ready-to-serve"
+            },
+            {
+                "offset": 1220,
+                "id": "06019",
+                "name": "Soup, chicken noodle, canned, condensed"
+            },
+            {
+                "offset": 1221,
+                "id": "06022",
+                "name": "Soup, chicken rice, canned, chunky, ready-to-serve"
+            },
+            {
+                "offset": 1222,
+                "id": "06023",
+                "name": "Soup, chicken with rice, canned, condensed"
+            },
+            {
+                "offset": 1223,
+                "id": "06024",
+                "name": "Soup, chicken and vegetable, canned, ready-to-serve"
+            },
+            {
+                "offset": 1224,
+                "id": "06025",
+                "name": "Soup, chicken vegetable, canned, condensed"
+            },
+            {
+                "offset": 1225,
+                "id": "06026",
+                "name": "Soup, chili beef, canned, condensed"
+            },
+            {
+                "offset": 1226,
+                "id": "06027",
+                "name": "Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve"
+            },
+            {
+                "offset": 1227,
+                "id": "06028",
+                "name": "Soup, clam chowder, manhattan, canned, condensed"
+            },
+            {
+                "offset": 1228,
+                "id": "06029",
+                "name": "CAMPBELL'S, HEALTHY REQUEST, chicken with rice, condensed"
+            },
+            {
+                "offset": 1229,
+                "id": "06030",
+                "name": "Soup, clam chowder, new england, canned, condensed"
+            },
+            {
+                "offset": 1230,
+                "id": "06032",
+                "name": "Soup, beef broth bouillon and consomme, canned, condensed"
+            },
+            {
+                "offset": 1231,
+                "id": "06037",
+                "name": "Soup, lentil with ham, canned, ready-to-serve"
+            },
+            {
+                "offset": 1232,
+                "id": "06038",
+                "name": "CAMPBELL'S, Cheddar Cheese Soup, condensed"
+            },
+            {
+                "offset": 1233,
+                "id": "06039",
+                "name": "Soup, minestrone, canned, chunky, ready-to-serve"
+            },
+            {
+                "offset": 1234,
+                "id": "06040",
+                "name": "Soup, minestrone, canned, condensed"
+            },
+            {
+                "offset": 1235,
+                "id": "06041",
+                "name": "CAMPBELL'S Red and White, Chicken and Dumplings Soup, condensed"
+            },
+            {
+                "offset": 1236,
+                "id": "06042",
+                "name": "Soup, mushroom barley, canned, condensed"
+            },
+            {
+                "offset": 1237,
+                "id": "06043",
+                "name": "Soup, cream of mushroom, canned, condensed"
+            },
+            {
+                "offset": 1238,
+                "id": "06044",
+                "name": "Soup, mushroom with beef stock, canned, condensed"
+            },
+            {
+                "offset": 1239,
+                "id": "06045",
+                "name": "Soup, onion, canned, condensed"
+            },
+            {
+                "offset": 1240,
+                "id": "06046",
+                "name": "Soup, cream of onion, canned, condensed"
+            },
+            {
+                "offset": 1241,
+                "id": "06047",
+                "name": "CAMPBELL'S Red and White, Chicken and Stars Soup, condensed"
+            },
+            {
+                "offset": 1242,
+                "id": "06048",
+                "name": "Soup, oyster stew, canned, condensed"
+            },
+            {
+                "offset": 1243,
+                "id": "06049",
+                "name": "Soup, pea, green, canned, condensed"
+            },
+            {
+                "offset": 1244,
+                "id": "06050",
+                "name": "Soup, pea, split with ham, canned, chunky, ready-to-serve"
+            },
+            {
+                "offset": 1245,
+                "id": "06051",
+                "name": "Soup, pea, split with ham, canned, condensed"
+            },
+            {
+                "offset": 1246,
+                "id": "06053",
+                "name": "Soup, cream of potato, canned, condensed"
+            },
+            {
+                "offset": 1247,
+                "id": "06054",
+                "name": "CAMPBELL'S Red and White, Chicken Alphabet Soup, condensed"
+            },
+            {
+                "offset": 1248,
+                "id": "06056",
+                "name": "Soup, cream of shrimp, canned, condensed"
+            },
+            {
+                "offset": 1249,
+                "id": "06057",
+                "name": "CAMPBELL'S Red and White, Chicken Broth, condensed"
+            },
+            {
+                "offset": 1250,
+                "id": "06058",
+                "name": "CAMPBELL'S Red and White, Chicken Gumbo Soup, condensed"
+            },
+            {
+                "offset": 1251,
+                "id": "06061",
+                "name": "Soup, tomato beef with noodle, canned, condensed"
+            },
+            {
+                "offset": 1252,
+                "id": "06062",
+                "name": "CAMPBELL'S, Red and White, Chicken Noodle Soup, condensed"
+            },
+            {
+                "offset": 1253,
+                "id": "06063",
+                "name": "Soup, tomato rice, canned, condensed"
+            },
+            {
+                "offset": 1254,
+                "id": "06064",
+                "name": "Soup, turkey, chunky, canned, ready-to-serve"
+            },
+            {
+                "offset": 1255,
+                "id": "06067",
+                "name": "Soup, chunky vegetable, canned, ready-to-serve"
+            },
+            {
+                "offset": 1256,
+                "id": "06068",
+                "name": "Soup, vegetarian vegetable, canned, condensed"
+            },
+            {
+                "offset": 1257,
+                "id": "06070",
+                "name": "Soup, chunky beef, canned, ready-to-serve"
+            },
+            {
+                "offset": 1258,
+                "id": "06071",
+                "name": "Soup, vegetable beef, canned, condensed"
+            },
+            {
+                "offset": 1259,
+                "id": "06072",
+                "name": "Soup, vegetable with beef broth, canned, condensed"
+            },
+            {
+                "offset": 1260,
+                "id": "06075",
+                "name": "Soup, beef broth or bouillon, powder, dry"
+            },
+            {
+                "offset": 1261,
+                "id": "06076",
+                "name": "Soup, beef broth, cubed, dry"
+            },
+            {
+                "offset": 1262,
+                "id": "06080",
+                "name": "Soup, chicken broth or bouillon, dry"
+            },
+            {
+                "offset": 1263,
+                "id": "06081",
+                "name": "Soup, chicken broth cubes, dry"
+            },
+            {
+                "offset": 1264,
+                "id": "06082",
+                "name": "CAMPBELL'S Red and White, Chicken NOODLEO's Soup, condensed"
+            },
+            {
+                "offset": 1265,
+                "id": "06084",
+                "name": "CAMPBELL'S Red and White, Chicken Vegetable Soup, condensed"
+            },
+            {
+                "offset": 1266,
+                "id": "06091",
+                "name": "CAMPBELL'S Red and White, Beef Broth, condensed"
+            },
+            {
+                "offset": 1267,
+                "id": "06094",
+                "name": "Soup, onion, dry, mix"
+            },
+            {
+                "offset": 1268,
+                "id": "06097",
+                "name": "CAMPBELL'S Red and White, Beef Consomme, condensed"
+            },
+            {
+                "offset": 1269,
+                "id": "06101",
+                "name": "Soup, cream of vegetable, dry, powder"
+            },
+            {
+                "offset": 1270,
+                "id": "06112",
+                "name": "Sauce, teriyaki, ready-to-serve"
+            },
+            {
+                "offset": 1271,
+                "id": "06114",
+                "name": "Gravy, au jus, canned"
+            },
+            {
+                "offset": 1272,
+                "id": "06115",
+                "name": "Gravy, au jus, dry"
+            },
+            {
+                "offset": 1273,
+                "id": "06116",
+                "name": "Gravy, beef, canned, ready-to-serve"
+            },
+            {
+                "offset": 1274,
+                "id": "06117",
+                "name": "CAMPBELL'S Red and White, Bean with Bacon Soup, condensed"
+            },
+            {
+                "offset": 1275,
+                "id": "06118",
+                "name": "Gravy, brown, dry"
+            },
+            {
+                "offset": 1276,
+                "id": "06119",
+                "name": "Gravy, chicken, canned or bottled, ready-to-serve"
+            },
+            {
+                "offset": 1277,
+                "id": "06120",
+                "name": "Gravy, chicken, dry"
+            },
+            {
+                "offset": 1278,
+                "id": "06121",
+                "name": "Gravy, mushroom, canned"
+            },
+            {
+                "offset": 1279,
+                "id": "06122",
+                "name": "Gravy, mushroom, dry, powder"
+            },
+            {
+                "offset": 1280,
+                "id": "06123",
+                "name": "Gravy, onion, dry, mix"
+            },
+            {
+                "offset": 1281,
+                "id": "06124",
+                "name": "Gravy, pork, dry, powder"
+            },
+            {
+                "offset": 1282,
+                "id": "06125",
+                "name": "Gravy, turkey, canned, ready-to-serve"
+            },
+            {
+                "offset": 1283,
+                "id": "06126",
+                "name": "Gravy, turkey, dry"
+            },
+            {
+                "offset": 1284,
+                "id": "06127",
+                "name": "Gravy, unspecified type, dry"
+            },
+            {
+                "offset": 1285,
+                "id": "06128",
+                "name": "Soup, chicken noodle, dry, mix"
+            },
+            {
+                "offset": 1286,
+                "id": "06142",
+                "name": "Sauce, sofrito, prepared from recipe"
+            },
+            {
+                "offset": 1287,
+                "id": "06143",
+                "name": "USDA Commodity, spaghetti sauce, meatless, canned"
+            },
+            {
+                "offset": 1288,
+                "id": "06145",
+                "name": "CAMPBELL'S Red and White, Beef Noodle Soup, condensed"
+            },
+            {
+                "offset": 1289,
+                "id": "06146",
+                "name": "CAMPBELL'S Red and White, Beef with Vegetables and Barley Soup, condensed"
+            },
+            {
+                "offset": 1290,
+                "id": "06147",
+                "name": "Soup, beef mushroom, canned, condensed"
+            },
+            {
+                "offset": 1291,
+                "id": "06149",
+                "name": "Soup, chicken mushroom, canned, condensed"
+            },
+            {
+                "offset": 1292,
+                "id": "06150",
+                "name": "Sauce, barbecue"
+            },
+            {
+                "offset": 1293,
+                "id": "06151",
+                "name": "Sauce, plum, ready-to-serve"
+            },
+            {
+                "offset": 1294,
+                "id": "06152",
+                "name": "Sauce, pizza, canned, ready-to-serve"
+            },
+            {
+                "offset": 1295,
+                "id": "06158",
+                "name": "Soup, tomato bisque, canned, condensed"
+            },
+            {
+                "offset": 1296,
+                "id": "06159",
+                "name": "Soup, tomato, canned, condensed"
+            },
+            {
+                "offset": 1297,
+                "id": "06164",
+                "name": "Sauce, salsa, ready-to-serve"
+            },
+            {
+                "offset": 1298,
+                "id": "06165",
+                "name": "Sauce, homemade, white, thin"
+            },
+            {
+                "offset": 1299,
+                "id": "06166",
+                "name": "Sauce, homemade, white, medium"
+            },
+            {
+                "offset": 1300,
+                "id": "06167",
+                "name": "Sauce, homemade, white, thick"
+            },
+            {
+                "offset": 1301,
+                "id": "06168",
+                "name": "Sauce, ready-to-serve, pepper or hot"
+            },
+            {
+                "offset": 1302,
+                "id": "06169",
+                "name": "Sauce, ready-to-serve, pepper, TABASCO"
+            },
+            {
+                "offset": 1303,
+                "id": "06170",
+                "name": "Soup, stock, beef, home-prepared"
+            },
+            {
+                "offset": 1304,
+                "id": "06172",
+                "name": "Soup, stock, chicken, home-prepared"
+            },
+            {
+                "offset": 1305,
+                "id": "06174",
+                "name": "Soup, stock, fish, home-prepared"
+            },
+            {
+                "offset": 1306,
+                "id": "06175",
+                "name": "Sauce, hoisin, ready-to-serve"
+            },
+            {
+                "offset": 1307,
+                "id": "06176",
+                "name": "Sauce, oyster, ready-to-serve"
+            },
+            {
+                "offset": 1308,
+                "id": "06177",
+                "name": "Soup, minestrone, canned, reduced sodium, ready-to-serve"
+            },
+            {
+                "offset": 1309,
+                "id": "06178",
+                "name": "USDA Commodity, salsa"
+            },
+            {
+                "offset": 1310,
+                "id": "06179",
+                "name": "Sauce, fish, ready-to-serve"
+            },
+            {
+                "offset": 1311,
+                "id": "06180",
+                "name": "Soup, shark fin, restaurant-prepared"
+            },
+            {
+                "offset": 1312,
+                "id": "06182",
+                "name": "Soup, cream of mushroom, canned, condensed, reduced sodium"
+            },
+            {
+                "offset": 1313,
+                "id": "06183",
+                "name": "Soup, chicken broth, less/reduced sodium, ready to serve"
+            },
+            {
+                "offset": 1314,
+                "id": "06188",
+                "name": "Soup, beef broth, less/reduced sodium, ready to serve"
+            },
+            {
+                "offset": 1315,
+                "id": "06189",
+                "name": "Sauce, teriyaki, ready-to-serve, reduced sodium"
+            },
+            {
+                "offset": 1316,
+                "id": "06190",
+                "name": "Soup, bean & ham, canned, reduced sodium, prepared with water or ready-to-serve"
+            },
+            {
+                "offset": 1317,
+                "id": "06192",
+                "name": "Split pea soup, canned, reduced sodium, prepared with water or ready-to serve"
+            },
+            {
+                "offset": 1318,
+                "id": "06193",
+                "name": "Split pea with ham soup, canned, reduced sodium, prepared with water or ready-to-serve"
+            },
+            {
+                "offset": 1319,
+                "id": "06194",
+                "name": "Soup, chicken broth, ready-to-serve"
+            },
+            {
+                "offset": 1320,
+                "id": "06195",
+                "name": "CAMPBELL'S, HEALTHY REQUEST, cream of chicken soup, condensed"
+            },
+            {
+                "offset": 1321,
+                "id": "06201",
+                "name": "Soup, cream of asparagus, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1322,
+                "id": "06208",
+                "name": "Soup, chicken vegetable with potato and cheese, chunky, ready-to-serve"
+            },
+            {
+                "offset": 1323,
+                "id": "06209",
+                "name": "CAMPBELL'S, 98% Fat Free Cream of Broccoli Soup, condensed"
+            },
+            {
+                "offset": 1324,
+                "id": "06210",
+                "name": "Soup, cream of celery, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1325,
+                "id": "06211",
+                "name": "Soup, cheese, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1326,
+                "id": "06212",
+                "name": "CAMPBELL'S, 25% Less Sodium Chicken Noodle Soup, condensed"
+            },
+            {
+                "offset": 1327,
+                "id": "06213",
+                "name": "CAMPBELL'S Red and White, 25% Less Sodium Tomato Soup, condensed"
+            },
+            {
+                "offset": 1328,
+                "id": "06214",
+                "name": "CAMPBELL'S, 25% Less Sodium Cream of Mushroom Soup, condensed"
+            },
+            {
+                "offset": 1329,
+                "id": "06215",
+                "name": "CAMPBELL'S, 98% Fat Free Broccoli Cheese Soup, condensed"
+            },
+            {
+                "offset": 1330,
+                "id": "06216",
+                "name": "Soup, cream of chicken, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1331,
+                "id": "06217",
+                "name": "Soup, vegetable, canned, low sodium, condensed"
+            },
+            {
+                "offset": 1332,
+                "id": "06218",
+                "name": "CAMPBELL'S, 98% Fat Free Cream of Celery Soup, condensed"
+            },
+            {
+                "offset": 1333,
+                "id": "06219",
+                "name": "CAMPBELL'S, 98% Fat Free Cream of Chicken Soup, condensed"
+            },
+            {
+                "offset": 1334,
+                "id": "06220",
+                "name": "PREGO Pasta, Chunky Garden Mushroom and Green Pepper Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1335,
+                "id": "06221",
+                "name": "PREGO Pasta, Chunky Garden Mushroom Supreme Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1336,
+                "id": "06222",
+                "name": "PREGO Pasta, Diced Onion and Garlic Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1337,
+                "id": "06223",
+                "name": "PREGO Pasta, Flavored with Meat Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1338,
+                "id": "06224",
+                "name": "PREGO Pasta, Fresh Mushroom Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1339,
+                "id": "06225",
+                "name": "PREGO Pasta, Garlic Supreme Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1340,
+                "id": "06226",
+                "name": "PREGO Pasta, Italian Sausage and Garlic Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1341,
+                "id": "06228",
+                "name": "PREGO Pasta, Mini Meatball Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1342,
+                "id": "06229",
+                "name": "PREGO Pasta, Mushroom and Garlic Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1343,
+                "id": "06230",
+                "name": "Soup, clam chowder, new england, canned, prepared with equal volume low fat (2%) milk"
+            },
+            {
+                "offset": 1344,
+                "id": "06231",
+                "name": "PREGO Pasta, Mushroom and Parmesan Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1345,
+                "id": "06232",
+                "name": "PREGO Pasta, Organic Mushroom Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1346,
+                "id": "06233",
+                "name": "PREGO Pasta, Organic Tomato and Basil Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1347,
+                "id": "06234",
+                "name": "PREGO Pasta, Heart Smart- Ricotta Parmesan Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1348,
+                "id": "06235",
+                "name": "P REGO Pasta, Roasted Garlic and Herb Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1349,
+                "id": "06236",
+                "name": "PREGO Pasta, Roasted Garlic Parmesan Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1350,
+                "id": "06237",
+                "name": "PREGO Pasta, Heart Smart- Roasted Red Pepper and Garlic Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1351,
+                "id": "06239",
+                "name": "PREGO Pasta, Tomato, Basil and Garlic Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1352,
+                "id": "06240",
+                "name": "PREGO Pasta, Zesty Mushroom Italian Sauce, ready-to-serve"
+            },
+            {
+                "offset": 1353,
+                "id": "06241",
+                "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Beef with Country Vegetables Soup, ready-to-serve"
+            },
+            {
+                "offset": 1354,
+                "id": "06242",
+                "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Chicken and Dumplings Soup, ready-to-serve"
+            },
+            {
+                "offset": 1355,
+                "id": "06243",
+                "name": "Soup, cream of mushroom, canned, prepared with equal volume low fat (2%) milk"
+            },
+            {
+                "offset": 1356,
+                "id": "06244",
+                "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Classic Chicken Noodle, ready-to-serve"
+            },
+            {
+                "offset": 1357,
+                "id": "06245",
+                "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Grilled Chicken and Sausage Gumbo, ready-to-serve"
+            },
+            {
+                "offset": 1358,
+                "id": "06246",
+                "name": "Soup, cream of onion, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1359,
+                "id": "06248",
+                "name": "Soup, oyster stew, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1360,
+                "id": "06249",
+                "name": "Soup, pea, green, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1361,
+                "id": "06250",
+                "name": "CAMPBELL'S CHUNKY Microwavable Bowls, New England Clam Chowder, ready-to-serve"
+            },
+            {
+                "offset": 1362,
+                "id": "06251",
+                "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Old Fashioned Vegetable Beef Soup, ready-to-serve"
+            },
+            {
+                "offset": 1363,
+                "id": "06252",
+                "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Sirloin Burger with Country Vegetables Soup, ready-to-serve"
+            },
+            {
+                "offset": 1364,
+                "id": "06253",
+                "name": "Soup, cream of potato, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1365,
+                "id": "06256",
+                "name": "Soup, cream of shrimp, canned, prepared with equal volume low fat (2%) milk"
+            },
+            {
+                "offset": 1366,
+                "id": "06264",
+                "name": "Sauce, white, thin, prepared-from-recipe, with butter"
+            },
+            {
+                "offset": 1367,
+                "id": "06285",
+                "name": "Sauce, sweet and sour, prepared-from-recipe"
+            },
+            {
+                "offset": 1368,
+                "id": "06307",
+                "name": "Sauce, barbecue, KRAFT, original"
+            },
+            {
+                "offset": 1369,
+                "id": "06309",
+                "name": "CAMPBELL'S, Chicken with Rice Soup, condensed"
+            },
+            {
+                "offset": 1370,
+                "id": "06311",
+                "name": "CAMPBELL'S Red and White, Chicken Won Ton Soup, condensed"
+            },
+            {
+                "offset": 1371,
+                "id": "06312",
+                "name": "CAMPBELL'S Red and White, Cream of Asparagus Soup, condensed"
+            },
+            {
+                "offset": 1372,
+                "id": "06314",
+                "name": "Soup, HEALTHY CHOICE Chicken Noodle Soup, canned"
+            },
+            {
+                "offset": 1373,
+                "id": "06315",
+                "name": "Soup, HEALTHY CHOICE Chicken and Rice Soup, canned"
+            },
+            {
+                "offset": 1374,
+                "id": "06316",
+                "name": "Soup, HEALTHY CHOICE Garden Vegetable Soup, canned"
+            },
+            {
+                "offset": 1375,
+                "id": "06317",
+                "name": "Gravy, CAMPBELL'S, beef, fat free"
+            },
+            {
+                "offset": 1376,
+                "id": "06318",
+                "name": "Gravy, CAMPBELL'S, country style cream"
+            },
+            {
+                "offset": 1377,
+                "id": "06319",
+                "name": "Gravy, CAMPBELL'S, country style sausage"
+            },
+            {
+                "offset": 1378,
+                "id": "06320",
+                "name": "Gravy, CAMPBELL'S, chicken, fat free"
+            },
+            {
+                "offset": 1379,
+                "id": "06321",
+                "name": "Gravy, CAMPBELL'S, golden pork"
+            },
+            {
+                "offset": 1380,
+                "id": "06322",
+                "name": "Gravy, CAMPBELL'S, mushroom"
+            },
+            {
+                "offset": 1381,
+                "id": "06323",
+                "name": "Gravy, CAMPBELL'S, turkey, fat free"
+            },
+            {
+                "offset": 1382,
+                "id": "06324",
+                "name": "Gravy, CAMPBELL'S, beef, microwavable"
+            },
+            {
+                "offset": 1383,
+                "id": "06325",
+                "name": "Gravy, CAMPBELL'S, chicken, microwavable"
+            },
+            {
+                "offset": 1384,
+                "id": "06326",
+                "name": "Gravy, CAMPBELL'S, turkey"
+            },
+            {
+                "offset": 1385,
+                "id": "06327",
+                "name": "Gravy, FRANCO-AMERICAN, beef, slow roast, fat free"
+            },
+            {
+                "offset": 1386,
+                "id": "06328",
+                "name": "Gravy, FRANCO-AMERICAN, chicken, slow roast, fat free"
+            },
+            {
+                "offset": 1387,
+                "id": "06329",
+                "name": "Gravy, FRANCO-AMERICAN, beef, slow roast"
+            },
+            {
+                "offset": 1388,
+                "id": "06330",
+                "name": "Gravy, FRANCO-AMERICAN, chicken, slow roast"
+            },
+            {
+                "offset": 1389,
+                "id": "06331",
+                "name": "Gravy, FRANCO-AMERICAN, turkey, slow roast"
+            },
+            {
+                "offset": 1390,
+                "id": "06332",
+                "name": "Gravy, CAMPBELL'S, turkey, microwavable"
+            },
+            {
+                "offset": 1391,
+                "id": "06333",
+                "name": "CAMPBELL'S Red and White, Cream of Broccoli Soup, condensed"
+            },
+            {
+                "offset": 1392,
+                "id": "06334",
+                "name": "CAMPBELL'S Red and White, Cream of Celery Soup, condensed"
+            },
+            {
+                "offset": 1393,
+                "id": "06336",
+                "name": "CAMPBELL'S, Cream of Chicken Soup, condensed"
+            },
+            {
+                "offset": 1394,
+                "id": "06337",
+                "name": "CAMPBELL'S, Cream of Chicken with Herbs Soup, condensed"
+            },
+            {
+                "offset": 1395,
+                "id": "06338",
+                "name": "CAMPBELL'S, Cream of Mushroom Soup, condensed"
+            },
+            {
+                "offset": 1396,
+                "id": "06339",
+                "name": "CAMPBELL'S, Cream of Mushroom with Roasted Garlic Soup, condensed"
+            },
+            {
+                "offset": 1397,
+                "id": "06340",
+                "name": "CAMPBELL'S Red and White, Cream of Onion Soup, condensed"
+            },
+            {
+                "offset": 1398,
+                "id": "06341",
+                "name": "CAMPBELL'S, Cream of Potato Soup, condensed"
+            },
+            {
+                "offset": 1399,
+                "id": "06342",
+                "name": "CAMPBELL'S Red and White, Cream of Shrimp Soup, condensed"
+            },
+            {
+                "offset": 1400,
+                "id": "06343",
+                "name": "CAMPBELL'S Red and White, Creamy Chicken Noodle Soup, condensed"
+            },
+            {
+                "offset": 1401,
+                "id": "06349",
+                "name": "CAMPBELL'S Red and White, SCOOBY-DOO Soup, condensed"
+            },
+            {
+                "offset": 1402,
+                "id": "06350",
+                "name": "CAMPBELL'S Red and White, DOUBLE NOODLE in Chicken Broth Soup, condensed"
+            },
+            {
+                "offset": 1403,
+                "id": "06351",
+                "name": "CAMPBELL'S Red and White, Old Fashioned Tomato Rice Soup, condensed"
+            },
+            {
+                "offset": 1404,
+                "id": "06353",
+                "name": "CAMPBELL'S Red and White, Fiesta Nacho Cheese Soup, condensed"
+            },
+            {
+                "offset": 1405,
+                "id": "06354",
+                "name": "CAMPBELL'S Red and White, French Onion Soup, condensed"
+            },
+            {
+                "offset": 1406,
+                "id": "06355",
+                "name": "CAMPBELL'S Red and White, Golden Mushroom Soup, condensed"
+            },
+            {
+                "offset": 1407,
+                "id": "06357",
+                "name": "CAMPBELL'S Red and White, GOLDFISH Pasta with Chicken in Chicken Broth, condensed"
+            },
+            {
+                "offset": 1408,
+                "id": "06358",
+                "name": "Soup, tomato bisque, canned, prepared with equal volume milk"
+            },
+            {
+                "offset": 1409,
+                "id": "06359",
+                "name": "Soup, tomato, canned, prepared with equal volume low fat (2%) milk"
+            },
+            {
+                "offset": 1410,
+                "id": "06361",
+                "name": "CAMPBELL'S Red and White, Green Pea Soup, condensed"
+            },
+            {
+                "offset": 1411,
+                "id": "06363",
+                "name": "CAMPBELL'S, Homestyle Chicken Noodle Soup, condensed"
+            },
+            {
+                "offset": 1412,
+                "id": "06364",
+                "name": "CAMPBELL'S Red and White, Manhattan Clam Chowder, condensed"
+            },
+            {
+                "offset": 1413,
+                "id": "06365",
+                "name": "CAMPBELL'S Red and White, Mega Noodle in Chicken Broth, condensed"
+            },
+            {
+                "offset": 1414,
+                "id": "06366",
+                "name": "CAMPBELL'S Red and White, Minestrone Soup, condensed"
+            },
+            {
+                "offset": 1415,
+                "id": "06367",
+                "name": "CAMPBELL'S Red and White, New England Clam Chowder, condensed"
+            },
+            {
+                "offset": 1416,
+                "id": "06373",
+                "name": "CAMPBELL'S Red and White, Vegetarian Vegetable Soup, condensed"
+            },
+            {
+                "offset": 1417,
+                "id": "06374",
+                "name": "CAMPBELL'S Red and White, Vegetable Soup, condensed"
+            },
+            {
+                "offset": 1418,
+                "id": "06375",
+                "name": "CAMPBELL'S, Vegetable Beef Soup, condensed"
+            },
+            {
+                "offset": 1419,
+                "id": "06377",
+                "name": "CAMPBELL'S, Tomato Soup, condensed"
+            },
+            {
+                "offset": 1420,
+                "id": "06379",
+                "name": "CAMPBELL'S Red and White, Tomato Bisque, condensed"
+            },
+            {
+                "offset": 1421,
+                "id": "06380",
+                "name": "CAMPBELL'S Red and White, Split Pea with Ham and Bacon Soup, condensed"
+            },
+            {
+                "offset": 1422,
+                "id": "06383",
+                "name": "CAMPBELL'S CHUNKY Soups, Baked Potato with Cheddar & Bacon Bits Soup"
+            },
+            {
+                "offset": 1423,
+                "id": "06384",
+                "name": "CAMPBELL'S CHUNKY Soups, Baked Potato with Steak & Cheese Soup"
+            },
+            {
+                "offset": 1424,
+                "id": "06387",
+                "name": "CAMPBELL'S CHUNKY Soups, Beef Rib Roast with Potatoes & Herbs Soup"
+            },
+            {
+                "offset": 1425,
+                "id": "06388",
+                "name": "CAMPBELL'S CHUNKY Soups, Beef with Country Vegetables Soup"
+            },
+            {
+                "offset": 1426,
+                "id": "06389",
+                "name": "CAMPBELL'S CHUNKY Soups, Beef with White and Wild Rice Soup"
+            },
+            {
+                "offset": 1427,
+                "id": "06391",
+                "name": "CAMPBELL'S CHUNKY, Creamy Chicken and Dumplings Soup"
+            },
+            {
+                "offset": 1428,
+                "id": "06392",
+                "name": "CAMPBELL'S CHUNKY Soups, Chicken Broccoli Cheese & Potato Soup"
+            },
+            {
+                "offset": 1429,
+                "id": "06393",
+                "name": "CAMPBELL'S CHUNKY Soups, Chicken Corn Chowder"
+            },
+            {
+                "offset": 1430,
+                "id": "06395",
+                "name": "CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup"
+            },
+            {
+                "offset": 1431,
+                "id": "06396",
+                "name": "CAMPBELL'S CHUNKY Soups, Fajita Chicken with Rice & Beans Soup"
+            },
+            {
+                "offset": 1432,
+                "id": "06398",
+                "name": "CAMPBELL'S CHUNKY Soups, Firehouse - Hot & Spicy Beef & Bean Chili"
+            },
+            {
+                "offset": 1433,
+                "id": "06399",
+                "name": "CAMPBELL'S CHUNKY Soups, Grilled Chicken & Sausage Gumbo Soup"
+            },
+            {
+                "offset": 1434,
+                "id": "06400",
+                "name": "CAMPBELL'S CHUNKY Soups, Grilled Chicken with Vegetables & Pasta Soup"
+            },
+            {
+                "offset": 1435,
+                "id": "06401",
+                "name": "Soup, cream of asparagus, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1436,
+                "id": "06402",
+                "name": "Soup, black bean, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1437,
+                "id": "06403",
+                "name": "CAMPBELL'S CHUNKY Soups, Grilled Sirloin Steak with Hearty Vegetables Soup"
+            },
+            {
+                "offset": 1438,
+                "id": "06404",
+                "name": "Soup, bean with pork, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1439,
+                "id": "06405",
+                "name": "CAMPBELL'S CHUNKY, HEALTHY REQUEST Chicken Noodle Soup"
+            },
+            {
+                "offset": 1440,
+                "id": "06406",
+                "name": "Soup, bean with frankfurters, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1441,
+                "id": "06408",
+                "name": "CAMPBELL'S CHUNKY Soups, HEALTHY REQUEST Vegetable Soup"
+            },
+            {
+                "offset": 1442,
+                "id": "06409",
+                "name": "Soup, beef noodle, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1443,
+                "id": "06410",
+                "name": "Soup, cream of celery, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1444,
+                "id": "06411",
+                "name": "Soup, cheese, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1445,
+                "id": "06413",
+                "name": "Soup, chicken broth, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1446,
+                "id": "06414",
+                "name": "CAMPBELL'S CHUNKY Soups, Hearty Bean 'N' Ham Soup"
+            },
+            {
+                "offset": 1447,
+                "id": "06415",
+                "name": "CAMPBELL'S CHUNKY Soups, Hearty Beef Barley Soup"
+            },
+            {
+                "offset": 1448,
+                "id": "06416",
+                "name": "Soup, cream of chicken, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1449,
+                "id": "06417",
+                "name": "Soup, chicken gumbo, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1450,
+                "id": "06418",
+                "name": "CAMPBELL'S CHUNKY Soups, Hearty Chicken with Vegetables Soup"
+            },
+            {
+                "offset": 1451,
+                "id": "06419",
+                "name": "Soup, chicken noodle, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1452,
+                "id": "06423",
+                "name": "Soup, chicken with rice, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1453,
+                "id": "06426",
+                "name": "Soup, chili beef, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1454,
+                "id": "06428",
+                "name": "Soup, clam chowder, manhattan, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1455,
+                "id": "06429",
+                "name": "CAMPBELL'S CHUNKY Soups, Manhattan Clam Chowder"
+            },
+            {
+                "offset": 1456,
+                "id": "06430",
+                "name": "Soup, clam chowder, new england, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1457,
+                "id": "06431",
+                "name": "CAMPBELL'S CHUNKY, New England Clam Chowder"
+            },
+            {
+                "offset": 1458,
+                "id": "06432",
+                "name": "Soup, beef broth, bouillon, consomme, prepared with equal volume water"
+            },
+            {
+                "offset": 1459,
+                "id": "06433",
+                "name": "CAMPBELL'S CHUNKY Soups, Old Fashioned Potato Ham Chowder"
+            },
+            {
+                "offset": 1460,
+                "id": "06434",
+                "name": "CAMPBELL'S CHUNKY Soups, Old Fashioned Vegetable Beef Soup"
+            },
+            {
+                "offset": 1461,
+                "id": "06437",
+                "name": "CAMPBELL'S CHUNKY Soups, Roadhouse - Beef & Bean Chili"
+            },
+            {
+                "offset": 1462,
+                "id": "06438",
+                "name": "CAMPBELL'S CHUNKY Soups, Salisbury Steak with Mushrooms & Onions Soup"
+            },
+            {
+                "offset": 1463,
+                "id": "06439",
+                "name": "CAMPBELL'S CHUNKY Soups, Savory Chicken with White & Wild Rice Soup"
+            },
+            {
+                "offset": 1464,
+                "id": "06440",
+                "name": "Soup, minestrone, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1465,
+                "id": "06441",
+                "name": "CAMPBELL'S CHUNKY Soups, Savory Pot Roast Soup"
+            },
+            {
+                "offset": 1466,
+                "id": "06442",
+                "name": "Soup, mushroom barley, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1467,
+                "id": "06443",
+                "name": "Soup, cream of mushroom, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1468,
+                "id": "06444",
+                "name": "Soup, mushroom with beef stock, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1469,
+                "id": "06446",
+                "name": "Soup, cream of onion, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1470,
+                "id": "06447",
+                "name": "CAMPBELL'S CHUNKY Soups, Savory Vegetable Soup"
+            },
+            {
+                "offset": 1471,
+                "id": "06448",
+                "name": "Soup, oyster stew, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1472,
+                "id": "06449",
+                "name": "Soup, pea, green, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1473,
+                "id": "06451",
+                "name": "Soup, pea, split with ham, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1474,
+                "id": "06453",
+                "name": "Soup, cream of potato, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1475,
+                "id": "06454",
+                "name": "CAMPBELL'S CHUNKY Soups, Grilled Steak- Steak Chili with Beans"
+            },
+            {
+                "offset": 1476,
+                "id": "06456",
+                "name": "Soup, cream of shrimp, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1477,
+                "id": "06457",
+                "name": "CAMPBELL'S CHUNKY Soups, Slow Roasted Beef with Mushrooms Soup"
+            },
+            {
+                "offset": 1478,
+                "id": "06459",
+                "name": "CAMPBELL'S CHUNKY Soups, Split Pea 'N' Ham Soup"
+            },
+            {
+                "offset": 1479,
+                "id": "06461",
+                "name": "Soup, tomato beef with noodle, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1480,
+                "id": "06462",
+                "name": "CAMPBELL'S CHUNKY Soups, Steak 'N' Potato Soup"
+            },
+            {
+                "offset": 1481,
+                "id": "06463",
+                "name": "Soup, tomato rice, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1482,
+                "id": "06465",
+                "name": "Soup, turkey noodle, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1483,
+                "id": "06466",
+                "name": "Soup, turkey vegetable, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1484,
+                "id": "06468",
+                "name": "Soup, vegetarian vegetable, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1485,
+                "id": "06470",
+                "name": "CAMPBELL'S Low Sodium Soups, Chicken Broth"
+            },
+            {
+                "offset": 1486,
+                "id": "06471",
+                "name": "Soup, vegetable beef, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1487,
+                "id": "06472",
+                "name": "Soup, vegetable with beef broth, canned, prepared with equal volume water"
+            },
+            {
+                "offset": 1488,
+                "id": "06475",
+                "name": "Soup, beef broth or bouillon, powder, prepared with water"
+            },
+            {
+                "offset": 1489,
+                "id": "06476",
+                "name": "Soup, beef broth, cubed, prepared with water"
+            },
+            {
+                "offset": 1490,
+                "id": "06480",
+                "name": "Soup, chicken broth or bouillon, dry, prepared with water"
+            },
+            {
+                "offset": 1491,
+                "id": "06481",
+                "name": "Soup, chicken broth cubes, dry, prepared with water"
+            },
+            {
+                "offset": 1492,
+                "id": "06482",
+                "name": "CAMPBELL'S Low Sodium Soups, Chicken with Noodles Soup"
+            },
+            {
+                "offset": 1493,
+                "id": "06483",
+                "name": "Soup, cream of chicken, dry, mix, prepared with water"
+            },
+            {
+                "offset": 1494,
+                "id": "06487",
+                "name": "CAMPBELL'S Low Sodium Soups, Cream of Mushroom Soup"
+            },
+            {
+                "offset": 1495,
+                "id": "06494",
+                "name": "Soup, onion, dry, mix, prepared with water"
+            },
+            {
+                "offset": 1496,
+                "id": "06497",
+                "name": "CAMPBELL'S Red and White - Microwaveable Bowls, Chicken Noodle Soup"
+            },
+            {
+                "offset": 1497,
+                "id": "06498",
+                "name": "Soup, tomato, dry, mix, prepared with water"
+            },
+            {
+                "offset": 1498,
+                "id": "06502",
+                "name": "CAMPBELL'S Red and White - Microwaveable Bowls, Chicken Rice Soup"
+            },
+            {
+                "offset": 1499,
+                "id": "06503",
+                "name": "CAMPBELL'S Red and White - Microwaveable Bowls, Creamy Tomato Soup"
+            }
+        ]
+    }
+}

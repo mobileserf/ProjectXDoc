@@ -80,10 +80,20 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "reviews",
 
 	}
 }
+
+/*
+  type = food/store/review itself
+ review
+  type, id (both are index), userid, subject,description, parent_id (default = 0) , date = now, usefull { yes, no} =>numLike, numdislike, rating: 1..5
+ like
+   type, id, userid, usefull { yes, no} =>numLike, numdislike
+ rating_history
+     type, id, count, value, history[ date, [review]]
+*/
 ================================================================================================
 Write a review- This is used for writing a review or writing a review about a review
 
-curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "review","id": 4},
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "reviews","id": 6},
            "data": {  "request_id": 12345,  /* to identify response */
                "post": 
                 {
@@ -95,9 +105,10 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "review","
 			},
                         "type": "food",
                         "item_id": 203,
+                        "store_id": 1, /* it is optional and only present if the type is food */ 
 			"rating": 5, /* star level */
                         "subject": "Very good food",
-			"comment": "Hello. Please give our thanks to the Manager(s) and others for the wonderful room and bottle of sparkling wine for our Anniversary stay."
+			"description": "Hello. Please give our thanks to the Manager(s) and others for the wonderful room and bottle of sparkling wine for our Anniversary stay.",
                         "parent_review_id": 123, /* optional,  only present if it is a review about previous review */
 			"name": "Omar", /* take from profile */
 			"date": 1478687908
@@ -108,19 +119,21 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "review","
 answer => 
 
 {
-        "request_id": 12345,
-	"review": {
-            "result": "success", //values are success or failure 
-            "id": 23443, /* only if success */
-            "reason": "Server Error", //only if an error
-            "retry": false  //only f error
-        }
+	"requestId": 12345,
+	"cmd": {
+		"name": "reviews",
+		"id": 6
+	},
+        "result": "success", //values are success or failure 
+        "id": 23443, /* only if success */
+        "reason": "Server Error", //only if an error
+        "retry": false  //only f error
 }
 
 ================================================================================================
 like a review/food/store - 
 
-curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "like","id": 5},
+curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "like","id": 7},
            "data": {  "request_id": 12345,  /* to identify response */
                "post": 
                 {
@@ -138,7 +151,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "like","id
                            "name": "review". /* subtyps , currently we have only reciew subtypes */
                            "id": 54321 
                         },
-			"like": yes /* this is either yes or no */
+			"like": true /* this is either yes or no */
 
 		}
 } }' http://www.mobileserf.com/ctg/foodtogo/post.php
@@ -146,11 +159,13 @@ curl -H "Content-Type: application/json" -X POST -d '{"cmd": {"name": "like","id
 answer => 
 
 {
-        "request_id": 12345,
-	"like": {
-            "result": "success", //values are success or failure 
-            "id": 23443, /* only if success */
-            "reason": "Server Error", //only if an error
-            "retry": false  //only f error
-        }
+	"requestId": 12345,
+	"cmd": {
+		"name": "like",
+		"id": 6
+	},
+        "result": "success", //values are success or failure 
+        "id": 23443, /* only if success */
+        "reason": "Server Error", //only if an error
+        "retry": false  //only f error
 }

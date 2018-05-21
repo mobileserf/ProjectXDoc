@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 500,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 500,
+                "id": "03296",
+                "name": "Babyfood, dinner, turkey, rice, and vegetables, toddler"
+            },
+            {
+                "offset": 501,
+                "id": "03297",
+                "name": "Babyfood, dinner, apples and chicken, strained"
+            },
+            {
+                "offset": 502,
+                "id": "03298",
+                "name": "Babyfood, dinner, broccoli and chicken, junior"
+            },
+            {
+                "offset": 503,
+                "id": "03301",
+                "name": "Babyfood, beverage, GERBER GRADUATE FRUIT SPLASHERS"
+            },
+            {
+                "offset": 504,
+                "id": "03302",
+                "name": "Babyfood, snack, GERBER, GRADUATES, YOGURT MELTS"
+            },
+            {
+                "offset": 505,
+                "id": "03303",
+                "name": "Babyfood, dinner, sweet potatoes and chicken, strained"
+            },
+            {
+                "offset": 506,
+                "id": "03304",
+                "name": "Babyfood, dinner, potatoes with cheese and ham, toddler"
+            },
+            {
+                "offset": 507,
+                "id": "03681",
+                "name": "Babyfood, cereal, barley, prepared with whole milk"
+            },
+            {
+                "offset": 508,
+                "id": "03682",
+                "name": "Babyfood, cereal, high protein, prepared with whole milk"
+            },
+            {
+                "offset": 509,
+                "id": "03685",
+                "name": "Babyfood, cereal, mixed, prepared with whole milk"
+            },
+            {
+                "offset": 510,
+                "id": "03686",
+                "name": "Babyfood, cereal, mixed, with bananas, prepared with whole milk"
+            },
+            {
+                "offset": 511,
+                "id": "03689",
+                "name": "Babyfood, cereal, oatmeal, prepared with whole milk"
+            },
+            {
+                "offset": 512,
+                "id": "03690",
+                "name": "Babyfood, cereal, oatmeal, with bananas, prepared with whole milk"
+            },
+            {
+                "offset": 513,
+                "id": "03693",
+                "name": "Babyfood, cereal, oatmeal, with honey, prepared with whole milk"
+            },
+            {
+                "offset": 514,
+                "id": "03694",
+                "name": "Babyfood, cereal, rice, prepared with whole milk"
+            },
+            {
+                "offset": 515,
+                "id": "03696",
+                "name": "Babyfood, cereal, rice, with honey, prepared with whole milk"
+            },
+            {
+                "offset": 516,
+                "id": "03704",
+                "name": "Babyfood, cereal, mixed, with honey, prepared with whole milk"
+            },
+            {
+                "offset": 517,
+                "id": "03711",
+                "name": "Babyfood, cereal, high protein, with apple and orange, prepared with whole milk"
+            },
+            {
+                "offset": 518,
+                "id": "03712",
+                "name": "Babyfood, cereal, rice, with bananas, prepared with whole milk"
+            },
+            {
+                "offset": 519,
+                "id": "03800",
+                "name": "Infant formula, NESTLE, GOOD START SUPREME, with iron, ready-to-feed"
+            },
+            {
+                "offset": 520,
+                "id": "03801",
+                "name": "Infant formula, NESTLE, GOOD START SUPREME, with iron, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 521,
+                "id": "03802",
+                "name": "Infant formula, NESTLE, GOOD START SUPREME, with iron, powder"
+            },
+            {
+                "offset": 522,
+                "id": "03803",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, with iron, ready-to-feed"
+            },
+            {
+                "offset": 523,
+                "id": "03805",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, with iron, powder"
+            },
+            {
+                "offset": 524,
+                "id": "03806",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, low iron, ready-to-feed"
+            },
+            {
+                "offset": 525,
+                "id": "03808",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, with iron, powder, with ARA and DHA"
+            },
+            {
+                "offset": 526,
+                "id": "03809",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, low iron, powder, not reconstituted"
+            },
+            {
+                "offset": 527,
+                "id": "03812",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, with iron, liquid concentrate, with ARA and DHA"
+            },
+            {
+                "offset": 528,
+                "id": "03813",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, ready-to-feed"
+            },
+            {
+                "offset": 529,
+                "id": "03814",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 530,
+                "id": "03815",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL LIPIL, with iron, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 531,
+                "id": "03816",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 532,
+                "id": "03818",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, low iron, liquid concentrate, with ARA and DHA"
+            },
+            {
+                "offset": 533,
+                "id": "03819",
+                "name": "Child formula, MEAD JOHNSON, PORTAGEN, with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 534,
+                "id": "03820",
+                "name": "Child formula, MEAD JOHNSON, PORTAGEN, with iron, prepared from powder"
+            },
+            {
+                "offset": 535,
+                "id": "03821",
+                "name": "Infant formula, MEAD JOHNSON, PREGESTIMIL, with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 536,
+                "id": "03822",
+                "name": "Infant formula, MEAD JOHNSON, PREGESTIMIL, with iron, prepared from powder"
+            },
+            {
+                "offset": 537,
+                "id": "03823",
+                "name": "Infant formula, MEAD JOHNSON, PROSOBEE, with iron, ready-to-feed"
+            },
+            {
+                "offset": 538,
+                "id": "03824",
+                "name": "Infant formula, MEAD JOHNSON, PROSOBEE, with iron, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 539,
+                "id": "03825",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, low iron, ready to feed, with ARA and DHA"
+            },
+            {
+                "offset": 540,
+                "id": "03826",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 541,
+                "id": "03827",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE LIPIL, with iron, powder, with ARA and DHA"
+            },
+            {
+                "offset": 542,
+                "id": "03830",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE, LIPIL, with iron, liquid concentrate, not reconstituted, with ARA and DHA"
+            },
+            {
+                "offset": 543,
+                "id": "03832",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 544,
+                "id": "03837",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, PM 60/40, powder not reconstituted"
+            },
+            {
+                "offset": 545,
+                "id": "03838",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN LIPIL, with iron, powder, not reconstituted, with ARA and DHA"
+            },
+            {
+                "offset": 546,
+                "id": "03839",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, NATURAL CARE, ADVANCE, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 547,
+                "id": "03840",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, SPECIAL CARE, ADVANCE 24, with iron, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 548,
+                "id": "03841",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, ready-to-feed"
+            },
+            {
+                "offset": 549,
+                "id": "03842",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, liquid concentrate"
+            },
+            {
+                "offset": 550,
+                "id": "03843",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 551,
+                "id": "03844",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, LIPIL, with iron, liquid concentrate not reconstituted, with ARA and DHA"
+            },
+            {
+                "offset": 552,
+                "id": "03845",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, LIPIL, with iron, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 553,
+                "id": "03846",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ALIMENTUM, with iron, ready-to-feed"
+            },
+            {
+                "offset": 554,
+                "id": "03849",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, ENFACARE LIPIL, with iron, powder, with ARA and DHA"
+            },
+            {
+                "offset": 555,
+                "id": "03850",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, with iron, ready-to-feed"
+            },
+            {
+                "offset": 556,
+                "id": "03851",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, with iron, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 557,
+                "id": "03852",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE LIPIL, with iron, powder, not reconstituted, with ARA and DHA"
+            },
+            {
+                "offset": 558,
+                "id": "03853",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 559,
+                "id": "03854",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, LIPIL, liquid concentrate, not reconstituted, with ARA and DHA"
+            },
+            {
+                "offset": 560,
+                "id": "03855",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, low iron, ready-to-feed"
+            },
+            {
+                "offset": 561,
+                "id": "03856",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, low iron, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 562,
+                "id": "03857",
+                "name": "Infant formula, MEAD JOHNSON, PROSOBEE LIPIL, with iron, ready to feed, with ARA and DHA"
+            },
+            {
+                "offset": 563,
+                "id": "03858",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, low iron, powder, not reconstituted"
+            },
+            {
+                "offset": 564,
+                "id": "03859",
+                "name": "Infant formula, NESTLE, GOOD START SOY, with DHA and ARA, ready-to-feed"
+            },
+            {
+                "offset": 565,
+                "id": "03860",
+                "name": "Child formula, ABBOTT NUTRITION, PEDIASURE, ready-to-feed"
+            },
+            {
+                "offset": 566,
+                "id": "03861",
+                "name": "Infant formula, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, powder, with ARA and DHA"
+            },
+            {
+                "offset": 567,
+                "id": "03864",
+                "name": "Infant formula, MEAD JOHNSON, NEXT STEP, PROSOBEE, LIPIL, ready to feed, with ARA and DHA"
+            },
+            {
+                "offset": 568,
+                "id": "03867",
+                "name": "Infant formula, NESTLE, GOOD START SOY, with ARA and DHA, powder"
+            },
+            {
+                "offset": 569,
+                "id": "03868",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE, ready-to-feed"
+            },
+            {
+                "offset": 570,
+                "id": "03869",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE, with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 571,
+                "id": "03870",
+                "name": "Child formula, ABBOTT NUTRITION, PEDIASURE, ready-to-feed, with iron and fiber"
+            },
+            {
+                "offset": 572,
+                "id": "03900",
+                "name": "Infant formula, NESTLE, GOOD START 2 ESSENTIALS, with iron, ready-to-feed"
+            },
+            {
+                "offset": 573,
+                "id": "03901",
+                "name": "Infant formula, NESTLE, GOOD START 2 ESSENTIALS, with iron, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 574,
+                "id": "03913",
+                "name": "Infant formula, NESTLE, GOOD START 2 ESSENTIALS, with iron, powder"
+            },
+            {
+                "offset": 575,
+                "id": "03925",
+                "name": "Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, ready-to-feed"
+            },
+            {
+                "offset": 576,
+                "id": "03926",
+                "name": "Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 577,
+                "id": "03928",
+                "name": "Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, powder"
+            },
+            {
+                "offset": 578,
+                "id": "03929",
+                "name": "Infant formula, MEAD JOHNSON, NEXT STEP PROSOBEE, powder, not reconstituted"
+            },
+            {
+                "offset": 579,
+                "id": "03930",
+                "name": "Infant formula, MEAD JOHNSON,NEXT STEP PROSOBEE, prepared from powder"
+            },
+            {
+                "offset": 580,
+                "id": "03934",
+                "name": "Babyfood, corn and sweet potatoes, strained"
+            },
+            {
+                "offset": 581,
+                "id": "03935",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ALIMENTUM, ADVANCE, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 582,
+                "id": "03936",
+                "name": "Infant formula, PBM PRODUCTS, store brand, ready-to-feed"
+            },
+            {
+                "offset": 583,
+                "id": "03937",
+                "name": "Infant formula, PBM PRODUCTS, store brand, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 584,
+                "id": "03938",
+                "name": "Infant formula, PBM PRODUCTS, store brand, powder"
+            },
+            {
+                "offset": 585,
+                "id": "03939",
+                "name": "Infant formula, PBM PRODUCTS, store brand, soy, ready-to-feed"
+            },
+            {
+                "offset": 586,
+                "id": "03940",
+                "name": "Infant formula, PBM PRODUCTS, store brand, soy, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 587,
+                "id": "03941",
+                "name": "Infant formula, PBM PRODUCTS, store brand, soy, powder"
+            },
+            {
+                "offset": 588,
+                "id": "03942",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, AR LIPIL, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 589,
+                "id": "03943",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, AR LIPIL, powder, with ARA and DHA"
+            },
+            {
+                "offset": 590,
+                "id": "03944",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC NEOSURE, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 591,
+                "id": "03945",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, NEOSURE, powder, with ARA and DHA"
+            },
+            {
+                "offset": 592,
+                "id": "03946",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE (LACTOSE FREE) ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 593,
+                "id": "03947",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE, (LACTOSE FREE), liquid concentrate, with ARA and DHA"
+            },
+            {
+                "offset": 594,
+                "id": "03948",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE, (LACTOSE FREE), powder, with ARA and DHA"
+            },
+            {
+                "offset": 595,
+                "id": "03949",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, ready-to-feed"
+            },
+            {
+                "offset": 596,
+                "id": "03950",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 597,
+                "id": "03951",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, liquid concentrate, not reconstituted"
+            },
+            {
+                "offset": 598,
+                "id": "03952",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, liquid concentrate"
+            },
+            {
+                "offset": 599,
+                "id": "03953",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, ready-to-feed"
+            },
+            {
+                "offset": 600,
+                "id": "03954",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, powder, not reconstituted"
+            },
+            {
+                "offset": 601,
+                "id": "03955",
+                "name": "Infant Formula, MEAD JOHNSON, ENFAMIL, ENFACARE LIPIL, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 602,
+                "id": "03956",
+                "name": "Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added DHA fortified"
+            },
+            {
+                "offset": 603,
+                "id": "03957",
+                "name": "Infant formula, ABBOTT NUTRITION, ALIMENTUM ADVANCE, with iron, powder, not reconstituted, with DHA and ARA"
+            },
+            {
+                "offset": 604,
+                "id": "03959",
+                "name": "Babyfood, mashed cheddar potatoes and broccoli, toddlers"
+            },
+            {
+                "offset": 605,
+                "id": "03960",
+                "name": "Infant formula, NESTLE, GOOD START SUPREME, with iron, DHA and ARA, ready-to-feed"
+            },
+            {
+                "offset": 606,
+                "id": "03961",
+                "name": "Infant formula, NESTLE, GOOD START SUPREME, with iron, DHA and ARA, prepared from liquid concentrate"
+            },
+            {
+                "offset": 607,
+                "id": "03963",
+                "name": "Infant Formula, MEAD JOHNSON, ENFAMIL GENTLEASE LIPIL, with iron, prepared from powder"
+            },
+            {
+                "offset": 608,
+                "id": "03964",
+                "name": "Babyfood, fortified cereal bar, fruit filling"
+            },
+            {
+                "offset": 609,
+                "id": "03965",
+                "name": "Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added iron fortified"
+            },
+            {
+                "offset": 610,
+                "id": "03966",
+                "name": "Infant formula, NESTLE, GOOD START SOY, with DHA and ARA, liquid concentrate"
+            },
+            {
+                "offset": 611,
+                "id": "03967",
+                "name": "Toddler formula, MEAD JOHNSON, ENFAGROW, PREMIUM (formerly ENFAMIL, LIPIL, NEXT STEP), powder"
+            },
+            {
+                "offset": 612,
+                "id": "03968",
+                "name": "Toddler formula, MEAD JOHNSON, ENFAGROW PREMIUM (formerly ENFAMIL, LIPIL, NEXT STEP), ready-to-feed"
+            },
+            {
+                "offset": 613,
+                "id": "03980",
+                "name": "Infant Formula, MEAD JOHNSON, ENFAMIL, GENTLEASE, powder"
+            },
+            {
+                "offset": 614,
+                "id": "03981",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, GENTLEASE, Toddler, ready-to-feed"
+            },
+            {
+                "offset": 615,
+                "id": "03982",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, Enfagrow, Soy, Toddler ready-to-feed"
+            },
+            {
+                "offset": 616,
+                "id": "03983",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN AA, ready-to-feed"
+            },
+            {
+                "offset": 617,
+                "id": "03984",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 20 calories ready-to-feed"
+            },
+            {
+                "offset": 618,
+                "id": "03985",
+                "name": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 24 calo ready-to-feed"
+            },
+            {
+                "offset": 619,
+                "id": "03986",
+                "name": "Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Newborn, ready-to-feed"
+            },
+            {
+                "offset": 620,
+                "id": "03987",
+                "name": "Infant formula, GERBER, GOOD START 2 Soy, with iron, ready-to-feed"
+            },
+            {
+                "offset": 621,
+                "id": "03988",
+                "name": "Infant formula, GERBER, GOOD START, PROTECT PLUS, ready-to-feed"
+            },
+            {
+                "offset": 622,
+                "id": "03989",
+                "name": "Infant Formula, GERBER GOOD START 2, GENTLE PLUS, ready-to-feed"
+            },
+            {
+                "offset": 623,
+                "id": "03990",
+                "name": "Infant formula, GERBER, GOOD START 2, PROTECT PLUS, ready-to-feed"
+            },
+            {
+                "offset": 624,
+                "id": "03991",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 625,
+                "id": "03992",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA"
+            },
+            {
+                "offset": 626,
+                "id": "03993",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, ready-to-feed, with ARA and DHA"
+            },
+            {
+                "offset": 627,
+                "id": "03994",
+                "name": "Babyfood, fruit, banana and strawberry, junior"
+            },
+            {
+                "offset": 628,
+                "id": "03995",
+                "name": "Babyfood, banana with mixed berries, strained"
+            },
+            {
+                "offset": 629,
+                "id": "03996",
+                "name": "Babyfood, Multigrain whole grain cereal, dry fortified"
+            },
+            {
+                "offset": 630,
+                "id": "03997",
+                "name": "Babyfood, Baby MUM MUM Rice Biscuits"
+            },
+            {
+                "offset": 631,
+                "id": "03998",
+                "name": "Babyfood, Snack, GERBER, GRADUATES, LIL CRUNCHIES, baked whole grain corn snack"
+            },
+            {
+                "offset": 632,
+                "id": "03999",
+                "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, powder, with ARA and DHA"
+            },
+            {
+                "offset": 633,
+                "id": "04001",
+                "name": "Fat, beef tallow"
+            },
+            {
+                "offset": 634,
+                "id": "04002",
+                "name": "Lard"
+            },
+            {
+                "offset": 635,
+                "id": "04011",
+                "name": "Salad dressing, KRAFT Mayo Light Mayonnaise"
+            },
+            {
+                "offset": 636,
+                "id": "04013",
+                "name": "Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing"
+            },
+            {
+                "offset": 637,
+                "id": "04014",
+                "name": "Salad dressing, KRAFT MIRACLE WHIP FREE Nonfat Dressing"
+            },
+            {
+                "offset": 638,
+                "id": "04015",
+                "name": "Salad dressing, russian dressing"
+            },
+            {
+                "offset": 639,
+                "id": "04016",
+                "name": "Salad dressing, sesame seed dressing, regular"
+            },
+            {
+                "offset": 640,
+                "id": "04017",
+                "name": "Salad dressing, thousand island, commercial, regular"
+            },
+            {
+                "offset": 641,
+                "id": "04018",
+                "name": "Salad dressing, mayonnaise type, regular, with salt"
+            },
+            {
+                "offset": 642,
+                "id": "04020",
+                "name": "Salad dressing, french dressing, reduced fat"
+            },
+            {
+                "offset": 643,
+                "id": "04021",
+                "name": "Salad dressing, italian dressing, commercial, reduced fat"
+            },
+            {
+                "offset": 644,
+                "id": "04022",
+                "name": "Salad dressing, russian dressing, low calorie"
+            },
+            {
+                "offset": 645,
+                "id": "04023",
+                "name": "Salad dressing, thousand island dressing, reduced fat"
+            },
+            {
+                "offset": 646,
+                "id": "04025",
+                "name": "Salad dressing, mayonnaise, regular"
+            },
+            {
+                "offset": 647,
+                "id": "04026",
+                "name": "Salad dressing, mayonnaise, soybean and safflower oil, with salt"
+            },
+            {
+                "offset": 648,
+                "id": "04027",
+                "name": "Salad dressing, mayonnaise, imitation, soybean"
+            },
+            {
+                "offset": 649,
+                "id": "04028",
+                "name": "Salad dressing, mayonnaise, imitation, milk cream"
+            },
+            {
+                "offset": 650,
+                "id": "04029",
+                "name": "Salad dressing, mayonnaise, imitation, soybean without cholesterol"
+            },
+            {
+                "offset": 651,
+                "id": "04030",
+                "name": "Sandwich spread, with chopped pickle, regular, unspecified oils"
+            },
+            {
+                "offset": 652,
+                "id": "04031",
+                "name": "Shortening, household, soybean (partially hydrogenated)-cottonseed (partially hydrogenated)"
+            },
+            {
+                "offset": 653,
+                "id": "04034",
+                "name": "Oil, soybean, salad or cooking, (partially hydrogenated)"
+            },
+            {
+                "offset": 654,
+                "id": "04037",
+                "name": "Oil, rice bran"
+            },
+            {
+                "offset": 655,
+                "id": "04038",
+                "name": "Oil, wheat germ"
+            },
+            {
+                "offset": 656,
+                "id": "04042",
+                "name": "Oil, peanut, salad or cooking"
+            },
+            {
+                "offset": 657,
+                "id": "04044",
+                "name": "Oil, soybean, salad or cooking"
+            },
+            {
+                "offset": 658,
+                "id": "04047",
+                "name": "Oil, coconut"
+            },
+            {
+                "offset": 659,
+                "id": "04053",
+                "name": "Oil, olive, salad or cooking"
+            },
+            {
+                "offset": 660,
+                "id": "04055",
+                "name": "Oil, palm"
+            },
+            {
+                "offset": 661,
+                "id": "04058",
+                "name": "Oil, sesame, salad or cooking"
+            },
+            {
+                "offset": 662,
+                "id": "04060",
+                "name": "Oil, sunflower, linoleic (less than 60%)"
+            },
+            {
+                "offset": 663,
+                "id": "04073",
+                "name": "Margarine, regular, hard, soybean (hydrogenated)"
+            },
+            {
+                "offset": 664,
+                "id": "04114",
+                "name": "Salad dressing, italian dressing, commercial, regular"
+            },
+            {
+                "offset": 665,
+                "id": "04120",
+                "name": "Salad dressing, french dressing, commercial, regular"
+            },
+            {
+                "offset": 666,
+                "id": "04128",
+                "name": "Margarine-like, vegetable oil spread, unspecified oils, approximately 37% fat, with salt"
+            },
+            {
+                "offset": 667,
+                "id": "04133",
+                "name": "Salad dressing, french, home recipe"
+            },
+            {
+                "offset": 668,
+                "id": "04135",
+                "name": "Salad dressing, home recipe, vinegar and oil"
+            },
+            {
+                "offset": 669,
+                "id": "04141",
+                "name": "Salad dressing, french dressing, commercial, regular, without salt"
+            },
+            {
+                "offset": 670,
+                "id": "04142",
+                "name": "Salad dressing, french dressing, reduced fat, without salt"
+            },
+            {
+                "offset": 671,
+                "id": "04143",
+                "name": "Salad dressing, italian dressing, commercial, regular, without salt"
+            },
+            {
+                "offset": 672,
+                "id": "04144",
+                "name": "Salad dressing, italian dressing, reduced fat, without salt"
+            },
+            {
+                "offset": 673,
+                "id": "04145",
+                "name": "Salad dressing, mayonnaise, soybean oil, without salt"
+            },
+            {
+                "offset": 674,
+                "id": "04146",
+                "name": "Salad dressing, french, cottonseed, oil, home recipe"
+            },
+            {
+                "offset": 675,
+                "id": "04367",
+                "name": "Salad dressing, french dressing, fat-free"
+            },
+            {
+                "offset": 676,
+                "id": "04501",
+                "name": "Oil, cocoa butter"
+            },
+            {
+                "offset": 677,
+                "id": "04502",
+                "name": "Oil, cottonseed, salad or cooking"
+            },
+            {
+                "offset": 678,
+                "id": "04506",
+                "name": "Oil, sunflower, linoleic, (approx. 65%)"
+            },
+            {
+                "offset": 679,
+                "id": "04510",
+                "name": "Oil, safflower, salad or cooking, linoleic, (over 70%)"
+            },
+            {
+                "offset": 680,
+                "id": "04511",
+                "name": "Oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)"
+            },
+            {
+                "offset": 681,
+                "id": "04513",
+                "name": "Vegetable oil, palm kernel"
+            },
+            {
+                "offset": 682,
+                "id": "04514",
+                "name": "Oil, poppyseed"
+            },
+            {
+                "offset": 683,
+                "id": "04515",
+                "name": "Oil, tomatoseed"
+            },
+            {
+                "offset": 684,
+                "id": "04516",
+                "name": "Oil, teaseed"
+            },
+            {
+                "offset": 685,
+                "id": "04517",
+                "name": "Oil, grapeseed"
+            },
+            {
+                "offset": 686,
+                "id": "04518",
+                "name": "Oil, corn, industrial and retail, all purpose salad or cooking"
+            },
+            {
+                "offset": 687,
+                "id": "04520",
+                "name": "Fat, mutton tallow"
+            },
+            {
+                "offset": 688,
+                "id": "04528",
+                "name": "Oil, walnut"
+            },
+            {
+                "offset": 689,
+                "id": "04529",
+                "name": "Oil, almond"
+            },
+            {
+                "offset": 690,
+                "id": "04530",
+                "name": "Oil, apricot kernel"
+            },
+            {
+                "offset": 691,
+                "id": "04531",
+                "name": "Oil, soybean lecithin"
+            },
+            {
+                "offset": 692,
+                "id": "04532",
+                "name": "Oil, hazelnut"
+            },
+            {
+                "offset": 693,
+                "id": "04534",
+                "name": "Oil, babassu"
+            },
+            {
+                "offset": 694,
+                "id": "04536",
+                "name": "Oil, sheanut"
+            },
+            {
+                "offset": 695,
+                "id": "04539",
+                "name": "Salad dressing, blue or roquefort cheese dressing, commercial, regular"
+            },
+            {
+                "offset": 696,
+                "id": "04541",
+                "name": "Oil, cupu assu"
+            },
+            {
+                "offset": 697,
+                "id": "04542",
+                "name": "Fat, chicken"
+            },
+            {
+                "offset": 698,
+                "id": "04543",
+                "name": "Oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed"
+            },
+            {
+                "offset": 699,
+                "id": "04544",
+                "name": "Shortening, household, lard and vegetable oil"
+            },
+            {
+                "offset": 700,
+                "id": "04545",
+                "name": "Oil, sunflower, linoleic, (partially hydrogenated)"
+            },
+            {
+                "offset": 701,
+                "id": "04546",
+                "name": "Shortening bread, soybean (hydrogenated) and cottonseed"
+            },
+            {
+                "offset": 702,
+                "id": "04548",
+                "name": "Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)"
+            },
+            {
+                "offset": 703,
+                "id": "04549",
+                "name": "Shortening industrial, lard and vegetable oil"
+            },
+            {
+                "offset": 704,
+                "id": "04550",
+                "name": "Shortening frying (heavy duty), beef tallow and cottonseed"
+            },
+            {
+                "offset": 705,
+                "id": "04551",
+                "name": "Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)"
+            },
+            {
+                "offset": 706,
+                "id": "04554",
+                "name": "Shortening industrial, soybean (hydrogenated) and cottonseed"
+            },
+            {
+                "offset": 707,
+                "id": "04556",
+                "name": "Shortening frying (heavy duty), palm (hydrogenated)"
+            },
+            {
+                "offset": 708,
+                "id": "04559",
+                "name": "Shortening household soybean (hydrogenated) and palm"
+            },
+            {
+                "offset": 709,
+                "id": "04560",
+                "name": "Shortening frying (heavy duty), soybean (hydrogenated), linoleic (less than 1%)"
+            },
+            {
+                "offset": 710,
+                "id": "04570",
+                "name": "Shortening, confectionery, fractionated palm"
+            },
+            {
+                "offset": 711,
+                "id": "04572",
+                "name": "Oil, nutmeg butter"
+            },
+            {
+                "offset": 712,
+                "id": "04573",
+                "name": "Oil, ucuhuba butter"
+            },
+            {
+                "offset": 713,
+                "id": "04574",
+                "name": "Fat, duck"
+            },
+            {
+                "offset": 714,
+                "id": "04575",
+                "name": "Fat, turkey"
+            },
+            {
+                "offset": 715,
+                "id": "04576",
+                "name": "Fat, goose"
+            },
+            {
+                "offset": 716,
+                "id": "04581",
+                "name": "Oil, avocado"
+            },
+            {
+                "offset": 717,
+                "id": "04582",
+                "name": "Oil, canola"
+            },
+            {
+                "offset": 718,
+                "id": "04583",
+                "name": "Oil, mustard"
+            },
+            {
+                "offset": 719,
+                "id": "04584",
+                "name": "Oil, sunflower, high oleic (70% and over)"
+            },
+            {
+                "offset": 720,
+                "id": "04585",
+                "name": "Margarine-like, margarine-butter blend, soybean oil and butter"
+            },
+            {
+                "offset": 721,
+                "id": "04586",
+                "name": "Shortening, special purpose for cakes and frostings, soybean (hydrogenated)"
+            },
+            {
+                "offset": 722,
+                "id": "04587",
+                "name": "Shortening, special purpose for baking, soybean (hydrogenated) palm and cottonseed"
+            },
+            {
+                "offset": 723,
+                "id": "04588",
+                "name": "Oil, oat"
+            },
+            {
+                "offset": 724,
+                "id": "04589",
+                "name": "Fish oil, cod liver"
+            },
+            {
+                "offset": 725,
+                "id": "04590",
+                "name": "Fish oil, herring"
+            },
+            {
+                "offset": 726,
+                "id": "04591",
+                "name": "Fish oil, menhaden"
+            },
+            {
+                "offset": 727,
+                "id": "04592",
+                "name": "Fish oil, menhaden, fully hydrogenated"
+            },
+            {
+                "offset": 728,
+                "id": "04593",
+                "name": "Fish oil, salmon"
+            },
+            {
+                "offset": 729,
+                "id": "04594",
+                "name": "Fish oil, sardine"
+            },
+            {
+                "offset": 730,
+                "id": "04595",
+                "name": "Shortening, multipurpose, soybean (hydrogenated) and palm (hydrogenated)"
+            },
+            {
+                "offset": 731,
+                "id": "04600",
+                "name": "Margarine-like, vegetable oil-butter spread, tub, with salt"
+            },
+            {
+                "offset": 732,
+                "id": "04601",
+                "name": "Butter, light, stick, with salt"
+            },
+            {
+                "offset": 733,
+                "id": "04602",
+                "name": "Butter, light, stick, without salt"
+            },
+            {
+                "offset": 734,
+                "id": "04606",
+                "name": "Meat drippings (lard, beef tallow, mutton tallow)"
+            },
+            {
+                "offset": 735,
+                "id": "04609",
+                "name": "Animal fat, bacon grease"
+            },
+            {
+                "offset": 736,
+                "id": "04610",
+                "name": "Margarine, regular, 80% fat, composite, stick, with salt"
+            },
+            {
+                "offset": 737,
+                "id": "04611",
+                "name": "Margarine, regular, 80% fat, composite, tub, with salt"
+            },
+            {
+                "offset": 738,
+                "id": "04612",
+                "name": "Margarine-like, vegetable oil spread, 60% fat, stick, with salt"
+            },
+            {
+                "offset": 739,
+                "id": "04613",
+                "name": "Margarine-like, vegetable oil spread, 60% fat, tub, with salt"
+            },
+            {
+                "offset": 740,
+                "id": "04614",
+                "name": "Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, with salt"
+            },
+            {
+                "offset": 741,
+                "id": "04615",
+                "name": "Shortening, vegetable, household, composite"
+            },
+            {
+                "offset": 742,
+                "id": "04617",
+                "name": "Margarine, regular, 80% fat, composite, stick, without salt"
+            },
+            {
+                "offset": 743,
+                "id": "04618",
+                "name": "Margarine, regular, 80% fat, composite, tub, without salt"
+            },
+            {
+                "offset": 744,
+                "id": "04620",
+                "name": "Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt"
+            },
+            {
+                "offset": 745,
+                "id": "04624",
+                "name": "Margarine-like, vegetable oil spread, fat free, liquid, with salt"
+            },
+            {
+                "offset": 746,
+                "id": "04626",
+                "name": "Margarine-like spread with yogurt, 70% fat, stick, with salt"
+            },
+            {
+                "offset": 747,
+                "id": "04627",
+                "name": "Margarine-like spread with yogurt, approximately 40% fat, tub, with salt"
+            },
+            {
+                "offset": 748,
+                "id": "04628",
+                "name": "Margarine, 80% fat, stick, includes regular and hydrogenated corn and soybean oils"
+            },
+            {
+                "offset": 749,
+                "id": "04629",
+                "name": "Margarine, margarine-type vegetable oil spread, 70% fat, soybean and partially hydrogenated soybean, stick"
+            },
+            {
+                "offset": 750,
+                "id": "04630",
+                "name": "Margarine Spread, approximately 48% fat, tub"
+            },
+            {
+                "offset": 751,
+                "id": "04631",
+                "name": "Margarine-like, vegetable oil spread, fat-free, tub"
+            },
+            {
+                "offset": 752,
+                "id": "04633",
+                "name": "Margarine-like, vegetable oil spread, 20% fat, with salt"
+            },
+            {
+                "offset": 753,
+                "id": "04634",
+                "name": "Margarine-like, vegetable oil spread, 20% fat, without salt"
+            },
+            {
+                "offset": 754,
+                "id": "04635",
+                "name": "Salad dressing, thousand island dressing, fat-free"
+            },
+            {
+                "offset": 755,
+                "id": "04636",
+                "name": "Salad dressing, italian dressing, fat-free"
+            },
+            {
+                "offset": 756,
+                "id": "04638",
+                "name": "Salad dressing, ranch dressing, fat-free"
+            },
+            {
+                "offset": 757,
+                "id": "04639",
+                "name": "Salad dressing, ranch dressing, regular"
+            },
+            {
+                "offset": 758,
+                "id": "04640",
+                "name": "Salad dressing, ranch dressing, reduced fat"
+            },
+            {
+                "offset": 759,
+                "id": "04641",
+                "name": "Salad dressing, mayonnaise, light"
+            },
+            {
+                "offset": 760,
+                "id": "04642",
+                "name": "Oil, industrial, mid-oleic, sunflower"
+            },
+            {
+                "offset": 761,
+                "id": "04643",
+                "name": "Oil, industrial, canola with antifoaming agent, principal uses salads, woks and light frying"
+            },
+            {
+                "offset": 762,
+                "id": "04644",
+                "name": "Oil, industrial, canola for salads, woks and light frying"
+            },
+            {
+                "offset": 763,
+                "id": "04645",
+                "name": "Oil, industrial, canola (partially hydrogenated) oil for deep fat frying"
+            },
+            {
+                "offset": 764,
+                "id": "04646",
+                "name": "Oil, industrial, coconut, principal uses candy coatings, oil sprays, roasting nuts"
+            },
+            {
+                "offset": 765,
+                "id": "04648",
+                "name": "Oil, industrial, soy (partially hydrogenated), principal uses popcorn and flavoring vegetables"
+            },
+            {
+                "offset": 766,
+                "id": "04649",
+                "name": "Shortening, industrial, soy (partially hydrogenated), pourable liquid fry shortening"
+            },
+            {
+                "offset": 767,
+                "id": "04650",
+                "name": "Oil, industrial, soy, refined, for woks and light frying"
+            },
+            {
+                "offset": 768,
+                "id": "04651",
+                "name": "Oil, industrial, soy (partially hydrogenated), multiuse for non-dairy butter flavor"
+            },
+            {
+                "offset": 769,
+                "id": "04652",
+                "name": "Oil, industrial, soy ( partially hydrogenated), all purpose"
+            },
+            {
+                "offset": 770,
+                "id": "04653",
+                "name": "Oil, industrial, soy (partially hydrogenated ) and soy (winterized), pourable clear fry"
+            },
+            {
+                "offset": 771,
+                "id": "04654",
+                "name": "Oil, industrial, soy (partially hydrogenated)  and cottonseed, principal use as a tortilla shortening"
+            },
+            {
+                "offset": 772,
+                "id": "04655",
+                "name": "Margarine-like shortening, industrial, soy (partially hydrogenated), cottonseed, and soy, principal use flaky pastries"
+            },
+            {
+                "offset": 773,
+                "id": "04656",
+                "name": "Oil, industrial, palm kernel, confection fat, uses similar to high quality cocoa butter"
+            },
+            {
+                "offset": 774,
+                "id": "04657",
+                "name": "Oil, industrial, palm kernel (hydrogenated), confection fat, uses similar to 95 degree hard butter"
+            },
+            {
+                "offset": 775,
+                "id": "04658",
+                "name": "Oil, industrial, palm kernel (hydrogenated), confection fat, intermediate grade product"
+            },
+            {
+                "offset": 776,
+                "id": "04659",
+                "name": "Oil, industrial, coconut, confection fat, typical basis for ice cream coatings"
+            },
+            {
+                "offset": 777,
+                "id": "04660",
+                "name": "Oil, industrial, palm kernel (hydrogenated) , used for whipped toppings, non-dairy"
+            },
+            {
+                "offset": 778,
+                "id": "04661",
+                "name": "Oil, industrial, coconut (hydrogenated), used for whipped toppings and coffee whiteners"
+            },
+            {
+                "offset": 779,
+                "id": "04662",
+                "name": "Oil, industrial, palm and palm kernel, filling fat (non-hydrogenated)"
+            },
+            {
+                "offset": 780,
+                "id": "04663",
+                "name": "Oil, industrial, palm kernel (hydrogenated), filling fat"
+            },
+            {
+                "offset": 781,
+                "id": "04664",
+                "name": "Oil, industrial, soy (partially hydrogenated ), palm, principal uses icings and fillings"
+            },
+            {
+                "offset": 782,
+                "id": "04665",
+                "name": "Margarine, industrial, non-dairy, cottonseed, soy oil (partially hydrogenated ), for flaky pastries"
+            },
+            {
+                "offset": 783,
+                "id": "04666",
+                "name": "Shortening, industrial, soy (partially hydrogenated ) and corn for frying"
+            },
+            {
+                "offset": 784,
+                "id": "04667",
+                "name": "Shortening, industrial, soy (partially hydrogenated ) for baking and confections"
+            },
+            {
+                "offset": 785,
+                "id": "04668",
+                "name": "Margarine, industrial, soy and partially hydrogenated soy oil, use for baking, sauces and candy"
+            },
+            {
+                "offset": 786,
+                "id": "04669",
+                "name": "USDA Commodity Food, oil, vegetable, soybean, refined"
+            },
+            {
+                "offset": 787,
+                "id": "04670",
+                "name": "USDA Commodity Food, oil, vegetable, low saturated fat"
+            },
+            {
+                "offset": 788,
+                "id": "04673",
+                "name": "Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil"
+            },
+            {
+                "offset": 789,
+                "id": "04674",
+                "name": "Margarine-like spread, SMART BALANCE Light Buttery Spread"
+            },
+            {
+                "offset": 790,
+                "id": "04675",
+                "name": "Margarine-like spread, SMART BEAT Super Light without saturated fat"
+            },
+            {
+                "offset": 791,
+                "id": "04676",
+                "name": "Margarine-like spread, SMART BEAT Smart Squeeze"
+            },
+            {
+                "offset": 792,
+                "id": "04677",
+                "name": "Margarine-like spread, SMART BALANCE Omega Plus Spread (with plant sterols & fish oil)"
+            },
+            {
+                "offset": 793,
+                "id": "04678",
+                "name": "Oil, vegetable, Natreon canola, high stability, non trans, high oleic (70%)"
+            },
+            {
+                "offset": 794,
+                "id": "04679",
+                "name": "Oil, PAM cooking spray, original"
+            },
+            {
+                "offset": 795,
+                "id": "04683",
+                "name": "Margarine, margarine-like vegetable oil spread, 67-70% fat, tub"
+            },
+            {
+                "offset": 796,
+                "id": "04684",
+                "name": "Margarine, 80% fat, tub, CANOLA HARVEST Soft Spread (canola, palm and palm kernel oils)"
+            },
+            {
+                "offset": 797,
+                "id": "04685",
+                "name": "Oil, cooking and salad, ENOVA, 80% diglycerides"
+            },
+            {
+                "offset": 798,
+                "id": "04686",
+                "name": "Salad dressing, honey mustard dressing, reduced calorie"
+            },
+            {
+                "offset": 799,
+                "id": "04687",
+                "name": "Margarine-like spread, BENECOL Light Spread"
+            },
+            {
+                "offset": 800,
+                "id": "04688",
+                "name": "Salad dressing, spray-style dressing, assorted flavors"
+            },
+            {
+                "offset": 801,
+                "id": "04689",
+                "name": "Salad Dressing, mayonnaise, light, SMART BALANCE, Omega Plus light"
+            },
+            {
+                "offset": 802,
+                "id": "04690",
+                "name": "Margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin D"
+            },
+            {
+                "offset": 803,
+                "id": "04691",
+                "name": "Margarine, regular, 80% fat, composite, stick, with salt, with added vitamin D"
+            },
+            {
+                "offset": 804,
+                "id": "04692",
+                "name": "Margarine, regular, 80% fat, composite, tub, with salt, with added vitamin D"
+            },
+            {
+                "offset": 805,
+                "id": "04693",
+                "name": "Margarine-like, vegetable oil spread, 60% fat, stick, with salt, with added vitamin D"
+            },
+            {
+                "offset": 806,
+                "id": "04694",
+                "name": "Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D"
+            },
+            {
+                "offset": 807,
+                "id": "04695",
+                "name": "Margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat, with added vitamin D"
+            },
+            {
+                "offset": 808,
+                "id": "04696",
+                "name": "Margarine, regular, 80% fat, composite, stick, without salt, with added vitamin D"
+            },
+            {
+                "offset": 809,
+                "id": "04697",
+                "name": "Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt, with added vitamin D"
+            },
+            {
+                "offset": 810,
+                "id": "04698",
+                "name": "Oil, industrial, canola, high oleic"
+            },
+            {
+                "offset": 811,
+                "id": "04699",
+                "name": "Oil, industrial, soy, low linolenic"
+            },
+            {
+                "offset": 812,
+                "id": "04700",
+                "name": "Oil, industrial, soy, ultra low linolenic"
+            },
+            {
+                "offset": 813,
+                "id": "04701",
+                "name": "Oil, industrial, soy, fully hydrogenated"
+            },
+            {
+                "offset": 814,
+                "id": "04702",
+                "name": "Oil, industrial, cottonseed, fully hydrogenated"
+            },
+            {
+                "offset": 815,
+                "id": "04703",
+                "name": "Salad dressing, honey mustard, regular"
+            },
+            {
+                "offset": 816,
+                "id": "04704",
+                "name": "Salad dressing, poppyseed, creamy"
+            },
+            {
+                "offset": 817,
+                "id": "04705",
+                "name": "Salad dressing, caesar, fat-free"
+            },
+            {
+                "offset": 818,
+                "id": "04706",
+                "name": "Dressing, honey mustard, fat-free"
+            },
+            {
+                "offset": 819,
+                "id": "04707",
+                "name": "Oil, flaxseed, contains added sliced flaxseed"
+            },
+            {
+                "offset": 820,
+                "id": "04708",
+                "name": "Mayonnaise, reduced fat, with olive oil"
+            },
+            {
+                "offset": 821,
+                "id": "04709",
+                "name": "Salad dressing, mayonnaise-type, light"
+            },
+            {
+                "offset": 822,
+                "id": "05000",
+                "name": "Chicken, broiler, rotisserie, BBQ, breast meat only"
+            },
+            {
+                "offset": 823,
+                "id": "05001",
+                "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, raw"
+            },
+            {
+                "offset": 824,
+                "id": "05002",
+                "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, batter"
+            },
+            {
+                "offset": 825,
+                "id": "05003",
+                "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, flour"
+            },
+            {
+                "offset": 826,
+                "id": "05004",
+                "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, roasted"
+            },
+            {
+                "offset": 827,
+                "id": "05005",
+                "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, stewed"
+            },
+            {
+                "offset": 828,
+                "id": "05006",
+                "name": "Chicken, broilers or fryers, meat and skin, raw"
+            },
+            {
+                "offset": 829,
+                "id": "05007",
+                "name": "Chicken, broilers or fryers, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 830,
+                "id": "05008",
+                "name": "Chicken, broilers or fryers, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 831,
+                "id": "05009",
+                "name": "Chicken, broilers or fryers, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 832,
+                "id": "05010",
+                "name": "Chicken, broilers or fryers, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 833,
+                "id": "05011",
+                "name": "Chicken, broilers or fryers, meat only, raw"
+            },
+            {
+                "offset": 834,
+                "id": "05012",
+                "name": "Chicken, broilers or fryers, meat only, cooked, fried"
+            },
+            {
+                "offset": 835,
+                "id": "05013",
+                "name": "Chicken, broilers or fryers, meat only, roasted"
+            },
+            {
+                "offset": 836,
+                "id": "05014",
+                "name": "Chicken, broilers or fryers, meat only, stewed"
+            },
+            {
+                "offset": 837,
+                "id": "05015",
+                "name": "Chicken, broilers or fryers, skin only, raw"
+            },
+            {
+                "offset": 838,
+                "id": "05016",
+                "name": "Chicken, broilers or fryers, skin only, cooked, fried, batter"
+            },
+            {
+                "offset": 839,
+                "id": "05017",
+                "name": "Chicken, broilers or fryers, skin only, cooked, fried, flour"
+            },
+            {
+                "offset": 840,
+                "id": "05018",
+                "name": "Chicken, broilers or fryers, skin only, cooked, roasted"
+            },
+            {
+                "offset": 841,
+                "id": "05019",
+                "name": "Chicken, broilers or fryers, skin only, cooked, stewed"
+            },
+            {
+                "offset": 842,
+                "id": "05020",
+                "name": "Chicken, broilers or fryers, giblets, raw"
+            },
+            {
+                "offset": 843,
+                "id": "05021",
+                "name": "Chicken, broilers or fryers, giblets, cooked, fried"
+            },
+            {
+                "offset": 844,
+                "id": "05022",
+                "name": "Chicken, broilers or fryers, giblets, cooked, simmered"
+            },
+            {
+                "offset": 845,
+                "id": "05023",
+                "name": "Chicken, gizzard, all classes, raw"
+            },
+            {
+                "offset": 846,
+                "id": "05024",
+                "name": "Chicken, gizzard, all classes, cooked, simmered"
+            },
+            {
+                "offset": 847,
+                "id": "05025",
+                "name": "Chicken, heart, all classes, raw"
+            },
+            {
+                "offset": 848,
+                "id": "05026",
+                "name": "Chicken, heart, all classes, cooked, simmered"
+            },
+            {
+                "offset": 849,
+                "id": "05027",
+                "name": "Chicken, liver, all classes, raw"
+            },
+            {
+                "offset": 850,
+                "id": "05028",
+                "name": "Chicken, liver, all classes, cooked, simmered"
+            },
+            {
+                "offset": 851,
+                "id": "05029",
+                "name": "Chicken, broilers or fryers, light meat, meat and skin, raw"
+            },
+            {
+                "offset": 852,
+                "id": "05030",
+                "name": "Chicken, broilers or fryers, light meat, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 853,
+                "id": "05031",
+                "name": "Chicken, broilers or fryers, light meat, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 854,
+                "id": "05032",
+                "name": "Chicken, broilers or fryers, light meat, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 855,
+                "id": "05033",
+                "name": "Chicken, broilers or fryers, light meat, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 856,
+                "id": "05034",
+                "name": "Chicken, broilers or fryers, dark meat, meat and skin, raw"
+            },
+            {
+                "offset": 857,
+                "id": "05035",
+                "name": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 858,
+                "id": "05036",
+                "name": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 859,
+                "id": "05037",
+                "name": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 860,
+                "id": "05038",
+                "name": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 861,
+                "id": "05039",
+                "name": "Chicken, broilers or fryers, light meat, meat only, raw"
+            },
+            {
+                "offset": 862,
+                "id": "05040",
+                "name": "Chicken, broilers or fryers, light meat, meat only, cooked, fried"
+            },
+            {
+                "offset": 863,
+                "id": "05041",
+                "name": "Chicken, broilers or fryers, light meat, meat only, cooked, roasted"
+            },
+            {
+                "offset": 864,
+                "id": "05042",
+                "name": "Chicken, broilers or fryers, light meat, meat only, cooked, stewed"
+            },
+            {
+                "offset": 865,
+                "id": "05043",
+                "name": "Chicken, broilers or fryers, dark meat, meat only, raw"
+            },
+            {
+                "offset": 866,
+                "id": "05044",
+                "name": "Chicken, broilers or fryers, dark meat, meat only, cooked, fried"
+            },
+            {
+                "offset": 867,
+                "id": "05045",
+                "name": "Chicken, broilers or fryers, dark meat, meat only, cooked, roasted"
+            },
+            {
+                "offset": 868,
+                "id": "05046",
+                "name": "Chicken, broilers or fryers, dark meat, meat only, cooked, stewed"
+            },
+            {
+                "offset": 869,
+                "id": "05047",
+                "name": "Chicken, broilers or fryers, separable fat, raw"
+            },
+            {
+                "offset": 870,
+                "id": "05048",
+                "name": "Chicken, broilers or fryers, back, meat and skin, raw"
+            },
+            {
+                "offset": 871,
+                "id": "05049",
+                "name": "Chicken, broilers or fryers, back, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 872,
+                "id": "05050",
+                "name": "Chicken, broilers or fryers, back, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 873,
+                "id": "05051",
+                "name": "Chicken, broilers or fryers, back, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 874,
+                "id": "05052",
+                "name": "Chicken, broilers or fryers, back, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 875,
+                "id": "05053",
+                "name": "Chicken, broilers or fryers, back, meat only, raw"
+            },
+            {
+                "offset": 876,
+                "id": "05054",
+                "name": "Chicken, broilers or fryers, back, meat only, cooked, fried"
+            },
+            {
+                "offset": 877,
+                "id": "05055",
+                "name": "Chicken, broilers or fryers, back, meat only, cooked, roasted"
+            },
+            {
+                "offset": 878,
+                "id": "05056",
+                "name": "Chicken, broilers or fryers, back, meat only, cooked, stewed"
+            },
+            {
+                "offset": 879,
+                "id": "05057",
+                "name": "Chicken, broilers or fryers, breast, meat and skin, raw"
+            },
+            {
+                "offset": 880,
+                "id": "05058",
+                "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 881,
+                "id": "05059",
+                "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 882,
+                "id": "05060",
+                "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 883,
+                "id": "05061",
+                "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 884,
+                "id": "05062",
+                "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+            },
+            {
+                "offset": 885,
+                "id": "05063",
+                "name": "Chicken, broilers or fryers, breast, meat only, cooked, fried"
+            },
+            {
+                "offset": 886,
+                "id": "05064",
+                "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+            },
+            {
+                "offset": 887,
+                "id": "05065",
+                "name": "Chicken, broilers or fryers, breast, meat only, cooked, stewed"
+            },
+            {
+                "offset": 888,
+                "id": "05066",
+                "name": "Chicken, broilers or fryers, drumstick, meat and skin, raw"
+            },
+            {
+                "offset": 889,
+                "id": "05067",
+                "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 890,
+                "id": "05068",
+                "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 891,
+                "id": "05069",
+                "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 892,
+                "id": "05070",
+                "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 893,
+                "id": "05071",
+                "name": "Chicken, broilers or fryers, dark meat, drumstick, meat only, raw"
+            },
+            {
+                "offset": 894,
+                "id": "05072",
+                "name": "Chicken, broilers or fryers, drumstick, meat only, cooked, fried"
+            },
+            {
+                "offset": 895,
+                "id": "05073",
+                "name": "Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted"
+            },
+            {
+                "offset": 896,
+                "id": "05074",
+                "name": "Chicken, broilers or fryers, drumstick, meat only, cooked, stewed"
+            },
+            {
+                "offset": 897,
+                "id": "05075",
+                "name": "Chicken, broilers or fryers, leg, meat and skin, raw"
+            },
+            {
+                "offset": 898,
+                "id": "05076",
+                "name": "Chicken, broilers or fryers, leg, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 899,
+                "id": "05077",
+                "name": "Chicken, broilers or fryers, leg, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 900,
+                "id": "05078",
+                "name": "Chicken, broilers or fryers, leg, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 901,
+                "id": "05079",
+                "name": "Chicken, broilers or fryers, leg, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 902,
+                "id": "05080",
+                "name": "Chicken, broilers or fryers, leg, meat only, raw"
+            },
+            {
+                "offset": 903,
+                "id": "05081",
+                "name": "Chicken, broilers or fryers, leg, meat only, cooked, fried"
+            },
+            {
+                "offset": 904,
+                "id": "05082",
+                "name": "Chicken, broilers or fryers, leg, meat only, cooked, roasted"
+            },
+            {
+                "offset": 905,
+                "id": "05083",
+                "name": "Chicken, broilers or fryers, leg, meat only, cooked, stewed"
+            },
+            {
+                "offset": 906,
+                "id": "05084",
+                "name": "Chicken, broilers or fryers, neck, meat and skin, raw"
+            },
+            {
+                "offset": 907,
+                "id": "05085",
+                "name": "Chicken, broilers or fryers, neck, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 908,
+                "id": "05086",
+                "name": "Chicken, broilers or fryers, neck, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 909,
+                "id": "05087",
+                "name": "Chicken, broilers or fryers, neck, meat and skin, cooked simmered"
+            },
+            {
+                "offset": 910,
+                "id": "05088",
+                "name": "Chicken, broilers or fryers, neck, meat only, raw"
+            },
+            {
+                "offset": 911,
+                "id": "05089",
+                "name": "Chicken, broilers or fryers, neck, meat only, cooked, fried"
+            },
+            {
+                "offset": 912,
+                "id": "05090",
+                "name": "Chicken, broilers or fryers, neck, meat only, cooked, simmered"
+            },
+            {
+                "offset": 913,
+                "id": "05091",
+                "name": "Chicken, broilers or fryers, thigh, meat and skin, raw"
+            },
+            {
+                "offset": 914,
+                "id": "05092",
+                "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 915,
+                "id": "05093",
+                "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 916,
+                "id": "05094",
+                "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 917,
+                "id": "05095",
+                "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 918,
+                "id": "05096",
+                "name": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw"
+            },
+            {
+                "offset": 919,
+                "id": "05097",
+                "name": "Chicken, broilers or fryers, thigh, meat only, cooked, fried"
+            },
+            {
+                "offset": 920,
+                "id": "05098",
+                "name": "Chicken, broilers or fryers, thigh, meat only, cooked, roasted"
+            },
+            {
+                "offset": 921,
+                "id": "05099",
+                "name": "Chicken, broilers or fryers, thigh, meat only, cooked, stewed"
+            },
+            {
+                "offset": 922,
+                "id": "05100",
+                "name": "Chicken, broilers or fryers, wing, meat and skin, raw"
+            },
+            {
+                "offset": 923,
+                "id": "05101",
+                "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, fried, batter"
+            },
+            {
+                "offset": 924,
+                "id": "05102",
+                "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, fried, flour"
+            },
+            {
+                "offset": 925,
+                "id": "05103",
+                "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 926,
+                "id": "05104",
+                "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 927,
+                "id": "05105",
+                "name": "Chicken, broilers or fryers, wing, meat only, raw"
+            },
+            {
+                "offset": 928,
+                "id": "05106",
+                "name": "Chicken, broilers or fryers, wing, meat only, cooked, fried"
+            },
+            {
+                "offset": 929,
+                "id": "05107",
+                "name": "Chicken, broilers or fryers, wing, meat only, cooked, roasted"
+            },
+            {
+                "offset": 930,
+                "id": "05108",
+                "name": "Chicken, broilers or fryers, wing, meat only, cooked, stewed"
+            },
+            {
+                "offset": 931,
+                "id": "05109",
+                "name": "Chicken, roasting, meat and skin and giblets and neck, raw"
+            },
+            {
+                "offset": 932,
+                "id": "05110",
+                "name": "Chicken, roasting, meat and skin and giblets and neck, cooked, roasted"
+            },
+            {
+                "offset": 933,
+                "id": "05111",
+                "name": "Canada Goose, breast meat, skinless, raw"
+            },
+            {
+                "offset": 934,
+                "id": "05112",
+                "name": "Chicken, roasting, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 935,
+                "id": "05113",
+                "name": "Chicken, roasting, meat only, raw"
+            },
+            {
+                "offset": 936,
+                "id": "05114",
+                "name": "Chicken, roasting, meat only, cooked, roasted"
+            },
+            {
+                "offset": 937,
+                "id": "05115",
+                "name": "Chicken, roasting, giblets, raw"
+            },
+            {
+                "offset": 938,
+                "id": "05116",
+                "name": "Chicken, roasting, giblets, cooked, simmered"
+            },
+            {
+                "offset": 939,
+                "id": "05117",
+                "name": "Chicken, roasting, light meat, meat only, raw"
+            },
+            {
+                "offset": 940,
+                "id": "05118",
+                "name": "Chicken, roasting, light meat, meat only, cooked, roasted"
+            },
+            {
+                "offset": 941,
+                "id": "05119",
+                "name": "Chicken, roasting, dark meat, meat only, raw"
+            },
+            {
+                "offset": 942,
+                "id": "05120",
+                "name": "Chicken, roasting, dark meat, meat only, cooked, roasted"
+            },
+            {
+                "offset": 943,
+                "id": "05121",
+                "name": "Chicken, stewing, meat and skin, and giblets and neck, raw"
+            },
+            {
+                "offset": 944,
+                "id": "05122",
+                "name": "Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed"
+            },
+            {
+                "offset": 945,
+                "id": "05123",
+                "name": "Chicken, stewing, meat and skin, raw"
+            },
+            {
+                "offset": 946,
+                "id": "05124",
+                "name": "Chicken, stewing, meat and skin, cooked, stewed"
+            },
+            {
+                "offset": 947,
+                "id": "05125",
+                "name": "Chicken, stewing, meat only, raw"
+            },
+            {
+                "offset": 948,
+                "id": "05126",
+                "name": "Chicken, stewing, meat only, cooked, stewed"
+            },
+            {
+                "offset": 949,
+                "id": "05127",
+                "name": "Chicken, stewing, giblets, raw"
+            },
+            {
+                "offset": 950,
+                "id": "05128",
+                "name": "Chicken, stewing, giblets, cooked, simmered"
+            },
+            {
+                "offset": 951,
+                "id": "05129",
+                "name": "Chicken, stewing, light meat, meat only, raw"
+            },
+            {
+                "offset": 952,
+                "id": "05130",
+                "name": "Chicken, stewing, light meat, meat only, cooked, stewed"
+            },
+            {
+                "offset": 953,
+                "id": "05131",
+                "name": "Chicken, stewing, dark meat, meat only, raw"
+            },
+            {
+                "offset": 954,
+                "id": "05132",
+                "name": "Chicken, stewing, dark meat, meat only, cooked, stewed"
+            },
+            {
+                "offset": 955,
+                "id": "05133",
+                "name": "Chicken, capons, meat and skin and giblets and neck, raw"
+            },
+            {
+                "offset": 956,
+                "id": "05134",
+                "name": "Chicken, capons, meat and skin and giblets and neck, cooked, roasted"
+            },
+            {
+                "offset": 957,
+                "id": "05135",
+                "name": "Chicken, capons, meat and skin, raw"
+            },
+            {
+                "offset": 958,
+                "id": "05136",
+                "name": "Chicken, capons, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 959,
+                "id": "05137",
+                "name": "Chicken, capons, giblets, raw"
+            },
+            {
+                "offset": 960,
+                "id": "05138",
+                "name": "Chicken, capons, giblets, cooked, simmered"
+            },
+            {
+                "offset": 961,
+                "id": "05139",
+                "name": "Duck, domesticated, meat and skin, raw"
+            },
+            {
+                "offset": 962,
+                "id": "05140",
+                "name": "Duck, domesticated, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 963,
+                "id": "05141",
+                "name": "Duck, domesticated, meat only, raw"
+            },
+            {
+                "offset": 964,
+                "id": "05142",
+                "name": "Duck, domesticated, meat only, cooked, roasted"
+            },
+            {
+                "offset": 965,
+                "id": "05143",
+                "name": "Duck, domesticated, liver, raw"
+            },
+            {
+                "offset": 966,
+                "id": "05144",
+                "name": "Duck, wild, meat and skin, raw"
+            },
+            {
+                "offset": 967,
+                "id": "05145",
+                "name": "Duck, wild, breast, meat only, raw"
+            },
+            {
+                "offset": 968,
+                "id": "05146",
+                "name": "Goose, domesticated, meat and skin, raw"
+            },
+            {
+                "offset": 969,
+                "id": "05147",
+                "name": "Goose, domesticated, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 970,
+                "id": "05148",
+                "name": "Goose, domesticated, meat only, raw"
+            },
+            {
+                "offset": 971,
+                "id": "05149",
+                "name": "Goose, domesticated, meat only, cooked, roasted"
+            },
+            {
+                "offset": 972,
+                "id": "05150",
+                "name": "Goose, liver, raw"
+            },
+            {
+                "offset": 973,
+                "id": "05151",
+                "name": "Guinea hen, meat and skin, raw"
+            },
+            {
+                "offset": 974,
+                "id": "05152",
+                "name": "Guinea hen, meat only, raw"
+            },
+            {
+                "offset": 975,
+                "id": "05153",
+                "name": "Pheasant, raw, meat and skin"
+            },
+            {
+                "offset": 976,
+                "id": "05154",
+                "name": "Pheasant, raw, meat only"
+            },
+            {
+                "offset": 977,
+                "id": "05155",
+                "name": "Pheasant, breast, meat only, raw"
+            },
+            {
+                "offset": 978,
+                "id": "05156",
+                "name": "Pheasant, leg, meat only, raw"
+            },
+            {
+                "offset": 979,
+                "id": "05157",
+                "name": "Quail, meat and skin, raw"
+            },
+            {
+                "offset": 980,
+                "id": "05158",
+                "name": "Quail, meat only, raw"
+            },
+            {
+                "offset": 981,
+                "id": "05159",
+                "name": "Quail, breast, meat only, raw"
+            },
+            {
+                "offset": 982,
+                "id": "05160",
+                "name": "Squab, (pigeon), meat and skin, raw"
+            },
+            {
+                "offset": 983,
+                "id": "05161",
+                "name": "Squab, (pigeon), meat only, raw"
+            },
+            {
+                "offset": 984,
+                "id": "05162",
+                "name": "Squab, (pigeon), light meat without skin, raw"
+            },
+            {
+                "offset": 985,
+                "id": "05165",
+                "name": "Turkey, whole, meat and skin, raw"
+            },
+            {
+                "offset": 986,
+                "id": "05166",
+                "name": "Turkey, whole, meat and skin, cooked, roasted"
+            },
+            {
+                "offset": 987,
+                "id": "05167",
+                "name": "Turkey, whole, meat only, raw"
+            },
+            {
+                "offset": 988,
+                "id": "05168",
+                "name": "Turkey, whole, meat only, cooked, roasted"
+            },
+            {
+                "offset": 989,
+                "id": "05169",
+                "name": "Turkey, skin from whole, (light and dark), raw"
+            },
+            {
+                "offset": 990,
+                "id": "05170",
+                "name": "Turkey, skin from whole (light and dark), roasted"
+            },
+            {
+                "offset": 991,
+                "id": "05171",
+                "name": "Turkey, whole, giblets, raw"
+            },
+            {
+                "offset": 992,
+                "id": "05172",
+                "name": "Turkey, whole, giblets, cooked, simmered"
+            },
+            {
+                "offset": 993,
+                "id": "05173",
+                "name": "Turkey, gizzard, all classes, raw"
+            },
+            {
+                "offset": 994,
+                "id": "05174",
+                "name": "Turkey, gizzard, all classes, cooked, simmered"
+            },
+            {
+                "offset": 995,
+                "id": "05175",
+                "name": "Turkey, heart, all classes, raw"
+            },
+            {
+                "offset": 996,
+                "id": "05176",
+                "name": "Turkey, heart, all classes, cooked, simmered"
+            },
+            {
+                "offset": 997,
+                "id": "05177",
+                "name": "Turkey, liver, all classes, raw"
+            },
+            {
+                "offset": 998,
+                "id": "05178",
+                "name": "Turkey, liver, all classes, cooked, simmered"
+            },
+            {
+                "offset": 999,
+                "id": "05179",
+                "name": "Turkey from whole, neck, meat only, raw"
+            }
+        ]
+    }
+}

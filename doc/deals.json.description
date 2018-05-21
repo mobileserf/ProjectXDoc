@@ -245,6 +245,96 @@ deals
 
 //CONDITIONS = Conditions
 ==========================
+dealOfferCategories
+   foodCategories - array of food category that can be free with this offer
+   excludeFoodIds - exclude this food id'f from deal this deal
+dealOfferFoods
+   foodIds  -  array of food ids that can be free  with this offer
+
+dealOffer
+   template - id 1/2 1- is for dealOfferCategories. 2 is for dealOfferFoods 
+    dealOfferCategories 
+    foodIds
+
+deal:
+  id -  id
+  storeId - must (0  for app)  /* merchant create this offer from store tab */
+  type  - deal/coupon/loyality - create an enum
+  template_id = 1- if foodId set/ 2- array  of foodCategory is set/3-only storeid is set (store specific offer)
+  foodIds - 0 for store specific   /* merchant create this offer from a food tab or by selecting multiple foods */
+  foodCategories -food category name  /* merchant create this offer from category tab */
+  desc - descripion
+  img - optional - image ifpresent, then food if foodid present then store if food id not present
+  start - start date - optional
+  expiry   - end date -  if start date and expiry date are same  then it is a one day deal
+  use_with_other = default false
+  is_popular - only for deals
+  quantity - optional , -1 for unlimited(deals),  or maximum per user
+  barcode - optional barcode image
+  orderType - optional, default is all. array of eOrderType , default=['all']
+  days - optional - default is all days. which days are this deals available  (array of eDays) , default=[M, Tu, W, Th, F, Sa, Su]
+  discount {
+     template_id
+     off
+     type
+     min
+     max
+     buy
+    for_next
+    credit - give credit to user for future use. basically this will automatically create a gift card and set use_with_other field false
+ } 
+ freeWithOffer { if this field is present then deal is for this foods if buy above one (buy deal in above you get below as free or discounted). if not present the deal is for 
+      template_id - template 1 contains foodCategory (it is part of food in store details) . template 2 contains one or more food item
+      //or condition
+      foodIds  -  array of food ids that can be free  with this offer
+      foodCategories  -  arrau of food category that can be free with this offer
+      excludeFoodIds - exclude this food id'f from deal this deal
+   }
+ 
+template: 1
+deal_discount
+
+  off, type,     min, max
+1)  10,  amount,    30 ,      => $10 OFF $30 or more purchase
+2)  30,  percent,    0, 200   => 30 % OFF entire item. maximum purchase amount $200 . minimum $0 (donot display those fileds that is optional below and is not present)
+
+  buy, off, type,    for_next,  min (for loyality this will carry over, for deal/coupon it is one time)
+3)   5   50 , percent  2         100 => Buy 5, 50% OFF for next 2. minimum purchase should be 100
+4)   3   10 , amount   2         100 =>Buy 3, $10 OFF for next 2. minimum purchase should be 100
+
+
+  type -> amount, percent, count
+  TODO - buy adult entry, kids eat free
+         buy adult entry on Tuesday, another one is free
+         buy adult entry, 50% off kids menu
+         buy adult entry on Tuesday, another one is free
+  
+  eOrderType - all,  carryout, delivery, dinein        
+  M - MUST
+  O - Optional
+    - ignore
+  discount
+  ==========
+  template_id, off, type, min, max, buy, for_next creidt - > credit is a boolean field, if credit present this is for future deals and created as gift card from store (f = use_eith_other) 
+  1             M    M     M    O                 O   =>$($off) OFF/Credit $($min)  or more purchase 
+  2             M    M     O    O                 O   =>($off)% OFF "entire item"/"food name"/category. [opt] maximum purchase is ($max), minimum ($min)   
+  3             M    M     O    O    M    M       O   =>buy ($buy), ($off)% OFF for next ($for_next) - min and max are not required . mostlt food specific
+  4             M    M     O    O    M    M       O   =>buy ($buy), $($off) OFF/Credit for next ($for_next)  - min and max are not required. mostly food specific
+  5             M    M                            O   =>($off ) number of free food      => 1 free food . food specific
+  6             M    M               M    M       O   =>buy ($buy) next ($for_next) is free => buy 5 next 1 is free/category. food specific
+  freeWithOffer -> this is applied with dicount template 3-6 and is optional 
+  =============
+  template_id, foodCategories, foodIds, excludeFoodIds 
+  1             M                           O             => discount is for this food category, and optional exclude foods 
+  2                               M         O             => discount is applicable for only this foods. for now we will have only one food   
+
+  For example if you wan to create a deal with buy adult entry, kids eat free then use discount template 6 and freeWithOffer template 1 with deal foodCategories set to all entres except alcahol
+   buy adult entry, another one is free  => deal food category = all, discount template= 6,  freeWithOffer =1 with foodCategories set to all. credit = false
+   buy adult entry, 50% off on next adult entry = > deal food category = all, discount template= 3,  freeWithOffer =1 with foodCategories set to all. credit = false
+
+
+  uder_deals
+ id, userId, soreId, deal[id, remaining if it has limit], points: {cur= > current points, total=> total points} , this is for royality 
 
 1) condition = $10 OFF $30 or more purchase
       id number = 1
@@ -268,7 +358,7 @@ deals
             quantity = 2
               percent = 50
 
-4)  condition = Buy 2, $10 OFF for next 2. minimum purchase should be 100 
+4)  condition = Buy 3, $10 OFF for next 2. minimum purchase should be 100 
         id number = 4
         off
           quantity = 3
@@ -301,6 +391,7 @@ deals
     e.g for 5 ,  
           if(remaining = 1 && condition.remaining.value == 1)  && amount = 2, then display $2 OFF your next purchase
           if(remaining = 4 && condition.remaining.value == 1)  && amount = 2, then display $2 OFF your 4th purchase, 3 to go. 
+
 
 
 Local Test

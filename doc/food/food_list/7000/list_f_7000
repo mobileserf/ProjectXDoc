@@ -1,0 +1,2512 @@
+{
+    "list": {
+        "lt": "f",
+        "start": 7000,
+        "end": 500,
+        "total": 500,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 7000,
+                "id": "21523",
+                "name": "McDONALD'S, RANCH SNACK WRAP, Crispy"
+            },
+            {
+                "offset": 7001,
+                "id": "21524",
+                "name": "McDONALD'S, RANCH SNACK WRAP, Grilled"
+            },
+            {
+                "offset": 7002,
+                "id": "21525",
+                "name": "PIZZA HUT, breadstick, parmesan garlic"
+            },
+            {
+                "offset": 7003,
+                "id": "21526",
+                "name": "CHICK-FIL-A, chicken sandwich"
+            },
+            {
+                "offset": 7004,
+                "id": "21527",
+                "name": "ARBY'S, roast beef sandwich, classic"
+            },
+            {
+                "offset": 7005,
+                "id": "21600",
+                "name": "School Lunch, pizza, cheese topping, thin crust, whole grain, frozen, cooked"
+            },
+            {
+                "offset": 7006,
+                "id": "21601",
+                "name": "School Lunch, pizza, cheese topping, thick crust, whole grain, frozen, cooked"
+            },
+            {
+                "offset": 7007,
+                "id": "21602",
+                "name": "School Lunch, pizza, pepperoni topping, thin crust, whole grain, frozen, cooked"
+            },
+            {
+                "offset": 7008,
+                "id": "21603",
+                "name": "School Lunch, pizza, pepperoni topping, thick crust, whole grain, frozen, cooked"
+            },
+            {
+                "offset": 7009,
+                "id": "21604",
+                "name": "School Lunch, pizza, sausage topping, thin crust, whole grain, frozen, cooked"
+            },
+            {
+                "offset": 7010,
+                "id": "21605",
+                "name": "School Lunch, pizza, sausage topping, thick crust, whole grain, frozen, cooked"
+            },
+            {
+                "offset": 7011,
+                "id": "21610",
+                "name": "School Lunch, chicken patty, whole grain breaded"
+            },
+            {
+                "offset": 7012,
+                "id": "21611",
+                "name": "School Lunch, chicken nuggets, whole grain breaded"
+            },
+            {
+                "offset": 7013,
+                "id": "22118",
+                "name": "MORNINGSTAR FARMS Garden Veggie Patties, frozen, unprepared"
+            },
+            {
+                "offset": 7014,
+                "id": "22119",
+                "name": "MORNINGSTAR FARMS Veggie Dog, frozen, unprepared"
+            },
+            {
+                "offset": 7015,
+                "id": "22120",
+                "name": "MORNINGSTAR FARMS Grillers Burger Style Recipe Crumbles, frozen, unprepared"
+            },
+            {
+                "offset": 7016,
+                "id": "22121",
+                "name": "MORNINGSTAR FARMS Grillers Vegan, frozen, unprepared"
+            },
+            {
+                "offset": 7017,
+                "id": "22122",
+                "name": "MORNINGSTAR FARMS Breakfast Sausage Patties, frozen, unprepared"
+            },
+            {
+                "offset": 7018,
+                "id": "22123",
+                "name": "MORNINGSTAR FARMS Spicy Black Bean Burger, frozen, unprepared"
+            },
+            {
+                "offset": 7019,
+                "id": "22126",
+                "name": "LOMA LINDA Big Franks, canned, unprepared"
+            },
+            {
+                "offset": 7020,
+                "id": "22247",
+                "name": "Macaroni and Cheese, canned entree"
+            },
+            {
+                "offset": 7021,
+                "id": "22401",
+                "name": "Spaghetti with meat sauce, frozen entree"
+            },
+            {
+                "offset": 7022,
+                "id": "22402",
+                "name": "Beef macaroni with tomato sauce, frozen entree, reduced fat"
+            },
+            {
+                "offset": 7023,
+                "id": "22522",
+                "name": "Pasta with Sliced Franks in Tomato Sauce, canned entree"
+            },
+            {
+                "offset": 7024,
+                "id": "22528",
+                "name": "Turkey Pot Pie, frozen entree"
+            },
+            {
+                "offset": 7025,
+                "id": "22529",
+                "name": "Beef Pot Pie, frozen entree, prepared"
+            },
+            {
+                "offset": 7026,
+                "id": "22535",
+                "name": "HOT POCKETS, CROISSANT POCKETS Chicken, Broccoli, and Cheddar Stuffed Sandwich, frozen"
+            },
+            {
+                "offset": 7027,
+                "id": "22537",
+                "name": "HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen"
+            },
+            {
+                "offset": 7028,
+                "id": "22899",
+                "name": "Ravioli, cheese-filled, canned"
+            },
+            {
+                "offset": 7029,
+                "id": "22900",
+                "name": "Ravioli, meat-filled, with tomato sauce or meat sauce, canned"
+            },
+            {
+                "offset": 7030,
+                "id": "22901",
+                "name": "Tortellini, pasta with cheese filling, fresh-refrigerated, as purchased"
+            },
+            {
+                "offset": 7031,
+                "id": "22902",
+                "name": "Pizza, meat topping, thick crust, frozen, cooked"
+            },
+            {
+                "offset": 7032,
+                "id": "22903",
+                "name": "Pizza, pepperoni topping, regular crust, frozen, cooked"
+            },
+            {
+                "offset": 7033,
+                "id": "22904",
+                "name": "Chili con carne with beans, canned entree"
+            },
+            {
+                "offset": 7034,
+                "id": "22905",
+                "name": "Beef stew, canned entree"
+            },
+            {
+                "offset": 7035,
+                "id": "22906",
+                "name": "Chicken pot pie, frozen entree, prepared"
+            },
+            {
+                "offset": 7036,
+                "id": "22908",
+                "name": "Beef, corned beef hash, with potato, canned"
+            },
+            {
+                "offset": 7037,
+                "id": "22910",
+                "name": "Lasagna, cheese, frozen, prepared"
+            },
+            {
+                "offset": 7038,
+                "id": "22911",
+                "name": "Chili, no beans, canned entree"
+            },
+            {
+                "offset": 7039,
+                "id": "22912",
+                "name": "Spaghetti, with meatballs in tomato sauce, canned"
+            },
+            {
+                "offset": 7040,
+                "id": "22914",
+                "name": "Pasta with tomato sauce, no meat, canned"
+            },
+            {
+                "offset": 7041,
+                "id": "22915",
+                "name": "Lasagna with meat & sauce, low-fat, frozen entree"
+            },
+            {
+                "offset": 7042,
+                "id": "22916",
+                "name": "Lasagna with meat & sauce, frozen entree"
+            },
+            {
+                "offset": 7043,
+                "id": "22917",
+                "name": "Burrito, beef and bean, frozen"
+            },
+            {
+                "offset": 7044,
+                "id": "22918",
+                "name": "Burrito, bean and cheese, frozen"
+            },
+            {
+                "offset": 7045,
+                "id": "22919",
+                "name": "Macaroni and Cheese, canned, microwavable"
+            },
+            {
+                "offset": 7046,
+                "id": "22928",
+                "name": "Burrito, beef and bean, microwaved"
+            },
+            {
+                "offset": 7047,
+                "id": "22929",
+                "name": "SPAGHETTIOS, Mini Beef Ravioli in Meat Sauce"
+            },
+            {
+                "offset": 7048,
+                "id": "22930",
+                "name": "SPAGHETTIOS, Spaghetti in Tomato & Cheese Sauce"
+            },
+            {
+                "offset": 7049,
+                "id": "22931",
+                "name": "SPAGHETTIOS, SpaghettiOs Original"
+            },
+            {
+                "offset": 7050,
+                "id": "22932",
+                "name": "SPAGHETTIOS, SpaghettiOs  A to Z's"
+            },
+            {
+                "offset": 7051,
+                "id": "22937",
+                "name": "SPAGHETTIOS, SpaghettiOs in Meat Sauce"
+            },
+            {
+                "offset": 7052,
+                "id": "22938",
+                "name": "SPAGHETTIOS, SpaghettiOs plus Calcium"
+            },
+            {
+                "offset": 7053,
+                "id": "22939",
+                "name": "SPAGHETTIOS, SpaghettiOs RavioliOs Beef Ravioli in Meat Sauce"
+            },
+            {
+                "offset": 7054,
+                "id": "22940",
+                "name": "SPAGHETTIOS, SpaghettiOs with Meatballs"
+            },
+            {
+                "offset": 7055,
+                "id": "22941",
+                "name": "SPAGHETTIOS, SpaghettiOs with Sliced Franks"
+            },
+            {
+                "offset": 7056,
+                "id": "22942",
+                "name": "SPAGHETTIOS, SpaghettiOs A to Z's with Meatballs"
+            },
+            {
+                "offset": 7057,
+                "id": "22943",
+                "name": "SUPPER BAKES MEAL KITS, Cheesy Chicken with pasta (chicken not included)"
+            },
+            {
+                "offset": 7058,
+                "id": "22944",
+                "name": "SUPPER BAKES MEAL KITS, Creamy Stroganoff Sauce with pasta"
+            },
+            {
+                "offset": 7059,
+                "id": "22945",
+                "name": "SUPPER BAKES MEAL KITS, Garlic Chicken with pasta (chicken not included)"
+            },
+            {
+                "offset": 7060,
+                "id": "22946",
+                "name": "SUPPER BAKES MEAL KITS, Herb Chicken with rice (chicken not included)"
+            },
+            {
+                "offset": 7061,
+                "id": "22947",
+                "name": "SUPPER BAKES MEAL KITS, Lemon Chicken with herb rice (chicken not included)"
+            },
+            {
+                "offset": 7062,
+                "id": "22948",
+                "name": "SUPPER BAKES MEAL KITS, Savory Pork Chops with herb stuffing (pork chop not included)"
+            },
+            {
+                "offset": 7063,
+                "id": "22949",
+                "name": "SUPPER BAKES MEAL KITS, Southwestern-Style Chicken w/rice (chicken not included)"
+            },
+            {
+                "offset": 7064,
+                "id": "22950",
+                "name": "SUPPER BAKES MEAL KITS, Traditional Roast Chicken with stuffing (chicken not included)"
+            },
+            {
+                "offset": 7065,
+                "id": "22951",
+                "name": "SWANSON, Chicken A La King"
+            },
+            {
+                "offset": 7066,
+                "id": "22952",
+                "name": "SWANSON, Chicken and Dumplings"
+            },
+            {
+                "offset": 7067,
+                "id": "22953",
+                "name": "Egg rolls, pork, refrigerated, heated"
+            },
+            {
+                "offset": 7068,
+                "id": "22954",
+                "name": "Egg rolls, chicken, refrigerated, heated"
+            },
+            {
+                "offset": 7069,
+                "id": "22955",
+                "name": "Egg rolls, vegetable, frozen, prepared"
+            },
+            {
+                "offset": 7070,
+                "id": "22956",
+                "name": "Lasagna, Vegetable, frozen, baked"
+            },
+            {
+                "offset": 7071,
+                "id": "22957",
+                "name": "Turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved"
+            },
+            {
+                "offset": 7072,
+                "id": "22958",
+                "name": "Rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki, and sweet and sour varieties)"
+            },
+            {
+                "offset": 7073,
+                "id": "22959",
+                "name": "Macaroni and cheese dinner with dry sauce mix, boxed, uncooked"
+            },
+            {
+                "offset": 7074,
+                "id": "22960",
+                "name": "Macaroni and cheese, dry mix, prepared with 2% milk and 80% stick margarine from dry mix"
+            },
+            {
+                "offset": 7075,
+                "id": "22961",
+                "name": "HOT POCKETS, meatballs & mozzarella stuffed sandwich, frozen"
+            },
+            {
+                "offset": 7076,
+                "id": "22962",
+                "name": "LEAN POCKETS, Ham N Cheddar"
+            },
+            {
+                "offset": 7077,
+                "id": "22963",
+                "name": "Lean Pockets, Meatballs & Mozzarella"
+            },
+            {
+                "offset": 7078,
+                "id": "22965",
+                "name": "SPAGHETTIOS, SpaghettiOs Original, easy open"
+            },
+            {
+                "offset": 7079,
+                "id": "22966",
+                "name": "SPAGHETTIOS, SpaghettiOs  with Meatballs - Easy Open"
+            },
+            {
+                "offset": 7080,
+                "id": "22969",
+                "name": "Chili with beans, microwavable bowls"
+            },
+            {
+                "offset": 7081,
+                "id": "22970",
+                "name": "Macaroni and cheese, frozen entree"
+            },
+            {
+                "offset": 7082,
+                "id": "22971",
+                "name": "Potato salad with egg"
+            },
+            {
+                "offset": 7083,
+                "id": "22972",
+                "name": "Pulled pork in barbecue sauce"
+            },
+            {
+                "offset": 7084,
+                "id": "22973",
+                "name": "Corn dogs, frozen, prepared"
+            },
+            {
+                "offset": 7085,
+                "id": "22974",
+                "name": "Chicken, nuggets, dark and white meat, precooked, frozen, not reheated"
+            },
+            {
+                "offset": 7086,
+                "id": "22975",
+                "name": "Chicken, nuggets, white meat, precooked, frozen, not reheated"
+            },
+            {
+                "offset": 7087,
+                "id": "22976",
+                "name": "Ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees"
+            },
+            {
+                "offset": 7088,
+                "id": "22977",
+                "name": "Lasagna with meat sauce, frozen, prepared"
+            },
+            {
+                "offset": 7089,
+                "id": "22978",
+                "name": "Chicken tenders, breaded, frozen, prepared"
+            },
+            {
+                "offset": 7090,
+                "id": "22979",
+                "name": "KASHI Black Bean Mango, frozen, unprepared"
+            },
+            {
+                "offset": 7091,
+                "id": "22980",
+                "name": "KASHI, Chicken and Chipotle BBQ Sauce with Mango, Frozen Entree"
+            },
+            {
+                "offset": 7092,
+                "id": "22981",
+                "name": "KASHI, Chicken Enchilada with Ancho Sauce, Frozen Entree"
+            },
+            {
+                "offset": 7093,
+                "id": "22982",
+                "name": "KASHI, STEAM MEAL, Chicken Fettuccine, Frozen Entree"
+            },
+            {
+                "offset": 7094,
+                "id": "22983",
+                "name": "KASHI, Chicken Florentine, Frozen Entree"
+            },
+            {
+                "offset": 7095,
+                "id": "22984",
+                "name": "KASHI, Chicken Pasta Pomodoro, Frozen Entree"
+            },
+            {
+                "offset": 7096,
+                "id": "22985",
+                "name": "KASHI, Lemongrass Coconut Chicken, Frozen Entree"
+            },
+            {
+                "offset": 7097,
+                "id": "22986",
+                "name": "KASHI Mayan Harvest Bake, frozen, unprepared"
+            },
+            {
+                "offset": 7098,
+                "id": "22987",
+                "name": "KASHI Pesto Pasta Primavera, frozen, unprepared"
+            },
+            {
+                "offset": 7099,
+                "id": "22988",
+                "name": "KASHI, Pilaf, 7 Whole Grain, unprepared"
+            },
+            {
+                "offset": 7100,
+                "id": "22989",
+                "name": "KASHI, Red Curry Chicken, Frozen Entree"
+            },
+            {
+                "offset": 7101,
+                "id": "22990",
+                "name": "KASHI, STEAM MEAL, Roasted Garlic Chicken Farfalle, Frozen Entree"
+            },
+            {
+                "offset": 7102,
+                "id": "22991",
+                "name": "KASHI, STEAM MEAL, Sesame Chicken, Frozen Entree"
+            },
+            {
+                "offset": 7103,
+                "id": "22992",
+                "name": "KASHI, Southwest Style Chicken, Frozen Entree"
+            },
+            {
+                "offset": 7104,
+                "id": "22993",
+                "name": "KASHI Spicy Black Bean Enchilada, frozen, unprepared"
+            },
+            {
+                "offset": 7105,
+                "id": "22994",
+                "name": "KASHI Spinach Artichoke Pasta, frozen, unprepared"
+            },
+            {
+                "offset": 7106,
+                "id": "22995",
+                "name": "KASHI, Sweet and Sour Chicken, Frozen Entree"
+            },
+            {
+                "offset": 7107,
+                "id": "22996",
+                "name": "KASHI Three Cheese Penne, frozen, unprepared"
+            },
+            {
+                "offset": 7108,
+                "id": "22997",
+                "name": "KASHI, Tuscan Veggie Bake, Frozen Entree"
+            },
+            {
+                "offset": 7109,
+                "id": "22998",
+                "name": "Rice and vermicelli mix, chicken flavor, unprepared"
+            },
+            {
+                "offset": 7110,
+                "id": "22999",
+                "name": "Rice and vermicelli mix, chicken flavor, prepared with 80% margarine"
+            },
+            {
+                "offset": 7111,
+                "id": "23000",
+                "name": "Beef, shoulder pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7112,
+                "id": "23001",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7113,
+                "id": "23002",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7114,
+                "id": "23003",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7115,
+                "id": "23004",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7116,
+                "id": "23005",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7117,
+                "id": "23006",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7118,
+                "id": "23007",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7119,
+                "id": "23008",
+                "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7120,
+                "id": "23030",
+                "name": "Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7121,
+                "id": "23031",
+                "name": "Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7122,
+                "id": "23032",
+                "name": "Beef, round, knuckle, tip side, steak, separable lean and fat , trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7123,
+                "id": "23033",
+                "name": "Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7124,
+                "id": "23034",
+                "name": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7125,
+                "id": "23035",
+                "name": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7126,
+                "id": "23036",
+                "name": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7127,
+                "id": "23037",
+                "name": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7128,
+                "id": "23038",
+                "name": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7129,
+                "id": "23039",
+                "name": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7130,
+                "id": "23040",
+                "name": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7131,
+                "id": "23041",
+                "name": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7132,
+                "id": "23042",
+                "name": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7133,
+                "id": "23043",
+                "name": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7134,
+                "id": "23044",
+                "name": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7135,
+                "id": "23045",
+                "name": "Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7136,
+                "id": "23046",
+                "name": "Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7137,
+                "id": "23047",
+                "name": "Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7138,
+                "id": "23048",
+                "name": "Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7139,
+                "id": "23049",
+                "name": "Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7140,
+                "id": "23050",
+                "name": "Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7141,
+                "id": "23051",
+                "name": "Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7142,
+                "id": "23052",
+                "name": "Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7143,
+                "id": "23053",
+                "name": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7144,
+                "id": "23054",
+                "name": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7145,
+                "id": "23055",
+                "name": "Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7146,
+                "id": "23056",
+                "name": "Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7147,
+                "id": "23057",
+                "name": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7148,
+                "id": "23058",
+                "name": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7149,
+                "id": "23059",
+                "name": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7150,
+                "id": "23060",
+                "name": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7151,
+                "id": "23061",
+                "name": "Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7152,
+                "id": "23062",
+                "name": "Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7153,
+                "id": "23063",
+                "name": "Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7154,
+                "id": "23064",
+                "name": "Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7155,
+                "id": "23065",
+                "name": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7156,
+                "id": "23066",
+                "name": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7157,
+                "id": "23067",
+                "name": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7158,
+                "id": "23068",
+                "name": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7159,
+                "id": "23069",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7160,
+                "id": "23070",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7161,
+                "id": "23071",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7162,
+                "id": "23072",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7163,
+                "id": "23073",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7164,
+                "id": "23074",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7165,
+                "id": "23075",
+                "name": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7166,
+                "id": "23076",
+                "name": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7167,
+                "id": "23077",
+                "name": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7168,
+                "id": "23078",
+                "name": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7169,
+                "id": "23079",
+                "name": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7170,
+                "id": "23080",
+                "name": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7171,
+                "id": "23081",
+                "name": "Beef, shoulder pot roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7172,
+                "id": "23082",
+                "name": "Beef, shoulder pot roast, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7173,
+                "id": "23083",
+                "name": "Beef, shoulder pot roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7174,
+                "id": "23084",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7175,
+                "id": "23085",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7176,
+                "id": "23086",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7177,
+                "id": "23087",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7178,
+                "id": "23088",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7179,
+                "id": "23089",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7180,
+                "id": "23090",
+                "name": "Beef, chuck for stew, separable lean and fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7181,
+                "id": "23091",
+                "name": "Beef, chuck for stew, separable lean and fat, select, cooked, braised"
+            },
+            {
+                "offset": 7182,
+                "id": "23092",
+                "name": "Beef, chuck for stew, separable lean and fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7183,
+                "id": "23093",
+                "name": "Beef, chuck for stew, separable lean and fat, all grades, raw"
+            },
+            {
+                "offset": 7184,
+                "id": "23094",
+                "name": "Beef, chuck for stew, separable lean and fat, select, raw"
+            },
+            {
+                "offset": 7185,
+                "id": "23095",
+                "name": "Beef, chuck for stew, separable lean and fat, choice, raw"
+            },
+            {
+                "offset": 7186,
+                "id": "23096",
+                "name": "Beef, chuck, under blade steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7187,
+                "id": "23097",
+                "name": "Beef, chuck, under blade steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7188,
+                "id": "23098",
+                "name": "Beef, chuck, under blade steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7189,
+                "id": "23099",
+                "name": "Beef, chuck, under blade pot roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7190,
+                "id": "23100",
+                "name": "Beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7191,
+                "id": "23101",
+                "name": "Beef, rib eye roast, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7192,
+                "id": "23102",
+                "name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7193,
+                "id": "23103",
+                "name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7194,
+                "id": "23104",
+                "name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7195,
+                "id": "23105",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7196,
+                "id": "23106",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7197,
+                "id": "23107",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7198,
+                "id": "23108",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7199,
+                "id": "23109",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7200,
+                "id": "23110",
+                "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7201,
+                "id": "23111",
+                "name": "Beef, shoulder pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7202,
+                "id": "23112",
+                "name": "Beef, shoulder pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7203,
+                "id": "23113",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7204,
+                "id": "23114",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7205,
+                "id": "23115",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7206,
+                "id": "23116",
+                "name": "Beef, chuck, under blade steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7207,
+                "id": "23117",
+                "name": "Beef, chuck, under blade steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7208,
+                "id": "23118",
+                "name": "Beef, chuck, under blade steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7209,
+                "id": "23119",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7210,
+                "id": "23120",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7211,
+                "id": "23121",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7212,
+                "id": "23122",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7213,
+                "id": "23123",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7214,
+                "id": "23124",
+                "name": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7215,
+                "id": "23125",
+                "name": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7216,
+                "id": "23126",
+                "name": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7217,
+                "id": "23127",
+                "name": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7218,
+                "id": "23128",
+                "name": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7219,
+                "id": "23129",
+                "name": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7220,
+                "id": "23130",
+                "name": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7221,
+                "id": "23131",
+                "name": "Beef, shoulder pot roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7222,
+                "id": "23132",
+                "name": "Beef, shoulder pot roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7223,
+                "id": "23133",
+                "name": "Beef, shoulder pot roast, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7224,
+                "id": "23134",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7225,
+                "id": "23135",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7226,
+                "id": "23136",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7227,
+                "id": "23137",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7228,
+                "id": "23138",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7229,
+                "id": "23139",
+                "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7230,
+                "id": "23140",
+                "name": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7231,
+                "id": "23141",
+                "name": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7232,
+                "id": "23142",
+                "name": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7233,
+                "id": "23143",
+                "name": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7234,
+                "id": "23144",
+                "name": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7235,
+                "id": "23145",
+                "name": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7236,
+                "id": "23146",
+                "name": "Beef, rib eye roast, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7237,
+                "id": "23147",
+                "name": "Beef, rib eye roast, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7238,
+                "id": "23148",
+                "name": "Beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7239,
+                "id": "23149",
+                "name": "Beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7240,
+                "id": "23150",
+                "name": "Beef, rib eye steak/roast, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7241,
+                "id": "23151",
+                "name": "Beef, rib eye steak/roast, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7242,
+                "id": "23152",
+                "name": "Beef, rib eye steak/roast, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7243,
+                "id": "23153",
+                "name": "Beef, rib eye steak/roast, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7244,
+                "id": "23154",
+                "name": "Beef, rib eye steak/roast, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7245,
+                "id": "23155",
+                "name": "Beef, rib eye steak/roast, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7246,
+                "id": "23156",
+                "name": "Beef, rib eye steak, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7247,
+                "id": "23157",
+                "name": "Beef, rib eye steak, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7248,
+                "id": "23158",
+                "name": "Beef, rib eye steak, bone-in, lip-on, separable lean only, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7249,
+                "id": "23159",
+                "name": "Beef, rib eye roast, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7250,
+                "id": "23160",
+                "name": "Beef, rib eye roast, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7251,
+                "id": "23161",
+                "name": "Beef, rib eye roast, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7252,
+                "id": "23162",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7253,
+                "id": "23163",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7254,
+                "id": "23164",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7255,
+                "id": "23165",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7256,
+                "id": "23166",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7257,
+                "id": "23167",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7258,
+                "id": "23168",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7259,
+                "id": "23169",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7260,
+                "id": "23170",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7261,
+                "id": "23171",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7262,
+                "id": "23172",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7263,
+                "id": "23173",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7264,
+                "id": "23174",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7265,
+                "id": "23175",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7266,
+                "id": "23176",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7267,
+                "id": "23177",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7268,
+                "id": "23178",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7269,
+                "id": "23179",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7270,
+                "id": "23180",
+                "name": "Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7271,
+                "id": "23181",
+                "name": "Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7272,
+                "id": "23182",
+                "name": "Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7273,
+                "id": "23183",
+                "name": "Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7274,
+                "id": "23184",
+                "name": "Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7275,
+                "id": "23185",
+                "name": "Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7276,
+                "id": "23186",
+                "name": "Beef, rib eye steak, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7277,
+                "id": "23187",
+                "name": "Beef, rib eye steak, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7278,
+                "id": "23188",
+                "name": "Beef, rib eye steak, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7279,
+                "id": "23189",
+                "name": "Beef, rib eye roast, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7280,
+                "id": "23190",
+                "name": "Beef, rib eye roast, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7281,
+                "id": "23191",
+                "name": "Beef, rib eye roast, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7282,
+                "id": "23192",
+                "name": "Beef, rib eye steak/roast, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7283,
+                "id": "23193",
+                "name": "Beef, rib eye steak/roast, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7284,
+                "id": "23194",
+                "name": "Beef, rib eye steak/roast, bone-in, lip-on, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7285,
+                "id": "23195",
+                "name": "Beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7286,
+                "id": "23196",
+                "name": "Beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7287,
+                "id": "23197",
+                "name": "Beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7288,
+                "id": "23198",
+                "name": "Beef, rib eye roast, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7289,
+                "id": "23199",
+                "name": "Beef, rib eye roast, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7290,
+                "id": "23200",
+                "name": "Beef, rib eye roast, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7291,
+                "id": "23201",
+                "name": "Beef, rib eye steak/roast, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7292,
+                "id": "23202",
+                "name": "Beef, rib eye steak/roast, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7293,
+                "id": "23213",
+                "name": "Beef, rib eye steak/roast, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7294,
+                "id": "23214",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7295,
+                "id": "23215",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7296,
+                "id": "23216",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7297,
+                "id": "23217",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7298,
+                "id": "23218",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7299,
+                "id": "23219",
+                "name": "Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7300,
+                "id": "23220",
+                "name": "Beef, ground, unspecified fat content, cooked"
+            },
+            {
+                "offset": 7301,
+                "id": "23221",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7302,
+                "id": "23222",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7303,
+                "id": "23223",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7304,
+                "id": "23224",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7305,
+                "id": "23225",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7306,
+                "id": "23226",
+                "name": "Beef, plate steak, boneless, outside skirt, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7307,
+                "id": "23227",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7308,
+                "id": "23228",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7309,
+                "id": "23229",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7310,
+                "id": "23230",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7311,
+                "id": "23231",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7312,
+                "id": "23232",
+                "name": "Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7313,
+                "id": "23233",
+                "name": "Beef, rib, back ribs, bone-in, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised"
+            },
+            {
+                "offset": 7314,
+                "id": "23234",
+                "name": "Beef, rib, back ribs, bone-in, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised"
+            },
+            {
+                "offset": 7315,
+                "id": "23235",
+                "name": "Beef, rib, back ribs, bone-in, separable lean and fat, trimmed to 0\" fat, select, cooked, braised"
+            },
+            {
+                "offset": 7316,
+                "id": "23236",
+                "name": "Beef, rib, back ribs, bone-in, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7317,
+                "id": "23237",
+                "name": "Beef, rib, back ribs, bone-in, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7318,
+                "id": "23238",
+                "name": "Beef, rib, back ribs, bone-in, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7319,
+                "id": "23239",
+                "name": "Beef, loin, top sirloin petite roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7320,
+                "id": "23240",
+                "name": "Beef, loin, top sirloin petite roast/filet, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7321,
+                "id": "23241",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean only, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7322,
+                "id": "23242",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7323,
+                "id": "23243",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean only, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7324,
+                "id": "23244",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7325,
+                "id": "23245",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean only, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7326,
+                "id": "23246",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean only, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7327,
+                "id": "23247",
+                "name": "Beef, top loin filet, boneless, separable lean only, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7328,
+                "id": "23248",
+                "name": "Beef, top loin filet, boneless, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7329,
+                "id": "23249",
+                "name": "Beef, top loin filet, boneless, separable lean only, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7330,
+                "id": "23250",
+                "name": "Beef, top loin petite roast, boneless, separable lean only, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7331,
+                "id": "23251",
+                "name": "Beef, top loin petite roast, boneless, separable lean only, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7332,
+                "id": "23252",
+                "name": "Beef, top loin petite roast, boneless, separable lean only, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7333,
+                "id": "23253",
+                "name": "Beef, top loin petite roast/filet, boneless, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7334,
+                "id": "23254",
+                "name": "Beef, top loin petite roast/filet, boneless, separable lean only, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7335,
+                "id": "23255",
+                "name": "Beef, top loin petite roast/filet, boneless, separable lean only, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7336,
+                "id": "23256",
+                "name": "Beef, loin, top sirloin filet, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7337,
+                "id": "23257",
+                "name": "Beef, loin, top sirloin filet, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7338,
+                "id": "23258",
+                "name": "Beef, loin, top sirloin filet, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7339,
+                "id": "23259",
+                "name": "Beef, loin, top sirloin petite roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7340,
+                "id": "23260",
+                "name": "Beef, loin, top sirloin petite roast, boneless, separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7341,
+                "id": "23261",
+                "name": "Beef, loin, top sirloin petite roast/filet, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7342,
+                "id": "23262",
+                "name": "Beef, loin, top sirloin petite roast/filet, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7343,
+                "id": "23263",
+                "name": "Beef, ribeye  petite roast/filet, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7344,
+                "id": "23264",
+                "name": "Beef, ribeye  petite roast/filet, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7345,
+                "id": "23265",
+                "name": "Beef, ribeye  petite roast/filet, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7346,
+                "id": "23266",
+                "name": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7347,
+                "id": "23267",
+                "name": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7348,
+                "id": "23268",
+                "name": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7349,
+                "id": "23269",
+                "name": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7350,
+                "id": "23270",
+                "name": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7351,
+                "id": "23271",
+                "name": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7352,
+                "id": "23272",
+                "name": "Beef, ribeye filet, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7353,
+                "id": "23273",
+                "name": "Beef, ribeye filet, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7354,
+                "id": "23274",
+                "name": "Beef, ribeye filet, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7355,
+                "id": "23275",
+                "name": "Beef, ribeye petite roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7356,
+                "id": "23276",
+                "name": "Beef, ribeye petite roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7357,
+                "id": "23277",
+                "name": "Beef, ribeye petite roast, boneless, separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7358,
+                "id": "23278",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7359,
+                "id": "23279",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7360,
+                "id": "23280",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7361,
+                "id": "23281",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7362,
+                "id": "23282",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7363,
+                "id": "23283",
+                "name": "Beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7364,
+                "id": "23284",
+                "name": "Beef, top loin filet, boneless, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7365,
+                "id": "23285",
+                "name": "Beef, top loin filet, boneless, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7366,
+                "id": "23286",
+                "name": "Beef, top loin filet, boneless, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7367,
+                "id": "23287",
+                "name": "Beef, top loin petite roast, boneless, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7368,
+                "id": "23288",
+                "name": "Beef, top loin petite roast, boneless, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7369,
+                "id": "23289",
+                "name": "Beef, top loin petite roast, boneless, separable lean and fat, trimmed to 1/8\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7370,
+                "id": "23290",
+                "name": "Beef, top loin petite roast/filet, boneless, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7371,
+                "id": "23291",
+                "name": "Beef, top loin petite roast/filet, boneless, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7372,
+                "id": "23292",
+                "name": "Beef, top loin petite roast/filet, boneless, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7373,
+                "id": "23293",
+                "name": "Beef, Australian, imported, grass-fed, ground, 85% lean / 15% fat, raw"
+            },
+            {
+                "offset": 7374,
+                "id": "23294",
+                "name": "Beef, Australian, imported, grass-fed, loin, tenderloin steak/roast, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 7375,
+                "id": "23295",
+                "name": "Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless, separable lean only, Aust. marble score 4/5, raw"
+            },
+            {
+                "offset": 7376,
+                "id": "23296",
+                "name": "Beef, Australian, imported, grass-fed,  external fat, raw"
+            },
+            {
+                "offset": 7377,
+                "id": "23297",
+                "name": "Beef, Australian, imported, grass-fed, seam fat, raw"
+            },
+            {
+                "offset": 7378,
+                "id": "23298",
+                "name": "Beef, Australian, imported, Wagyu, external fat, Aust. marble score 4/5, raw"
+            },
+            {
+                "offset": 7379,
+                "id": "23299",
+                "name": "Beef, Australian, imported, Wagyu, seam fat, Aust. marble score 4/5, raw"
+            },
+            {
+                "offset": 7380,
+                "id": "23300",
+                "name": "Beef, Australian, imported, Wagyu, external fat, Aust. marble score 9, raw"
+            },
+            {
+                "offset": 7381,
+                "id": "23301",
+                "name": "Beef, Australian, imported, Wagyu, seam fat, Aust. marble score 9, raw"
+            },
+            {
+                "offset": 7382,
+                "id": "23302",
+                "name": "Beef, Australian, imported, grass-fed, loin, tenderloin steak/roast, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 7383,
+                "id": "23303",
+                "name": "Beef, Australian, imported, grass-fed, loin, top loin steak/roast, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 7384,
+                "id": "23304",
+                "name": "Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless, separable lean and fat, Aust. marble score 4/5, raw"
+            },
+            {
+                "offset": 7385,
+                "id": "23305",
+                "name": "Beef, Australian, imported, grass-fed, loin, top loin steak/roast, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 7386,
+                "id": "23306",
+                "name": "Beef, Australian, imported, grass-fed, loin, top sirloin cap-off steak/roast, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 7387,
+                "id": "23307",
+                "name": "Beef, Australian, imported, grass-fed, rib, ribeye steak/roast lip-on, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 7388,
+                "id": "23308",
+                "name": "Beef, Australian, imported, grass-fed, round, bottom round steak/roast, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 7389,
+                "id": "23309",
+                "name": "Beef, Australian, imported, grass-fed, round, top round cap-off steak/roast, boneless, separable lean only, raw"
+            },
+            {
+                "offset": 7390,
+                "id": "23310",
+                "name": "Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless, separable lean only, Aust. marble score 9, raw"
+            },
+            {
+                "offset": 7391,
+                "id": "23311",
+                "name": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 4/5, raw"
+            },
+            {
+                "offset": 7392,
+                "id": "23312",
+                "name": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 9, raw"
+            },
+            {
+                "offset": 7393,
+                "id": "23313",
+                "name": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean only, Aust. marble score 4/5, raw"
+            },
+            {
+                "offset": 7394,
+                "id": "23314",
+                "name": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean only, Aust. marble score 9, raw"
+            },
+            {
+                "offset": 7395,
+                "id": "23315",
+                "name": "Beef, Australian, imported, grass-fed, loin, top sirloin cap-off steak/roast, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 7396,
+                "id": "23316",
+                "name": "Beef, Australian, imported, grass-fed, rib, ribeye steak/roast lip-on, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 7397,
+                "id": "23317",
+                "name": "Beef, Australian, imported, grass-fed, round, bottom round steak/roast, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 7398,
+                "id": "23318",
+                "name": "Beef, Australian, imported, grass-fed, round, top round cap-off steak/roast, boneless, separable lean and fat, raw"
+            },
+            {
+                "offset": 7399,
+                "id": "23319",
+                "name": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean and fat, Aust. marble score 4/5, raw"
+            },
+            {
+                "offset": 7400,
+                "id": "23320",
+                "name": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, separable lean and fat, Aust. marble score 9, raw"
+            },
+            {
+                "offset": 7401,
+                "id": "23321",
+                "name": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean and fat, Aust. marble score 4/5, raw"
+            },
+            {
+                "offset": 7402,
+                "id": "23322",
+                "name": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean and fat, Aust. marble score 9, raw"
+            },
+            {
+                "offset": 7403,
+                "id": "23323",
+                "name": "Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless, separable lean and fat, Aust. marble score 9, raw"
+            },
+            {
+                "offset": 7404,
+                "id": "23324",
+                "name": "Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7405,
+                "id": "23325",
+                "name": "Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7406,
+                "id": "23326",
+                "name": "Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7407,
+                "id": "23327",
+                "name": "Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7408,
+                "id": "23328",
+                "name": "Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7409,
+                "id": "23329",
+                "name": "Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7410,
+                "id": "23330",
+                "name": "Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7411,
+                "id": "23331",
+                "name": "Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7412,
+                "id": "23332",
+                "name": "Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7413,
+                "id": "23333",
+                "name": "Beef, round, eye of round steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7414,
+                "id": "23334",
+                "name": "Beef, round, eye of round steak, boneless separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7415,
+                "id": "23335",
+                "name": "Beef, round, eye of round steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7416,
+                "id": "23336",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7417,
+                "id": "23337",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7418,
+                "id": "23338",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7419,
+                "id": "23339",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7420,
+                "id": "23340",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7421,
+                "id": "23341",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7422,
+                "id": "23342",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7423,
+                "id": "23343",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7424,
+                "id": "23344",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7425,
+                "id": "23345",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7426,
+                "id": "23346",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7427,
+                "id": "23347",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7428,
+                "id": "23348",
+                "name": "Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7429,
+                "id": "23349",
+                "name": "Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7430,
+                "id": "23350",
+                "name": "Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7431,
+                "id": "23351",
+                "name": "Beef, round, eye of round steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7432,
+                "id": "23352",
+                "name": "Beef, round, eye of round steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7433,
+                "id": "23353",
+                "name": "Beef, round, eye of round steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7434,
+                "id": "23354",
+                "name": "Beef, round, top round steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7435,
+                "id": "23355",
+                "name": "Beef, round, top round steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7436,
+                "id": "23356",
+                "name": "Beef, round, top round steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7437,
+                "id": "23357",
+                "name": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7438,
+                "id": "23358",
+                "name": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7439,
+                "id": "23359",
+                "name": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7440,
+                "id": "23360",
+                "name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7441,
+                "id": "23361",
+                "name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7442,
+                "id": "23362",
+                "name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7443,
+                "id": "23363",
+                "name": "Beef, round, eye of round steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7444,
+                "id": "23364",
+                "name": "Beef, round, eye of round steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7445,
+                "id": "23365",
+                "name": "Beef, round, eye of round steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7446,
+                "id": "23366",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7447,
+                "id": "23367",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7448,
+                "id": "23368",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7449,
+                "id": "23369",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7450,
+                "id": "23370",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7451,
+                "id": "23371",
+                "name": "Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7452,
+                "id": "23372",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw"
+            },
+            {
+                "offset": 7453,
+                "id": "23373",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw"
+            },
+            {
+                "offset": 7454,
+                "id": "23374",
+                "name": "Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+            },
+            {
+                "offset": 7455,
+                "id": "23375",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7456,
+                "id": "23376",
+                "name": "Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7457,
+                "id": "23377",
+                "name": "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7458,
+                "id": "23378",
+                "name": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted"
+            },
+            {
+                "offset": 7459,
+                "id": "23379",
+                "name": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+            },
+            {
+                "offset": 7460,
+                "id": "23380",
+                "name": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, cooked, roasted"
+            },
+            {
+                "offset": 7461,
+                "id": "23381",
+                "name": "Beef, round, eye of round steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7462,
+                "id": "23382",
+                "name": "Beef, round, eye of round steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7463,
+                "id": "23383",
+                "name": "Beef, round, eye of round steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7464,
+                "id": "23384",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7465,
+                "id": "23385",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7466,
+                "id": "23386",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7467,
+                "id": "23387",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, select, raw"
+            },
+            {
+                "offset": 7468,
+                "id": "23388",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+            },
+            {
+                "offset": 7469,
+                "id": "23389",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7470,
+                "id": "23390",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7471,
+                "id": "23391",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7472,
+                "id": "23392",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled"
+            },
+            {
+                "offset": 7473,
+                "id": "23393",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, select, cooked, grilled"
+            },
+            {
+                "offset": 7474,
+                "id": "23394",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, all grades, cooked, grilled"
+            },
+            {
+                "offset": 7475,
+                "id": "23395",
+                "name": "Beef, loin, top loin steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, choice, raw"
+            },
+            {
+                "offset": 7476,
+                "id": "23397",
+                "name": "Beef, New Zealand, imported, bolar blade, separable lean only, cooked, fast roasted"
+            },
+            {
+                "offset": 7477,
+                "id": "23398",
+                "name": "Beef, New Zealand, imported, bolar blade, separable lean only, raw"
+            },
+            {
+                "offset": 7478,
+                "id": "23399",
+                "name": "Beef, New Zealand, imported, brisket navel end, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 7479,
+                "id": "23401",
+                "name": "Beef, New Zealand, imported, brisket navel end, separable lean only, raw"
+            },
+            {
+                "offset": 7480,
+                "id": "23402",
+                "name": "Beef, New Zealand, imported, brisket point end, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 7481,
+                "id": "23403",
+                "name": "Beef, New Zealand, imported, brisket point end, separable lean only, raw"
+            },
+            {
+                "offset": 7482,
+                "id": "23404",
+                "name": "Beef, New Zealand, imported, chuck eye roll, separable lean only, raw"
+            },
+            {
+                "offset": 7483,
+                "id": "23405",
+                "name": "Beef, New Zealand, imported, chuck eye roll, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 7484,
+                "id": "23406",
+                "name": "Beef, New Zealand, imported, cube roll, separable lean only, cooked, fast roasted"
+            },
+            {
+                "offset": 7485,
+                "id": "23407",
+                "name": "Beef, New Zealand, imported, cube roll, separable lean only, raw"
+            },
+            {
+                "offset": 7486,
+                "id": "23408",
+                "name": "Beef, New Zealand, imported, eye round, separable lean only, cooked, slow roasted"
+            },
+            {
+                "offset": 7487,
+                "id": "23409",
+                "name": "Beef, New Zealand, imported, eye round, separable lean only, raw"
+            },
+            {
+                "offset": 7488,
+                "id": "23410",
+                "name": "Beef, New Zealand, imported, flank, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 7489,
+                "id": "23411",
+                "name": "Beef, New Zealand, imported, flank, separable lean only, raw"
+            },
+            {
+                "offset": 7490,
+                "id": "23412",
+                "name": "Beef, New Zealand, imported, flat, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 7491,
+                "id": "23413",
+                "name": "Beef, New Zealand, imported, flat, separable lean only, raw"
+            },
+            {
+                "offset": 7492,
+                "id": "23414",
+                "name": "Beef, New Zealand, imported, variety meats and by-products, heart, cooked, boiled"
+            },
+            {
+                "offset": 7493,
+                "id": "23415",
+                "name": "Beef, New Zealand, imported, variety meats and by-products, heart, raw"
+            },
+            {
+                "offset": 7494,
+                "id": "23416",
+                "name": "Beef, New Zealand, imported, hind shin, separable lean only, cooked, braised"
+            },
+            {
+                "offset": 7495,
+                "id": "23417",
+                "name": "Beef, New Zealand, imported, hind shin, separable lean only, raw"
+            },
+            {
+                "offset": 7496,
+                "id": "23418",
+                "name": "Beef, New Zealand, imported, inside, raw"
+            },
+            {
+                "offset": 7497,
+                "id": "23419",
+                "name": "Beef, New Zealand, imported, intermuscular fat, cooked"
+            },
+            {
+                "offset": 7498,
+                "id": "23420",
+                "name": "Beef, New Zealand, imported, intermuscular fat, raw"
+            },
+            {
+                "offset": 7499,
+                "id": "23421",
+                "name": "Beef, New Zealand, imported, variety meats and by-products, kidney, cooked, boiled"
+            }
+        ]
+    }
+}
