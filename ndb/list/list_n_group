@@ -1,0 +1,76 @@
+{
+    "list": {
+        "lt": "n",
+        "start": 0,
+        "end": 12,
+        "total": 13,
+        "sort": "id",
+        "item": [
+            {
+                "offset": 0,
+                "id": "1",
+                "name": "Amino Acids"
+            },
+            {
+                "offset": 1,
+                "id": "2",
+                "name": "Anthocyanidins"
+            },
+            {
+                "offset": 2,
+                "id": "3",
+                "name": "Flavan-3-ols"
+            },
+            {
+                "offset": 3,
+                "id": "4",
+                "name": "Flavanones"
+            },
+            {
+                "offset": 4,
+                "id": "5",
+                "name": "Flavones"
+            },
+            {
+                "offset": 5,
+                "id": "6",
+                "name": "Flavonols"
+            },
+            {
+                "offset": 6,
+                "id": "7",
+                "name": "Isoflavones"
+            },
+            {
+                "offset": 7,
+                "id": "8",
+                "name": "Proximates"
+            },
+            {
+                "offset": 8,
+                "id": "9",
+                "name": "Vitamins"
+            },
+            {
+                "offset": 9,
+                "id": "10",
+                "name": "Lipids"
+            },
+            {
+                "offset": 10,
+                "id": "11",
+                "name": "Minerals"
+            },
+            {
+                "offset": 11,
+                "id": "12",
+                "name": "Other"
+            },
+            {
+                "offset": 12,
+                "id": "13",
+                "name": "Proanthocyanidin"
+            }
+        ]
+    }
+}
