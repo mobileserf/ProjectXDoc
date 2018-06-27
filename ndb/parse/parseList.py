@@ -5,6 +5,7 @@ import os, sys
 from pprint import pprint
 import json
 
+
 class MultiIndex:
        def __init__(self):
             self.FirstSecond=dict();
@@ -34,6 +35,11 @@ class MultiIndex:
        def printDetails(self):
            for id, fg in self.FirstSecond.items():
              print( '{} = {}').format(id, fg)
+
+       def printJavaObj(self):
+           print( '[')
+           print ', '.join('{{i:{},n:{}}}'.format(id, fg) for id, fg in self.FirstSecond.items())
+           print( ']')
 
 # NutritionMap map<id, NGDetails>
 class  ParseList(MultiIndex):

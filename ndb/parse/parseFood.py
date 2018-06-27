@@ -11,38 +11,81 @@ import json
 
 #import parseList
 
+#============================ FOOD MEAASURING LABEL START
+
+class UniqueLabels(object):
+       def __init__(self):
+           self.labelId=dict(); #map<label, id>
+           self.idLabel=dict(); #map<id, label>
+           self.id = 0
+
+       def getId(self, label):
+           id = self.labelId.get(label, None)
+           if id is None:
+               self.id += 1;
+               id = self.id 
+               self.labelId[label] = id;
+               self.idLabel[id] = label;
+           #else:
+           #   print "present id:", id, "label:", label;
+           return id;
+ 
+       def printDetails(self, space=0):
+           for id, label  in self.idLabel.items():
+              print space*' ', "id:", id, "label:", label;
+
+uniqueLabels = UniqueLabels();
+
 class FoodMeasure(object):
        def __init__(self, label, gramEqv, quantity):
+            global uniqueLabels;
             self.label = label.encode('utf-8').strip();
             self.gramEqv = float(gramEqv);
             self.quantity = float(quantity);
+            self.id = uniqueLabels.getId(self.label);
        def printDetails(self, space=0):
-           print space*' ', "label: ", self.label, " gram equv: ", self.gramEqv, " quantity: ", self.quantity
+           print space*' ', "id: ", self.id,  "label: ", self.label, " gram equv: ", self.gramEqv, " quantity: ", self.quantity
+
+#========================= FOOD MEAASURING LABEL END
+
 
 class FoodNutrientDefault(object):
-     def __init__(self, group, unit):
-           this.group = group;
-           this.unit = unit;
+     def __init__(self, nutriantName, group, unit):
+           self.group = group;
+           self.unit = unit;
+           self.nutriantName = nutriantName;
 
 class FoodNutrientGroup(object):
        def __init__(self):
            self.nutriantGroup=dict(); #map<id, Default>
 
-       def isDefault(self, nutriantId, group, unit):
+       def isDefault(self, nutriantId, nutriantName, group, unit):
            value = self.nutriantGroup.get(nutriantId, None)
            if value is None:
-               dictionary[nutriantId] = FoodNutrientDefault(group, unit)
+               self.nutriantGroup[nutriantId] = FoodNutrientDefault(nutriantName, group, unit)
            elif value.group != group or value.unit != unit:
              return False;
            return True;
  
-#foodNutritionDefault = FoodNutrientGroup();
+       def printDetails(self, space=0):
+           for id, fnd  in self.nutriantGroup.items():
+              print space*' ', "nid:", id, "unit:", fnd.unit, "group:", fnd.group, "name:", fnd.nutriantName;
+
+gFoodNutritionDefault = FoodNutrientGroup();
 
 class FoodNutrient(object):
        def __init__(self , jNutriant):
+           global gFoodNutritionDefault;
            self.nutrientId = int(jNutriant['nutrient_id'])
            self.group = jNutriant['group'].encode('utf-8').strip()
            self.unit = jNutriant['unit'].encode('utf-8').strip()
+           nutrientName = jNutriant['name'].encode('utf-8').strip()
+
+           #add default Nutrient Groups
+           self.default = False;
+           if gFoodNutritionDefault.isDefault(self.nutrientId, nutrientName, self.group, self.unit):
+                self.default = True; 
+ 
            #TODO, add default nutrition m group and unit 
            self.values = list();
            self.values.append(float(jNutriant['value']));
@@ -66,15 +109,18 @@ class FoodNutrient(object):
            return not self.isZeroNutriant();
 
        def printDetails(self, space=0):
-           print space*' ', "nutrientId: ", self.nutrientId, " unit: ", self.unit, " group: ", self.group
-           print space*' ', "values: ", ','.join(map(str, self.values))
+           #print space*' ', self.nutrientId, ":[", ','.join(map(str, self.values)), "]"
+           if self.default == False: 
+              print space*' ', "nid: ", self.nutrientId, " unit: ", self.unit, " group: ", self.group, "values: ", ','.join(map(str, self.values));
+           else:
+              print "[\"id\":", self.nutrientId, "\"v\":", "[", ','.join(map(str, self.values)), "]]";
 
 
 class Food(object):
        def __init__(self , jFood, foodType):
          jNutriants  = jFood['nutrients'];  
-         self.foodGroup = jFood['fg'];
-         self.foodName = jFood['name'];
+         self.foodGroup = jFood['fg'].encode('utf-8').strip();
+         self.foodName = jFood['name'].encode('utf-8').strip();
 
          #add all measures
          self.measures = list(); #list of FoodMeasure for this food
@@ -128,7 +174,20 @@ class FoodDetails(object):
               #print "Reading " + food
               self.getFoodDetails(food);
          
+       def getFoodNutritionDefault(self):
+           #print default food nutrition details
+           global gFoodNutritionDefault;
+           return gFoodNutritionDefault;
+
+       def getUniqueLabels(self):
+           #print default food nutrition details
+           global uniqueLabels;
+           return uniqueLabels;
+
        def printDetails(self):
+           #print default food nutrition details
+           #global gFoodNutritionDefault;
+           #gFoodNutritionDefault.printDetails();
            for id, food  in self.foodName.items():
               print "id: ", id;
               food.printDetails(4);

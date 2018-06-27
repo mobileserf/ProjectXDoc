@@ -20,18 +20,22 @@ gNtrGroup = parseList.ParseList();
 gNtrGroupFile=gFoodListDir + "/list_n_group"
 gNtrGroup.getList(gNtrGroupFile);
 #gNtrGroup.printDetails();
+#gNtrGroup.printJavaObj();
 
 print "Get All Food Group:" 
 gFoodGroup = parseList.ParseList();
 gFoodGroupFile=gFoodListDir + "/list_g_0"
 gFoodGroup.getList(gFoodGroupFile);
 #gFoodGroup.printDetails();
+#gFoodGroup.printJavaObj();
+
 
 print "Get All Nutrition:" 
 gNutritions = parseList.ParseList();
 gNutritionsFile=gFoodListDir + "/list_n_0"
 gNutritions.getList(gNutritionsFile);
 #gNutritions.printDetails();
+#gNutritions.printJavaObj();
 
 
 print "Get All Foods:" 
@@ -41,10 +45,18 @@ for file in files:
     gFoods.getList(file);
 #gFoods.printDetails();
 #print gFoods.getSize();
+#gFoods.printJavaObj();
 
 gFoodDir=gBasePath + "/food"
 foods = parseFood.FoodDetails();
 foods.getAllFoodDetails(gFoodDir);
+
+nutriants = foods.getFoodNutritionDefault();
+nutriants.printDetails();
+
+labels = foods.getUniqueLabels();
+labels.printDetails();
+
 foods.printDetails();
 sys.exit(0)
 
