@@ -5,6 +5,8 @@ list_n_group =  added by ashly; it represents untrition group names
 
 n list_n_0 file, 208 = Energy & 268 = Energy, changing it to 268 Energy1 for programming purpose
 
+list_n_labeling is copied from list_n_0 and contains information for labeling
+
 look at http://nutritiondata.self.com/facts/breakfast-cereals/1631/2
 
 NutritionInformation -  How nutrition charts are derived, look http://nutritiondata.self.com/facts/breakfast-cereals/1631/1

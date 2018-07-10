@@ -32,4 +32,57 @@ common-  ndb, food group
                                *: food.type(Default Full), 100, 1  
   
   nutrition list - id, group, unit (default is gram) 
-                   [list of values that equal to size of "mesaures list"] 
+                   [list of values that equal to size of "mesaures list"]
+
+
+javascript 
+==========
+map to json => localStorage.myMap = JSON.stringify(Array.from(map.entries()));
+json to map => map = new Map(JSON.parse(localStorage.myMap));
+
+
+function mapToJson(map) {
+    return JSON.stringify([...map]);
+}
+function jsonToMap(jsonStr) {
+    return new Map(JSON.parse(jsonStr));
+}
+
+    
+ fodd will be stored as <id, {array of labels, arrayof array of items} >
+
+ e.g 
+
+
+[
+	[
+		45000027, {
+			"l": ["full", "Cup (64g)"],
+			"g": [100, 64],
+			"208": [55.0, 35.0],
+			"209": [55.0, 35.0]
+		}
+	]
+]
+
+
+Sample run following in node
+===========================
+function mapToJson(map) {
+    return JSON.stringify([...map]);
+}
+function jsonToMap(jsonStr) {
+    return new Map(JSON.parse(jsonStr));
+}
+
+let mynutr = '[ [45000027, {"l": ["full", "Cup (64g)"], "g": [100, 64], "208": [55.0, 35.0], "209": [55.0, 35.0]}], [45000028, {"l": ["full", "Cup (64g)"], "g": [100, 64], "208": [55.0, 35.0], "209": [55.0, 35.0]}] ]'
+
+
+//console.log(jsonToMap(mynutr))
+let  mymap = jsonToMap(mynutr);
+//console.log(mymap.get(45000027))
+let myfood = mymap.get(45000028)
+console.log(myfood["208"][0])
+console.log(myfood["210"])
+
+

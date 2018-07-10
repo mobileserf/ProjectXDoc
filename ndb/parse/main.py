@@ -47,17 +47,19 @@ for file in files:
 #print gFoods.getSize();
 #gFoods.printJavaObj();
 
+#gFoodDir=gBasePath + "/food_test"
 gFoodDir=gBasePath + "/food"
 foods = parseFood.FoodDetails();
 foods.getAllFoodDetails(gFoodDir);
 
 nutriants = foods.getFoodNutritionDefault();
-nutriants.printDetails();
+#nutriants.printDetails();
 
 labels = foods.getUniqueLabels();
-labels.printDetails();
+#labels.printDetails();
 
-foods.printDetails();
+#foods.printDetails();
+foods.printJsonMap();
 sys.exit(0)
 
 

@@ -73,6 +73,8 @@ class FoodNutrientGroup(object):
 
 gFoodNutritionDefault = FoodNutrientGroup();
 
+#========================= FOOD NUTRIENT LABEL END
+
 class FoodNutrient(object):
        def __init__(self , jNutriant):
            global gFoodNutritionDefault;
@@ -115,6 +117,9 @@ class FoodNutrient(object):
            else:
               print "[\"id\":", self.nutrientId, "\"v\":", "[", ','.join(map(str, self.values)), "]]";
 
+       def getJsonStr(self):
+           tmp = '"{0}":[{1}]'.format(self.nutrientId ,  ','.join(map(str, self.values))) ;
+           return tmp; 
 
 class Food(object):
        def __init__(self , jFood, foodType):
@@ -147,6 +152,16 @@ class Food(object):
                measure.printDetails(space)
            for nutrition in self.nutritions:
               nutrition.printDetails(space);
+
+       def getJsonStr(self):
+           str = '"l":[';
+           str +=  ', '.join(['"{0}"'.format(k.label) for k in self.measures])
+           str += ']'
+           str += ',"g":[';
+           str +=  ', '.join(['{0}'.format(k.gramEqv) for k in self.measures])
+           str += ']'
+           str += ',' +  ', '.join(['{0}'.format(k.getJsonStr()) for k in self.nutritions])
+           return str; 
 
 
 #contains map<id, Food>
@@ -191,6 +206,9 @@ class FoodDetails(object):
            for id, food  in self.foodName.items():
               print "id: ", id;
               food.printDetails(4);
+
+       def printJsonMap(self):
+           print '[' + ', '.join(['[{0}, {{ {1} }}]'.format(k, v.getJsonStr()) for k,v in self.foodName.items()]) + ']'
 
        def printFood(self, id):
            food = self.foodName.get(id); 

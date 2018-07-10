@@ -1,0 +1,1085 @@
+{
+    "list": {
+        "lt": "n",
+        "start": 0,
+        "end": 190,
+        "total": 190,
+        "sr": "28",
+        "sort": "id",
+        "item": [
+            {
+                "offset": 0,
+                "id": "203",
+                "name": "Protein",
+                "unit": "g", 
+                "div": 50
+            },
+            {
+                "offset": 1,
+                "id": "204",
+                "name": "Total lipid (fat)"
+            },
+            {
+                "offset": 2,
+                "id": "205",
+                "name": "Carbohydrate, by difference"
+                "displayName": "Total Carbohydrate"
+                "unit": "g", 
+                "div": 300
+            },
+            {
+                "offset": 3,
+                "id": "207",
+                "name": "Ash"
+                "unit": "g", 
+            },
+            {
+                "offset": 4,
+                "id": "208",
+                "name": "Energy"
+            },
+            {
+                "offset": 5,
+                "id": "209",
+                "name": "Starch"
+                "displayName": "Starch"
+                "unit": "g", 
+            },
+            {
+                "offset": 6,
+                "id": "210",
+                "name": "Sucrose"
+                "unit": "mg", 
+            },
+            {
+                "offset": 7,
+                "id": "211",
+                "name": "Glucose (dextrose)"
+                "displayName": "Glucose"
+                "unit": "mg", 
+            },
+            {
+                "offset": 8,
+                "id": "212",
+                "name": "Fructose"
+                "unit": "mg", 
+            },
+            {
+                "offset": 9,
+                "id": "213",
+                "name": "Lactose"
+                "unit": "mg", 
+            },
+            {
+                "offset": 10,
+                "id": "214",
+                "name": "Maltose"
+                "unit": "mg", 
+            },
+            {
+                "offset": 11,
+                "id": "221",
+                "name": "Alcohol, ethyl"
+                "unit": "g", 
+            },
+            {
+                "offset": 12,
+                "id": "255",
+                "name": "Water"
+                "unit": "g", 
+            },
+            {
+                "offset": 13,
+                "id": "257",
+                "name": "Adjusted Protein"
+            },
+            {
+                "offset": 14,
+                "id": "262",
+                "name": "Caffeine"
+                "unit": "mg", 
+            },
+            {
+                "offset": 15,
+                "id": "263",
+                "name": "Theobromine"
+                "unit": "mg", 
+            },
+            {
+                "offset": 16,
+                "id": "268",
+                "name": "Energy1"
+            },
+            {
+                "offset": 17,
+                "id": "269",
+                "name": "Sugars, total"
+                "displayName": "Sugars"
+                "unit": "g", 
+            },
+            {
+                "offset": 18,
+                "id": "287",
+                "name": "Galactose"
+                "unit": "mg", 
+            },
+            {
+                "offset": 19,
+                "id": "291",
+                "name": "Fiber, total dietary"
+                "displayName": "Dietary Fiber"
+                "unit": "g", 
+                "div": 25
+                 
+            },
+            {
+                "offset": 20,
+                "id": "301",
+                "name": "Calcium, Ca"
+                "unit": "mg", 
+                "div": 1000
+            },
+            {
+                "offset": 21,
+                "id": "303",
+                "name": "Iron, Fe"
+                "unit": "mg", 
+                "div": 18
+            },
+            {
+                "offset": 22,
+                "id": "304",
+                "name": "Magnesium"
+                "unit": "mg", 
+                "div": 400
+            },
+            {
+                "offset": 23,
+                "id": "305",
+                "name": "Phosphorus, P"
+                "unit": "mg", 
+                "div": 1000
+            },
+            {
+                "offset": 24,
+                "id": "306",
+                "name": "Potassium, K"
+                "unit": "mg", 
+                "div": 3500
+            },
+            {
+                "offset": 25,
+                "id": "307",
+                "name": "Sodium, Na"
+                "unit": "mg", 
+                "div": 2400
+            },
+            {
+                "offset": 26,
+                "id": "309",
+                "name": "Zinc, Zn"
+                "unit": "mg", 
+                "div": 15
+            },
+            {
+                "offset": 27,
+                "id": "312",
+                "name": "Copper, Cu"
+                "unit": "mg", 
+                "div": 2
+            },
+            {
+                "offset": 28,
+                "id": "313",
+                "name": "Fluoride, F"
+            },
+            {
+                "offset": 29,
+                "id": "315",
+                "name": "Manganese, Mn"
+                "unit": "mg", 
+            },
+            {
+                "offset": 30,
+                "id": "317",
+                "name": "Selenium, Se"
+                "unit": "µg", 
+                "div": 70
+            },
+            {
+                "offset": 31,
+                "id": "318",
+                "name": "Vitamin A, IU"
+                "unit": "IU", 
+                "div": 5000
+            },
+            {
+                "offset": 32,
+                "id": "319",
+                "name": "Retinol"
+                "unit": "µg", 
+            },
+            {
+                "offset": 33,
+                "id": "320",
+                "name": "Vitamin A, RAE"
+            },
+            {
+                "offset": 34,
+                "id": "321",
+                "name": "Carotene, beta"
+                "displayName": "Beta Carotene"
+                "unit": "µg", 
+            },
+            {
+                "offset": 35,
+                "id": "322",
+                "name": "Carotene, alpha"
+                "displayName": "Alpha Carotene"
+                "unit": "µg", 
+            },
+            {
+                "offset": 36,
+                "id": "323",
+                "name": "Vitamin E (alpha-tocopherol)"
+                "unit": "mg", 
+            },
+            {
+                "offset": 37,
+                "id": "324",
+                "name": "Vitamin D"
+            },
+            {
+                "offset": 38,
+                "id": "325",
+                "name": "Vitamin D2 (ergocalciferol)"
+            },
+            {
+                "offset": 39,
+                "id": "326",
+                "name": "Vitamin D3 (cholecalciferol)"
+            },
+            {
+                "offset": 40,
+                "id": "328",
+                "name": "Vitamin D (D2 + D3)"
+            },
+            {
+                "offset": 41,
+                "id": "334",
+                "name": "Cryptoxanthin, beta"
+                "displayName": "Beta Cryptoxanthin"
+                "unit": "µg", 
+            },
+            {
+                "offset": 42,
+                "id": "337",
+                "name": "Lycopene"
+                "unit": "µg", 
+            },
+            {
+                "offset": 43,
+                "id": "338",
+                "name": "Lutein + zeaxanthin"
+                "unit": "µg", 
+            },
+            {
+                "offset": 44,
+                "id": "341",
+                "name": "Tocopherol, beta"
+                "displayName": "Beta Tocopherol"
+                "unit": "mg", 
+            },
+            {
+                "offset": 45,
+                "id": "342",
+                "name": "Tocopherol, gamma"
+                "displayName": "Gamma Tocopherol"
+                "unit": "mg", 
+            },
+            {
+                "offset": 46,
+                "id": "343",
+                "name": "Tocopherol, delta"
+                "displayName": "Delta Tocopherol"
+                "unit": "mg", 
+            },
+            {
+                "offset": 47,
+                "id": "344",
+                "name": "Tocotrienol, alpha"
+            },
+            {
+                "offset": 48,
+                "id": "345",
+                "name": "Tocotrienol, beta"
+            },
+            {
+                "offset": 49,
+                "id": "346",
+                "name": "Tocotrienol, gamma"
+            },
+            {
+                "offset": 50,
+                "id": "347",
+                "name": "Tocotrienol, delta"
+            },
+            {
+                "offset": 51,
+                "id": "401",
+                "name": "Vitamin C, total ascorbic acid"
+                "displayName": "Vitamin C"
+                "unit": "mg", 
+                "div": 60
+            },
+            {
+                "offset": 52,
+                "id": "404",
+                "name": "Thiamin"
+                "unit": "mg", 
+                "div": 1.5
+            },
+            {
+                "offset": 53,
+                "id": "405",
+                "name": "Riboflavin"
+                "unit": "mg", 
+                "div": 1.7
+            },
+            {
+                "offset": 54,
+                "id": "406",
+                "name": "Niacin"
+                "unit": "mg", 
+                "div": 20
+            },
+            {
+                "offset": 55,
+                "id": "410",
+                "name": "Pantothenic acid"
+                "unit": "mg", 
+                "div": 10
+            },
+            {
+                "offset": 56,
+                "id": "415",
+                "name": "Vitamin B-6"
+                "unit": "mg", 
+                "div": 2
+            },
+            {
+                "offset": 57,
+                "id": "417",
+                "name": "Folate, total"
+                "displayName": "Folate"
+                "unit": "µg", 
+                "div": 400
+            },
+            {
+                "offset": 58,
+                "id": "418",
+                "name": "Vitamin B-12"
+                "unit": "µg", 
+                "div": 6
+            },
+            {
+                "offset": 59,
+                "id": "421",
+                "name": "Choline, total"
+                "displayName": "Choline"
+                "unit": "mg", 
+            },
+            {
+                "offset": 60,
+                "id": "428",
+                "name": "Menaquinone-4"
+            },
+            {
+                "offset": 61,
+                "id": "429",
+                "name": "Dihydrophylloquinone"
+            },
+            {
+                "offset": 62,
+                "id": "430",
+                "name": "Vitamin K (phylloquinone)"
+                "displayName": "Vitamin K"
+                "unit": "µg", 
+                "div": 2
+            },
+            {
+                "offset": 63,
+                "id": "431",
+                "name": "Folic acid"
+                "unit": "µg", 
+            },
+            {
+                "offset": 64,
+                "id": "432",
+                "name": "Folate, food"
+                "unit": "µg", 
+            },
+            {
+                "offset": 65,
+                "id": "435",
+                "name": "Folate, DFE"
+                "displayName": "Dietary Folate Equivalents",
+                "unit": "µg" 
+            },
+            {
+                "offset": 66,
+                "id": "454",
+                "name": "Betaine"
+                "unit": "mg" 
+            },
+            {
+                "offset": 67,
+                "id": "501",
+                "name": "Tryptophan"
+            },
+            {
+                "offset": 68,
+                "id": "502",
+                "name": "Threonine"
+            },
+            {
+                "offset": 69,
+                "id": "503",
+                "name": "Isoleucine"
+            },
+            {
+                "offset": 70,
+                "id": "504",
+                "name": "Leucine"
+            },
+            {
+                "offset": 71,
+                "id": "505",
+                "name": "Lysine"
+            },
+            {
+                "offset": 72,
+                "id": "506",
+                "name": "Methionine"
+            },
+            {
+                "offset": 73,
+                "id": "507",
+                "name": "Cystine"
+            },
+            {
+                "offset": 74,
+                "id": "508",
+                "name": "Phenylalanine"
+            },
+            {
+                "offset": 75,
+                "id": "509",
+                "name": "Tyrosine"
+            },
+            {
+                "offset": 76,
+                "id": "510",
+                "name": "Valine"
+            },
+            {
+                "offset": 77,
+                "id": "511",
+                "name": "Arginine"
+            },
+            {
+                "offset": 78,
+                "id": "512",
+                "name": "Histidine"
+            },
+            {
+                "offset": 79,
+                "id": "513",
+                "name": "Alanine"
+            },
+            {
+                "offset": 80,
+                "id": "514",
+                "name": "Aspartic acid"
+            },
+            {
+                "offset": 81,
+                "id": "515",
+                "name": "Glutamic acid"
+            },
+            {
+                "offset": 82,
+                "id": "516",
+                "name": "Glycine"
+            },
+            {
+                "offset": 83,
+                "id": "517",
+                "name": "Proline"
+            },
+            {
+                "offset": 84,
+                "id": "518",
+                "name": "Serine"
+            },
+            {
+                "offset": 85,
+                "id": "521",
+                "name": "Hydroxyproline"
+            },
+            {
+                "offset": 86,
+                "id": "573",
+                "name": "Vitamin E, added"
+            },
+            {
+                "offset": 87,
+                "id": "578",
+                "name": "Vitamin B-12, added"
+            },
+            {
+                "offset": 88,
+                "id": "601",
+                "name": "Cholesterol"
+                "unit": "mg", 
+                "div": 300
+            },
+            {
+                "offset": 89,
+                "id": "605",
+                "name": "Fatty acids, total trans"
+                "displayName": "Total trans fatty acids",
+            },
+            {
+                "offset": 90,
+                "id": "606",
+                "name": "Fatty acids, total saturated"
+                "displayName": "Saturated Fat",
+                "unit": "g", 
+                "div": 20
+            },
+            {
+                "offset": 91,
+                "id": "607",
+                "name": "4:0"
+                "unit": "mg", 
+            },
+            {
+                "offset": 92,
+                "id": "608",
+                "name": "6:0"
+                "unit": "mg", 
+            },
+            {
+                "offset": 93,
+                "id": "609",
+                "name": "8:0"
+                "unit": "mg", 
+            },
+            {
+                "offset": 94,
+                "id": "610",
+                "name": "10:0"
+                "unit": "mg", 
+            },
+            {
+                "offset": 95,
+                "id": "611",
+                "name": "12:0"
+                "unit": "mg", 
+            },
+            {
+                "offset": 96,
+                "id": "612",
+                "name": "14:0"
+                "unit": "mg", 
+            },
+            {
+                "offset": 97,
+                "id": "613",
+                "name": "16:0"
+                "unit": "mg", 
+            },
+            {
+                "offset": 98,
+                "id": "614",
+                "name": "18:0"
+                "unit": "mg", 
+            },
+            {
+                "offset": 99,
+                "id": "615",
+                "name": "20:0"
+            },
+            {
+                "offset": 100,
+                "id": "617",
+                "name": "18:1 undifferentiated"
+                "unit": "mg" 
+            },
+            {
+                "offset": 101,
+                "id": "618",
+                "name": "18:2 undifferentiated"
+                "unit": "mg" 
+            },
+            {
+                "offset": 102,
+                "id": "619",
+                "name": "18:3 undifferentiated"
+                "unit": "mg" 
+            },
+            {
+                "offset": 103,
+                "id": "620",
+                "name": "20:4 undifferentiated"
+                "unit": "mg" 
+            },
+            {
+                "offset": 104,
+                "id": "621",
+                "name": "22:6 n-3 (DHA)"
+                "unit": "mg" 
+            },
+            {
+                "offset": 105,
+                "id": "624",
+                "name": "22:0"
+            },
+            {
+                "offset": 106,
+                "id": "625",
+                "name": "14:1"
+            },
+            {
+                "offset": 107,
+                "id": "626",
+                "name": "16:1 undifferentiated"
+                "unit": "mg" 
+            },
+            {
+                "offset": 108,
+                "id": "627",
+                "name": "18:4"
+                "unit": "mg" 
+            },
+            {
+                "offset": 109,
+                "id": "628",
+                "name": "20:1"
+                "unit": "mg" 
+            },
+            {
+                "offset": 110,
+                "id": "629",
+                "name": "20:5 n-3 (EPA)"
+                "unit": "mg" 
+            },
+            {
+                "offset": 111,
+                "id": "630",
+                "name": "22:1 undifferentiated"
+                "unit": "mg" 
+            },
+            {
+                "offset": 112,
+                "id": "631",
+                "name": "22:5 n-3 (DPA)"
+                "unit": "mg" 
+            },
+            {
+                "offset": 113,
+                "id": "636",
+                "name": "Phytosterols"
+            },
+            {
+                "offset": 114,
+                "id": "638",
+                "name": "Stigmasterol"
+            },
+            {
+                "offset": 115,
+                "id": "639",
+                "name": "Campesterol"
+            },
+            {
+                "offset": 116,
+                "id": "641",
+                "name": "Beta-sitosterol"
+            },
+            {
+                "offset": 117,
+                "id": "645",
+                "name": "Fatty acids, total monounsaturated"
+                "displayName": "Monounsaturated Fat",
+                "unit": "g", 
+            },
+            {
+                "offset": 118,
+                "id": "646",
+                "name": "Fatty acids, total polyunsaturated"
+                "displayName": "Monounsaturated Fat",
+                "unit": "g", 
+            },
+            {
+                "offset": 119,
+                "id": "652",
+                "name": "15:0"
+            },
+            {
+                "offset": 120,
+                "id": "653",
+                "name": "17:0"
+            },
+            {
+                "offset": 121,
+                "id": "654",
+                "name": "24:0"
+            },
+            {
+                "offset": 122,
+                "id": "662",
+                "name": "16:1 t"
+            },
+            {
+                "offset": 123,
+                "id": "663",
+                "name": "18:1 t"
+            },
+            {
+                "offset": 124,
+                "id": "664",
+                "name": "22:1 t"
+            },
+            {
+                "offset": 125,
+                "id": "665",
+                "name": "18:2 t not further defined"
+            },
+            {
+                "offset": 126,
+                "id": "666",
+                "name": "18:2 i"
+            },
+            {
+                "offset": 127,
+                "id": "669",
+                "name": "18:2 t,t"
+            },
+            {
+                "offset": 128,
+                "id": "670",
+                "name": "18:2 CLAs"
+            },
+            {
+                "offset": 129,
+                "id": "671",
+                "name": "24:1 c"
+            },
+            {
+                "offset": 130,
+                "id": "672",
+                "name": "20:2 n-6 c,c"
+            },
+            {
+                "offset": 131,
+                "id": "673",
+                "name": "16:1 c"
+            },
+            {
+                "offset": 132,
+                "id": "674",
+                "name": "18:1 c"
+            },
+            {
+                "offset": 133,
+                "id": "675",
+                "name": "18:2 n-6 c,c"
+            },
+            {
+                "offset": 134,
+                "id": "676",
+                "name": "22:1 c"
+            },
+            {
+                "offset": 135,
+                "id": "685",
+                "name": "18:3 n-6 c,c,c"
+            },
+            {
+                "offset": 136,
+                "id": "687",
+                "name": "17:1"
+            },
+            {
+                "offset": 137,
+                "id": "689",
+                "name": "20:3 undifferentiated"
+            },
+            {
+                "offset": 138,
+                "id": "693",
+                "name": "Fatty acids, total trans-monoenoic"
+                "displayName": "Total trans-monoenoic fatty acids",
+            },
+            {
+                "offset": 139,
+                "id": "695",
+                "name": "Fatty acids, total trans-polyenoic"
+                "displayName": "Total trans-polyenoic fatty acids",
+            },
+            {
+                "offset": 140,
+                "id": "696",
+                "name": "13:0"
+            },
+            {
+                "offset": 141,
+                "id": "697",
+                "name": "15:1"
+            },
+            {
+                "offset": 142,
+                "id": "710",
+                "name": "Daidzein"
+            },
+            {
+                "offset": 143,
+                "id": "711",
+                "name": "Genistein"
+            },
+            {
+                "offset": 144,
+                "id": "712",
+                "name": "Glycitein"
+            },
+            {
+                "offset": 145,
+                "id": "713",
+                "name": "Total isoflavones"
+            },
+            {
+                "offset": 146,
+                "id": "714",
+                "name": "Biochanin A"
+                "unit": "µg", 
+                "div": 300
+            },
+            {
+                "offset": 147,
+                "id": "715",
+                "name": "Formononetin"
+            },
+            {
+                "offset": 148,
+                "id": "716",
+                "name": "Coumestrol"
+            },
+            {
+                "offset": 149,
+                "id": "731",
+                "name": "Cyanidin"
+            },
+            {
+                "offset": 150,
+                "id": "733",
+                "name": "Proanthocyanidin monomers"
+            },
+            {
+                "offset": 151,
+                "id": "734",
+                "name": "Proanthocyanidin dimers"
+            },
+            {
+                "offset": 152,
+                "id": "735",
+                "name": "Proanthocyanidin trimers"
+            },
+            {
+                "offset": 153,
+                "id": "736",
+                "name": "Proanthocyanidin 4-6mers"
+            },
+            {
+                "offset": 154,
+                "id": "737",
+                "name": "Proanthocyanidin 7-10mers"
+            },
+            {
+                "offset": 155,
+                "id": "738",
+                "name": "Proanthocyanidin polymers (>10mers)"
+            },
+            {
+                "offset": 156,
+                "id": "740",
+                "name": "Petunidin"
+            },
+            {
+                "offset": 157,
+                "id": "741",
+                "name": "Delphinidin"
+            },
+            {
+                "offset": 158,
+                "id": "742",
+                "name": "Malvidin"
+            },
+            {
+                "offset": 159,
+                "id": "743",
+                "name": "Pelargonidin"
+            },
+            {
+                "offset": 160,
+                "id": "745",
+                "name": "Peonidin"
+            },
+            {
+                "offset": 161,
+                "id": "749",
+                "name": "(+)-Catechin"
+            },
+            {
+                "offset": 162,
+                "id": "750",
+                "name": "(-)-Epigallocatechin"
+            },
+            {
+                "offset": 163,
+                "id": "751",
+                "name": "(-)-Epicatechin"
+            },
+            {
+                "offset": 164,
+                "id": "752",
+                "name": "(-)-Epicatechin 3-gallate"
+            },
+            {
+                "offset": 165,
+                "id": "753",
+                "name": "(-)-Epigallocatechin 3-gallate"
+            },
+            {
+                "offset": 166,
+                "id": "755",
+                "name": "Theaflavin"
+            },
+            {
+                "offset": 167,
+                "id": "756",
+                "name": "Thearubigins"
+            },
+            {
+                "offset": 168,
+                "id": "758",
+                "name": "Eriodictyol"
+            },
+            {
+                "offset": 169,
+                "id": "759",
+                "name": "Hesperetin"
+            },
+            {
+                "offset": 170,
+                "id": "762",
+                "name": "Naringenin"
+            },
+            {
+                "offset": 171,
+                "id": "770",
+                "name": "Apigenin"
+            },
+            {
+                "offset": 172,
+                "id": "773",
+                "name": "Luteolin"
+            },
+            {
+                "offset": 173,
+                "id": "785",
+                "name": "Isorhamnetin"
+            },
+            {
+                "offset": 174,
+                "id": "786",
+                "name": "Kaempferol"
+            },
+            {
+                "offset": 175,
+                "id": "788",
+                "name": "Myricetin"
+            },
+            {
+                "offset": 176,
+                "id": "789",
+                "name": "Quercetin"
+            },
+            {
+                "offset": 177,
+                "id": "791",
+                "name": "Theaflavin-3,3'-digallate"
+            },
+            {
+                "offset": 178,
+                "id": "792",
+                "name": "Theaflavin-3'-gallate"
+            },
+            {
+                "offset": 179,
+                "id": "793",
+                "name": "Theaflavin-3-gallate"
+            },
+            {
+                "offset": 180,
+                "id": "794",
+                "name": "(+)-Gallocatechin"
+            },
+            {
+                "offset": 181,
+                "id": "796",
+                "name": "(+)-Gallocatechin 3-gallate"
+            },
+            {
+                "offset": 182,
+                "id": "851",
+                "name": "18:3 n-3 c,c,c (ALA)"
+            },
+            {
+                "offset": 183,
+                "id": "852",
+                "name": "20:3 n-3"
+            },
+            {
+                "offset": 184,
+                "id": "853",
+                "name": "20:3 n-6"
+            },
+            {
+                "offset": 185,
+                "id": "855",
+                "name": "20:4 n-6"
+            },
+            {
+                "offset": 186,
+                "id": "856",
+                "name": "18:3i"
+            },
+            {
+                "offset": 187,
+                "id": "857",
+                "name": "21:5"
+            },
+            {
+                "offset": 188,
+                "id": "858",
+                "name": "22:4"
+            },
+            {
+                "offset": 189,
+                "id": "859",
+                "name": "18:1-11 t (18:1t n-7)"
+            }
+        ]
+    }
+}

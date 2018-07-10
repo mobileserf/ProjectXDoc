@@ -1,164 +1,211 @@
-Calories
-  From Carbohydrate
-  From Fat
-  From Protein
-  From Alcohol
+208. Calories
+  205.  From Carbohydrate
+  .  From Fat
+  .  From Protein
+  .  From Alcohol
 
 
-Carbohydrates
-  Dietary Fiber
-  Starch
-  Sugars
-    Sucrose
-    Glucose
-    Fructose
-    Lactose
-    Maltose
-    Galactose
+=======================================
+Detailed Session Name: Carbohydrates
+
+205. Carbohydrates
+  291. Dietary Fiber
+  209. Starch
+  269. Sugars
+     210. Sucrose
+     211. Glucose
+     212. Fructose
+     213. Lactose
+     214. Maltose
+     287. Galactose
 
 
+=======================================
+Detailed Session Name: Fats & Fatty Acids
 
 Total Fat
-  Saturated Fat
-     4:00
-     6:00
-     8:00
-     10:00
-     12:00
-     13:00
-     14:00
-     15:00
-     16:00
-     17:00
-     18:00
-     19:00
-     20:00
-     22:00
-     24:00:00
-  Monounsaturated Fat
-     14:01
-     15:01
-     16:1 undifferentiated
-     16:1 c
-     16:1 t
-     17:01
-     18:1 undifferentiated
-     18:1 c
-     18:1 t
-     20:01
-     22:1 undifferentiated
-     22:1 c
-     22:1 t
-     24:1 c
-  Polyunsaturated Fat
-     16:2 undifferentiated
-     18:2 undifferentiated
-     18:2 n-6 c,c
-     18:2 c,t
-     18:2 t,c
-     18:2 t,t
-     18:2 i
-     18:2 t not further defined
-     18:03
-     18:3 n-3, c,c,c
-     18:3 n-6, c,c,c
-     18:4 undifferentiated
-     20:2 n-6 c,c
-     20:3 undifferentiated
-     20:3 n-3
-     20:3 n-6
-     20:4 undifferentiated
-     20:4 n-3
-     20:4 n-6
-     20:5 n-3
-     22:02
-     22:5 n-3
-     22:6 n-3
-  Total trans fatty acids
-  Total trans-monoenoic fatty acids
-  Total trans-polyenoic fatty acids
-  Total Omega-3 fatty acids
-  Total Omega-6 fatty acids
+    606. Saturated Fat
+         607. 4:00
+         608. 6:00
+         609. 8:00
+         610. 10:00
+         611. 12:00
+         612. 14:00
+         613. 16:00
+         614. 18:00
+         615. 20:00
+
+         624. 22:00
+         654. 24:00:00
+         696. 13:00
+         652. 15:00
+         653. 17:00
+
+         19:00
+    645. Monounsaturated Fat
+         14:01
+         15:01
+
+         626. 16:1 undifferentiated
+         673. 16:1 c
+         662. 16:1 t
+
+         17:01
+
+         617. 18:1 undifferentiated
+         674. 18:1 c
+         663. 18:1 t
+
+         20:01
+
+         630. 22:1 undifferentiated
+         676. 22:1 c
+         664. 22:1 t
+         671. 24:1 c
+
+    646. Polyunsaturated Fat
+         16:2 undifferentiated
+
+         618. 18:2 undifferentiated
+         675. 18:2 n-6 c,c
+         669. 18:2 t,t
+         666. 18:2 i
+         665. 18:2 t not further defined
+
+         18:2 c,t
+         18:2 t,c
+         18:03
+
+         651. 18:3 n-3, c,c,c
+         685. 18:3 n-6, c,c,c
+         627. 18:4 undifferentiated
+         672. 20:2 n-6 c,c
+         689. 20:3 undifferentiated
+         652. 20:3 n-3
+         653. 20:3 n-6
+         620. 20:4 undifferentiated
+
+         20:4 n-3
+
+         855. 20:4 n-6
+         629. 20:5 n-3
+
+         22:02
+
+         631. 22:5 n-3
+         621. 22:6 n-3
+    605. Total trans fatty acids
+    693. Total trans-monoenoic fatty acids
+    695. Total trans-polyenoic fatty acids
+    Total Omega-3 fatty acids
+    Total Omega-6 fatty acids
 
 
-Protein
- Tryptophan
- Threonine
- Isoleucine
- Leucine
- Lysine
- Methionine
- Cystine
- Phenylalanine
- Tyrosine
- Valine
- Arginine
- Histidine
- Alanine
- Aspartic acid
- Glutamic acid
- Glycine
- Proline
- Serine
- Hydroxyproline
+
+=======================================
+Detailed Session Name: Protein & Amino Acids
+
+203. Protein      - grams(g)
+ 501. Tryptophan  -milligrams(mg)  
+ 502. Threonine
+ 503. Isoleucine
+ 504. Leucine
+ 505. Lysine
+ 506. Methionine
+ 507. Cystine
+ 508. Phenylalanine
+ 509. Tyrosine
+ 510. Valine
+ 511. Arginine
+ 512. Histidine
+ 513. Alanine
+ 514. Aspartic acid
+ 515. Glutamic acid
+ 516. Glycine
+ 517. Proline
+ 518. Serine
+ 519. Hydroxyproline
+
+How to calcultae protien 203 = 501 + ... + 519, No need to add all if 203 is present
+DIV calculation (2000 calories): 50g = 100 % 
+calorie calculation = protien * 4 (calorie for 50g = 200kj (i.e 50*4) )
+==========================================================
+
+
+=======================================
+Detailed Session Name: Vitamins
 
 Vitamins
- Vitamin A
-    Retinol
+ 318. Vitamin A
+    319. Retinol
     Retinol Activity Equivalent
-    Alpha Carotene
-    Beta Carotene
-    Beta Cryptoxanthin
-    Lycopene
-    Lutein+Zeaxanthin
- Vitamin C
- Vitamin D
- Vitamin E (Alpha Tocopherol)
-    Beta Tocopherol
-    Gamma Tocopherol
-    Delta Tocopherol
- Vitamin K
- Thiamin
- Riboflavin
- Niacin
- Vitamin B6
- Folate
-    Food Folate
-    Folic Acid
-    Dietary Folate Equivalents
- Vitamin B12
- Pantothenic Acid
- Choline
- Betaine
+    322. Alpha Carotene
+    321. Beta Carotene
+    334. Beta Cryptoxanthin
+    337. Lycopene
+    338. Lutein+Zeaxanthin
+ 401. Vitamin C
+ 324. Vitamin D
+ 323. Vitamin E (Alpha Tocopherol)
+    341. Beta Tocopherol
+    342. Gamma Tocopherol
+    343. Delta Tocopherol
+ 430. Vitamin K
+ 404. Thiamin
+ 405. Riboflavin
+ 406. Niacin
+ 415. Vitamin B6
+ 417. Folate
+    432. Food Folate
+    431. Folic Acid
+    435. Dietary Folate Equivalents
+ 418. Vitamin B12
+ 410. Pantothenic Acid
+ 421. Choline
+ 454. Betaine
+
+=======================================
+Detailed Session Name: Minerals
 
 Minerals
- Calcium
- Iron
- Magnesium
- Phosphorus
- Potassium
- Sodium
- Zinc
- Copper
- Manganese
- Selenium
- Fluoride
+ 301. Calcium
+ 303. Iron
+ 304. Magnesium
+ 305. Phosphorus
+ 306. Potassium
+ 307. Sodium
+ 309. Zinc
+ 312. Copper
+ 313. Fluoride
+ 315. Manganese
+ 317. Selenium
 
-Sterols
-  Cholesterol
-  Phytosterols
-  Campesterol
-  Stigmasterol
-  Beta-sitosterol
+=======================================
+Detailed Session Name: Sterols
+  601. Cholesterol
+  636. Phytosterols
+    638.Stigmasterol
+    639.Campesterol
+    641.Beta-sitosterol
+
+Colesterol calculation: 
+  DIV calculation (2000 calories): 300mg = 100 % 
+===========================================
 
 Other
- Alcohol
- Water
- Ash
- Caffeine
- Theobromine
+ 221.Alcohol
+ 255. Water
+ 207.Ash
+ 262.Caffeine
+ 263.Theobromine
 
 Taken from : http://nutritiondata.self.com/facts/breakfast-cereals/1631/1
+
+g = gram
+mg - milligram
+mcu = µg = micrograms
+IU - International Unit 
+
 
 Calculate DIV using following website
 ======================================
