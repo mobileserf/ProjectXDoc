@@ -11,19 +11,25 @@
                 "offset": 0,
                 "id": "203",
                 "name": "Protein",
+                "group": "Proximates",
                 "unit": "g", 
                 "div": 50
             },
             {
                 "offset": 1,
                 "id": "204",
-                "name": "Total lipid (fat)"
+                "name": "Total lipid (fat)",
+                "group": "Proximates",
+                "displayName": "Total Fat",
+                "unit": "g", 
+                "div": 65
             },
             {
                 "offset": 2,
                 "id": "205",
-                "name": "Carbohydrate, by difference"
-                "displayName": "Total Carbohydrate"
+                "name": "Carbohydrate, by difference",
+                "group": "Proximates",
+                "displayName": "Total Carbohydrate",
                 "unit": "g", 
                 "div": 300
             },
@@ -37,6 +43,10 @@
                 "offset": 4,
                 "id": "208",
                 "name": "Energy"
+                "group": "Proximates",
+                "displayName": "Calories",
+                "div": 2000,
+                "unit": "kcal", 
             },
             {
                 "offset": 5,
@@ -85,7 +95,8 @@
             {
                 "offset": 12,
                 "id": "255",
-                "name": "Water"
+                "name": "Water",
+                "group": "Proximates",
                 "unit": "g", 
             },
             {
@@ -113,8 +124,9 @@
             {
                 "offset": 17,
                 "id": "269",
-                "name": "Sugars, total"
-                "displayName": "Sugars"
+                "name": "Sugars, total",
+                "group": "Proximates",
+                "displayName": "Sugars",
                 "unit": "g", 
             },
             {
@@ -127,7 +139,8 @@
                 "offset": 19,
                 "id": "291",
                 "name": "Fiber, total dietary"
-                "displayName": "Dietary Fiber"
+                "group": "Proximates",
+                "displayName": "Dietary Fiber",
                 "unit": "g", 
                 "div": 25
                  
@@ -135,57 +148,73 @@
             {
                 "offset": 20,
                 "id": "301",
-                "name": "Calcium, Ca"
+                "name": "Calcium, Ca",
+                "group": "Minerals",
+                "displayName": "Calcium",
                 "unit": "mg", 
                 "div": 1000
             },
             {
                 "offset": 21,
                 "id": "303",
-                "name": "Iron, Fe"
+                "name": "Iron, Fe",
+                "group": "Minerals",
+                "displayName": "Iron",
                 "unit": "mg", 
                 "div": 18
             },
             {
                 "offset": 22,
                 "id": "304",
-                "name": "Magnesium"
+                "name": "Magnesium Mg",
+                "displayName": "Magnesium",
+                "group": "Minerals",
                 "unit": "mg", 
                 "div": 400
             },
             {
                 "offset": 23,
                 "id": "305",
-                "name": "Phosphorus, P"
+                "name": "Phosphorus, P",
+                "displayName": "Phosphorus",
+                "group": "Minerals",
                 "unit": "mg", 
                 "div": 1000
             },
             {
                 "offset": 24,
                 "id": "306",
-                "name": "Potassium, K"
+                "name": "Potassium, K",
+                "displayName": "Potassium",
+                "group": "Minerals",
                 "unit": "mg", 
                 "div": 3500
             },
             {
                 "offset": 25,
                 "id": "307",
-                "name": "Sodium, Na"
+                "name": "Sodium, Na",
+                "group": "Minerals",
+                "displayName": "Sodium",
                 "unit": "mg", 
                 "div": 2400
             },
             {
                 "offset": 26,
                 "id": "309",
-                "name": "Zinc, Zn"
+                "name": "Zinc, Zn",
+                "group": "Minerals",
+                "displayName": "Zinc",
                 "unit": "mg", 
                 "div": 15
             },
             {
                 "offset": 27,
                 "id": "312",
-                "name": "Copper, Cu"
+                "name": "Copper, Cu",
+                "group": "Minerals",
                 "unit": "mg", 
+                "displayName": "Copper",
                 "div": 2
             },
             {
@@ -203,7 +232,7 @@
                 "offset": 30,
                 "id": "317",
                 "name": "Selenium, Se"
-                "unit": "µg", 
+                "unit": "Âµg", 
                 "div": 70
             },
             {
@@ -217,7 +246,7 @@
                 "offset": 32,
                 "id": "319",
                 "name": "Retinol"
-                "unit": "µg", 
+                "unit": "Âµg", 
             },
             {
                 "offset": 33,
@@ -229,14 +258,14 @@
                 "id": "321",
                 "name": "Carotene, beta"
                 "displayName": "Beta Carotene"
-                "unit": "µg", 
+                "unit": "Âµg", 
             },
             {
                 "offset": 35,
                 "id": "322",
                 "name": "Carotene, alpha"
                 "displayName": "Alpha Carotene"
-                "unit": "µg", 
+                "unit": "Âµg", 
             },
             {
                 "offset": 36,
@@ -269,19 +298,19 @@
                 "id": "334",
                 "name": "Cryptoxanthin, beta"
                 "displayName": "Beta Cryptoxanthin"
-                "unit": "µg", 
+                "unit": "Âµg", 
             },
             {
                 "offset": 42,
                 "id": "337",
                 "name": "Lycopene"
-                "unit": "µg", 
+                "unit": "Âµg", 
             },
             {
                 "offset": 43,
                 "id": "338",
                 "name": "Lutein + zeaxanthin"
-                "unit": "µg", 
+                "unit": "Âµg", 
             },
             {
                 "offset": 44,
@@ -372,14 +401,14 @@
                 "id": "417",
                 "name": "Folate, total"
                 "displayName": "Folate"
-                "unit": "µg", 
+                "unit": "Âµg", 
                 "div": 400
             },
             {
                 "offset": 58,
                 "id": "418",
                 "name": "Vitamin B-12"
-                "unit": "µg", 
+                "unit": "Âµg", 
                 "div": 6
             },
             {
@@ -404,27 +433,27 @@
                 "id": "430",
                 "name": "Vitamin K (phylloquinone)"
                 "displayName": "Vitamin K"
-                "unit": "µg", 
+                "unit": "Âµg", 
                 "div": 2
             },
             {
                 "offset": 63,
                 "id": "431",
                 "name": "Folic acid"
-                "unit": "µg", 
+                "unit": "Âµg", 
             },
             {
                 "offset": 64,
                 "id": "432",
                 "name": "Folate, food"
-                "unit": "µg", 
+                "unit": "Âµg", 
             },
             {
                 "offset": 65,
                 "id": "435",
                 "name": "Folate, DFE"
                 "displayName": "Dietary Folate Equivalents",
-                "unit": "µg" 
+                "unit": "Âµg" 
             },
             {
                 "offset": 66,
@@ -548,7 +577,8 @@
                 "offset": 89,
                 "id": "605",
                 "name": "Fatty acids, total trans"
-                "displayName": "Total trans fatty acids",
+                "displayName": "Trans Fat",
+                "unit": "g", 
             },
             {
                 "offset": 90,
@@ -862,7 +892,7 @@
                 "offset": 146,
                 "id": "714",
                 "name": "Biochanin A"
-                "unit": "µg", 
+                "unit": "Âµg", 
                 "div": 300
             },
             {
