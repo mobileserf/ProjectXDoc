@@ -210,7 +210,12 @@ IU - International Unit
 Calculate DIV using following website
 ======================================
   check 5.6 session - https://www.fda.gov/food/guidanceregulation/guidancedocumentsregulatoryinformation/labelingnutrition/ucm063113.htm#stat_5
-
+  TODO  Biotin 	300 µg is missing in list_n_labeling
+  TODO  Iodine 	150 µg missing
+  TODO  Chromium 	120 µg
+  TODO  Molybdenum 	75 µg
+  TODO  Chloride 	3,400 mg
+   
 different age group
 ===================
   https://www.ecfr.gov/cgi-bin/retrieveECFR?gp=&SID=fad0681c6791c67bcb96f459f152ebaf&mc=true&n=pt21.2.101&r=PART&ty=HTML#se21.2.101_19
